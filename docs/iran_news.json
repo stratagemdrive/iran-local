@@ -1,7 +1,7 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-07T15:03:42Z",
-  "total_stories": 30,
+  "generated_at": "2026-04-08T05:35:38Z",
+  "total_stories": 32,
   "stories": [
     {
       "title": "Iran’s FM holds Talks with his counterparts from Egypt, Pakistan, and Austria",
@@ -9,6 +9,20 @@
       "url": "https://www.tehrantimes.com/news/525223/Iran-s-FM-holds-Talks-with-his-counterparts-from-Egypt-Pakistan",
       "published_date": "2026-04-05T20:41:04Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Pink Rocket Launched Towards Tel Aviv (Video)",
+      "source": "Iran Front Page",
+      "url": "https://ifpnews.com/pink-rocket-launched-towards-tel-aviv-video/",
+      "published_date": "2026-04-07T20:54:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Human Chain of Iranian People to Condemn Trump’s Attack on Civilian Infrastructure",
+      "source": "Iran Front Page",
+      "url": "https://ifpnews.com/human-chain-of-iranian-people-to-condemn-trumps-attack-on-civilian-infrastructure/",
+      "published_date": "2026-04-07T10:50:33Z",
+      "category": "Military"
     },
     {
       "title": "13 martyred in Zionist-American attack on Tehran suburb",
