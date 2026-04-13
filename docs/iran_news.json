@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-13T12:09:52Z",
-  "total_stories": 38,
+  "generated_at": "2026-04-13T23:36:29Z",
+  "total_stories": 41,
   "stories": [
+    {
+      "title": "Iran, Oman foreign ministers discuss regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127031/Iran-Oman-foreign-ministers-discuss-regional-developments",
+      "published_date": "2026-04-13T16:36:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Qatari foreign ministers discuss regional developments over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86126911/Iran-Qatari-foreign-ministers-discuss-regional-developments",
+      "published_date": "2026-04-13T15:04:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran ready for talks but only based on ‘principles and logic,’ Judiciary chief says",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86126854/Iran-ready-for-talks-but-only-based-on-principles-and-logic",
+      "published_date": "2026-04-13T13:04:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China blames US warmongering policies for insecurity in Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86126872/China-blames-US-warmongering-policies-for-insecurity-in-Strait",
+      "published_date": "2026-04-13T13:01:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Saudi FMs discuss US talks, regional developments",
       "source": "IRNA",
@@ -86,6 +114,13 @@
       "url": "https://en.irna.ir/news/86125904/Islamabad-Iran-s-silent-victory-at-the-Table-of-Failure",
       "published_date": "2026-04-12T13:23:00Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Armed Forces’ strategic reserves sufficiently supplied: Defense Ministry spox",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127039/Armed-Forces-strategic-reserves-sufficiently-supplied-Defense",
+      "published_date": "2026-04-13T16:22:13Z",
+      "category": "Military"
     },
     {
       "title": "Pezeshkian: Iran ready to develop all-out ties with Nepal",
@@ -172,18 +207,18 @@
       "category": "Military"
     },
     {
-      "title": "13 martyred in Zionist-American attack on Tehran suburb",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525230/13-martyred-in-Zionist-American-attack-on-Tehran-suburb",
-      "published_date": "2026-04-06T15:08:02Z",
-      "category": "Military"
+      "title": "Pezeshkian condemns Trump’s insults to Pope",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127007/Pezeshkian-condemns-Trump-s-insults-to-Pope",
+      "published_date": "2026-04-13T16:06:47Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran Reconfigures Trade Routes as Persian Gulf Disruptions Drive Up Costs",
-      "source": "Financial Tribune",
-      "url": "https://financialtribune.com/node/119680",
-      "published_date": "2026-04-06T13:27:33Z",
-      "category": "Economy"
+      "title": "National resilience shattered enemies' dream of Iran collapse: Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86126962/National-resilience-shattered-enemies-dream-of-Iran-collapse",
+      "published_date": "2026-04-13T15:37:48Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran first VP praises Spain’s stance on US-Israel aggression on Iran",
@@ -253,20 +288,6 @@
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119682",
       "published_date": "2026-04-12T12:20:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Academics Protest Over Attacks on Universities and Hospitals",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525229/Academics-Protest-Over-Attacks-on-Universities-and-Hospitals",
-      "published_date": "2026-04-06T15:26:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shirmohammadi to carry Iran’s flag at Sanya Beach Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525228/Shirmohammadi-to-carry-Iran-s-flag-at-Sanya-Beach-Games",
-      "published_date": "2026-04-06T13:31:17Z",
       "category": "Local Events"
     }
   ]
