@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-14T12:05:51Z",
-  "total_stories": 47,
+  "generated_at": "2026-04-14T23:36:38Z",
+  "total_stories": 50,
   "stories": [
+    {
+      "title": "Iran, Pakistan continue to exchange messages after Islamabad talks: Source",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127643/Iran-Pakistan-continue-to-exchange-messages-after-Islamabad",
+      "published_date": "2026-04-14T14:47:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "War reparations among key issues in Iran-US talks, govt. spokesperson says",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127598/War-reparations-among-key-issues-in-Iran-US-talks-govt-spokesperson",
+      "published_date": "2026-04-14T12:43:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran condemns desecration of Al-Aqsa Mosque",
       "source": "IRNA",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian negotiating team leaves Islamabad for Tehran",
+      "title": "Turkish activists form ‘human chain’ at Tabriz Thermal Power Plant",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126034/Iranian-negotiating-team-leaves-Islamabad-for-Tehran",
-      "published_date": "2026-04-12T15:52:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's resistance against aggressors hailed during Leader’s martyrdom memorial in Paris",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125973/Iran-s-resistance-against-aggressors-hailed-during-Leader-s-martyrdom",
-      "published_date": "2026-04-12T14:49:47Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86127683/Turkish-activists-form-human-chain-at-Tabriz-Thermal-Power",
+      "published_date": "2026-04-14T15:27:26Z",
+      "category": "Military"
     },
     {
       "title": "Iran warns of global consequences from US threats to Strait of Hormuz",
@@ -228,18 +235,32 @@
       "category": "Military"
     },
     {
-      "title": "Pink Rocket Launched Towards Tel Aviv (Video)",
-      "source": "Iran Front Page",
-      "url": "https://ifpnews.com/pink-rocket-launched-towards-tel-aviv-video/",
-      "published_date": "2026-04-07T20:54:30Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran Imports 1,200 Tons of Essential Goods Daily From Turkey",
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119683",
       "published_date": "2026-04-14T11:35:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pezeshkian thanks 6 countries for stances against Zionist crimes",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127709/Pezeshkian-thanks-6-countries-for-stances-against-Zionist-crimes",
+      "published_date": "2026-04-14T16:24:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Enemies target schools, universities to block Iran’s progress",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127636/Pezeshkian-Enemies-target-schools-universities-to-block-Iran-s",
+      "published_date": "2026-04-14T14:44:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Homeland for Iranians is ‘a legacy as ancient as a civilization’: Baqaei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127632/Homeland-for-Iranians-is-a-legacy-as-ancient-as-a-civilization",
+      "published_date": "2026-04-14T13:11:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran’s first VP reacts to Vance reporting to Netanyahu",
