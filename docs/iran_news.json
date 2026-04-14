@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-13T23:36:29Z",
-  "total_stories": 41,
+  "generated_at": "2026-04-14T12:05:51Z",
+  "total_stories": 47,
   "stories": [
+    {
+      "title": "Iran condemns desecration of Al-Aqsa Mosque",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127502/Iran-condemns-desecration-of-Al-Aqsa-Mosque",
+      "published_date": "2026-04-14T10:30:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Egypt foreign ministers review regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127416/Iran-Egypt-foreign-ministers-review-regional-developments",
+      "published_date": "2026-04-14T08:16:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lavrov: Russia ready to help resolve crisis around Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127360/Lavrov-Russia-ready-to-help-resolve-crisis-around-Iran",
+      "published_date": "2026-04-14T07:36:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran demands compensation from five regional countries over war damage",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127330/Iran-demands-compensation-from-five-regional-countries-over-war",
+      "published_date": "2026-04-14T06:42:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran UN Envoy: Maritime blockade ‘grave violation’ of Iran’s sovereignty",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127314/Iran-UN-Envoy-Maritime-blockade-grave-violation-of-Iran-s",
+      "published_date": "2026-04-14T06:30:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Oman foreign ministers discuss regional developments",
       "source": "IRNA",
@@ -109,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Islamabad: Iran’s silent victory at the Table of Failure",
+      "title": "Iran warns of global consequences from US threats to Strait of Hormuz",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125904/Islamabad-Iran-s-silent-victory-at-the-Table-of-Failure",
-      "published_date": "2026-04-12T13:23:00Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86127464/Iran-warns-of-global-consequences-from-US-threats-to-Strait-of",
+      "published_date": "2026-04-14T09:40:48Z",
+      "category": "Military"
     },
     {
       "title": "Armed Forces’ strategic reserves sufficiently supplied: Defense Ministry spox",
@@ -200,11 +235,18 @@
       "category": "Military"
     },
     {
-      "title": "Human Chain of Iranian People to Condemn Trump’s Attack on Civilian Infrastructure",
-      "source": "Iran Front Page",
-      "url": "https://ifpnews.com/human-chain-of-iranian-people-to-condemn-trumps-attack-on-civilian-infrastructure/",
-      "published_date": "2026-04-07T10:50:33Z",
-      "category": "Military"
+      "title": "Iran Imports 1,200 Tons of Essential Goods Daily From Turkey",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119683",
+      "published_date": "2026-04-14T11:35:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s first VP reacts to Vance reporting to Netanyahu",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86127571/Iran-s-first-VP-reacts-to-Vance-reporting-to-Netanyahu",
+      "published_date": "2026-04-14T11:49:43Z",
+      "category": "Local Events"
     },
     {
       "title": "Pezeshkian condemns Trump’s insults to Pope",
