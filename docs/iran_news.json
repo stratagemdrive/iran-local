@@ -1,8 +1,50 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-15T12:05:18Z",
-  "total_stories": 58,
+  "generated_at": "2026-04-15T23:35:38Z",
+  "total_stories": 61,
   "stories": [
+    {
+      "title": "US military presence in region is main cause of insecurity: Baqaei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128632/US-military-presence-in-region-is-main-cause-of-insecurity-Baqaei",
+      "published_date": "2026-04-15T16:50:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran will never accept US dictates during negotiations: Spokesperson",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128563/Iran-will-never-accept-US-dictates-during-negotiations-Spokesperson",
+      "published_date": "2026-04-15T15:43:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan's army chief, heading high-level delegation, arrives in Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128606/Pakistan-s-army-chief-heading-high-level-delegation-arrives",
+      "published_date": "2026-04-15T15:38:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, China foreign ministers review regional developments over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128597/Iran-China-foreign-ministers-review-regional-developments-over",
+      "published_date": "2026-04-15T15:13:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Japan FMs discuss bilateral ties, regional issues",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128551/Iran-Japan-FMs-discuss-bilateral-ties-regional-issues",
+      "published_date": "2026-04-15T14:01:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says will host Pakistani delegation amid continued exchanges with US",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128518/Iran-says-will-host-Pakistani-delegation-amid-continued-exchanges",
+      "published_date": "2026-04-15T13:37:13Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran UN envoy criticizes US counterpart’s statement for misrepresenting official UN document",
       "source": "IRNA",
@@ -102,46 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "China blames US warmongering policies for insecurity in Strait of Hormuz",
+      "title": "Attacks on heritage sites a crime against future: Iranian artist",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126872/China-blames-US-warmongering-policies-for-insecurity-in-Strait",
-      "published_date": "2026-04-13T13:01:49Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86128647/Attacks-on-heritage-sites-a-crime-against-future-Iranian-artist",
+      "published_date": "2026-04-15T16:46:31Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Saudi FMs discuss US talks, regional developments",
+      "title": "IRGC warns US against creating maritime insecurity in region",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126723/Iran-Saudi-FMs-discuss-US-talks-regional-developments",
-      "published_date": "2026-04-13T11:07:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump’s admission to arming rioters a proof of violating sovereignty of independent nations: Iran’s Rights Council",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126573/Trump-s-admission-to-arming-rioters-a-proof-of-violating-sovereignty",
-      "published_date": "2026-04-13T09:43:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Envoy: Islamabad Talks is ‘not an event but a process’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126585/Envoy-Islamabad-Talks-is-not-an-event-but-a-process",
-      "published_date": "2026-04-13T09:40:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Islamabad negotiations end in deadlock due to Washington’s excessive demands",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125757/Islamabad-negotiations-end-in-deadlock-due-to-Washington-s-excessive",
-      "published_date": "2026-04-13T08:23:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Continued street presence of Iranians strengthens authority of diplomacy: Top parliamentarian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126410/Continued-street-presence-of-Iranians-strengthens-authority-of",
-      "published_date": "2026-04-13T07:21:02Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86128457/IRGC-warns-US-against-creating-maritime-insecurity-in-region",
+      "published_date": "2026-04-15T12:44:47Z",
+      "category": "Military"
     },
     {
       "title": "Iran embassy rebukes European Council chief over hostile stance",
@@ -256,6 +270,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran will not compromise on enrichment rights, FM spox says",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128613/Iran-will-not-compromise-on-enrichment-rights-FM-spox-says",
+      "published_date": "2026-04-15T16:16:13Z",
+      "category": "Energy"
+    },
+    {
       "title": "Iran president praises resilience of energy sector amid war",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86128452/Iran-president-praises-resilience-of-energy-sector-amid-war",
@@ -268,6 +289,27 @@
       "url": "https://financialtribune.com/node/119683",
       "published_date": "2026-04-14T11:35:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Pezeshkian hails IRCS rescue and relief efforts during wartime",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128638/Pezeshkian-hails-IRCS-rescue-and-relief-efforts-during-wartime",
+      "published_date": "2026-04-15T16:51:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Esteghlal F.C. training session",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86128556/In-photos-Esteghlal-F-C-training-session",
+      "published_date": "2026-04-15T15:44:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parliament Speaker Qalibaf, UAE vice president discuss regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128566/Parliament-Speaker-Qalibaf-UAE-vice-president-discuss-regional",
+      "published_date": "2026-04-15T15:09:52Z",
+      "category": "Local Events"
     },
     {
       "title": "Over 72K Gazans martyred in Israeli attacks since October 2023",
@@ -386,27 +428,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86126398/Iran-parliament-speaker-warns-US-citizens-about-rising-gas-prices",
       "published_date": "2026-04-13T07:02:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aref hails Iran’s title in Asian Freestyle Wrestling Championship",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126036/Aref-hails-Iran-s-title-in-Asian-Freestyle-Wrestling-Championship",
-      "published_date": "2026-04-12T16:04:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian armed forces fully prepared amid diplomatic efforts: Government spox",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126002/Iranian-armed-forces-fully-prepared-amid-diplomatic-efforts",
-      "published_date": "2026-04-12T15:58:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian, Putin discuss regional security over phone",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125941/Pezeshkian-Putin-discuss-regional-security-over-phone",
-      "published_date": "2026-04-12T14:45:58Z",
       "category": "Local Events"
     }
   ]
