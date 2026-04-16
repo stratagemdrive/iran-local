@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-15T23:35:38Z",
-  "total_stories": 61,
+  "generated_at": "2026-04-16T12:06:35Z",
+  "total_stories": 63,
   "stories": [
+    {
+      "title": "Cyrus Cylinder a model for reviving global human rights values: Envoy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128952/Cyrus-Cylinder-a-model-for-reviving-global-human-rights-values",
+      "published_date": "2026-04-16T07:31:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US must commit to any peace agreement in Lebanon: Ghalibaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128869/US-must-commit-to-any-peace-agreement-in-Lebanon-Ghalibaf",
+      "published_date": "2026-04-16T06:39:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s commitment to promoting peace, stability in region remains strong: FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86128856/Iran-s-commitment-to-promoting-peace-stability-in-region-remains",
+      "published_date": "2026-04-16T05:22:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "US military presence in region is main cause of insecurity: Baqaei",
       "source": "IRNA",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Oman foreign ministers discuss regional developments",
+      "title": "Iran’s drone production surged tenfold since June war: Army official",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127031/Iran-Oman-foreign-ministers-discuss-regional-developments",
-      "published_date": "2026-04-13T16:36:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Qatari foreign ministers discuss regional developments over phone",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126911/Iran-Qatari-foreign-ministers-discuss-regional-developments",
-      "published_date": "2026-04-13T15:04:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran ready for talks but only based on ‘principles and logic,’ Judiciary chief says",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126854/Iran-ready-for-talks-but-only-based-on-principles-and-logic",
-      "published_date": "2026-04-13T13:04:59Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86129116/Iran-s-drone-production-surged-tenfold-since-June-war-Army-official",
+      "published_date": "2026-04-16T10:35:44Z",
+      "category": "Military"
     },
     {
       "title": "Attacks on heritage sites a crime against future: Iranian artist",
@@ -284,11 +291,32 @@
       "category": "Energy"
     },
     {
+      "title": "Pezeshkian lauds Iran’s economic management during US-Israeli aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129162/Pezeshkian-lauds-Iran-s-economic-management-during-US-Israeli",
+      "published_date": "2026-04-16T11:42:14Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran Imports 1,200 Tons of Essential Goods Daily From Turkey",
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119683",
       "published_date": "2026-04-14T11:35:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "President Pezeshkian felicitates Senegal on National Day",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129077/President-Pezeshkian-felicitates-Senegal-on-National-Day",
+      "published_date": "2026-04-16T09:48:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRGC dismantles several US-Israeli-linked terrorist teams in southeast Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129015/IRGC-dismantles-several-US-Israeli-linked-terrorist-teams-in",
+      "published_date": "2026-04-16T08:46:27Z",
+      "category": "Local Events"
     },
     {
       "title": "Pezeshkian hails IRCS rescue and relief efforts during wartime",
@@ -414,20 +442,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86126720/Pezeshkian-congratulates-Congolese-president-on-re-election",
       "published_date": "2026-04-13T10:41:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian Shia leader: Assassinated Iranian leader’s path will endure despite attempts to weaken country",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126420/Nigerian-Shia-leader-Assassinated-Iranian-leader-s-path-will",
-      "published_date": "2026-04-13T07:15:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran parliament speaker warns US citizens about rising gas prices",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126398/Iran-parliament-speaker-warns-US-citizens-about-rising-gas-prices",
-      "published_date": "2026-04-13T07:02:47Z",
       "category": "Local Events"
     }
   ]
