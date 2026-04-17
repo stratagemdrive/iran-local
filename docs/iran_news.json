@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-17T12:00:02Z",
+  "generated_at": "2026-04-17T23:32:16Z",
   "total_stories": 65,
   "stories": [
+    {
+      "title": "Iran announces reopening of Strait of Hormuz for ‘all commercial vessels’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129876/Iran-announces-reopening-of-Strait-of-Hormuz-for-all-commercial",
+      "published_date": "2026-04-17T14:00:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US blockade of Strait of Hormuz clear violation of UN Charter: American analyst",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129805/US-blockade-of-Strait-of-Hormuz-clear-violation-of-UN-Charter",
+      "published_date": "2026-04-17T12:09:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sustainable security in Strait of Hormuz needs cessation of aggression, recognition of Iran’s rights, Iravani says",
       "source": "IRNA",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "War reparations among key issues in Iran-US talks, govt. spokesperson says",
+      "title": "Enemies have no choice but to bow before Iran Armed Forces, people: Top cmdr.",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127598/War-reparations-among-key-issues-in-Iran-US-talks-govt-spokesperson",
-      "published_date": "2026-04-14T12:43:32Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86129922/Enemies-have-no-choice-but-to-bow-before-Iran-Armed-Forces-people",
+      "published_date": "2026-04-17T15:30:35Z",
+      "category": "Military"
     },
     {
-      "title": "Iran condemns desecration of Al-Aqsa Mosque",
+      "title": "Iran seeking regional peace: President Pezeshkian",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127502/Iran-condemns-desecration-of-Al-Aqsa-Mosque",
-      "published_date": "2026-04-14T10:30:56Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86129902/Iran-seeking-regional-peace-President-Pezeshkian",
+      "published_date": "2026-04-17T15:08:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pope Leo XIV’s Positions on the U.S.–Israeli War Against Iran and the Restoration of the Church’s Moral Authority",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129869/Pope-Leo-XIV-s-Positions-on-the-U-S-Israeli-War-Against-Iran",
+      "published_date": "2026-04-17T13:52:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Our fingers on trigger to confront enemies: Iran Army chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129839/Our-fingers-on-trigger-to-confront-enemies-Iran-Army-chief",
+      "published_date": "2026-04-17T13:26:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Strikes Push Iran Steel Industry Toward Supply Shock and Policy Test",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119684",
+      "published_date": "2026-04-17T11:53:11Z",
+      "category": "Military"
     },
     {
       "title": "Army, IRGC have ‘finger on trigger’ for ‘powerful’ response to any aggression: IRGC",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran London embassy mocks UK stance on Strait of Hormuz amid Trump threats",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126343/Iran-London-embassy-mocks-UK-stance-on-Strait-of-Hormuz-amid",
-      "published_date": "2026-04-13T06:21:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Approach of military vessels toward Strait of Hormuz breach of ceasefire, IRGC warns",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126273/Approach-of-military-vessels-toward-Strait-of-Hormuz-breach-of",
-      "published_date": "2026-04-13T05:18:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Geography as strategy: How geography became Iran’s most enduring weapon",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125886/Geography-as-strategy-How-geography-became-Iran-s-most-enduring",
-      "published_date": "2026-04-12T13:09:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli journalist: Iran emerged stronger than before war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125734/Israeli-journalist-Iran-emerged-stronger-than-before-war",
-      "published_date": "2026-04-12T12:51:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran will defend its rights from authority in Hormuz to compensation for US-Israeli war: Aref",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86125834/Iran-will-defend-its-rights-from-authority-in-Hormuz-to-compensation",
-      "published_date": "2026-04-12T12:46:39Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran will not compromise on enrichment rights, FM spox says",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86128613/Iran-will-not-compromise-on-enrichment-rights-FM-spox-says",
@@ -317,6 +317,20 @@
       "url": "https://financialtribune.com/node/119683",
       "published_date": "2026-04-14T11:35:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iranian videos go viral across the world, win war of narratives",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86129883/Iranian-videos-go-viral-across-the-world-win-war-of-narratives",
+      "published_date": "2026-04-17T14:22:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tabriz gathering backs homeland defenders, pledges allegiance to new Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86129747/Tabriz-gathering-backs-homeland-defenders-pledges-allegiance",
+      "published_date": "2026-04-17T12:11:25Z",
+      "category": "Local Events"
     },
     {
       "title": "“Referendum”: Martyr Khamenei’s Lesser-Known Democratic Solution for the Question of Palestine",
@@ -442,20 +456,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86128209/In-photos-Musical-pieces-performed-in-memory-of-martyred-leader",
       "published_date": "2026-04-15T08:39:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Beautiful tulip garden in Iran’s Arak",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86128093/In-photos-Beautiful-tulip-garden-in-Iran-s-Arak",
-      "published_date": "2026-04-15T07:26:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICRC sends first consignment of relief items to Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127966/ICRC-sends-first-consignment-of-relief-items-to-Iran",
-      "published_date": "2026-04-15T06:47:48Z",
       "category": "Local Events"
     }
   ]
