@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-17T23:32:16Z",
+  "generated_at": "2026-04-18T11:43:32Z",
   "total_stories": 65,
   "stories": [
+    {
+      "title": "Envoy: Pakistan initiatives pave way for establishing permanent peace",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130413/Envoy-Pakistan-initiatives-pave-way-for-establishing-permanent",
+      "published_date": "2026-04-18T09:28:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf warns Trump’s lies will lead him nowhere",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130158/Ghalibaf-warns-Trump-s-lies-will-lead-him-nowhere",
+      "published_date": "2026-04-18T06:24:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Turkey to expand agricultural and border cooperation: Minister",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130145/Iran-Turkey-to-expand-agricultural-and-border-cooperation-Minister",
+      "published_date": "2026-04-18T06:01:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Islamabad to facilitate meaningful Tehran-Washington dialogue: Pakistan’s Parliament speaker",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130134/Islamabad-to-facilitate-meaningful-Tehran-Washington-dialogue",
+      "published_date": "2026-04-18T05:49:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran announces reopening of Strait of Hormuz for ‘all commercial vessels’",
       "source": "IRNA",
@@ -116,32 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "File photos: A look at Kamal Kharrazi’s career in Islamic Republic",
+      "title": "Iran, Russia protest to UNESCO following damage to Tehran’s cultural heritage",
       "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86128076/File-photos-A-look-at-Kamal-Kharrazi-s-career-in-Islamic-Republic",
-      "published_date": "2026-04-15T07:00:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86130507/Iran-Russia-protest-to-UNESCO-following-damage-to-Tehran-s-cultural",
+      "published_date": "2026-04-18T10:33:56Z",
+      "category": "Military"
     },
     {
-      "title": "Iran rejects UAE claims on Strait of Hormuz status at IMO meeting",
+      "title": "Iran says control of Strait of Hormuz restored under strict military oversight",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127992/Iran-rejects-UAE-claims-on-Strait-of-Hormuz-status-at-IMO-meeting",
-      "published_date": "2026-04-15T06:24:09Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86130516/Iran-says-control-of-Strait-of-Hormuz-restored-under-strict-military",
+      "published_date": "2026-04-18T10:07:02Z",
+      "category": "Military"
     },
     {
-      "title": "Weaponry used in US-Israeli war were part of arsenals of certain Persian Gulf states: Iran UN envoy",
+      "title": "Iranian officials mark Army Day, highlighting Armed Forces’ role in national security",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127956/Weaponry-used-in-US-Israeli-war-were-part-of-arsenals-of-certain",
-      "published_date": "2026-04-15T06:14:49Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86130437/Iranian-officials-mark-Army-Day-highlighting-Armed-Forces-role",
+      "published_date": "2026-04-18T09:51:07Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Pakistan continue to exchange messages after Islamabad talks: Source",
+      "title": "Heads of Iran’s religious, scientific bodies laud Pope’s stance on US-Israeli war",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86127643/Iran-Pakistan-continue-to-exchange-messages-after-Islamabad",
-      "published_date": "2026-04-14T14:47:33Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86130269/Heads-of-Iran-s-religious-scientific-bodies-laud-Pope-s-stance",
+      "published_date": "2026-04-18T09:02:25Z",
+      "category": "Military"
     },
     {
       "title": "Enemies have no choice but to bow before Iran Armed Forces, people: Top cmdr.",
@@ -256,34 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Pezeshkian: Iran ready to develop all-out ties with Nepal",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126687/Pezeshkian-Iran-ready-to-develop-all-out-ties-with-Nepal",
-      "published_date": "2026-04-13T11:00:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran reports massive environmental damage from US-Israeli war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126582/Iran-reports-massive-environmental-damage-from-US-Israeli-war",
-      "published_date": "2026-04-13T08:53:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Security in Persian Gulf, Sea of Oman must be for all or none: IRGC",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126568/Security-in-Persian-Gulf-Sea-of-Oman-must-be-for-all-or-none",
-      "published_date": "2026-04-13T08:50:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Quds Force chief: US, Zionist regime will leave region empty-handed",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86126424/Quds-Force-chief-US-Zionist-regime-will-leave-region-empty-handed",
-      "published_date": "2026-04-13T07:39:27Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran will not compromise on enrichment rights, FM spox says",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86128613/Iran-will-not-compromise-on-enrichment-rights-FM-spox-says",
@@ -317,6 +317,34 @@
       "url": "https://financialtribune.com/node/119683",
       "published_date": "2026-04-14T11:35:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iranian “Janfada” Girls Show Willingness to Defend the Country",
+      "source": "Iran Front Page",
+      "url": "https://ifpnews.com/iranian-janfada-girls-show-willingness-to-defend-the-country/",
+      "published_date": "2026-04-18T10:14:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Judiciary chief says aggressors must pay war reparations",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130415/Iran-s-Judiciary-chief-says-aggressors-must-pay-war-reparations",
+      "published_date": "2026-04-18T09:32:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Global leaders welcome Iran’s opening of Strait of Hormuz after Lebanon truce",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130327/Global-leaders-welcome-Iran-s-opening-of-Strait-of-Hormuz-after",
+      "published_date": "2026-04-18T08:14:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transfer of Iran’s enriched material to US never considered: Foreign Ministry",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86130218/Transfer-of-Iran-s-enriched-material-to-US-never-considered",
+      "published_date": "2026-04-18T07:35:07Z",
+      "category": "Local Events"
     },
     {
       "title": "Iranian videos go viral across the world, win war of narratives",
@@ -428,34 +456,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86128566/Parliament-Speaker-Qalibaf-UAE-vice-president-discuss-regional",
       "published_date": "2026-04-15T15:09:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 72K Gazans martyred in Israeli attacks since October 2023",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86128348/Over-72K-Gazans-martyred-in-Israeli-attacks-since-October-2023",
-      "published_date": "2026-04-15T10:23:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No power can force Iran to surrender: President Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86128282/No-power-can-force-Iran-to-surrender-President-Pezeshkian",
-      "published_date": "2026-04-15T09:38:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian academics expelled from US to be welcomed back home: Minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86128204/Iranian-academics-expelled-from-US-to-be-welcomed-back-home",
-      "published_date": "2026-04-15T08:49:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Musical pieces performed in memory of martyred leader",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86128209/In-photos-Musical-pieces-performed-in-memory-of-martyred-leader",
-      "published_date": "2026-04-15T08:39:50Z",
       "category": "Local Events"
     }
   ]
