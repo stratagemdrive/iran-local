@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-20T12:10:22Z",
-  "total_stories": 72,
+  "generated_at": "2026-04-20T23:33:41Z",
+  "total_stories": 73,
   "stories": [
+    {
+      "title": "Iran, Russia FMs discuss international developments over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86132849/Iran-Russia-FMs-discuss-international-developments-over-phone",
+      "published_date": "2026-04-20T15:57:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Russia FMs hold phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243826/Iran-Russia-FMs-hold-phone-call",
+      "published_date": "2026-04-20T15:28:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan foreign ministers hold second phone call in 24 hours",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86132824/Iran-Pakistan-foreign-ministers-hold-second-phone-call-in-24",
+      "published_date": "2026-04-20T15:27:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump blockade of Iran hampering efforts to resume talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243824/Trump-blockade-of-Iran-hampering-efforts-to-resume-talks",
+      "published_date": "2026-04-20T14:17:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Spox: Iran stands resolute against foes’ brutality, barbarism",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86132622/FM-Spox-Iran-stands-resolute-against-foes-brutality-barbarism",
+      "published_date": "2026-04-20T12:12:50Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "PM says Canada’s ties with US have turned into ‘weaknesses’",
       "source": "IRNA",
@@ -109,39 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Senior Iran, Turkey diplomats discuss West Asia developments",
+      "title": "Formation of gov. right of Iraqi people: Gen. Qaani",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243783/Senior-Iran-Turkey-diplomats-discuss-West-Asia-developments",
-      "published_date": "2026-04-19T10:47:15Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243828/Formation-of-gov-right-of-Iraqi-people-Gen-Qaani",
+      "published_date": "2026-04-20T17:29:42Z",
+      "category": "Military"
     },
     {
-      "title": "Iran not to send enriched material to US: Deputy FM",
+      "title": "Iran says food supply chain remains fully secure despite war pressures",
       "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86131527/Iran-not-to-send-enriched-material-to-US-Deputy-FM",
-      "published_date": "2026-04-19T09:44:30Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86132793/Iran-says-food-supply-chain-remains-fully-secure-despite-war",
+      "published_date": "2026-04-20T15:30:42Z",
+      "category": "Military"
     },
     {
-      "title": "Brazil voices support for Spain’s stance against war in West Asia",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86131405/Brazil-voices-support-for-Spain-s-stance-against-war-in-West",
-      "published_date": "2026-04-19T09:40:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran slams EU’s ‘peak hypocrisy,’ rejects claims on Strait of Hormuz under international law",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86131203/Iran-slams-EU-s-peak-hypocrisy-rejects-claims-on-Strait-of",
-      "published_date": "2026-04-19T06:37:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian diplomat rejects Trump's claims on enriched uranium",
+      "title": "Oil prices jump about 5% over US action",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243772/Iranian-diplomat-rejects-Trump-s-claims-on-enriched-uranium",
-      "published_date": "2026-04-19T06:06:50Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243821/Oil-prices-jump-about-5-over-US-action",
+      "published_date": "2026-04-20T12:44:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Over 3,300 Iranians martyred in US-Israel attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243820/Over-3-300-Iranians-martyred-in-US-Israel-attack",
+      "published_date": "2026-04-20T12:14:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran will try to end the war with ‘integrity, wisdom and expediency’: Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86132678/Iran-will-try-to-end-the-war-with-integrity-wisdom-and-expediency",
+      "published_date": "2026-04-20T12:09:54Z",
+      "category": "Military"
     },
     {
       "title": "Pezeshkian urges swift documentation of damage to historical sites from US-Israeli attacks",
@@ -168,6 +203,13 @@
       "title": "87 top lawyers denounce US-Israeli war on Iran, Lebanon",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243818/87-top-lawyers-denounce-US-Israeli-war-on-Iran-Lebanon",
+      "published_date": "2026-04-20T11:32:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "87 Intl. lawyers denounce US-Israeli war on Iran, Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243818/87-Intl-lawyers-denounce-US-Israeli-war-on-Iran-Lebanon",
       "published_date": "2026-04-20T11:32:36Z",
       "category": "Military"
     },
@@ -242,48 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Army will firmly defend Iran against any hostile intent: Chief commander",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86131690/Army-will-firmly-defend-Iran-against-any-hostile-intent-Chief",
-      "published_date": "2026-04-19T13:00:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Enemy unable to replenish its ammunition during truce",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243788/Enemy-unable-to-replenish-its-ammunition-during-truce",
-      "published_date": "2026-04-19T12:23:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Enthusiastic welcome for the surviving crew of the Dena destroyer in Shiraz",
-      "source": "Iran Front Page",
-      "url": "https://ifpnews.com/enthusiastic-welcome-for-the-surviving-crew-of-the-dena-destroyer-in-shiraz/",
-      "published_date": "2026-04-19T12:07:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "General Hatami appreciates Leader for his Army Day's message",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243787/General-Hatami-appreciates-Leader-for-his-Army-Day-s-message",
-      "published_date": "2026-04-19T11:59:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "US emerges ‘biggest loser” in war on Iran: Spanish Analyst",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86131501/US-emerges-biggest-loser-in-war-on-Iran-Spanish-Analyst",
-      "published_date": "2026-04-19T09:56:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "No one can open up Bab el-Mandeb Strait once shut",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243781/No-one-can-open-up-Bab-el-Mandeb-Strait-once-shut",
-      "published_date": "2026-04-19T09:52:46Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran not to handover enriched uranium to US, any other state",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243800/Iran-not-to-handover-enriched-uranium-to-US-any-other-state",
@@ -317,6 +317,13 @@
       "url": "https://en.irna.ir/news/86128452/Iran-president-praises-resilience-of-energy-sector-amid-war",
       "published_date": "2026-04-15T12:01:48Z",
       "category": "Energy"
+    },
+    {
+      "title": "UAE warns of shift to yuan amid dollar shortages",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243822/UAE-warns-of-shift-to-yuan-amid-dollar-shortages",
+      "published_date": "2026-04-20T13:20:40Z",
+      "category": "Economy"
     },
     {
       "title": "Ghalibaf warns global oil traders on 'house of cards' pricing",
@@ -366,6 +373,55 @@
       "url": "https://financialtribune.com/node/119683",
       "published_date": "2026-04-14T11:35:19Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iranian, Iraqi FMs hold phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243829/Iranian-Iraqi-FMs-hold-phone-call",
+      "published_date": "2026-04-20T19:03:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranians do not give in to use of force: Pezeshkian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243827/Iranians-do-not-give-in-to-use-of-force-Pezeshkian",
+      "published_date": "2026-04-20T17:15:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranians do not submit to force: Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86132870/Iranians-do-not-submit-to-force-Pezeshkian",
+      "published_date": "2026-04-20T16:15:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UAE analyst urges closure of US bases in the region",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86132839/UAE-analyst-urges-closure-of-US-bases-in-the-region",
+      "published_date": "2026-04-20T15:21:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Pakistan FMs discuss ceasefire, region in call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243825/Iran-Pakistan-FMs-discuss-ceasefire-region-in-call",
+      "published_date": "2026-04-20T14:55:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolton: Iranians smell panic in the White House",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86132739/Bolton-Iranians-smell-panic-in-the-White-House",
+      "published_date": "2026-04-20T14:04:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian calls for unity among Muslim nations to foil plots",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243823/Pezeshkian-calls-for-unity-among-Muslim-nations-to-foil-plots",
+      "published_date": "2026-04-20T13:27:05Z",
+      "category": "Local Events"
     },
     {
       "title": "Presser of Iranian Foreign Ministry spokesman",
@@ -456,55 +512,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243807/Iran-Pakistan-FMs-discuss-regional-developments-ceasefire",
       "published_date": "2026-04-20T07:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli minister admits Tel Aviv’s role in dragging US into war with Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86132213/Israeli-minister-admits-Tel-Aviv-s-role-in-dragging-US-into-war",
-      "published_date": "2026-04-20T07:00:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on April 20",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/243801/Front-pages-of-Iran-s-English-dailies-on-April-20",
-      "published_date": "2026-04-20T03:01:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani PM Shehbaz Sharif speaks with Pres. Pezeshkian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243799/Pakistani-PM-Shehbaz-Sharif-speaks-with-Pres-Pezeshkian",
-      "published_date": "2026-04-19T18:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families of Minab school martyrs urge Pope to be voice of their voiceless children",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86131919/Families-of-Minab-school-martyrs-urge-Pope-to-be-voice-of-their",
-      "published_date": "2026-04-19T17:13:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian negotiators defending national interests: VP",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243797/Iranian-negotiators-defending-national-interests-VP",
-      "published_date": "2026-04-19T17:13:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian negotiators defending national interests with courage and prudence: VP",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86131864/Iranian-negotiators-defending-national-interests-with-courage",
-      "published_date": "2026-04-19T15:58:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran set for friendly clash against Panama",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243795/Iran-set-for-friendly-clash-against-Panama",
-      "published_date": "2026-04-19T15:57:51Z",
       "category": "Local Events"
     }
   ]
