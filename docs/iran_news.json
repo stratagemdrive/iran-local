@@ -1,8 +1,78 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-21T23:27:29Z",
-  "total_stories": 79,
+  "generated_at": "2026-04-22T12:04:30Z",
+  "total_stories": 78,
   "stories": [
+    {
+      "title": "Pakistan works to advance Iran-US talks, awaits Tehran reply",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243882/Pakistan-works-to-advance-Iran-US-talks-awaits-Tehran-reply",
+      "published_date": "2026-04-22T10:58:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says will act based on national interests after Pakistan’s call to extend ceasefire",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134639/Iran-says-will-act-based-on-national-interests-after-Pakistan-s",
+      "published_date": "2026-04-22T10:35:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Afghanistan discuss regional issues",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134555/Iran-Afghanistan-discuss-regional-issues",
+      "published_date": "2026-04-22T09:54:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Afghanistan FMs discuss ties and regional developments",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243880/Iran-Afghanistan-FMs-discuss-ties-and-regional-developments",
+      "published_date": "2026-04-22T09:30:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns Europe of consequences of provocative measures",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134343/Iran-warns-Europe-of-consequences-of-provocative-measures",
+      "published_date": "2026-04-22T08:20:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US naval blockade violates ceasefire: Iran’s UN envoy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134363/US-naval-blockade-violates-ceasefire-Iran-s-UN-envoy",
+      "published_date": "2026-04-22T08:14:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief welcomes extension of Iran–US ceasefire as key chance for diplomacy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134321/UN-chief-welcomes-extension-of-Iran-US-ceasefire-as-key-chance",
+      "published_date": "2026-04-22T07:23:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran condemns EU for double standards over silence on Minab school attack",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134161/Iran-condemns-EU-for-double-standards-over-silence-on-Minab-school",
+      "published_date": "2026-04-22T06:45:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Blocking Iranian ports is violation of ceasefire",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134142/Araghchi-Blocking-Iranian-ports-is-violation-of-ceasefire",
+      "published_date": "2026-04-22T06:20:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN chief welcomes US ceasefire extension with Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243871/UN-chief-welcomes-US-ceasefire-extension-with-Iran",
+      "published_date": "2026-04-22T03:43:30Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Naval blockade violation of ceasefire, act of war: FM",
       "source": "Mehr News Agency",
@@ -74,74 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "No Iranian delegation sent to Pakistan for talks with US: Diplomatic source",
+      "title": "Parliament speaker praises IRGC’s sacrifices during imposed wars",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133681/No-Iranian-delegation-sent-to-Pakistan-for-talks-with-US-Diplomatic",
-      "published_date": "2026-04-21T12:12:24Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86134758/Parliament-speaker-praises-IRGC-s-sacrifices-during-imposed-wars",
+      "published_date": "2026-04-22T12:01:25Z",
+      "category": "Military"
     },
     {
-      "title": "Saudi Arabia, Oman FMs discuss region, Iran-US talks",
+      "title": "IRGC Navy seizes two ships for violating protocols in Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134702/IRGC-Navy-seizes-two-ships-for-violating-protocols-in-Strait",
+      "published_date": "2026-04-22T11:27:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pezeshkian says IRGC foiled enemies’ plots, malicious objectives",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134607/Pezeshkian-says-IRGC-foiled-enemies-plots-malicious-objectives",
+      "published_date": "2026-04-22T10:46:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni Ansarullah warns enemy against escalating tensions",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86134612/Yemeni-Ansarullah-warns-enemy-against-escalating-tensions",
+      "published_date": "2026-04-22T10:23:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC Navy seizes two violating vessels in Persian Gulf",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243850/Saudi-Arabia-Oman-FMs-discuss-region-Iran-US-talks",
-      "published_date": "2026-04-21T11:50:10Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243881/IRGC-Navy-seizes-two-violating-vessels-in-Persian-Gulf",
+      "published_date": "2026-04-22T10:06:32Z",
+      "category": "Military"
     },
     {
-      "title": "Senior politician urges public support for negotiators and national unity",
+      "title": "IRGC pledges ‘surprises beyond enemy’s imagination’ against any aggression",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133592/Senior-politician-urges-public-support-for-negotiators-and-national",
-      "published_date": "2026-04-21T11:08:38Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86134469/IRGC-pledges-surprises-beyond-enemy-s-imagination-against-any",
+      "published_date": "2026-04-22T09:48:08Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Turkmenistan review transport, trade, energy issues",
+      "title": "Iran, Russia review Rasht-Astara railway and expansion of maritime cooperation",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133514/Iran-Turkmenistan-review-transport-trade-energy-issues",
-      "published_date": "2026-04-21T10:39:40Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86134474/Iran-Russia-review-Rasht-Astara-railway-and-expansion-of-maritime",
+      "published_date": "2026-04-22T09:37:01Z",
+      "category": "Military"
     },
     {
-      "title": "US-Israeli aggression on Iran threatens NPT's regime: Ryabkov",
+      "title": "Unity of Iran’s Army, IRGC a strategic asset for national security: Army chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86134480/Unity-of-Iran-s-Army-IRGC-a-strategic-asset-for-national-security",
+      "published_date": "2026-04-22T09:14:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Martyr Hassan Bagheri: Journalist who redefined war equation",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243848/US-Israeli-aggression-on-Iran-threatens-NPT-s-regime-Ryabkov",
-      "published_date": "2026-04-21T10:36:11Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243878/Martyr-Hassan-Bagheri-Journalist-who-redefined-war-equation",
+      "published_date": "2026-04-22T08:11:01Z",
+      "category": "Military"
     },
     {
-      "title": "Athens exhibition highlights threats to cultural heritage amid war on Iran",
+      "title": "In letter to UN chief, Iran demands release of commercial vessel from US ‘piracy’",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133488/Athens-exhibition-highlights-threats-to-cultural-heritage-amid",
-      "published_date": "2026-04-21T10:32:32Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86134190/In-letter-to-UN-chief-Iran-demands-release-of-commercial-vessel",
+      "published_date": "2026-04-22T06:11:44Z",
+      "category": "Military"
     },
     {
-      "title": "Trump’s threats against Iran raise alarms under international law: Legal experts",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133439/Trump-s-threats-against-Iran-raise-alarms-under-international",
-      "published_date": "2026-04-21T10:26:40Z",
-      "category": "Diplomacy"
+      "title": "IRGC vows new surprises beyond enemy's calculation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243874/IRGC-vows-new-surprises-beyond-enemy-s-calculation",
+      "published_date": "2026-04-22T06:04:10Z",
+      "category": "Military"
     },
     {
-      "title": "EU to encourage remote working, public transportation amid energy shock caused by US-Israeli war on Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133279/EU-to-encourage-remote-working-public-transportation-amid-energy",
-      "published_date": "2026-04-21T07:39:22Z",
-      "category": "Diplomacy"
+      "title": "Palantir vs. Iran: The algorithmic kill chain",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243873/Palantir-vs-Iran-The-algorithmic-kill-chain",
+      "published_date": "2026-04-22T05:32:22Z",
+      "category": "Military"
     },
     {
-      "title": "Iran condemns continued Israeli violation of Somalia’s national sovereignty",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133118/Iran-condemns-continued-Israeli-violation-of-Somalia-s-national",
-      "published_date": "2026-04-21T07:35:14Z",
-      "category": "Diplomacy"
+      "title": "Iran demands release of Touska vessel, crew",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243872/Iran-demands-release-of-Touska-vessel-crew",
+      "published_date": "2026-04-22T04:30:42Z",
+      "category": "Military"
     },
     {
-      "title": "Brazil, Germany urge intensified diplomatic efforts to end anti-Iran war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133206/Brazil-Germany-urge-intensified-diplomatic-efforts-to-end-anti-Iran",
-      "published_date": "2026-04-21T07:29:42Z",
-      "category": "Diplomacy"
+      "title": "Iran's Armed Forces hands on trigger to respond to any attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243869/Iran-s-Armed-Forces-hands-on-trigger-to-respond-to-any-attack",
+      "published_date": "2026-04-22T03:20:08Z",
+      "category": "Military"
     },
     {
       "title": "“We will defend thousands of years old Iran civilization”",
@@ -186,104 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran stripped of right to host Asian Squash Championships",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525650/Iran-stripped-of-right-to-host-Asian-Squash-Championships",
-      "published_date": "2026-04-21T10:55:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Top commander says Iran ready to give decisive response to enemy’s breach of commitments",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133434/Top-commander-says-Iran-ready-to-give-decisive-response-to-enemy-s",
-      "published_date": "2026-04-21T10:36:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Army says oil tanker enters territorial waters amid US blockade",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133526/Iranian-Army-says-oil-tanker-enters-territorial-waters-amid-US",
-      "published_date": "2026-04-21T10:02:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC has driven Trump into deadlock: Israeli newspaper",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133464/IRGC-has-driven-Trump-into-deadlock-Israeli-newspaper",
-      "published_date": "2026-04-21T09:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian oil tanker crosses into country’s territorial waters",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243846/Iranian-oil-tanker-crosses-into-country-s-territorial-waters",
-      "published_date": "2026-04-21T09:26:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "UN says no military objective justifies attacks on civilian infrastructure as Trump renews threats to Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133399/UN-says-no-military-objective-justifies-attacks-on-civilian-infrastructure",
-      "published_date": "2026-04-21T08:33:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon: Number of US Army wounded in aggressive war against Iran rises to 415",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133194/Pentagon-Number-of-US-Army-wounded-in-aggressive-war-against",
-      "published_date": "2026-04-21T08:22:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "People in Mashhad denounce US-Israel attack, back Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/243842/People-in-Mashhad-denounce-US-Israel-attack-back-Lebanon",
-      "published_date": "2026-04-21T08:05:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israeli attacks damaged 339 medical centers, disrupted Iran’s healthcare system: IFRC official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133308/US-Israeli-attacks-damaged-339-medical-centers-disrupted-Iran-s",
-      "published_date": "2026-04-21T07:46:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran ready to respond to enemy ceasefire violations",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243837/Iran-ready-to-respond-to-enemy-ceasefire-violations",
-      "published_date": "2026-04-21T06:56:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Japan approves easing of arms export rules",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243836/Japan-approves-easing-of-arms-export-rules",
-      "published_date": "2026-04-21T06:23:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minab martyrs parents urge Pope to be voice of their children",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243835/Minab-martyrs-parents-urge-Pope-to-be-voice-of-their-children",
-      "published_date": "2026-04-21T05:44:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "200 short documentaries produced about Ramadan War",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525643/200-short-documentaries-produced-about-Ramadan-War",
-      "published_date": "2026-04-20T19:53:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Thousands of saplings being planted to commemorate Minab martyred students",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525641/Thousands-of-saplings-being-planted-to-commemorate-Minab-martyred",
-      "published_date": "2026-04-20T19:39:37Z",
-      "category": "Military"
-    },
-    {
       "title": "VIDEO: Long queue of oil tankers in Hormuz Strait",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243851/VIDEO-Long-queue-of-oil-tankers-in-Hormuz-Strait",
@@ -323,13 +323,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86128613/Iran-will-not-compromise-on-enrichment-rights-FM-spox-says",
       "published_date": "2026-04-15T16:16:13Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran president praises resilience of energy sector amid war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86128452/Iran-president-praises-resilience-of-energy-sector-amid-war",
-      "published_date": "2026-04-15T12:01:48Z",
       "category": "Energy"
     },
     {
@@ -415,6 +408,55 @@
       "url": "https://en.irna.ir/news/86129162/Pezeshkian-lauds-Iran-s-economic-management-during-US-Israeli",
       "published_date": "2026-04-16T11:42:14Z",
       "category": "Economy"
+    },
+    {
+      "title": "Tehran strongly rejects sabotage plans in Azerbaijan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243884/Tehran-strongly-rejects-sabotage-plans-in-Azerbaijan",
+      "published_date": "2026-04-22T11:34:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Italy FMs discuss regional tensions",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243883/Iran-Italy-FMs-discuss-regional-tensions",
+      "published_date": "2026-04-22T11:12:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mossad spy Mahdi Farid executed in Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243879/Mossad-spy-Mahdi-Farid-executed-in-Iran",
+      "published_date": "2026-04-22T08:53:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran slams EU's double standards over Minab school attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243877/Iran-slams-EU-s-double-standards-over-Minab-school-attack",
+      "published_date": "2026-04-22T07:22:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanya 2026: Iran beach handball start on high",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243876/Sanya-2026-Iran-beach-handball-start-on-high",
+      "published_date": "2026-04-22T06:18:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on April 22",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/243875/Front-pages-of-Iran-s-English-dailies-on-April-22",
+      "published_date": "2026-04-22T06:16:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan PM vows continued mediation in US-Iran conflict",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243870/Pakistan-PM-vows-continued-mediation-in-US-Iran-conflict",
+      "published_date": "2026-04-22T03:38:13Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran’s silence prevails as Trump extends ceasefire",
@@ -505,55 +547,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243852/Iran-Air-to-resume-flights-after-50-day-hiatus",
       "published_date": "2026-04-21T12:28:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Preparation of 51,000 hectares of land for housing projects underway",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525656/Preparation-of-51-000-hectares-of-land-for-housing-projects-underway",
-      "published_date": "2026-04-21T12:05:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Petro-Yuan’: A silent earthquake in global economy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525652/Petro-Yuan-A-silent-earthquake-in-global-economy",
-      "published_date": "2026-04-21T11:55:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Misreading Tehran: Culture, history, and collapse of coercion",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243849/Misreading-Tehran-Culture-history-and-collapse-of-coercion",
-      "published_date": "2026-04-21T11:52:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive | Iran stands firm, rejects any form of blackmail and bullying: Deputy parliament speaker",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133486/Exclusive-Iran-stands-firm-rejects-any-form-of-blackmail-and",
-      "published_date": "2026-04-21T11:00:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Judiciary chief slams US attack on commercial vessel as ‘war crime’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86133484/Iran-Judiciary-chief-slams-US-attack-on-commercial-vessel-as",
-      "published_date": "2026-04-21T10:21:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "People in Tehran condemns US-Israeli aggression, back Leader",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/243847/People-in-Tehran-condemns-US-Israeli-aggression-back-Leader",
-      "published_date": "2026-04-21T09:43:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia has sent urgent humanitarian aid to Lebanon",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525646/Russia-has-sent-urgent-humanitarian-aid-to-Lebanon",
-      "published_date": "2026-04-21T09:39:12Z",
       "category": "Local Events"
     }
   ]
