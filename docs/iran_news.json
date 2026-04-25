@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-25T11:45:09Z",
-  "total_stories": 82,
+  "generated_at": "2026-04-25T23:27:56Z",
+  "total_stories": 83,
   "stories": [
+    {
+      "title": "FM says shared workable framework to end war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243974/FM-says-shared-workable-framework-to-end-war",
+      "published_date": "2026-04-25T19:02:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi travels to Oman after Pakistan visit",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243971/Araghchi-travels-to-Oman-after-Pakistan-visit",
+      "published_date": "2026-04-25T17:48:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi leaves Islamabad after holding talks with top Pakistani officials",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137135/Araghchi-leaves-Islamabad-after-holding-talks-with-top-Pakistani",
+      "published_date": "2026-04-25T16:02:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s Araghchi leaves Pakistan after holding talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243969/Iran-s-Araghchi-leaves-Pakistan-after-holding-talks",
+      "published_date": "2026-04-25T15:58:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi meets Pakistan PM amid Islamabad’s mediation to end US-Israeli war on Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137031/Araghchi-meets-Pakistan-PM-amid-Islamabad-s-mediation-to-end",
+      "published_date": "2026-04-25T13:31:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran eyes expanding relations with Pakistan: Araghchi",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243966/Iran-eyes-expanding-relations-with-Pakistan-Araghchi",
+      "published_date": "2026-04-25T12:57:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "VIDEO: Araghchi meets with Pakistan PM Sharif in Islamabad",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243964/VIDEO-Araghchi-meets-with-Pakistan-PM-Sharif-in-Islamabad",
+      "published_date": "2026-04-25T12:05:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi meets Munir to discuss latest developments on truce",
       "source": "Mehr News Agency",
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Exclusive | FM Araghchi to visit Islamabad, Muscat, Moscow",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86136079/Exclusive-FM-Araghchi-to-visit-Islamabad-Muscat-Moscow",
-      "published_date": "2026-04-24T12:41:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia sees rising threats to Bushehr nuclear site: FM spox",
+      "title": "Iran forwards evidence of US-Israeli attacks on civilians",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243935/Russia-sees-rising-threats-to-Bushehr-nuclear-site-FM-spox",
-      "published_date": "2026-04-24T12:26:48Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243976/Iran-forwards-evidence-of-US-Israeli-attacks-on-civilians",
+      "published_date": "2026-04-25T19:29:47Z",
+      "category": "Military"
     },
     {
-      "title": "Killing journalists beyond merely atrocious war crime: Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86135994/Killing-journalists-beyond-merely-atrocious-war-crime-Iran",
-      "published_date": "2026-04-24T11:40:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran highlights transit corridor initiatives at SCO meeting",
+      "title": "Khatam al-Anbia warns US against continuation of blockade",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243930/Iran-highlights-transit-corridor-initiatives-at-SCO-meeting",
-      "published_date": "2026-04-24T11:04:19Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243973/Khatam-al-Anbia-warns-US-against-continuation-of-blockade",
+      "published_date": "2026-04-25T18:04:29Z",
+      "category": "Military"
     },
     {
-      "title": "Iran FM holds phone calls with Pakistani counterpart, Army Chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86135915/Iran-FM-holds-phone-calls-with-Pakistani-counterpart-Army-Chief",
-      "published_date": "2026-04-24T09:40:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran FM Araghchi, KRG Chief Barzani hold phone call on region",
+      "title": "Tehran's Imam Khomeini airport resumes operations",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243926/Iran-FM-Araghchi-KRG-Chief-Barzani-hold-phone-call-on-region",
-      "published_date": "2026-04-24T09:18:38Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/243970/Tehran-s-Imam-Khomeini-airport-resumes-operations",
+      "published_date": "2026-04-25T16:20:50Z",
+      "category": "Military"
     },
     {
-      "title": "Iran condemns Israeli crimes in occupied Palestine",
+      "title": "Iran warns US maritime piracy will provoke decisive military response",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86135880/Iran-condemns-Israeli-crimes-in-occupied-Palestine",
-      "published_date": "2026-04-24T09:09:37Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86137123/Iran-warns-US-maritime-piracy-will-provoke-decisive-military",
+      "published_date": "2026-04-25T16:04:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "US should learn lessons from its historic defeats in Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243968/US-should-learn-lessons-from-its-historic-defeats-in-Iran",
+      "published_date": "2026-04-25T14:32:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to be rebuilt more magnificent than before: VP",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86136993/Iran-to-be-rebuilt-more-magnificent-than-before-VP",
+      "published_date": "2026-04-25T12:25:51Z",
+      "category": "Military"
     },
     {
       "title": "Hamas, Resistance groups decry Israeli attack on Gaza",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "IRGC Navy seizes Epaminondas container ship in Hormuz Strait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243938/IRGC-Navy-seizes-Epaminondas-container-ship-in-Hormuz-Strait",
-      "published_date": "2026-04-24T13:14:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "People in Tehran denounce US-Israeli attack on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/243936/People-in-Tehran-denounce-US-Israeli-attack-on-Iran",
-      "published_date": "2026-04-24T12:37:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to make criminal aggressor regret its actions: Army cmdr",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243934/Iran-to-make-criminal-aggressor-regret-its-actions-Army-cmdr",
-      "published_date": "2026-04-24T12:01:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia hails Iran exemplary defense against US-Israeli attack",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243932/Russia-hails-Iran-exemplary-defense-against-US-Israeli-attack",
-      "published_date": "2026-04-24T11:46:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo XIV once again denounces US-Israeli attack on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243921/Pope-Leo-XIV-once-again-denounces-US-Israeli-attack-on-Iran",
-      "published_date": "2026-04-24T07:00:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Unyielding unity of people, officials defying US-Israel enemy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243916/Unyielding-unity-of-people-officials-defying-US-Israel-enemy",
-      "published_date": "2026-04-24T05:53:43Z",
-      "category": "Military"
+      "title": "Pezeshkian: Enemy targets infrastructure, imposes blockades to fuel public dissatisfaction",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137014/Pezeshkian-Enemy-targets-infrastructure-imposes-blockades-to",
+      "published_date": "2026-04-25T13:34:25Z",
+      "category": "Energy"
     },
     {
       "title": "Iran’s crude price per barrel rises to $99 at global markets",
@@ -438,6 +445,69 @@
       "category": "Economy"
     },
     {
+      "title": "Pezeshkian, Sharif discuss regional peace efforts in call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243975/Pezeshkian-Sharif-discuss-regional-peace-efforts-in-call",
+      "published_date": "2026-04-25T19:24:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran submits evidence of US-Israeli attacks on civilians to international bodies: IRCS chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137186/Iran-submits-evidence-of-US-Israeli-attacks-on-civilians-to-international",
+      "published_date": "2026-04-25T16:33:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s national pride strengthened during war, government spokesperson says",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137143/Iran-s-national-pride-strengthened-during-war-government-spokesperson",
+      "published_date": "2026-04-25T16:28:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian expresses hope the US will take lesson from ‘historic defeats’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137066/Pezeshkian-expresses-hope-the-US-will-take-lesson-from-historic",
+      "published_date": "2026-04-25T14:23:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Velayati: 'Unified Iran' stands firm against Hebrew-Arab-American front",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86137099/Velayati-Unified-Iran-stands-firm-against-Hebrew-Arab-American",
+      "published_date": "2026-04-25T14:19:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran beach soccer team east bast Thailand in Sanya 2026",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243967/Iran-beach-soccer-team-east-bast-Thailand-in-Sanya-2026",
+      "published_date": "2026-04-25T13:41:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enemy failed, keeping unity essential in face of plots",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/243965/Enemy-failed-keeping-unity-essential-in-face-of-plots",
+      "published_date": "2026-04-25T12:45:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Group of Iranian Hajj Pilgrims Departs for Saudi Arabia",
+      "source": "Iran Front Page",
+      "url": "https://ifpnews.com/first-group-of-iranian-hajj-pilgrims-departs-for-saudi-arabia-riyadh-emphasizes-full-security-despite-war/",
+      "published_date": "2026-04-25T12:24:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rose Harvest and Rosewater Preparation in Memory of the Martyred Students of Minab",
+      "source": "Iran Front Page",
+      "url": "https://ifpnews.com/rose-harvest-and-rosewater-preparation-in-memory-of-the-martyred-students-of-minab/",
+      "published_date": "2026-04-25T12:18:55Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran water polo team open strong with win at Sanya 2026 games",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86136889/Iran-water-polo-team-open-strong-with-win-at-Sanya-2026-games",
@@ -512,69 +582,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243945/Israeli-strikes-kill-six-in-southern-Lebanon",
       "published_date": "2026-04-25T03:36:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on April 25",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/243943/Front-pages-of-Iran-s-English-dailies-on-April-25",
-      "published_date": "2026-04-25T03:05:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Trump, and the politics of threat",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243899/Iran-Trump-and-the-politics-of-threat",
-      "published_date": "2026-04-24T16:43:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Switzerland’s embassy in Tehran resumes activities",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86136130/Switzerland-s-embassy-in-Tehran-resumes-activities",
-      "published_date": "2026-04-24T14:41:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Air to resume international flights as of April 25",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86136103/Iran-Air-to-resume-international-flights-as-of-April-25",
-      "published_date": "2026-04-24T13:44:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran defeat Sri Lanka at 2026 Asian Beach Games",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243939/Iran-defeat-Sri-Lanka-at-2026-Asian-Beach-Games",
-      "published_date": "2026-04-24T13:19:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Gains More by Keeping Hormuz Open",
-      "source": "Financial Tribune",
-      "url": "https://financialtribune.com/node/119688",
-      "published_date": "2026-04-24T13:09:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Temporary Solution to Iran’s Permanent Problem of Depreciation",
-      "source": "Financial Tribune",
-      "url": "https://financialtribune.com/node/119687",
-      "published_date": "2026-04-24T12:33:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No plan for Azzurri to replace Iran at 2026 World Cup: min.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243929/No-plan-for-Azzurri-to-replace-Iran-at-2026-World-Cup-min",
-      "published_date": "2026-04-24T10:47:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US-Zionist aggression against Iran threatens regional, global peace: Minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86135964/US-Zionist-aggression-against-Iran-threatens-regional-global",
-      "published_date": "2026-04-24T10:36:46Z",
       "category": "Local Events"
     }
   ]
