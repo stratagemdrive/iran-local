@@ -1,8 +1,50 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-29T23:43:01Z",
-  "total_stories": 77,
+  "generated_at": "2026-04-30T12:22:06Z",
+  "total_stories": 80,
   "stories": [
+    {
+      "title": "Iran, Swiss top diplomats discuss ties, war developments",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244112/Iran-Swiss-top-diplomats-discuss-ties-war-developments",
+      "published_date": "2026-04-30T10:35:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, Polish FMs discuss latest regional developments",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244110/Iranian-Polish-FMs-discuss-latest-regional-developments",
+      "published_date": "2026-04-30T08:44:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM calls for international action to hold US accountable for its crimes",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141678/Iran-FM-calls-for-international-action-to-hold-US-accountable",
+      "published_date": "2026-04-30T08:37:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s foreign minister urges all countries to condemn US maritime piracy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141576/Iran-s-foreign-minister-urges-all-countries-to-condemn-US-maritime",
+      "published_date": "2026-04-30T06:49:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Persian Gulf insecurity direct result of US-Israeli aggression against Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141537/Araghchi-Persian-Gulf-insecurity-direct-result-of-US-Israeli",
+      "published_date": "2026-04-30T05:38:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "All of Iran’s enriched uranium under IAEA supervision: UN mission",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141547/All-of-Iran-s-enriched-uranium-under-IAEA-supervision-UN-mission",
+      "published_date": "2026-04-30T05:21:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran FM holds phone calls with counterparts",
       "source": "Mehr News Agency",
@@ -102,46 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatar assessing mediation push to end Iran war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244075/Qatar-assessing-mediation-push-to-end-Iran-war",
-      "published_date": "2026-04-29T07:00:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says it reserves right to counter US’s ‘state-sponsored piracy’",
+      "title": "Iran reacts to baseless claims of PGCC secretary-general",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140546/Iran-says-it-reserves-right-to-counter-US-s-state-sponsored",
-      "published_date": "2026-04-29T06:58:30Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86141799/Iran-reacts-to-baseless-claims-of-PGCC-secretary-general",
+      "published_date": "2026-04-30T10:38:48Z",
+      "category": "Military"
     },
     {
-      "title": "Israel serious threat to peace, Iran tells Security Council",
+      "title": "Tehran denies PGCC's anti-Iran allegations",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244073/Israel-serious-threat-to-peace-Iran-tells-Security-Council",
-      "published_date": "2026-04-29T06:31:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244109/Tehran-denies-PCGG-s-anti-Iran-allegations",
+      "published_date": "2026-04-30T08:28:15Z",
+      "category": "Military"
     },
     {
-      "title": "Five reasons why Islamabad talks reached a stalemate",
+      "title": "Iran fully prepared to confront any potential US aggression",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244072/Five-reasons-why-Islamabad-talks-reached-a-stalemate",
-      "published_date": "2026-04-29T06:27:42Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244108/Iran-fully-prepared-to-confront-renewed-US-aggression",
+      "published_date": "2026-04-30T08:07:17Z",
+      "category": "Military"
     },
     {
-      "title": "Israeli regime is persistent, serious threat to security in West Asia: Iran UN envoy",
+      "title": "Iran will soon unveil new weapon that ‘terrifies enemies’: Navy chief",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140464/Israeli-regime-is-persistent-serious-threat-to-security-in-West",
-      "published_date": "2026-04-29T06:17:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86141667/Iran-will-soon-unveil-new-weapon-that-terrifies-enemies-Navy",
+      "published_date": "2026-04-30T07:56:10Z",
+      "category": "Military"
     },
     {
-      "title": "Iran envoy rejects UK media claims on ‘Jan-Fada’ campaign",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140440/Iran-envoy-rejects-UK-media-claims-on-Jan-Fada-campaign",
-      "published_date": "2026-04-29T05:51:08Z",
-      "category": "Diplomacy"
+      "title": "Enemy’s assumption to achieve victory over Iran ‘a joke’",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244107/Enemy-s-assumption-to-achieve-victory-over-Iran-a-joke",
+      "published_date": "2026-04-30T07:46:41Z",
+      "category": "Military"
     },
     {
       "title": "ICRC chief visits civilian areas in Tehran hit by recent US-Israeli strikes",
@@ -249,39 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Army: Iranian Air Force struck ‘enemy’ bases at start of US–Israel war on Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525901/Army-Iranian-Air-Force-struck-enemy-bases-at-start-of-US-Israel",
-      "published_date": "2026-04-28T17:21:39Z",
-      "category": "Military"
+      "title": "Iran’s all enriched uranium ‘under IAEA supervision’: Mission",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244104/Iran-s-all-enriched-uranium-under-IAEA-supervision-mission",
+      "published_date": "2026-04-30T06:31:18Z",
+      "category": "Energy"
     },
     {
-      "title": "Strategic solidarity: Iran offers defense expertise to SCO members",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525899/Strategic-solidarity-Iran-offers-defense-expertise-to-SCO-members",
-      "published_date": "2026-04-28T17:18:39Z",
-      "category": "Military"
+      "title": "Iran warns US junk advice pushing oil to $140",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244103/Iran-warns-US-junk-advice-pushing-oil-to-140",
+      "published_date": "2026-04-30T05:55:14Z",
+      "category": "Energy"
     },
     {
-      "title": "Former British diplomat: War with Iran is a global war against a corrupt financial architecture",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525904/Former-British-diplomat-War-with-Iran-is-a-global-war-against",
-      "published_date": "2026-04-28T17:05:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran on war footing despite ceasefire, target bank updated: Army spokesperson",
+      "title": "‘3 days in, no oil well exploded’, Ghalibaf calls Trump’s bluff",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140141/Iran-on-war-footing-despite-ceasefire-target-bank-updated-Army",
-      "published_date": "2026-04-28T16:28:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Amnesty wants US strike on Yemen to be studied as war crime",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525903/Amnesty-wants-US-strike-on-Yemen-to-be-studied-as-war-crime",
-      "published_date": "2026-04-28T16:16:55Z",
-      "category": "Military"
+      "url": "https://en.irna.ir/news/86141533/3-days-in-no-oil-well-exploded-Ghalibaf-calls-Trump-s-bluff",
+      "published_date": "2026-04-30T05:00:08Z",
+      "category": "Energy"
     },
     {
       "title": "Iran’s oil price per barrel tops $110 at global market",
@@ -403,6 +424,55 @@
       "category": "Economy"
     },
     {
+      "title": "Iran will usher in ‘new chapter for Persian Gulf and Strait of Hormuz’: Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141841/Iran-will-usher-in-new-chapter-for-Persian-Gulf-and-Strait-of",
+      "published_date": "2026-04-30T11:07:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran to set \"new legal rules\" for Persian Gulf, Hormuz Strait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244113/Iran-to-put-an-end-to-enemy-s-abuses-of-Hormuz-Strait-Leader",
+      "published_date": "2026-04-30T10:45:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persian Gulf symbol of Iran's resistance against colonialists",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244111/Persian-Gulf-symbol-of-Iran-s-resistance-against-colonialists",
+      "published_date": "2026-04-30T09:54:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Persian Gulf symbol of Iran’s resistance against old and new colonialists",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141725/Pezeshkian-Persian-Gulf-symbol-of-Iran-s-resistance-against",
+      "published_date": "2026-04-30T09:20:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran slams Bahrain’s citizenship revocations as flagrant breach of human rights",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141639/Iran-slams-Bahrain-s-citizenship-revocations-as-flagrant-breach",
+      "published_date": "2026-04-30T07:37:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran denounces Bahrain to strip citizenship of its nationals",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244106/Iran-denounces-Bahrain-to-strip-citizenship-of-its-nationals",
+      "published_date": "2026-04-30T07:32:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on April 30",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244105/Front-pages-of-Iran-s-English-dailies-on-April-30",
+      "published_date": "2026-04-30T06:40:11Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Imam Reza birthday anniversary celebration in Tabriz",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/photo/244102/Imam-Reza-birthday-ann8versary-celebration-in-Tabriz",
@@ -491,55 +561,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86140918/Iran-national-football-team-to-compete-as-Minab-168-at-World",
       "published_date": "2026-04-29T10:52:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza death toll mounts to 72,599",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140906/Gaza-death-toll-mounts-to-72-599",
-      "published_date": "2026-04-29T10:46:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Epic of Iran of Imam Reza (AS) Gathering held in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244091/Love-for-Imam-Reza-manifested-in-martyred-Leader-s-life",
-      "published_date": "2026-04-29T10:19:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 killed in light plane crash in Australia’s Adelaide",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244090/2-killed-in-light-plane-crash-in-Australia-s-Adelaide",
-      "published_date": "2026-04-29T10:10:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fatal shooting targets police patrol in SE Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244089/Fatal-shooting-targets-police-patrol-in-SE-Iran",
-      "published_date": "2026-04-29T10:02:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IPIS to host online conf. on US-Israeli aggression on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244086/IPIS-to-host-online-conf-on-US-Israeli-aggression-on-Iran",
-      "published_date": "2026-04-29T09:20:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Flag replacement ceremony at Imam Reza shrine marks birth anniversary",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86140801/In-photos-Flag-replacement-ceremony-at-Imam-Reza-shrine-marks",
-      "published_date": "2026-04-29T09:19:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Devotees of Imam Reza hold rally in Iran’s Mashhad",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86140731/In-photos-Devotees-of-Imam-Reza-hold-rally-in-Iran-s-Mashhad",
-      "published_date": "2026-04-29T08:54:12Z",
       "category": "Local Events"
     }
   ]
