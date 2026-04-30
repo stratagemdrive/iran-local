@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-04-30T12:22:06Z",
-  "total_stories": 80,
+  "generated_at": "2026-04-30T23:41:40Z",
+  "total_stories": 78,
   "stories": [
+    {
+      "title": "US attacked Iran twice during talks, must rebuild trust: Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142065/US-attacked-Iran-twice-during-talks-must-rebuild-trust-Pezeshkian",
+      "published_date": "2026-04-30T16:32:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Identity of Persian Gulf ‘cannot be confiscated’: Foreign Ministry spokesperson",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142052/Identity-of-Persian-Gulf-cannot-be-confiscated-Foreign-Ministry",
+      "published_date": "2026-04-30T16:04:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM Araghchi, Lebanon Parl. speaker Berri hold phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244118/Iran-FM-Araghchi-Lebanon-Parl-speaker-Berri-hold-phone-call",
+      "published_date": "2026-04-30T14:57:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Calling Strait of Hormuz by fake names ‘a terrible mistake’: Iran FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141986/Calling-Strait-of-Hormuz-by-fake-names-a-terrible-mistake",
+      "published_date": "2026-04-30T14:33:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US falsely portrayed Iran’s enriched uranium to attack it",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244114/US-falsely-portrayed-Iran-s-enriched-uranium-to-invade-it",
+      "published_date": "2026-04-30T12:33:13Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Swiss top diplomats discuss ties, war developments",
       "source": "Mehr News Agency",
@@ -109,39 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran demands UN telecom agency to condemn US-Israeli attack",
+      "title": "US, Israel attacks on Iran vital infrastructures ‘war crime'",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244087/Iran-demands-UN-telecom-agency-to-condemn-US-Israeli-attack",
-      "published_date": "2026-04-29T09:41:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes sanctions on 35 Iran-linked individuals and entities",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140599/US-imposes-sanctions-on-35-Iran-linked-individuals-and-entities",
-      "published_date": "2026-04-29T07:35:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran reserves right to leverage all means to defend its security: Envoy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140561/Iran-reserves-right-to-leverage-all-means-to-defend-its-security",
-      "published_date": "2026-04-29T07:32:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkey demands full Israeli withdrawal from Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244077/Turkey-demands-full-Israeli-withdrawal-from-Gaza",
-      "published_date": "2026-04-29T07:10:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France urges Israel to lift Gaza aid restrictions",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244076/France-urges-Israel-to-lift-Gaza-aid-restrictions",
-      "published_date": "2026-04-29T07:06:31Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244117/US-Israel-attacks-on-Iran-vital-infrastructures-war-crime",
+      "published_date": "2026-04-30T14:34:05Z",
+      "category": "Military"
     },
     {
       "title": "Iran reacts to baseless claims of PGCC secretary-general",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Illegal wells near Persepolis sealed amid subsidence fears",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525912/Illegal-wells-near-Persepolis-sealed-amid-subsidence-fears",
-      "published_date": "2026-04-28T17:56:47Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran’s all enriched uranium ‘under IAEA supervision’: Mission",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244104/Iran-s-all-enriched-uranium-under-IAEA-supervision-mission",
@@ -337,13 +337,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/243931/Iran-s-crude-price-per-barrel-rises-to-99-at-global-markets",
       "published_date": "2026-04-24T11:28:35Z",
-      "category": "Energy"
-    },
-    {
-      "title": "No new initiatives within OPEC+ amid war in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243908/No-new-initiatives-within-OPEC-amid-war-in-Iran",
-      "published_date": "2026-04-23T14:48:37Z",
       "category": "Energy"
     },
     {
@@ -417,11 +410,46 @@
       "category": "Economy"
     },
     {
-      "title": "Hormuz transit charges yield first revenue for Iran: MP",
+      "title": "Ceasefire as spectacle: Trump’s theatre of war and withdrawal",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/243910/Hormuz-transit-charges-yield-first-revenue-for-Iran-MP",
-      "published_date": "2026-04-23T16:26:10Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/244080/Ceasefire-as-spectacle-Trump-s-theatre-of-War-and-Withdrawal",
+      "published_date": "2026-04-30T17:13:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran will ensure future of Persian Gulf is free from US presence: Ghalibaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141994/Iran-will-ensure-future-of-Persian-Gulf-is-free-from-US-presence",
+      "published_date": "2026-04-30T14:36:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Insecurity in Hormuz Strait ‘result of US-Israeli aggression’",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244116/Insecurity-in-Hormuz-Strait-result-of-US-Israeli-aggression",
+      "published_date": "2026-04-30T13:54:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persian Gulf security ‘non-negotiable’ for Iran: VP",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244115/Persian-Gulf-security-non-negotiable-for-Iran-VP",
+      "published_date": "2026-04-30T13:32:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran ready to resume diplomacy if US drops ‘maximalist approach’: Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141930/Iran-ready-to-resume-diplomacy-if-US-drops-maximalist-approach",
+      "published_date": "2026-04-30T13:26:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Security of Persian Gulf ‘non-negotiable’ for Iran: Vice president",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86141892/Security-of-Persian-Gulf-non-negotiable-for-Iran-Vice-president",
+      "published_date": "2026-04-30T12:31:29Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran will usher in ‘new chapter for Persian Gulf and Strait of Hormuz’: Leader",
@@ -519,48 +547,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86141257/Iran-dismantles-terrorist-cell-planning-attacks-on-western-province",
       "published_date": "2026-04-29T16:19:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran holds ceremonies to mark birthday anniv. of Imam Reza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244095/Tehraners-hold-ceremony-to-mark-birthday-anniv-of-Imam-Reza",
-      "published_date": "2026-04-29T13:29:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atletico vs. Arsenal: Team news, lineups, live stream [UCL]",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141004/Atletico-vs-Arsenal-Team-news-lineups-live-stream-UCL",
-      "published_date": "2026-04-29T13:23:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US imposes new sanctions on 33 Iran entities, individuals",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244084/US-imposed-new-sanctions-on-33-Iran-entities-individuals",
-      "published_date": "2026-04-29T12:11:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader’s office and residence to be registered as national site: Iranian official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141009/Leader-s-office-and-residence-to-be-registered-as-national-site",
-      "published_date": "2026-04-29T11:42:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s beach volleyball team secures silver at Asian Beach Games",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140920/Iran-s-beach-volleyball-team-secures-silver-at-Asian-Beach-Games",
-      "published_date": "2026-04-29T10:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran national football team to compete as ‘Minab 168’ at World Cup",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140918/Iran-national-football-team-to-compete-as-Minab-168-at-World",
-      "published_date": "2026-04-29T10:52:09Z",
       "category": "Local Events"
     }
   ]
