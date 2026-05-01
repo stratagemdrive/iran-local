@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-01T12:03:54Z",
-  "total_stories": 78,
+  "generated_at": "2026-05-01T23:41:47Z",
+  "total_stories": 83,
   "stories": [
+    {
+      "title": "Iran proposes new negotiation plan to Pakistani mediator",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244136/Iran-proposes-new-peace-plan-to-Pakistani-mediator",
+      "published_date": "2026-05-01T13:53:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy delivers Leader's message to Russian Muftis",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244134/Iran-envoy-delivers-Leader-s-message-to-Russian-Muftis",
+      "published_date": "2026-05-01T13:41:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive | Iran submits new proposal to Pakistani mediator",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142591/Exclusive-Iran-submits-new-proposal-to-Pakistani-mediator",
+      "published_date": "2026-05-01T13:27:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi briefs regional counterparts on Iran’s stance to end war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142588/Araghchi-briefs-regional-counterparts-on-Iran-s-stance-to-end",
+      "published_date": "2026-05-01T13:18:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nuclear talks era is over: Senior cleric",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244133/Nuclear-talks-era-is-over-Senior-cleric",
+      "published_date": "2026-05-01T13:07:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: All states involved in US-Israeli aggression must be held accountable",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142578/Iran-All-states-involved-in-US-Israeli-aggression-must-be-held",
+      "published_date": "2026-05-01T12:54:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Russia discuss bilateral nuclear cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142553/Iran-Russia-discuss-bilateral-nuclear-cooperation",
+      "published_date": "2026-05-01T12:24:41Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi holds talks with his counterparts in region",
       "source": "Mehr News Agency",
@@ -95,53 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Swiss top diplomats discuss ties, war developments",
+      "title": "Iran has damaged majority of US military sites in Mideast, CNN reveals",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525984/Iran-has-damaged-majority-of-US-military-sites-in-Mideast-CNN",
+      "published_date": "2026-05-01T17:28:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Army Cmdr. vows confronting all threats",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244112/Iran-Swiss-top-diplomats-discuss-ties-war-developments",
-      "published_date": "2026-04-30T10:35:42Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244137/Army-Cmdr-vows-confronting-all-threats",
+      "published_date": "2026-05-01T16:07:40Z",
+      "category": "Military"
     },
     {
-      "title": "Iranian, Polish FMs discuss latest regional developments",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244110/Iranian-Polish-FMs-discuss-latest-regional-developments",
-      "published_date": "2026-04-30T08:44:41Z",
-      "category": "Diplomacy"
+      "title": "Iran marks Persian Gulf National Day, recalling 17th-century expulsion of Portuguese forces",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525976/Iran-marks-Persian-Gulf-National-Day-recalling-17th-century",
+      "published_date": "2026-05-01T16:01:37Z",
+      "category": "Military"
     },
     {
-      "title": "Iran FM calls for international action to hold US accountable for its crimes",
+      "title": "Crash site of US aircraft in Dasht-e Mahyar registered as national heritage",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525974/Crash-site-of-US-aircraft-in-Dasht-e-Mahyar-registered-as-national",
+      "published_date": "2026-05-01T16:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Relying on people’s power, we will counter all threats: Iran Army Chief",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141678/Iran-FM-calls-for-international-action-to-hold-US-accountable",
-      "published_date": "2026-04-30T08:37:21Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86142663/Relying-on-people-s-power-we-will-counter-all-threats-Iran",
+      "published_date": "2026-05-01T16:00:45Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s foreign minister urges all countries to condemn US maritime piracy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141576/Iran-s-foreign-minister-urges-all-countries-to-condemn-US-maritime",
-      "published_date": "2026-04-30T06:49:43Z",
-      "category": "Diplomacy"
+      "title": "Motorcycle rally held in Iran to protest damage to cultural heritage sites",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525979/Motorcycle-rally-held-in-Iran-to-protest-damage-to-cultural-heritage",
+      "published_date": "2026-05-01T16:00:33Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi: Persian Gulf insecurity direct result of US-Israeli aggression against Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141537/Araghchi-Persian-Gulf-insecurity-direct-result-of-US-Israeli",
-      "published_date": "2026-04-30T05:38:56Z",
-      "category": "Diplomacy"
+      "title": "Israeli casualties mount amid south Lebanon aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525975/Israeli-casualties-mount-amid-south-Lebanon-aggression",
+      "published_date": "2026-05-01T15:17:27Z",
+      "category": "Military"
     },
     {
-      "title": "All of Iran’s enriched uranium under IAEA supervision: UN mission",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141547/All-of-Iran-s-enriched-uranium-under-IAEA-supervision-UN-mission",
-      "published_date": "2026-04-30T05:21:17Z",
-      "category": "Diplomacy"
+      "title": "SCO voices concern over cyberattacks on Iran’s digital infrastructure",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525968/SCO-voices-concern-over-cyberattacks-on-Iran-s-digital-infrastructure",
+      "published_date": "2026-05-01T12:34:28Z",
+      "category": "Military"
     },
     {
-      "title": "Iran FM holds phone calls with counterparts",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244098/Autosaved-News-by-on-20260429-21-36",
-      "published_date": "2026-04-29T18:13:45Z",
-      "category": "Diplomacy"
+      "title": "Protecting the Persian Gulf is a shared responsibility that transcends political boundaries",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525966/Protecting-the-Persian-Gulf-is-a-shared-responsibility-that-transcends",
+      "published_date": "2026-05-01T12:30:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "War in Persian Gulf, turbulence in skies: Rising cost of global air travel",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525957/War-in-Persian-Gulf-turbulence-in-skies-Rising-cost-of-global",
+      "published_date": "2026-05-01T11:22:35Z",
+      "category": "Military"
     },
     {
       "title": "Iran FM spox calls US attack on Iran act of aggression, not self-defense",
@@ -214,74 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran fully prepared to confront any potential US aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244108/Iran-fully-prepared-to-confront-renewed-US-aggression",
-      "published_date": "2026-04-30T08:07:17Z",
-      "category": "Military"
+      "title": "Iran’s Oil Market Enters a Stress Test",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119693",
+      "published_date": "2026-05-01T12:30:34Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran will soon unveil new weapon that ‘terrifies enemies’: Navy chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141667/Iran-will-soon-unveil-new-weapon-that-terrifies-enemies-Navy",
-      "published_date": "2026-04-30T07:56:10Z",
-      "category": "Military"
+      "title": "Behind scenes of UAE's exit from OPEC: From disputes with Saudi Arabia to eyeing free market",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525960/Behind-scenes-of-UAE-s-exit-from-OPEC-From-disputes-with-Saudi",
+      "published_date": "2026-05-01T11:29:37Z",
+      "category": "Energy"
     },
     {
-      "title": "Enemy’s assumption to achieve victory over Iran ‘a joke’",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244107/Enemy-s-assumption-to-achieve-victory-over-Iran-a-joke",
-      "published_date": "2026-04-30T07:46:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "ICRC chief visits civilian areas in Tehran hit by recent US-Israeli strikes",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141229/ICRC-chief-visits-civilian-areas-in-Tehran-hit-by-recent-US-Israeli",
-      "published_date": "2026-04-29T15:46:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says will continue efforts to restore lasting peace in the region",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141121/Pakistan-says-will-continue-efforts-to-restore-lasting-peace",
-      "published_date": "2026-04-29T14:22:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "449 Iranian medical facilities damaged in US-Israeli attacks: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141079/449-Iranian-medical-facilities-damaged-in-US-Israeli-attacks",
-      "published_date": "2026-04-29T12:50:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Sirens sounded in Galilee after missile attack from Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244093/Sirens-sounded-in-Galilee-after-missile-attack-from-S-Lebano",
-      "published_date": "2026-04-29T12:22:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minab school struck in US-Israeli war will be designated as national site: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86140854/Minab-school-struck-in-US-Israeli-war-will-be-designated-as-national",
-      "published_date": "2026-04-29T09:54:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Moment as an Israeli strike targets civilians in Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244088/VIDEO-Moment-as-an-Israeli-strike-targets-civilians-in-Gaza",
-      "published_date": "2026-04-29T09:48:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Khiyam in S Lebanon razed to ground in Israeli attack",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244085/VIDEO-Khiyam-in-s-Lebanon-razed-to-ground-in-Israeli-attack",
-      "published_date": "2026-04-29T08:56:17Z",
-      "category": "Military"
+      "title": "Investment for establishing solar power plants increases 2.5-fold",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525959/Investment-for-establishing-solar-power-plants-increases-2-5-fold",
+      "published_date": "2026-05-01T11:26:42Z",
+      "category": "Energy"
     },
     {
       "title": "Beyond Oil: Urgent Shift in Investment Philosophy From Commodity to Innovation",
@@ -338,6 +359,20 @@
       "url": "https://en.irna.ir/news/86137014/Pezeshkian-Enemy-targets-infrastructure-imposes-blockades-to",
       "published_date": "2026-04-25T13:34:25Z",
       "category": "Energy"
+    },
+    {
+      "title": "Leader: Teachers, workers among most important elements in the economic, cultural struggle",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142722/Leader-Teachers-workers-among-most-important-elements-in-the",
+      "published_date": "2026-05-01T18:20:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran’s export of technical-engineering services rises 140% in a year",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525958/Iran-s-export-of-technical-engineering-services-rises-140-in",
+      "published_date": "2026-05-01T11:25:03Z",
+      "category": "Economy"
     },
     {
       "title": "Official: $199m worth of goods exported from southwest Iran",
@@ -410,6 +445,69 @@
       "category": "Economy"
     },
     {
+      "title": "Crowds gather at Persepolis to mark anniversary of Leader’s visit to Fars province",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525981/Crowds-gather-at-Persepolis-to-mark-anniversary-of-Leader-s-visit",
+      "published_date": "2026-05-01T16:31:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s high-seas piracy returns to the Mediterranean",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525982/Israel-s-high-seas-piracy-returns-to-the-Mediterranean",
+      "published_date": "2026-05-01T16:31:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "History will not forget the blow to human morality, Islamic philosopher says of the Minab tragedy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525980/History-will-not-forget-the-blow-to-human-morality-Islamic-philosopher",
+      "published_date": "2026-05-01T16:03:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran strongly rejects involvement in UK violent incidents",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86142550/Iran-strongly-rejects-involvement-in-UK-violent-incidents",
+      "published_date": "2026-05-01T14:05:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vice-presidency for science details supports to bolster bio-tech sector",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525970/Vice-presidency-for-science-details-supports-to-bolster-bio-tech",
+      "published_date": "2026-05-01T12:59:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICRC president hails IRCS efforts, bravery during war",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525964/ICRC-president-hails-IRCS-efforts-bravery-during-war",
+      "published_date": "2026-05-01T12:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027 World Cup Qualifiers: Iran basketball team fixtures confirmed",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525962/2027-World-Cup-Qualifiers-Iran-basketball-team-fixtures-confirmed",
+      "published_date": "2026-05-01T12:06:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran beach soccer has quality players: Ali Naderi",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525961/Iran-beach-soccer-has-quality-players-Ali-Naderi",
+      "published_date": "2026-05-01T11:48:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shrimp production rises 37% in a year",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525956/Shrimp-production-rises-37-in-a-year",
+      "published_date": "2026-05-01T11:29:55Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Picturesque Cheshmeh Gholgholi village in SE Iran",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/photo/244132/Picturesque-Cheshmeh-Gholgholi-in-SE-Iran",
@@ -421,6 +519,13 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244131/Tehran-rejects-allegations-over-UK-violent-incidents",
       "published_date": "2026-05-01T10:49:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran will play at 2026 World Cup: Infantino",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525955/Iran-will-play-at-2026-World-Cup-Infantino",
+      "published_date": "2026-05-01T10:20:27Z",
       "category": "Local Events"
     },
     {
@@ -466,87 +571,17 @@
       "category": "Local Events"
     },
     {
+      "title": "Iranian wrestling legend Movahed dies",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/525954/Iranian-legend-wrestler-Movahed-dies",
+      "published_date": "2026-04-30T17:39:59Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ceasefire as spectacle: Trump’s theatre of war and withdrawal",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244080/Ceasefire-as-spectacle-Trump-s-theatre-of-War-and-Withdrawal",
       "published_date": "2026-04-30T17:13:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran will ensure future of Persian Gulf is free from US presence: Ghalibaf",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141994/Iran-will-ensure-future-of-Persian-Gulf-is-free-from-US-presence",
-      "published_date": "2026-04-30T14:36:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Insecurity in Hormuz Strait ‘result of US-Israeli aggression’",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244116/Insecurity-in-Hormuz-Strait-result-of-US-Israeli-aggression",
-      "published_date": "2026-04-30T13:54:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persian Gulf security ‘non-negotiable’ for Iran: VP",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244115/Persian-Gulf-security-non-negotiable-for-Iran-VP",
-      "published_date": "2026-04-30T13:32:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran ready to resume diplomacy if US drops ‘maximalist approach’: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141930/Iran-ready-to-resume-diplomacy-if-US-drops-maximalist-approach",
-      "published_date": "2026-04-30T13:26:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Security of Persian Gulf ‘non-negotiable’ for Iran: Vice president",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141892/Security-of-Persian-Gulf-non-negotiable-for-Iran-Vice-president",
-      "published_date": "2026-04-30T12:31:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran will usher in ‘new chapter for Persian Gulf and Strait of Hormuz’: Leader",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141841/Iran-will-usher-in-new-chapter-for-Persian-Gulf-and-Strait-of",
-      "published_date": "2026-04-30T11:07:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to set \"new legal rules\" for Persian Gulf, Hormuz Strait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244113/Iran-to-put-an-end-to-enemy-s-abuses-of-Hormuz-Strait-Leader",
-      "published_date": "2026-04-30T10:45:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persian Gulf symbol of Iran's resistance against colonialists",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244111/Persian-Gulf-symbol-of-Iran-s-resistance-against-colonialists",
-      "published_date": "2026-04-30T09:54:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Persian Gulf symbol of Iran’s resistance against old and new colonialists",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141725/Pezeshkian-Persian-Gulf-symbol-of-Iran-s-resistance-against",
-      "published_date": "2026-04-30T09:20:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran slams Bahrain’s citizenship revocations as flagrant breach of human rights",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141639/Iran-slams-Bahrain-s-citizenship-revocations-as-flagrant-breach",
-      "published_date": "2026-04-30T07:37:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran denounces Bahrain to strip citizenship of its nationals",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244106/Iran-denounces-Bahrain-to-strip-citizenship-of-its-nationals",
-      "published_date": "2026-04-30T07:32:09Z",
       "category": "Local Events"
     }
   ]
