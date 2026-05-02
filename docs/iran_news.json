@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-02T11:53:57Z",
-  "total_stories": 80,
+  "generated_at": "2026-05-02T23:35:18Z",
+  "total_stories": 82,
   "stories": [
+    {
+      "title": "Foreign envoys briefed on latest proposal to end war by Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244167/Foreign-envoys-briefed-on-latest-proposal-to-end-war-by-Iran",
+      "published_date": "2026-05-02T18:58:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No legal limits on level of uranium enrichment: UN mission",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244165/No-legal-limits-on-level-of-uranium-enrichment-UN-mission",
+      "published_date": "2026-05-02T17:01:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran briefs foreign envoys in Tehran about new proposal on ending US-Israeli war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86143702/Iran-briefs-foreign-envoys-in-Tehran-about-new-proposal-on-ending",
+      "published_date": "2026-05-02T16:53:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, South Korea FMs discuss bilateral, regional developments on phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86143605/Iran-South-Korea-FMs-discuss-bilateral-regional-developments",
+      "published_date": "2026-05-02T14:39:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, S Korean FMs discuss war developments, US-Israel attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244161/Iran-S-Korean-FMs-discuss-war-developments-US-Israel-attack",
+      "published_date": "2026-05-02T13:07:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran condemns deadly terrorist attack near Sayyida Zainab Shrine in Syria",
       "source": "IRNA",
@@ -109,39 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Araghchi briefs regional counterparts on Iran’s stance to end war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86142588/Araghchi-briefs-regional-counterparts-on-Iran-s-stance-to-end",
-      "published_date": "2026-05-01T13:18:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nuclear talks era is over: Senior cleric",
+      "title": "Hijacking Gaza aid flotilla amounts to intl. terrorism: Qaani",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244133/Nuclear-talks-era-is-over-Senior-cleric",
-      "published_date": "2026-05-01T13:07:40Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244166/Hijacking-Gaza-aid-flotilla-amounts-to-intl-terrorism-Qaani",
+      "published_date": "2026-05-02T18:26:07Z",
+      "category": "Military"
     },
     {
-      "title": "Iran: All states involved in US-Israeli aggression must be held accountable",
+      "title": "Iranian photographer honored with special jury award at 2026 Chiayi int'l competition",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86142578/Iran-All-states-involved-in-US-Israeli-aggression-must-be-held",
-      "published_date": "2026-05-01T12:54:27Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86143647/Iranian-photographer-honored-with-special-jury-award-at-2026",
+      "published_date": "2026-05-02T16:27:34Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Russia discuss bilateral nuclear cooperation",
+      "title": "FIFA regrets Canada blocking Iran federation president from attending congress",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86142553/Iran-Russia-discuss-bilateral-nuclear-cooperation",
-      "published_date": "2026-05-01T12:24:41Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86143578/FIFA-regrets-Canada-blocking-Iran-federation-president-from-attending",
+      "published_date": "2026-05-02T14:59:42Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi holds talks with his counterparts in region",
+      "title": "Iran Auto Output Drops Sharply as War Disrupts Supply Chains",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119695",
+      "published_date": "2026-05-02T14:14:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "VIDEO: Israel attacks southern Lebanon in Kfar Joz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244135/Araghchi-holds-talks-with-his-counterparts-in-region",
-      "published_date": "2026-05-01T11:33:59Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244160/VIDEO-Israel-attacks-southern-Lebanon-in-Kfar-Joz",
+      "published_date": "2026-05-02T12:54:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "World to be awakened against Epstein Front: IRGC Navy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244157/World-to-be-awakened-against-Epstein-Front-RIGC-Navy",
+      "published_date": "2026-05-02T12:04:08Z",
+      "category": "Military"
     },
     {
       "title": "Persian Gulf emerges as a symbol of national unity in Iran",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran FM spox calls US attack on Iran act of aggression, not self-defense",
+      "title": "Managing Strait of Hormuz similar to nationalizing oil industry for Iran: Deputy speaker",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86142380/Iran-FM-spox-calls-US-attack-on-Iran-act-of-aggression-not-self-defense",
-      "published_date": "2026-05-01T08:43:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli strikes kill two, wound 10 in south Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244129/Israeli-strikes-kill-two-wound-10-in-south-Lebanon",
-      "published_date": "2026-05-01T08:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "US debt to surpass 120% of GDP by 2027: Fitch",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244127/US-debt-to-surpass-120-of-GDP-by-2027-Fitch",
-      "published_date": "2026-05-01T07:48:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Medical facility resumes function despite damage",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244125/VIDEO-Iran-s-medical-facility-resumes-operation-after-war",
-      "published_date": "2026-05-01T07:28:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Germany believes Trump’s policy of threats reached its limits",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244124/Germany-believes-Trump-s-policy-of-threats-reached-its-limits",
-      "published_date": "2026-05-01T07:22:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian calls naval blockade extension of military ops against nations paying for independence",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86142309/Pezeshkian-calls-naval-blockade-extension-of-military-ops-against",
-      "published_date": "2026-05-01T07:07:10Z",
-      "category": "Military"
+      "url": "https://en.irna.ir/news/86143474/Managing-Strait-of-Hormuz-similar-to-nationalizing-oil-industry",
+      "published_date": "2026-05-02T12:35:45Z",
+      "category": "Energy"
     },
     {
       "title": "Iran’s Oil Market Enters a Stress Test",
@@ -354,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Pezeshkian: Enemy targets infrastructure, imposes blockades to fuel public dissatisfaction",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86137014/Pezeshkian-Enemy-targets-infrastructure-imposes-blockades-to",
-      "published_date": "2026-04-25T13:34:25Z",
-      "category": "Energy"
+      "title": "China bans implementation of US sanctions against Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244164/China-bans-implementation-of-US-sanctions-against-Iran",
+      "published_date": "2026-05-02T15:35:20Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dollar Surge Puts Iran’s FX Market Under Fresh Strain",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119694",
+      "published_date": "2026-05-02T13:49:15Z",
+      "category": "Economy"
     },
     {
       "title": "Leader praises role of teachers, workers in cultural struggle",
@@ -422,6 +436,62 @@
       "url": "https://en.irna.ir/news/86138573/Iran-customs-chief-says-border-cooperation-with-Azerbaijan-at",
       "published_date": "2026-04-27T08:25:40Z",
       "category": "Economy"
+    },
+    {
+      "title": "Selective and incomplete narrative: Nobitex’s detailed response to recent Reuters’ report",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86143752/Selective-and-incomplete-narrative-Nobitex-s-detailed-response",
+      "published_date": "2026-05-02T18:19:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraqi cleric hails Ayatollah Khamenei’s statement as decisive to future of West Asia",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86143572/Iraqi-cleric-hails-Ayatollah-Khamenei-s-statement-as-decisive",
+      "published_date": "2026-05-02T14:09:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian para powerlifters to compete at Algeria Open",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244163/Iranian-para-powerlifters-to-compete-at-Algeria-Open",
+      "published_date": "2026-05-02T14:08:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Storms kill four in northeastern Brazil",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244162/Storms-kill-four-in-northeastern-Brazil",
+      "published_date": "2026-05-02T13:27:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arsenal vs. Fulham Premier League: Team news, injury updates and how to watch",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86143500/Arsenal-vs-Fulham-Premier-League-Team-news-injury-updates",
+      "published_date": "2026-05-02T13:12:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRNA chief hails national solidarity as ‘defining trait’ of Iranians",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86143536/IRNA-chief-hails-national-solidarity-as-defining-trait-of-Iranians",
+      "published_date": "2026-05-02T12:53:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meta shares fell as a result of Iran closure of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244159/Meta-shares-fell-as-a-result-of-Iran-closure-of-Hormuz",
+      "published_date": "2026-05-02T12:39:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gathering of teachers loving Iran held in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244158/Gathering-of-teachers-loving-Iran-held-in-Tehran",
+      "published_date": "2026-05-02T12:24:28Z",
+      "category": "Local Events"
     },
     {
       "title": "President praises teachers’ resilience, stressing their role in educational justice",
@@ -505,62 +575,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86143084/In-photos-Biathlon-competition-held-at-Dizin-ski-resort",
       "published_date": "2026-05-02T08:02:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Tehran marks National Persian Gulf Day",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86143102/In-photos-Tehran-marks-National-Persian-Gulf-Day",
-      "published_date": "2026-05-02T07:50:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump in no position to decide Iran’s presence in World Cup",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244143/Trump-in-no-position-to-decide-Iran-s-presence-in-World-Cup",
-      "published_date": "2026-05-02T07:47:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on May 02",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244142/Front-pages-of-Iran-s-English-dailies-on-May-02",
-      "published_date": "2026-05-02T07:35:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martyred Leader's strategic words on Persian Gulf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244139/Martyred-Leader-s-strategic-words-on-Persian-Gulf",
-      "published_date": "2026-05-02T06:21:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crowds gather at Persepolis to mark anniversary of Leader’s visit to Fars province",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525981/Crowds-gather-at-Persepolis-to-mark-anniversary-of-Leader-s-visit",
-      "published_date": "2026-05-01T16:31:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s high-seas piracy returns to the Mediterranean",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525982/Israel-s-high-seas-piracy-returns-to-the-Mediterranean",
-      "published_date": "2026-05-01T16:31:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "History will not forget the blow to human morality, Islamic philosopher says of the Minab tragedy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525980/History-will-not-forget-the-blow-to-human-morality-Islamic-philosopher",
-      "published_date": "2026-05-01T16:03:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran strongly rejects involvement in UK violent incidents",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86142550/Iran-strongly-rejects-involvement-in-UK-violent-incidents",
-      "published_date": "2026-05-01T14:05:30Z",
       "category": "Local Events"
     }
   ]
