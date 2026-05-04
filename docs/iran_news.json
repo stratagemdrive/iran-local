@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-03T23:34:02Z",
-  "total_stories": 84,
+  "generated_at": "2026-05-04T12:24:21Z",
+  "total_stories": 83,
   "stories": [
+    {
+      "title": "Gaza most hazardous place in world for journalists: UN",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244204/Gaza-most-hazardous-place-in-world-for-journalists-UN",
+      "published_date": "2026-05-04T08:17:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan FMs discuss latest war developments by phone",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244201/Iran-Pakistan-FMs-discuss-latest-war-developments-by-phone",
+      "published_date": "2026-05-04T07:29:37Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Spain FM confer on intl., regl. developments",
       "source": "Mehr News Agency",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran briefs foreign envoys in Tehran about new proposal on ending US-Israeli war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86143702/Iran-briefs-foreign-envoys-in-Tehran-about-new-proposal-on-ending",
-      "published_date": "2026-05-02T16:53:51Z",
-      "category": "Diplomacy"
+      "title": "Iran Army Navy blocks US warship from entering Hormuz Strait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244209/Iran-Army-Navy-bans-US-warships-from-entering-Hormuz-Strait",
+      "published_date": "2026-05-04T10:51:08Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, South Korea FMs discuss bilateral, regional developments on phone",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86143605/Iran-South-Korea-FMs-discuss-bilateral-regional-developments",
-      "published_date": "2026-05-02T14:39:17Z",
-      "category": "Diplomacy"
+      "title": "Iran warns US military of nearing strategic Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244202/Iran-warns-US-military-of-nearing-strategic-Strait-of-Hormuz",
+      "published_date": "2026-05-04T07:54:11Z",
+      "category": "Military"
     },
     {
       "title": "Two US soldiers go missing Morocco",
@@ -267,20 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244160/VIDEO-Israel-attacks-southern-Lebanon-in-Kfar-Joz",
       "published_date": "2026-05-02T12:54:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "World to be awakened against Epstein Front: IRGC Navy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244157/World-to-be-awakened-against-Epstein-Front-RIGC-Navy",
-      "published_date": "2026-05-02T12:04:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Persian Gulf emerges as a symbol of national unity in Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86143258/Persian-Gulf-emerges-as-a-symbol-of-national-unity-in-Iran",
-      "published_date": "2026-05-02T09:10:49Z",
       "category": "Military"
     },
     {
@@ -445,11 +445,60 @@
       "category": "Economy"
     },
     {
-      "title": "Iran customs chief says border cooperation with Azerbaijan at favorable level",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86138573/Iran-customs-chief-says-border-cooperation-with-Azerbaijan-at",
-      "published_date": "2026-04-27T08:25:40Z",
-      "category": "Economy"
+      "title": "Iran fully prepared for any scenario in Hormuz Strait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244211/Iran-fully-prepared-for-any-scenario-in-Hormuz-Strait",
+      "published_date": "2026-05-04T11:51:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italian Socialism, Habilian Assoc. condemn US attack on Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244210/Iran-Italy-condemn-US-Israeli-aggression-against-Iran",
+      "published_date": "2026-05-04T11:26:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran football chief refuses Canadian PM call after insulting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244208/Iran-football-chief-refuses-Canadian-PM-call-after-insulting",
+      "published_date": "2026-05-04T10:24:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US has learned it cannot speak to Iran through force, threats",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244207/US-has-learned-it-cannot-speak-to-Iran-with-language-of-force",
+      "published_date": "2026-05-04T09:13:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: European citizens’ rally against US-Israel war on Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244206/VIDEO-European-citizens-rally-against-US-Israel-war-on-Iran",
+      "published_date": "2026-05-04T08:41:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crew of US-seized Iranian ship Touska transferred to Pakistan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244205/Crew-of-US-seized-Iranian-ship-Touska-transferred-to-Pakistan",
+      "published_date": "2026-05-04T08:33:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on May 04",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244203/Front-pages-of-Iran-s-English-dailies-on-May-04",
+      "published_date": "2026-05-04T08:04:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US interference in Hormuz Strait regime ‘ceasefire violation'",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244200/US-interference-in-Hormuz-Strait-regime-ceasefire-violation",
+      "published_date": "2026-05-04T07:04:22Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran reviewing US response to 14-point plan: spox",
@@ -533,62 +582,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244187/Prepare-to-face-a-graveyard-of-your-carriers-forces",
       "published_date": "2026-05-03T12:56:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran learn fate at 2026 IHF Beach Handball World Championship",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244186/Iran-learn-fate-at-2026-IHF-Beach-Handball-World-Championship",
-      "published_date": "2026-05-03T12:35:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "830 Palestinians martyred in Gaza since Oct. 2025: ministry",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244185/830-Palestinians-martyred-in-Gaza-since-Oct-2025-ministry",
-      "published_date": "2026-05-03T11:50:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 killed in an attack at a home in SW Sydney, Australia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244183/3-killed-in-an-attack-at-a-home-in-SW-Sydney-Australia",
-      "published_date": "2026-05-03T11:07:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Regional ports replace UAE in Iran trade shifts amid war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86144384/Regional-ports-replace-UAE-in-Iran-trade-shifts-amid-war",
-      "published_date": "2026-05-03T10:58:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IKIA carried out over 200 flights in one week",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244180/IKIA-handles-over-200-flights-in-one-week",
-      "published_date": "2026-05-03T10:23:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chilean workers declare solidarity with Iran, Palestine",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86144118/Chilean-workers-declare-solidarity-with-Iran-Palestine",
-      "published_date": "2026-05-03T09:44:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ball in Washington’s court as US reviews Iran’s proposal to end war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86144206/Ball-in-Washington-s-court-as-US-reviews-Iran-s-proposal-to-end",
-      "published_date": "2026-05-03T09:33:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Fire breaks out in a lab bldg. at Florida University",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244176/VIDEO-Fire-breaks-out-in-a-lab-bldg-at-Florida-University",
-      "published_date": "2026-05-03T09:06:11Z",
       "category": "Local Events"
     }
   ]
