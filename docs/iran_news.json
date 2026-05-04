@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-04T12:24:21Z",
-  "total_stories": 83,
+  "generated_at": "2026-05-04T23:43:33Z",
+  "total_stories": 86,
   "stories": [
+    {
+      "title": "Araghchi, Turkmen FM discuss imposed war on Iran in call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244220/Araghchi-Turkmen-FM-discuss-imposed-war-on-Iran-in-call",
+      "published_date": "2026-05-04T17:19:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Algeria FMs discuss regional developments in phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244218/Iran-Algeria-FM-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-05-04T17:08:48Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gaza most hazardous place in world for journalists: UN",
       "source": "Mehr News Agency",
@@ -130,18 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Foreign envoys briefed on latest proposal to end war by Iran",
+      "title": "Transit through Hormuz possible only with Iran's permission",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244167/Foreign-envoys-briefed-on-latest-proposal-to-end-war-by-Iran",
-      "published_date": "2026-05-02T18:58:51Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244223/Tranist-through-Hormuz-possible-only-with-Iran-s-permission",
+      "published_date": "2026-05-04T21:59:43Z",
+      "category": "Military"
     },
     {
-      "title": "No legal limits on level of uranium enrichment: UN mission",
+      "title": "New incident reported in UAE port",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244165/No-legal-limits-on-level-of-uranium-enrichment-UN-mission",
-      "published_date": "2026-05-02T17:01:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244221/New-incident-reported-in-UAE-port",
+      "published_date": "2026-05-04T18:42:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Oil up 3% after Iran attacked US warship",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244214/Oil-up-3-after-Iran-attacked-US-warship",
+      "published_date": "2026-05-04T13:23:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli sinister plots against Lebanon to never materialize",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244213/Israeli-sinister-plots-against-Lebanon-to-never-materialize",
+      "published_date": "2026-05-04T13:03:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran declares new maritime control zone in Hormuz Strait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244212/Iran-declares-new-maritime-control-zone-in-Hormuz-Strait",
+      "published_date": "2026-05-04T12:54:02Z",
+      "category": "Military"
     },
     {
       "title": "Iran Army Navy blocks US warship from entering Hormuz Strait",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Hijacking Gaza aid flotilla amounts to intl. terrorism: Qaani",
+      "title": "No vessel passed Strait of Hormuz: IRGC",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244166/Hijacking-Gaza-aid-flotilla-amounts-to-intl-terrorism-Qaani",
-      "published_date": "2026-05-02T18:26:07Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/244219/No-vessel-crossed-Strait-of-Hormuz-IRGC",
+      "published_date": "2026-05-04T15:27:38Z",
+      "category": "Energy"
     },
     {
-      "title": "Iranian photographer honored with special jury award at 2026 Chiayi int'l competition",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86143647/Iranian-photographer-honored-with-special-jury-award-at-2026",
-      "published_date": "2026-05-02T16:27:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "FIFA regrets Canada blocking Iran federation president from attending congress",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86143578/FIFA-regrets-Canada-blocking-Iran-federation-president-from-attending",
-      "published_date": "2026-05-02T14:59:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Auto Output Drops Sharply as War Disrupts Supply Chains",
-      "source": "Financial Tribune",
-      "url": "https://financialtribune.com/node/119695",
-      "published_date": "2026-05-02T14:14:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Israel attacks southern Lebanon in Kfar Joz",
+      "title": "Second Iranian super tanker reaches Far East",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244160/VIDEO-Israel-attacks-southern-Lebanon-in-Kfar-Joz",
-      "published_date": "2026-05-02T12:54:26Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/244217/Second-Iranian-super-tanker-reaches-fars-east",
+      "published_date": "2026-05-04T14:40:58Z",
+      "category": "Energy"
     },
     {
       "title": "VIDEO: Thick ash blanketed sky over Philippines",
@@ -368,6 +382,13 @@
       "category": "Energy"
     },
     {
+      "title": "Iran’s Labor Market Squeeze Tightens on Youth",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119696",
+      "published_date": "2026-05-04T12:53:29Z",
+      "category": "Economy"
+    },
+    {
       "title": "Leader's aide ridicules Trump for lacking understanding of political economy",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86144632/Leader-s-aide-ridicules-Trump-for-lacking-understanding-of-political",
@@ -445,6 +466,27 @@
       "category": "Economy"
     },
     {
+      "title": "Control of Hormuz Strait fully in Iran's hands: official",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244222/Control-of-Hormuz-Strait-fully-in-Iran-s-hands-official",
+      "published_date": "2026-05-04T19:57:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“National Teachers’ Day” marked in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244216/National-Teachers-Day-marked-in-Tehran",
+      "published_date": "2026-05-04T13:58:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Admitting Iran’s leadership ‘sole way to open Hormuz Strait’",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244215/Admitting-Iran-s-leadership-sole-way-to-open-Hormuz-Strait",
+      "published_date": "2026-05-04T13:45:23Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran fully prepared for any scenario in Hormuz Strait",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244211/Iran-fully-prepared-for-any-scenario-in-Hormuz-Strait",
@@ -452,7 +494,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Italian Socialism, Habilian Assoc. condemn US attack on Iran",
+      "title": "Socialismo Italico, Habilian Assoc. condemn US attack on Iran",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244210/Iran-Italy-condemn-US-Israeli-aggression-against-Iran",
       "published_date": "2026-05-04T11:26:19Z",
@@ -561,27 +603,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86144555/Lebanese-MP-says-resistance-the-only-national-irreplaceable",
       "published_date": "2026-05-03T13:38:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man Utd vs. Liverpool: Team news, injury updates and how to watch",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86144448/Man-Utd-vs-Liverpool-Team-news-injury-updates-and-how-to-watch",
-      "published_date": "2026-05-03T13:22:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire in New Delhi building kills nine",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244188/Fire-in-New-Delhi-building-kills-nine",
-      "published_date": "2026-05-03T13:08:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prepare to face a graveyard of your carriers, forces",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244187/Prepare-to-face-a-graveyard-of-your-carriers-forces",
-      "published_date": "2026-05-03T12:56:18Z",
       "category": "Local Events"
     }
   ]
