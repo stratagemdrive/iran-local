@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-05T12:09:43Z",
-  "total_stories": 86,
+  "generated_at": "2026-05-05T23:40:04Z",
+  "total_stories": 83,
   "stories": [
+    {
+      "title": "Iran president stresses readiness to expand ties with Iraq",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244246/Iran-president-stresses-readiness-to-expand-ties-with-Iraq",
+      "published_date": "2026-05-05T20:47:11Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "UK chancellor, US treasury chief clashed over Iran war",
       "source": "Mehr News Agency",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Exclusive | Behavioral shift by Washington key to Iran-US talks, says Iranian ambassador",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86144268/Exclusive-Behavioral-shift-by-Washington-key-to-Iran-US-talks",
-      "published_date": "2026-05-03T09:57:04Z",
-      "category": "Diplomacy"
+      "title": "IRGC warns ships must only use designated routes in Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244245/IRGC-warns-ships-must-only-use-designated-routes-in-Hormuz",
+      "published_date": "2026-05-05T19:14:50Z",
+      "category": "Military"
     },
     {
       "title": "Russia's consulate in Isfahan resumes operations after attack",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Gas price hits new record high amid US war against Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244174/Gas-price-hits-new-record-high-amid-US-war-against-Iran",
-      "published_date": "2026-05-03T08:47:38Z",
-      "category": "Military"
-    },
-    {
       "title": "Inside Iran’s Resilient Oil Machine",
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119697",
@@ -382,13 +382,6 @@
       "category": "Energy"
     },
     {
-      "title": "Japanese tanker transits Strait of Hormuz at Iran permission",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244063/Japanese-tanker-transits-Strait-of-Hormuz-at-Iran-permission",
-      "published_date": "2026-04-28T18:46:18Z",
-      "category": "Energy"
-    },
-    {
       "title": "Iran’s Labor Market Squeeze Tightens on Youth",
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119696",
@@ -452,18 +445,46 @@
       "category": "Economy"
     },
     {
-      "title": "Iran’s Gold Funds See Record Inflows as Inflation Fears Rise",
-      "source": "Financial Tribune",
-      "url": "https://financialtribune.com/node/119691",
-      "published_date": "2026-04-28T14:27:22Z",
-      "category": "Economy"
+      "title": "Khatam al-Anbia HQ warns UAE against any hostile action",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244244/Khatam-al-Anbia-HQ-warns-UAE-against-taking-any-hostile-act",
+      "published_date": "2026-05-05T18:58:31Z",
+      "category": "Local Events"
     },
     {
-      "title": "‘Iran’s commercial ties to gain more weight in global structure after war’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/525883/Iran-s-commercial-ties-to-gain-more-weight-in-global-structure",
-      "published_date": "2026-04-28T12:52:19Z",
-      "category": "Economy"
+      "title": "Iran launches new mech. for transit through Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244243/Iran-launches-new-mech-for-transit-through-Strait-of-Hormuz",
+      "published_date": "2026-05-05T17:42:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran’s new mural depicts Martyred Leader, national unity",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244242/Tehran-s-new-mural-depicts-Martyred-Leader-national-unity",
+      "published_date": "2026-05-05T16:11:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran is a new superpower standing up to US: Mokhber",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244241/Iran-is-a-new-superpower-standing-up-to-US-Mokhber",
+      "published_date": "2026-05-05T14:50:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s junior weightlifting team depart for Egypt",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244240/Iran-s-junior-weightlifting-team-depart-for-Egypt",
+      "published_date": "2026-05-05T14:18:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Any disruption in Hormuz Strait would stir harsh response",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244239/Any-disruption-in-Hormuz-Strait-would-stir-Iran-s-harsh-respo",
+      "published_date": "2026-05-05T12:54:07Z",
+      "category": "Local Events"
     },
     {
       "title": "Media persons tour Shahid Beheshti Uni. damaged by US attacks",
@@ -561,48 +582,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244207/US-has-learned-it-cannot-speak-to-Iran-with-language-of-force",
       "published_date": "2026-05-04T09:13:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: European citizens’ rally against US-Israel war on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244206/VIDEO-European-citizens-rally-against-US-Israel-war-on-Iran",
-      "published_date": "2026-05-04T08:41:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crew of US-seized Iranian ship Touska transferred to Pakistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244205/Crew-of-US-seized-Iranian-ship-Touska-transferred-to-Pakistan",
-      "published_date": "2026-05-04T08:33:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on May 04",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244203/Front-pages-of-Iran-s-English-dailies-on-May-04",
-      "published_date": "2026-05-04T08:04:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US interference in Hormuz Strait regime ‘ceasefire violation'",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244200/US-interference-in-Hormuz-Strait-regime-ceasefire-violation",
-      "published_date": "2026-05-04T07:04:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran reviewing US response to 14-point plan: spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244198/Iran-reviewing-US-response-to-14-point-plan-spox",
-      "published_date": "2026-05-03T20:01:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man convicted of murdering Basiji executed",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244195/Man-convicted-of-murdering-Basiji-executed",
-      "published_date": "2026-05-03T16:24:45Z",
       "category": "Local Events"
     }
   ]
