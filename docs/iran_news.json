@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-06T12:59:48Z",
-  "total_stories": 79,
+  "generated_at": "2026-05-06T23:40:11Z",
+  "total_stories": 83,
   "stories": [
+    {
+      "title": "Negotiation is not dictation or extortion: Iran FM spox",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147700/Negotiation-is-not-dictation-or-extortion-Iran-FM-spox",
+      "published_date": "2026-05-06T16:21:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran appreciates China’s four-point proposal for regional peace",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147659/Iran-appreciates-China-s-four-point-proposal-for-regional-peace",
+      "published_date": "2026-05-06T15:14:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran seeks honorable regional peace through diplomacy: Government spox",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147635/Iran-seeks-honorable-regional-peace-through-diplomacy-Government",
+      "published_date": "2026-05-06T15:01:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi says China agrees post-war Iran has enhanced international standing",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147602/Araghchi-says-China-agrees-post-war-Iran-has-enhanced-international",
+      "published_date": "2026-05-06T14:24:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran ready to defend itself while remaining committed to diplomacy: Foreign Minister Araghchi",
       "source": "IRNA",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Baqaei: Iran is a superpower too",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86146318/Baqaei-Iran-is-a-superpower-too",
-      "published_date": "2026-05-05T09:50:42Z",
-      "category": "Diplomacy"
+      "title": "Israeli regime conducts airstrike on Beirut",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244278/Israeli-regime-conducts-airstrike-on-Beirut",
+      "published_date": "2026-05-06T19:39:27Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s top diplomat Araghchi to visit China on Tue. for talks",
+      "title": "Iran has sent 35 files against US, Israel to intl. bodies",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244232/Iran-s-top-diplomat-Araghchi-to-visit-China-for-talks",
-      "published_date": "2026-05-05T09:50:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shielding perpetrators not to absolve intl. obligation: envoy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244228/Shielding-perpetrators-not-to-absolve-intl-obligation-envoy",
-      "published_date": "2026-05-05T08:15:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Araghchi briefs MPs on latest developments in region",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244225/FM-Araghchi-briefs-MPs-on-latest-Iran-US-negotiations",
-      "published_date": "2026-05-05T07:25:41Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244271/Iran-has-sent-35-files-against-US-Israel-to-intl-bodies",
+      "published_date": "2026-05-06T13:27:58Z",
+      "category": "Military"
     },
     {
       "title": "IRGC: Strait of Hormuz safe passage guaranteed if aggressor threats neutralized",
@@ -172,7 +186,7 @@
       "category": "Military"
     },
     {
-      "title": "Iran, US nearing one-page MoU to end war: report",
+      "title": "Iran, US nearing to ink one-page MoU to end war: report",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244265/Iran-US-nearing-one-page-MoU-to-end-war-report",
       "published_date": "2026-05-06T10:32:18Z",
@@ -270,18 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran commemorates martyred Minister of Intelligence",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146617/Iran-commemorates-martyred-Minister-of-Intelligence",
-      "published_date": "2026-05-05T15:21:15Z",
-      "category": "Military"
+      "title": "“If the enemy bullies us, we will defeat it badly”: spox",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244276/If-the-enemy-bullies-us-we-will-defeat-it-badly-spox",
+      "published_date": "2026-05-06T15:49:08Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran’s resistance left aggressors diplomatically isolated: Russian think tank chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146464/Iran-s-resistance-left-aggressors-diplomatically-isolated-Russian",
-      "published_date": "2026-05-05T11:31:25Z",
-      "category": "Military"
+      "title": "Damaged oil facilities being rebuilt as quickly as possible",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244273/Damaged-oil-facilities-being-rebuilt-as-quickly-as-possible",
+      "published_date": "2026-05-06T14:09:03Z",
+      "category": "Energy"
     },
     {
       "title": "Inside Iran’s Resilient Oil Machine",
@@ -368,6 +382,20 @@
       "category": "Energy"
     },
     {
+      "title": "How Uncertainty Is Reshaping Iran’s Travel Economy",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119698",
+      "published_date": "2026-05-06T13:29:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Hormuz Strait traffic not to be normalized until late 2026",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244270/Hormuz-Strait-traffic-not-to-be-normalized-until-late-2026",
+      "published_date": "2026-05-06T13:05:18Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran’s Labor Market Squeeze Tightens on Youth",
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119696",
@@ -415,6 +443,48 @@
       "url": "https://www.tehrantimes.com/news/525958/Iran-s-export-of-technical-engineering-services-rises-140-in",
       "published_date": "2026-05-01T11:25:03Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iran, France presidents hold phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244279/Iran-France-presidents-hold-phone-call",
+      "published_date": "2026-05-06T19:43:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Economic pressures will fail to force Iran into submission",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244277/Economic-pressures-will-fail-to-force-Iran-into-submission",
+      "published_date": "2026-05-06T17:06:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf outlines five requests for the nation as Iran enters ‘new phase’ of war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147733/Ghalibaf-outlines-five-requests-for-the-nation-as-Iran-enters",
+      "published_date": "2026-05-06T17:02:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli nukes gravest threat to peace in Mideast, world: Iran’s former FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147696/Israeli-nukes-gravest-threat-to-peace-in-Mideast-world-Iran-s",
+      "published_date": "2026-05-06T15:38:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran hopes China to play role in promoting peace, ending war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244274/Iran-hopes-China-to-play-role-in-promoting-peace-ending-war",
+      "published_date": "2026-05-06T14:22:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "All ships must have Iran’s permission to pass through Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244272/All-ships-must-have-Iran-s-permission-to-pass-through-Hormuz",
+      "published_date": "2026-05-06T14:02:48Z",
+      "category": "Local Events"
     },
     {
       "title": "Gaza death toll reaches 72,619 since Oct. 07, 2023: ministry",
@@ -512,48 +582,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244243/Iran-launches-new-mech-for-transit-through-Strait-of-Hormuz",
       "published_date": "2026-05-05T17:42:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani Shia leaders commemorate late Leader of Islamic Revolution at Karachi consulate",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146677/Pakistani-Shia-leaders-commemorate-late-Leader-of-Islamic-Revolution",
-      "published_date": "2026-05-05T16:34:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran represents ethical and responsible power, Pezeshkian says",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146688/Iran-represents-ethical-and-responsible-power-Pezeshkian-says",
-      "published_date": "2026-05-05T16:30:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran’s new mural depicts Martyred Leader, national unity",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244242/Tehran-s-new-mural-depicts-Martyred-Leader-national-unity",
-      "published_date": "2026-05-05T16:11:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Berri calls on UNESCO to fulfill its duties regarding Israeli crimes against ancient, cultural sites",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146621/Berri-calls-on-UNESCO-to-fulfill-its-duties-regarding-Israeli",
-      "published_date": "2026-05-05T15:34:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran is a new superpower standing up to US: Mokhber",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244241/Iran-is-a-new-superpower-standing-up-to-US-Mokhber",
-      "published_date": "2026-05-05T14:50:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s junior weightlifting team depart for Egypt",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244240/Iran-s-junior-weightlifting-team-depart-for-Egypt",
-      "published_date": "2026-05-05T14:18:33Z",
       "category": "Local Events"
     }
   ]
