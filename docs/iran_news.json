@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-07T13:01:37Z",
+  "generated_at": "2026-05-07T23:42:52Z",
   "total_stories": 81,
   "stories": [
+    {
+      "title": "US sanctions Iraqi figures over Iran links",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244294/US-sanctions-Iraqi-figures-over-Iran-links",
+      "published_date": "2026-05-07T17:10:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan FMs hold talks over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148309/Iran-Pakistan-FMs-hold-talks-over-phone",
+      "published_date": "2026-05-07T14:43:58Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Pakistan discuss strengthening rail cooperation",
       "source": "Mehr News Agency",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian, Chinese foreign ministers meet in Beijing",
+      "title": "Iran’s regional approach cooperative, not exclusive: VP Aref",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146940/Iranian-Chinese-foreign-ministers-meet-in-Beijing",
-      "published_date": "2026-05-06T05:07:04Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86148323/Iran-s-regional-approach-cooperative-not-exclusive-VP-Aref",
+      "published_date": "2026-05-07T16:30:18Z",
+      "category": "Military"
     },
     {
-      "title": "Iran's Araghchi meets China's Wang Yi in Beijing",
+      "title": "Western narrative on Iran is a fabricated story",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244249/Iran-s-Araghchi-meets-China-s-Wang-Yi-in-Beijing",
-      "published_date": "2026-05-06T04:14:10Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244290/Western-narrative-on-Iran-is-a-fabricated-story",
+      "published_date": "2026-05-07T14:14:37Z",
+      "category": "Military"
     },
     {
       "title": "US increases military presence in ME to 50,000 troops: Report",
@@ -267,20 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86147094/Iran-had-no-role-in-recent-operation-against-UAE-IRGC",
       "published_date": "2026-05-06T07:31:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s powerful Armed Forces stand ready: Rezaei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244254/Iran-s-powerful-Armed-Forces-stand-ready-Rezaei",
-      "published_date": "2026-05-06T07:13:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "President Pezeshkian reaffirms strategic brotherhood with Iraq, calls for dialogue-based stability in West Asia",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86147084/President-Pezeshkian-reaffirms-strategic-brotherhood-with-Iraq",
-      "published_date": "2026-05-06T07:07:47Z",
       "category": "Military"
     },
     {
@@ -431,6 +431,27 @@
       "category": "Economy"
     },
     {
+      "title": "Russia declares ceasefire from midnight May 8 until May 10",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244295/Russia-declares-ceasefire-from-midnight-May-8-until-May-10",
+      "published_date": "2026-05-07T17:39:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coach to FIFA: Iran determined to make history, reach knockout stage for first time",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148357/Coach-to-FIFA-Iran-determined-to-make-history-reach-knockout",
+      "published_date": "2026-05-07T16:36:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran to celebrate victory soon: VP Aref",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244293/Iran-to-celebrate-victory-soon-VP-Aref",
+      "published_date": "2026-05-07T15:17:30Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Aiding enemy by undermining national unity will face legal action: Judiciary chief",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86148251/Aiding-enemy-by-undermining-national-unity-will-face-legal-action",
@@ -547,27 +568,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244263/If-we-need-a-third-American-Revolution-let-s-do-it",
       "published_date": "2026-05-06T10:40:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan welcomes US withdrawal from the Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244264/Pakistan-welcomes-US-withdrawal-from-the-Strait-of-Hormuz",
-      "published_date": "2026-05-06T10:16:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran dismisses UK anti-Semitism claim baseless, irresponsible",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244261/Iran-dismisses-UK-anti-Semitism-claim-baseless-irresponsible",
-      "published_date": "2026-05-06T09:22:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Myriads of Orthodox Jews protest Israeli policies",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244260/VIDEO-Myriads-of-Orthodox-Jews-protest-Israeli-policies",
-      "published_date": "2026-05-06T08:40:15Z",
       "category": "Local Events"
     }
   ]
