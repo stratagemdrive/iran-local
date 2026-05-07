@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-06T23:40:11Z",
-  "total_stories": 83,
+  "generated_at": "2026-05-07T13:01:37Z",
+  "total_stories": 81,
   "stories": [
+    {
+      "title": "Iran, Pakistan discuss strengthening rail cooperation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244292/Iran-Pakistan-discuss-strengthening-rail-cooperation",
+      "published_date": "2026-05-07T12:20:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan discuss strengthening rail cooperation, regional trade links",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148187/Iran-Pakistan-discuss-strengthening-rail-cooperation-regional",
+      "published_date": "2026-05-07T10:57:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia to destroy all Europe if war breaks out with Germany",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244285/Russia-to-destroy-all-Europe-if-war-breaks-out-with-Germany",
+      "published_date": "2026-05-07T08:00:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf dismisses fake news by Axios on Iran-US talks",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148049/Ghalibaf-dismisses-fake-news-by-Axios-on-Iran-US-talks",
+      "published_date": "2026-05-07T07:46:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "End of war only solution to Strait of Hormuz crisis: Iran’s UN mission",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148016/End-of-war-only-solution-to-Strait-of-Hormuz-crisis-Iran-s-UN",
+      "published_date": "2026-05-07T07:31:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan optimistic on Iran-US deal, ready to host talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244284/Pakistan-optimistic-on-Iran-US-deal-ready-to-host-talks",
+      "published_date": "2026-05-07T07:22:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian: US pressure has derailed diplomacy, guarantees needed to prevent hostile actions",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86147951/Pezeshkian-US-pressure-has-derailed-diplomacy-guarantees-needed",
+      "published_date": "2026-05-07T05:55:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Negotiation is not dictation or extortion: Iran FM spox",
       "source": "IRNA",
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran president stresses readiness to expand ties with Iraq",
+      "title": "US increases military presence in ME to 50,000 troops: Report",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244246/Iran-president-stresses-readiness-to-expand-ties-with-Iraq",
-      "published_date": "2026-05-05T20:47:11Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244291/US-increases-military-presence-in-ME-to-50-000-troops-Report",
+      "published_date": "2026-05-07T10:54:03Z",
+      "category": "Military"
     },
     {
-      "title": "Iran urges Persian Gulf states to stop relying on external powers for security",
+      "title": "Iran embassy in Seoul rejects claim of attack on South Korean ship",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146569/Iran-urges-Persian-Gulf-states-to-stop-relying-on-external-powers",
-      "published_date": "2026-05-05T14:28:55Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86148162/Iran-embassy-in-Seoul-rejects-claim-of-attack-on-South-Korean",
+      "published_date": "2026-05-07T10:43:14Z",
+      "category": "Military"
     },
     {
-      "title": "Pakistan PM says US-Iran ceasefire must hold to allow space for talks",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146576/Pakistan-PM-says-US-Iran-ceasefire-must-hold-to-allow-space-for",
-      "published_date": "2026-05-05T13:40:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK chancellor, US treasury chief clashed over Iran war",
+      "title": "Hamas leader’s son dies of injuries from Israeli strike",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244235/UK-chancellor-US-treasury-chief-clashed-over-Iran-war",
-      "published_date": "2026-05-05T11:01:17Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244288/Hamas-leader-s-son-dies-of-injuries-from-Israeli-strike",
+      "published_date": "2026-05-07T09:54:53Z",
+      "category": "Military"
     },
     {
-      "title": "EU warns Airlines to brace for scenarios due to fuel crisis",
+      "title": "One killed in Israeli strikes on Lebanon’s Nabatieh",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244234/EU-warns-Airlines-to-brace-for-scenarios-due-to-fuel-crisis",
-      "published_date": "2026-05-05T10:23:57Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244287/One-killed-in-Israeli-strikes-on-Lebanon-s-Nabatieh",
+      "published_date": "2026-05-07T09:47:24Z",
+      "category": "Military"
     },
     {
-      "title": "FM Araghchi will travel to China today",
+      "title": "Iran protests Austria’s hasty position over alleged attack on UAE",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146324/FM-Araghchi-will-travel-to-China-today",
-      "published_date": "2026-05-05T09:53:08Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86148081/Iran-protests-Austria-s-hasty-position-over-alleged-attack-on",
+      "published_date": "2026-05-07T08:55:33Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi: Trump’s ‘Project Freedom’ is Project Deadlock",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86146311/Araghchi-Trump-s-Project-Freedom-is-Project-Deadlock",
-      "published_date": "2026-05-05T09:51:47Z",
-      "category": "Diplomacy"
+      "title": "Trump forced to retreat from opening Hormuz Strait militarily",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244282/Trump-forced-to-retreat-from-opening-Hormuz-Strait-militarily",
+      "published_date": "2026-05-07T06:29:44Z",
+      "category": "Military"
     },
     {
       "title": "Israeli regime conducts airstrike on Beirut",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Israel could drag UAE back into war quagmire",
+      "title": "Iran offers delivering services to ships in Strait of Hormuz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244253/Israel-could-drag-UAE-back-into-war-quagmire",
-      "published_date": "2026-05-06T07:04:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran rejects UAE claims, warns against ‘collusion’ with US and Israel",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146996/Iran-rejects-UAE-claims-warns-against-collusion-with-US-and",
-      "published_date": "2026-05-06T05:56:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two ships carrying US troops targeted in Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244251/Two-ships-carrying-US-troops-targeted-in-Strait-of-Hormuz",
-      "published_date": "2026-05-06T05:52:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump retreats again by halting operation in Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244248/Trump-retreats-again-by-halting-operation-in-Strait-of-Hormuz",
-      "published_date": "2026-05-06T03:38:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC warns ships must only use designated routes in Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244245/IRGC-warns-ships-must-only-use-designated-routes-in-Hormuz",
-      "published_date": "2026-05-05T19:14:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Islamic Jihad warns of escalating incursions into Al-Aqsa Mosque",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146710/Islamic-Jihad-warns-of-escalating-incursions-into-Al-Aqsa-Mosque",
-      "published_date": "2026-05-05T16:42:38Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/244281/Iran-offers-delivering-services-to-ships-in-Strait-of-Hormuz",
+      "published_date": "2026-05-07T06:01:23Z",
+      "category": "Energy"
     },
     {
       "title": "“If the enemy bullies us, we will defeat it badly”: spox",
@@ -361,27 +368,6 @@
       "category": "Energy"
     },
     {
-      "title": "Iran’s all enriched uranium ‘under IAEA supervision’: Mission",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244104/Iran-s-all-enriched-uranium-under-IAEA-supervision-mission",
-      "published_date": "2026-04-30T06:31:18Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran warns US junk advice pushing oil to $140",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244103/Iran-warns-US-junk-advice-pushing-oil-to-140",
-      "published_date": "2026-04-30T05:55:14Z",
-      "category": "Energy"
-    },
-    {
-      "title": "‘3 days in, no oil well exploded’, Ghalibaf calls Trump’s bluff",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86141533/3-days-in-no-oil-well-exploded-Ghalibaf-calls-Trump-s-bluff",
-      "published_date": "2026-04-30T05:00:08Z",
-      "category": "Energy"
-    },
-    {
       "title": "How Uncertainty Is Reshaping Iran’s Travel Economy",
       "source": "Financial Tribune",
       "url": "https://financialtribune.com/node/119698",
@@ -445,6 +431,48 @@
       "category": "Economy"
     },
     {
+      "title": "Aiding enemy by undermining national unity will face legal action: Judiciary chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148251/Aiding-enemy-by-undermining-national-unity-will-face-legal-action",
+      "published_date": "2026-05-07T12:45:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Iran will not let foreign pressures derail nation’s progress",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148217/Pezeshkian-Iran-will-not-let-foreign-pressures-derail-nation-s",
+      "published_date": "2026-05-07T12:06:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran offers support services to commercial ships in Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86148131/Iran-offers-support-services-to-commercial-ships-in-Strait-of",
+      "published_date": "2026-05-07T09:39:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Any talk on reopening of Hormuz relies on lifting of blockade",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244286/Any-talk-on-reopening-of-Hormuz-relies-on-lifting-of-blockade",
+      "published_date": "2026-05-07T09:27:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran's rose water city welcomes harvest season",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244283/Iran-s-rose-water-city-welcomes-harvest-season",
+      "published_date": "2026-05-07T07:07:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on May 7",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244280/Front-pages-of-Iran-s-English-dailies-on-May-7",
+      "published_date": "2026-05-07T05:41:34Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran, France presidents hold phone call",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244279/Iran-France-presidents-hold-phone-call",
@@ -473,7 +501,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Iran hopes China to play role in promoting peace, ending war",
+      "title": "Iran hopes China plays role in promoting peace, ending war",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244274/Iran-hopes-China-to-play-role-in-promoting-peace-ending-war",
       "published_date": "2026-05-06T14:22:43Z",
@@ -540,48 +568,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244260/VIDEO-Myriads-of-Orthodox-Jews-protest-Israeli-policies",
       "published_date": "2026-05-06T08:40:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran rejects UK anti-Semitism claims as ‘baseless and irresponsible’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86147159/Iran-rejects-UK-anti-Semitism-claims-as-baseless-and-irresponsible",
-      "published_date": "2026-05-06T07:48:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 killed, 7 injured in Brazil school shooting",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244256/2-killed-7-injured-in-Brazil-school-shooting",
-      "published_date": "2026-05-06T07:20:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian : No one can make Muslims surrender",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86146992/Pezeshkian-No-one-can-make-Muslims-surrender",
-      "published_date": "2026-05-06T05:55:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on May 06",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244247/Front-pages-of-Iran-s-English-dailies-on-May-06",
-      "published_date": "2026-05-06T03:29:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khatam al-Anbia HQ warns UAE against any hostile action",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244244/Khatam-al-Anbia-HQ-warns-UAE-against-taking-any-hostile-act",
-      "published_date": "2026-05-05T18:58:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran launches new mech. for transit through Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244243/Iran-launches-new-mech-for-transit-through-Strait-of-Hormuz",
-      "published_date": "2026-05-05T17:42:40Z",
       "category": "Local Events"
     }
   ]
