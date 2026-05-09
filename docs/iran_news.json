@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-09T11:59:33Z",
+  "generated_at": "2026-05-09T23:38:11Z",
   "total_stories": 76,
   "stories": [
+    {
+      "title": "Israeli assassinations will only strengthen Palestinian resistance: Hezbollah official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86149860/Israeli-assassinations-will-only-strengthen-Palestinian-resistance",
+      "published_date": "2026-05-09T16:34:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy: Agreement possible if US acts rationally",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86149748/Iran-envoy-Agreement-possible-if-US-acts-rationally",
+      "published_date": "2026-05-09T13:46:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Military strategy against Iran has failed: Ambassador",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86149716/Military-strategy-against-Iran-has-failed-Ambassador",
+      "published_date": "2026-05-09T12:16:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Commemoration ceremony of martyr Ali Larijani held in Tehran",
       "source": "Mehr News Agency",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "‘Heavy slap’ was blown on aggressors’ face for truce violation: Foreign Ministry",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86148865/Heavy-slap-was-blown-on-aggressors-face-for-truce-violation",
-      "published_date": "2026-05-08T14:31:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Araghchi warns US of its new adventurism against Iran",
+      "title": "IRGC vows to respond to attacks on Iranian vessels",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244316/FM-Araghchi-warns-US-of-its-new-adventurism-against-Iran",
-      "published_date": "2026-05-08T12:27:20Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244362/IRGC-vows-to-respond-to-attack-on-Iranian-vessels",
+      "published_date": "2026-05-09T20:11:08Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi: Iranians never bow to pressure",
+      "title": "Merz says Europe shares US goal of ending Iran war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244357/Merz-says-Europe-shares-US-goal-of-ending-Iran-war",
+      "published_date": "2026-05-09T16:02:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Enemy failed to weaken Iran economically despite targeting heavy industries: VP",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86148784/Araghchi-Iranians-never-bow-to-pressure",
-      "published_date": "2026-05-08T11:45:28Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86149713/Enemy-failed-to-weaken-Iran-economically-despite-targeting-heavy",
+      "published_date": "2026-05-09T12:46:05Z",
+      "category": "Military"
     },
     {
       "title": "VIDEO: 26 female teachers killed in US attack on Minab School",
@@ -263,25 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "The UAE: An unreliable neighbor",
+      "title": "Iran's oil exports unstoppable: senior lawmaker",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244289/The-UAE-An-unreliable-neighbor",
-      "published_date": "2026-05-08T14:22:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "FM denounces US aggression against 2 Iranian oil tankers",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244315/FM-denounces-US-aggression-against-2-Iranian-oil-tankers",
-      "published_date": "2026-05-08T12:15:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "SE Asian leaders discuss Mideast war challenges",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244314/SE-Asian-leaders-discuss-Mideast-war-challenges",
-      "published_date": "2026-05-08T11:57:02Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/244354/Iran-s-oil-exports-unstoppable-senior-lawmaker",
+      "published_date": "2026-05-09T13:25:01Z",
+      "category": "Energy"
     },
     {
       "title": "Iran Navy seizes ‘Ocean Koi’ oil tanker in Gulf of Oman",
@@ -340,11 +347,18 @@
       "category": "Energy"
     },
     {
-      "title": "Managing Strait of Hormuz similar to nationalizing oil industry for Iran: Deputy speaker",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86143474/Managing-Strait-of-Hormuz-similar-to-nationalizing-oil-industry",
-      "published_date": "2026-05-02T12:35:45Z",
-      "category": "Energy"
+      "title": "Iran’s Engineering Service Exports Surge Sharply",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119701",
+      "published_date": "2026-05-09T13:56:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Time for Iran to Diversify Trade Networks",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119700",
+      "published_date": "2026-05-09T13:38:43Z",
+      "category": "Economy"
     },
     {
       "title": "Central Banking in an Age of Radical Uncertainty",
@@ -382,18 +396,60 @@
       "category": "Economy"
     },
     {
-      "title": "China bans implementation of US sanctions against Iran",
+      "title": "Omani Mufti calls for unity against aggression on Gaza, Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244164/China-bans-implementation-of-US-sanctions-against-Iran",
-      "published_date": "2026-05-02T15:35:20Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/244363/Omani-Mufti-calls-for-unity-against-aggression-on-Gaza-Iran",
+      "published_date": "2026-05-09T20:39:26Z",
+      "category": "Local Events"
     },
     {
-      "title": "Dollar Surge Puts Iran’s FX Market Under Fresh Strain",
-      "source": "Financial Tribune",
-      "url": "https://financialtribune.com/node/119694",
-      "published_date": "2026-05-02T13:49:15Z",
-      "category": "Economy"
+      "title": "Iran’s national beach soccer team ranks 6th in world",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244361/Iran-s-national-beach-soccer-team-ranks-6th-in-world",
+      "published_date": "2026-05-09T17:18:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Azizi warns Bahrain about supporting US resolution",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244360/Azizi-warns-some-states-for-supporting-US-resolution",
+      "published_date": "2026-05-09T17:14:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli regime kills 18 in Lebanon despite ceasfire",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244358/Israeli-regime-kills-18-in-Lebanon-despiote-ceasfire",
+      "published_date": "2026-05-09T16:46:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Europe set to evacuate people from hantavirus-stricken cruise ship",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86149891/Europe-set-to-evacuate-people-from-hantavirus-stricken-cruise",
+      "published_date": "2026-05-09T16:33:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Belarus ready to expand cultural cooperation with Iran: Minister",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86149829/Belarus-ready-to-expand-cultural-cooperation-with-Iran-Minister",
+      "published_date": "2026-05-09T15:23:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran entitled to be in World Cup: Mourinho",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244355/Iran-entitled-to-be-in-World-Cup-Mourinho",
+      "published_date": "2026-05-09T14:16:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presser of Head of Special Diseases Foundation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244353/Presser-of-Head-of-Special-Diseases-Foundation",
+      "published_date": "2026-05-09T13:07:29Z",
+      "category": "Local Events"
     },
     {
       "title": "Gaza death toll rises to 72,736 since Oct. 07, 2023: ministry",
@@ -477,62 +533,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244333/What-Netanyahu-prusues-from-ceasefire-violations-in-Lebanon",
       "published_date": "2026-05-09T06:56:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian congratulates Iran’s youth weightlifting national team’s victory in Egypt",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86149237/Pezeshkian-congratulates-Iran-s-youth-weightlifting-national",
-      "published_date": "2026-05-09T06:40:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Musical instrument workshop in Iran’s Sanandaj",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86149178/In-photos-Musical-instrument-workshop-in-Iran-s-Sanandaj",
-      "published_date": "2026-05-09T06:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birdwatching: A thriving branch of ecotourism in Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86149164/Birdwatching-A-thriving-branch-of-ecotourism-in-Iran",
-      "published_date": "2026-05-09T05:52:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Boxing premier league final",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86149156/In-photos-Boxing-premier-league-final",
-      "published_date": "2026-05-09T05:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colonialism has no place in future world: Pezeshkian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244332/Colonialism-has-no-place-in-future-world-Pezeshkian",
-      "published_date": "2026-05-09T05:24:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran teaches Yankees a lesson",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244331/Iran-teaches-Yankees-a-lesson",
-      "published_date": "2026-05-09T05:10:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh Israeli strikes kill 10 in southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244326/Israeli-fresh-strikes-kill-10-in-southern-Lebanon",
-      "published_date": "2026-05-09T04:21:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN chief urges avoiding further escalation in Hormuz Strait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244324/UN-chief-urges-avoiding-further-escalation-in-Hormuz-Strait",
-      "published_date": "2026-05-09T04:02:54Z",
       "category": "Local Events"
     }
   ]
