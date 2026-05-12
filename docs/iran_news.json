@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-12T13:11:50Z",
-  "total_stories": 86,
+  "generated_at": "2026-05-12T23:51:51Z",
+  "total_stories": 87,
   "stories": [
+    {
+      "title": "Pope awards Vatican's highest diplomatic honor to Iran envoy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244466/Pope-awards-Vatican-s-highest-diplomatic-honor-to-Iran-envoy",
+      "published_date": "2026-05-12T20:34:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Norwegian deputy FM meets with Iran foreign minister",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86152712/Norwegian-deputy-FM-meets-with-Iran-foreign-minister",
+      "published_date": "2026-05-12T14:40:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Sudanese call on EU to sanction UAE for fueling civil war",
       "source": "Mehr News Agency",
@@ -130,18 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran supports China's four-point plan for Persian Gulf security: Envoy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86151713/Iran-supports-China-s-four-point-plan-for-Persian-Gulf-security",
-      "published_date": "2026-05-11T13:55:52Z",
-      "category": "Diplomacy"
+      "title": "S. Arabia conducted 'covert' strikes on Iran in Mar.: Report",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244468/S-Arabia-conducted-covert-strikes-on-Iran-in-Mar-Report",
+      "published_date": "2026-05-12T21:57:30Z",
+      "category": "Military"
     },
     {
-      "title": "Foreign Ministry spokesperson: Iran is not a bully, it fights bullies",
+      "title": "Accept Iran’s rights or face repeated military defeats",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244464/Accept-Iran-s-rights-or-face-repeated-military-defeats",
+      "published_date": "2026-05-12T19:16:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns of ‘immediate, regret-inducing’ response to any new enemy attack",
       "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86151651/Foreign-Ministry-spokesperson-Iran-is-not-a-bully-it-fights",
-      "published_date": "2026-05-11T13:35:35Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86152814/Iran-warns-of-immediate-regret-inducing-response-to-any-new",
+      "published_date": "2026-05-12T16:35:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC deals blow to Mossad-linked arms trafficking network",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244461/IRGC-deals-blow-to-Mossad-linked-arms-trafficking-network",
+      "published_date": "2026-05-12T15:40:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah chief vows to turn battlefield into hell for Israel",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86152707/Hezbollah-chief-vows-to-turn-battlefield-into-hell-for-Israel",
+      "published_date": "2026-05-12T14:43:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Digital Economy in Iran Suffers $374m Loss During War",
+      "source": "Financial Tribune",
+      "url": "https://financialtribune.com/node/119705",
+      "published_date": "2026-05-12T13:08:24Z",
+      "category": "Military"
     },
     {
       "title": "IRGC holds major 5-day combat exercise around Tehran",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "‘There is absolutely no division at all’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526320/There-is-absolutely-no-division-at-all",
-      "published_date": "2026-05-11T15:44:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "US spending on waging war against Iran surpasses $77 billion",
+      "title": "US to release 53.3 million barrels of its strategic reserves",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244429/US-spending-on-waging-war-against-Iran-surpasses-77-billion",
-      "published_date": "2026-05-11T14:37:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq’s PM-designate set to present majority of cabinet",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244431/Iraq-s-PM-designate-set-to-present-majority-of-cabinet",
-      "published_date": "2026-05-11T14:37:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Taxi drivers in Tehran parade to renew allegiance with Leader",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244428/Taxi-drivers-in-Tehran-parade-to-renew-allegiance-with-Leader",
-      "published_date": "2026-05-11T14:15:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "China rejects illegal US sanctions against Iran: FM spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244426/China-rejects-illegal-US-sanctions-over-Iran-FM-spox",
-      "published_date": "2026-05-11T14:02:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Israeli airstrike on Rihan Town, southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244425/VIDEO-Israeli-airstrike-on-Rihan-Town-southern-Lebanon",
-      "published_date": "2026-05-11T13:43:04Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/244459/US-to-release-53-3-million-barrels-of-its-strategic-reserves",
+      "published_date": "2026-05-12T13:21:22Z",
+      "category": "Energy"
     },
     {
       "title": "US Navy blocks non-Iranian oil tanker passing Hormuz Strait",
@@ -466,6 +473,48 @@
       "category": "Economy"
     },
     {
+      "title": "Strong earthquake strikes Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244467/Strong-earthquake-strikes-Tehran",
+      "published_date": "2026-05-12T20:47:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-war protesters disrupt Hegseth hearing",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244465/Anti-war-protesters-disrupt-Hegseth-hearing",
+      "published_date": "2026-05-12T20:16:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sirens triggered again in northern occupied Palestine",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244463/Sirens-triggered-again-in-northern-occupied-Palestine",
+      "published_date": "2026-05-12T18:06:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Oman hold talks on Strait of Hormuz shipping safety",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244462/Iran-Oman-hold-talks-on-Strait-of-Hormuz-shipping-safety",
+      "published_date": "2026-05-12T16:52:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milad Ebadipour joins Greece’s AONS Milon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244460/Milad-Ebadipour-joins-Greece-s-AONS-Milon",
+      "published_date": "2026-05-12T14:05:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Oman hold talks on Strait of Hormuz shipping safety",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86152690/Iran-Oman-hold-talks-on-Strait-of-Hormuz-shipping-safety",
+      "published_date": "2026-05-12T13:45:02Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran’s Sanandaj holds family walks to remember historic visit of late Leader",
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86152506/Iran-s-Sanandaj-holds-family-walks-to-remember-historic-visit",
@@ -561,48 +610,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/526311/National-document-on-rehabilitation-being-developed",
       "published_date": "2026-05-11T13:11:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Thank you, Spain'",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526312/Thank-you-Spain",
-      "published_date": "2026-05-11T13:11:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran calls for Iraq to help address environmental challenges",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526307/Iran-calls-for-Iraq-to-help-address-environmental-challenges",
-      "published_date": "2026-05-11T13:01:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presser of Iranian Foreign Ministry’s spokesman",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244420/Presser-of-Iranian-Foreign-Ministry-s-spokesman",
-      "published_date": "2026-05-11T11:37:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saei re-elected as head of Iran taekwondo federation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526296/Saei-re-elected-as-head-of-Iran-taekwondo-federation",
-      "published_date": "2026-05-11T10:34:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CIA-Mossad spy executed in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244417/CIA-Mossad-spy-executed-in-Iran",
-      "published_date": "2026-05-11T10:32:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Patriots in the streets for more than 70 nights",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526295/Patriots-in-the-streets-for-more-than-70-nights",
-      "published_date": "2026-05-11T10:31:02Z",
       "category": "Local Events"
     }
   ]
