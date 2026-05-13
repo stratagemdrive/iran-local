@@ -1,8 +1,120 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-12T23:51:51Z",
-  "total_stories": 87,
+  "generated_at": "2026-05-13T13:25:14Z",
+  "total_stories": 88,
   "stories": [
+    {
+      "title": "VIDEO: Trump arrives in China for state visit",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244490/VIDEO-Trump-arrives-in-China-for-state-visit",
+      "published_date": "2026-05-13T12:15:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "BRICS needs to defend rights of nations against sanctions and coercion: Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153650/BRICS-needs-to-defend-rights-of-nations-against-sanctions-and",
+      "published_date": "2026-05-13T12:14:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gharibabadi meets Indian Foreign Ministry’s secretary for West Aaffairs in New Delhi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153644/Gharibabadi-meets-Indian-Foreign-Ministry-s-secretary-for-West",
+      "published_date": "2026-05-13T11:52:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump visits China amid Iran war deadlock",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153559/Trump-visits-China-amid-Iran-war-deadlock",
+      "published_date": "2026-05-13T11:24:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope awards Vatican’s highest diplomatic honor to Iran’s ambassador",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153554/Pope-awards-Vatican-s-highest-diplomatic-honor-to-Iran-s-ambassador",
+      "published_date": "2026-05-13T11:16:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says ties with other nations ‘never against India’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153586/Iran-says-ties-with-other-nations-never-against-India",
+      "published_date": "2026-05-13T11:13:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Azerbaijan FMs discuss diplomacy, regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153536/Iran-Azerbaijan-FMs-discuss-diplomacy-regional-developments",
+      "published_date": "2026-05-13T10:40:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Azerbaijan FMs discuss ties, regional developments",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244482/Iran-Azerbaijan-FMs-discuss-ties-regional-developments",
+      "published_date": "2026-05-13T08:53:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Trump-Xi meeting: Who holds the upper hand?",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244473/The-Trump-Xi-meeting-Who-holds-the-upper-hand",
+      "published_date": "2026-05-13T08:16:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran–India ties geopolitical necessity in ‘uncertain world’: Diplomat",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153270/Iran-India-ties-geopolitical-necessity-in-uncertain-world",
+      "published_date": "2026-05-13T08:15:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US maximalist stance main obstacle to ending war: Iran top diplomat",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153164/US-maximalist-stance-main-obstacle-to-ending-war-Iran-top-diplomat",
+      "published_date": "2026-05-13T06:36:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran outlines principles for sustainable resolution to crisis created by US, Israel: Deputy FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153056/Iran-outlines-principles-for-sustainable-resolution-to-crisis",
+      "published_date": "2026-05-13T06:33:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US-Israeli war on Iran marks defining battle between ‘good’ and ‘evil’: Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153085/US-Israeli-war-on-Iran-marks-defining-battle-between-good-and",
+      "published_date": "2026-05-13T06:11:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US conduct biggest obstacle to reaching deal: Araghchi",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244475/US-conduct-biggest-obstacle-to-reaching-deal-Araghchi",
+      "published_date": "2026-05-13T05:52:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese, Pakistani FMs discuss Iran war ceasefire push",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244472/Chinese-Pakistani-FMs-discuss-Iran-war-ceasefire-push",
+      "published_date": "2026-05-13T04:45:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's ambassador outlines Tehran's message to Beijing",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244469/Iran-s-ambassador-outlines-Tehran-s-message-to-Beijing",
+      "published_date": "2026-05-13T03:22:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pope awards Vatican's highest diplomatic honor to Iran envoy",
       "source": "Mehr News Agency",
@@ -32,116 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Uzbekistan discuss mutual ties, regional developments",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152607/Iran-Uzbekistan-discuss-mutual-ties-regional-developments",
-      "published_date": "2026-05-12T11:59:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Baqaei: Araghchi will participate in BRICS summit in India",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152597/Baqaei-Araghchi-will-participate-in-BRICS-summit-in-India",
-      "published_date": "2026-05-12T11:43:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Uzbekistan FMs discuss ties and regional tensions",
+      "title": "Commemoration ceremony of martyrs of US-Israeli aggression",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244454/Iran-Uzbekistan-FMs-discuss-ties-and-regional-tensions",
-      "published_date": "2026-05-12T11:34:05Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/photo/244489/Commemoration-ceremony-of-martyrs-of-US-Israeli-aggression",
+      "published_date": "2026-05-13T12:03:17Z",
+      "category": "Military"
     },
     {
-      "title": "Envoy: China has played key role in de-escalation efforts, is part of Iran’s political balancing strategy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152573/Envoy-China-has-played-key-role-in-de-escalation-efforts-is",
-      "published_date": "2026-05-12T11:18:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Araghchi to attend BRICS meeting in India",
+      "title": "Intl. scientists urge protecting Iran's varsities from attack",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244453/Iran-s-Araghchi-to-attend-BRICS-meeting-in-India",
-      "published_date": "2026-05-12T10:51:37Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244488/Intl-scientists-urge-protecting-Iran-s-varsities-from-attack",
+      "published_date": "2026-05-13T11:45:53Z",
+      "category": "Military"
     },
     {
-      "title": "Pakistan: CBS’ anti-Iran claim aims at undermining efforts to maintain peace",
+      "title": "Former Qatari PM: US war harmed its allies in region",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152199/Pakistan-CBS-anti-Iran-claim-aims-at-undermining-efforts-to",
-      "published_date": "2026-05-12T07:36:31Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/photo/86153588/Former-Qatari-PM-US-war-harmed-its-allies-in-region",
+      "published_date": "2026-05-13T11:07:01Z",
+      "category": "Military"
     },
     {
-      "title": "US seizure of oil tankers and treatment of crew members ‘illegal, inhuman’: Iran’s envoy to IMO",
+      "title": "US cannot use Spain’s air bases for unilateral war on Iran: Spanish FM",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152107/US-seizure-of-oil-tankers-and-treatment-of-crew-members-illegal",
-      "published_date": "2026-05-12T06:38:46Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86153423/US-cannot-use-Spain-s-air-bases-for-unilateral-war-on-Iran-Spanish",
+      "published_date": "2026-05-13T11:06:16Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s Gharibabadi holds talks with Norwegian counterpart, French envoy, President of BRICS Bank",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152080/Iran-s-Gharibabadi-holds-talks-with-Norwegian-counterpart-French",
-      "published_date": "2026-05-12T06:26:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Singapore review regional developments",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152047/Iran-Singapore-review-regional-developments",
-      "published_date": "2026-05-12T06:14:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Islamabad to remain venue for US-Iran talks",
+      "title": "No US weapons to transit Hormuz Strait into reg. bases",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244445/Islamabad-to-remain-venue-for-US-Iran-talks",
-      "published_date": "2026-05-12T06:14:45Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244487/No-US-weapons-to-transit-Hormuz-Strait-into-reg-bases",
+      "published_date": "2026-05-13T10:50:48Z",
+      "category": "Military"
     },
     {
-      "title": "US imposes sanctions on 12 individuals and entities over Iranian oil sales",
+      "title": "‘US project goes beyond Iran’: Iraqi analyst warns amid Washington’s escalations",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152068/US-imposes-sanctions-on-12-individuals-and-entities-over-Iranian",
-      "published_date": "2026-05-12T05:59:28Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86153449/US-project-goes-beyond-Iran-Iraqi-analyst-warns-amid-Washington-s",
+      "published_date": "2026-05-13T10:17:50Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s Velayati to Trump: You will be defeated in diplomacy similar to battlefield",
+      "title": "UAE role in US-Israeli war against Iran ‘categorially harm’",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244484/UAE-role-in-US-Israeli-war-against-Iran-categorially-harm",
+      "published_date": "2026-05-13T09:53:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iraqi analyst: Trump after a hollow victory and pushing empty rhetoric",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152050/Iran-s-Velayati-to-Trump-You-will-be-defeated-in-diplomacy-similar",
-      "published_date": "2026-05-12T05:49:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US UNSC draft on Strait of Hormuz aims to deflect from real issue: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152037/US-UNSC-draft-on-Strait-of-Hormuz-aims-to-deflect-from-real-issue",
-      "published_date": "2026-05-12T05:17:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran slams US push for Hormuz Strait security resolution",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244444/Tehran-slams-US-push-for-Hormuz-Strait-security-resolution",
-      "published_date": "2026-05-12T05:16:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran will defeat Trump in diplomacy as it did on battlefield",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244439/Iran-will-defeat-Trump-in-diplomacy-as-it-did-on-battlefield",
-      "published_date": "2026-05-11T20:29:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Singapore FMs discuss ties, region in call",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244436/Iran-Singapore-FMs-discuss-ties-region-in-call",
-      "published_date": "2026-05-11T18:24:14Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86153213/Iraqi-analyst-Trump-after-a-hollow-victory-and-pushing-empty",
+      "published_date": "2026-05-13T07:44:13Z",
+      "category": "Military"
     },
     {
       "title": "S. Arabia conducted 'covert' strikes on Iran in Mar.: Report",
@@ -228,60 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Night rally on Kish Island backs Iran's Leader",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244446/Night-rally-on-Kish-Island-backs-Iran-s-Leader",
-      "published_date": "2026-05-12T06:40:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf: Enemies will be ‘surprised’ by Iran’s response to any aggression",
+      "title": "Experts say war on Iran could accelerate Southeast Asia’s plans to tap nuclear energy",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152051/Ghalibaf-Enemies-will-be-surprised-by-Iran-s-response-to-any",
-      "published_date": "2026-05-12T05:55:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's UK embassy hits back at Trump with list of US crimes",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244443/Iran-s-UK-embassy-hits-back-at-Trump-with-list-of-US-crimes",
-      "published_date": "2026-05-12T04:49:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "No trust, no deal: Why Tehran rejects US overtures?",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244441/No-trust-no-deal-Why-Tehran-rejects-US-overtures",
-      "published_date": "2026-05-12T03:53:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Harmony in wounded synagogue of Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86151928/Harmony-in-wounded-synagogue-of-Tehran",
-      "published_date": "2026-05-11T20:25:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf warns US Iran military will take them by surprise",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244438/Ghalibaf-warns-US-Iran-military-will-make-them-remorseful",
-      "published_date": "2026-05-11T18:58:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan to continue mediation between Iran and US",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244434/Pakistan-to-continue-mediation-between-Iran-and-US",
-      "published_date": "2026-05-11T17:14:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian embassy hits back at Trump with list of US crimes",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86151776/Iranian-embassy-hits-back-at-Trump-with-list-of-US-crimes",
-      "published_date": "2026-05-11T16:43:41Z",
-      "category": "Military"
+      "url": "https://en.irna.ir/news/86153425/Experts-say-war-on-Iran-could-accelerate-Southeast-Asia-s-plans",
+      "published_date": "2026-05-13T10:33:43Z",
+      "category": "Energy"
     },
     {
       "title": "US to release 53.3 million barrels of its strategic reserves",
@@ -389,6 +396,13 @@
       "category": "Energy"
     },
     {
+      "title": "New York mayor blasts soaring US inflation linked to war against Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153277/New-York-mayor-blasts-soaring-US-inflation-linked-to-war-against",
+      "published_date": "2026-05-13T07:53:43Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran, Afghanistan plan joint border market, expansion of medical tourism",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86152515/Iran-Afghanistan-plan-joint-border-market-expansion-of-medical",
@@ -466,11 +480,102 @@
       "category": "Economy"
     },
     {
-      "title": "Hormuz Strait traffic not to be normalized until late 2026",
+      "title": "Iranians boost blood donations during war, national reserves rise to 11 days: Official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153630/Iranians-boost-blood-donations-during-war-national-reserves",
+      "published_date": "2026-05-13T11:52:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanese media: Iran has become a world power",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153521/Lebanese-media-Iran-has-become-a-world-power",
+      "published_date": "2026-05-13T11:31:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 3,400 people martyred in recent US-Israeli aggression",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244270/Hormuz-Strait-traffic-not-to-be-normalized-until-late-2026",
-      "published_date": "2026-05-06T13:05:18Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/244486/Over-3-400-people-martyred-in-recent-US-Israeli-aggression",
+      "published_date": "2026-05-13T10:42:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran, Minsk eye expanding scientific cooperation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244485/Tehran-Minsk-eye-expanding-scientific-cooperation",
+      "published_date": "2026-05-13T10:13:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Israel targets car on Jiyeh road, southern Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244483/VIDEO-Israel-targets-a-car-on-Jiyeh-road-southern-Lebanon",
+      "published_date": "2026-05-13T09:31:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mossad spy transferring Iran's Intel. data to Israel executed",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244481/Mossad-spy-transferring-Iran-intelligence-to-Israel-executed",
+      "published_date": "2026-05-13T08:56:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "4 people shot in West Philadelphia on Tue.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244480/4-people-shot-in-West-Philadelphia-on-Tue",
+      "published_date": "2026-05-13T08:34:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antonio Gagliardi parts company with Iran natl. football team",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244479/Antonio-Gagliardi-parts-company-with-Iran-natl-football-team",
+      "published_date": "2026-05-13T08:25:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Natl. Football team training session",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244477/Iran-s-Natl-Football-team-training-session",
+      "published_date": "2026-05-13T07:41:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran asks world people to reject barbarism, stand with peace",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244476/Iran-asks-world-people-to-reject-barbarism-stand-with-peace",
+      "published_date": "2026-05-13T07:14:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran rejects Kuwait’s baseless claim regarding 4 Iranian citizens",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86153043/Iran-rejects-Kuwait-s-baseless-claim-regarding-4-Iranian-citizens",
+      "published_date": "2026-05-13T06:24:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "13 Lebanese killed in fresh Israeli strikes",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244474/13-Lebanese-killed-in-fresh-Israeli-strikes",
+      "published_date": "2026-05-13T05:13:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran rejects Kuwait's hostile intent claims",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244471/Tehran-rejects-Kuwait-s-hostile-intent-claims",
+      "published_date": "2026-05-13T04:00:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on May 13",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244470/Front-pages-of-Iran-s-English-dailies-on-May-13",
+      "published_date": "2026-05-13T03:44:56Z",
+      "category": "Local Events"
     },
     {
       "title": "Strong earthquake strikes Tehran",
@@ -512,104 +617,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86152690/Iran-Oman-hold-talks-on-Strait-of-Hormuz-shipping-safety",
       "published_date": "2026-05-12T13:45:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Sanandaj holds family walks to remember historic visit of late Leader",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86152506/Iran-s-Sanandaj-holds-family-walks-to-remember-historic-visit",
-      "published_date": "2026-05-12T10:34:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Birjand people rally in support of Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244450/Birjand-people-rally-in-support-of-Iran",
-      "published_date": "2026-05-12T09:44:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martyr Ayatollah Khamenei remembered in ‘Amin of Iran’ ceremony in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86152343/Martyr-Ayatollah-Khamenei-remembered-in-Amin-of-Iran-ceremony",
-      "published_date": "2026-05-12T08:46:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minab school massacre is global symbol of condemnation against Israeli crimes on children: Iranian minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152266/Minab-school-massacre-is-global-symbol-of-condemnation-against",
-      "published_date": "2026-05-12T08:04:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CBS’ anti-Iran claim aims at undermining peace efforts",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244449/CBS-anti-Iran-claim-aims-at-undermining-peace-efforts",
-      "published_date": "2026-05-12T08:02:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: West Azarbaijan governor visits Urmia Lake islands",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86152200/In-photos-West-Azarbaijan-governor-visits-Urmia-Lake-islands",
-      "published_date": "2026-05-12T07:20:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran loses to Kazakhstan in 2026 Asian Women’s U16 Handball",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244447/Iran-loses-to-Kazakhstan-in-2026-Asian-Women-s-U16-Handball",
-      "published_date": "2026-05-12T07:08:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian praises Ayatollah Sistani’s support for Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86152119/President-Pezeshkian-praises-Ayatollah-Sistani-s-support-for",
-      "published_date": "2026-05-12T06:17:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SpaceX launches satellites into orbit for US Intel. purposes",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244442/SpaceX-launches-satellites-into-orbit-for-US-Intel-purposes",
-      "published_date": "2026-05-12T04:15:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on May 12",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244440/Front-pages-of-Iran-s-English-dailies-on-May-12",
-      "published_date": "2026-05-12T03:21:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian thanks Sistani and Iraqi nation's support for Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244435/Pezeshkian-thanks-Sistani-and-Iraqi-nation-s-support-for-Iran",
-      "published_date": "2026-05-11T17:42:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza death toll rises to 72,740 since Oct. 07, 2023: ministry",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244422/Gaza-death-toll-rises-to-72-740-since-Oct-07-2023-ministry",
-      "published_date": "2026-05-11T13:16:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No evidence of Hantavirus in Iran: health ministry",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526314/No-evidence-of-Hantavirus-in-Iran-health-ministry",
-      "published_date": "2026-05-11T13:11:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National document on rehabilitation being developed",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526311/National-document-on-rehabilitation-being-developed",
-      "published_date": "2026-05-11T13:11:25Z",
       "category": "Local Events"
     }
   ]
