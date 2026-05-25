@@ -1,8 +1,78 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-24T23:54:33Z",
-  "total_stories": 79,
+  "generated_at": "2026-05-25T14:19:36Z",
+  "total_stories": 84,
   "stories": [
+    {
+      "title": "S. Korea Cooperation Agency supports upgrading Iran's skill training equipment",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526782/S-Korea-Cooperation-Agency-supports-upgrading-Iran-s-skill-training",
+      "published_date": "2026-05-25T13:39:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Considerable progress has been made in Iran-US talks: Sharif",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244787/Considerable-progress-has-been-made-in-Iran-US-talks-Sharif",
+      "published_date": "2026-05-25T12:50:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian delegation led by parliament speaker travels to Qatar for talks on ending war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164707/Iranian-delegation-led-by-parliament-speaker-travels-to-Qatar",
+      "published_date": "2026-05-25T12:40:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf, Araghchi arrive in Doha for talks on US-Iran deal",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244786/Ghalibaf-Araghchi-arrive-in-Doha-for-talks-on-US-Iran-deal",
+      "published_date": "2026-05-25T12:34:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran not to give in to US excessive demands: Pezeshkian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244784/Iran-people-s-rights-are-fully-secured-in-talks-Pezeshkian",
+      "published_date": "2026-05-25T11:18:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Oman working on protocol to ensure safe passage via SOH",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244776/Iran-Oman-working-on-protocol-to-ensure-safe-passage-via-SOH",
+      "published_date": "2026-05-25T08:27:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran focused on advancing best methods to safeguard national interests: Baqaei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164336/Iran-focused-on-advancing-best-methods-to-safeguard-national",
+      "published_date": "2026-05-25T08:04:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian Envoy Ulyanov rebuts calls to dismantle Iran’s nuclear program",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164053/Russian-Envoy-Ulyanov-rebuts-calls-to-dismantle-Iran-s-nuclear",
+      "published_date": "2026-05-25T06:25:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Omani FM reaffirmed support to reduce regional tensions",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164057/Omani-FM-reaffirmed-support-to-reduce-regional-tensions",
+      "published_date": "2026-05-25T05:41:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian ambassador to Kenya meets with FM Araghchi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164034/Iranian-ambassador-to-Kenya-meets-with-FM-Araghchi",
+      "published_date": "2026-05-25T05:16:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "'Proper Hajj is a service to humanity'",
       "source": "IRNA",
@@ -74,74 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "In photos: Pakistan Army Chief meets with FM Araghchi in Tehran",
+      "title": "‘Madman’ seeking way out of war with Iran, says ElBaradei",
       "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86163291/In-photos-Pakistan-Army-Chief-meets-with-FM-Araghchi-in-Tehran",
-      "published_date": "2026-05-24T09:39:00Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/photo/86164754/Madman-seeking-way-out-of-war-with-Iran-says-ElBaradei",
+      "published_date": "2026-05-25T13:58:59Z",
+      "category": "Military"
     },
     {
-      "title": "Pezeshkian: Iran decisions only within SNSC framework, with Leader’s approval",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163311/Pezeshkian-Iran-decisions-only-within-SNSC-framework-with-Leader-s",
-      "published_date": "2026-05-24T09:11:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan praises Iran’s role in push for regional peace",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163317/Pakistan-praises-Iran-s-role-in-push-for-regional-peace",
-      "published_date": "2026-05-24T08:58:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Non-proliferation regime must not be based on ‘nuclear exceptionalism’: Deputy FM",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163313/Non-proliferation-regime-must-not-be-based-on-nuclear-exceptionalism",
-      "published_date": "2026-05-24T08:57:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "‘Positive stride’ taking shape in US talks after Pakistan mediation: Iran envoy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163045/Positive-stride-taking-shape-in-US-talks-after-Pakistan-mediation",
-      "published_date": "2026-05-24T06:31:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran pursues peace through strength, dignified diplomacy: Deputy Foreign Minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86162991/Iran-pursues-peace-through-strength-dignified-diplomacy-Deputy",
-      "published_date": "2026-05-24T05:38:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian, Saudi FMs hold talks on regional developments",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86162956/Iranian-Saudi-FMs-hold-talks-on-regional-developments",
-      "published_date": "2026-05-24T05:17:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sharif hopeful next Iran-US talks to be held soon",
+      "title": "No enemy capable of confronting powerful Islamic Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244742/Sharif-hopeful-next-Iran-US-talks-to-be-held-soon",
-      "published_date": "2026-05-24T04:15:19Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244791/No-enemy-capable-of-confronting-powerful-Islamic-Iran",
+      "published_date": "2026-05-25T13:51:25Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi reaffirms Iran's support for Lebanese Hezbollah",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244739/Araghchi-reaffirms-Iran-s-support-for-Lebanese-Hezbollah",
-      "published_date": "2026-05-23T21:14:22Z",
-      "category": "Diplomacy"
+      "title": "Book on Yahya Sinwar published in Persian",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526706/Book-on-Yahya-Sinwar-published-in-Persian",
+      "published_date": "2026-05-25T10:01:08Z",
+      "category": "Military"
     },
     {
-      "title": "NPT review conf. failed due to Western 'excessive demands'",
+      "title": "US should never have initiated war against Iran: Chinese FM",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244738/NPT-review-conf-failed-due-to-Western-excessive-demands",
-      "published_date": "2026-05-23T21:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244781/US-should-never-have-initiated-war-against-Iran-Chinese-FM",
+      "published_date": "2026-05-25T10:00:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pezeshkian: Iran will not submit to enemy’s ‘excessive demands’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164470/Pezeshkian-Iran-will-not-submit-to-enemy-s-excessive-demands",
+      "published_date": "2026-05-25T09:33:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian resistance to liberate Al-Quds: General Ghaani",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244780/Palestinian-resistance-to-liberate-Al-Quds-General-Ghaani",
+      "published_date": "2026-05-25T09:28:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "China reiterates its opposition to US-Israeli war on Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164437/China-reiterates-its-opposition-to-US-Israeli-war-on-Iran",
+      "published_date": "2026-05-25T09:13:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to deploy new advanced defense systems: Gen. Abdollahi",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244779/Iran-to-deploy-new-advanced-defense-systems-Gen-Abdollahi",
+      "published_date": "2026-05-25T09:01:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s war against Iran was ‘a big blunder from the very start’: US senator",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164190/Trump-s-war-against-Iran-was-a-big-blunder-from-the-very-start",
+      "published_date": "2026-05-25T07:45:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran denounces terrorist attack in Pakistan’s Quetta",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244772/Iran-denounces-terrorist-attack-in-Pakistan-s-Quetta",
+      "published_date": "2026-05-25T06:37:49Z",
+      "category": "Military"
+    },
+    {
+      "title": "How did Iran shatter illusion of aggressors?",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244771/How-did-Iran-shatter-illusion-of-aggressors",
+      "published_date": "2026-05-25T05:34:56Z",
+      "category": "Military"
     },
     {
       "title": "Iran ready to assure world on nuclear arms: Pezeshkian",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US army has faced deadlock completely in face of Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244767/US-army-has-faced-deadlock-completely-in-face-of-Iran",
-      "published_date": "2026-05-24T16:19:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump's Iran quagmire puts US at complete stalemate: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163764/Trump-s-Iran-quagmire-puts-US-at-complete-stalemate-Official",
-      "published_date": "2026-05-24T16:19:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "33 ships permitted through Strait of Hormuz in 24 hours: IRGC Navy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163682/33-ships-permitted-through-Strait-of-Hormuz-in-24-hours-IRGC",
-      "published_date": "2026-05-24T14:23:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "33 vessels passed through Hormuz Strait with Iran permission",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244764/33-vessels-passed-through-Hormuz-Strait-with-Iran-permission",
-      "published_date": "2026-05-24T14:02:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s central military command warns of ‘hellish response’ to any new aggression",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163533/Iran-s-central-military-command-warns-of-hellish-response-to",
-      "published_date": "2026-05-24T12:15:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran ready to give hellish response to any new aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244757/Iran-ready-to-give-hellish-response-to-any-new-aggression",
-      "published_date": "2026-05-24T11:11:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "No tyrant can stand against Iran' faithful soldiers: Ghalibaf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244756/No-tyrant-can-stand-against-Iran-faithful-soldiers-Ghalibaf",
-      "published_date": "2026-05-24T10:52:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "In photos: Unveiling ceremony of tangible and intangible impacts of US-Israeli war on Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86163437/In-photos-Unveiling-ceremony-of-tangible-and-intangible-impacts",
-      "published_date": "2026-05-24T10:26:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Armed forces strength brings enemy to its knees: Cmdr.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244755/Iran-s-Armed-forces-strength-brings-enemy-to-its-knee-Cmdr",
-      "published_date": "2026-05-24T10:24:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Suicide bombing near Quetta railway station, Pakistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244752/VIDEO-Suicide-bombing-near-Quetta-railway-station-Pakistan",
-      "published_date": "2026-05-24T09:25:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf: No tyrant can stand against Iran’s faithful soldiers",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163280/Ghalibaf-No-tyrant-can-stand-against-Iran-s-faithful-soldiers",
-      "published_date": "2026-05-24T08:52:32Z",
-      "category": "Military"
+      "title": "Petrodollar loop broken as Iran war chokes Persian Gulf wealth",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526766/Petrodollar-loop-broken-as-Iran-war-chokes-Persian-Gulf-wealth",
+      "published_date": "2026-05-25T09:27:59Z",
+      "category": "Energy"
     },
     {
       "title": "Iran launches plan to equip 12,000 schools with solar power plants",
@@ -324,6 +331,34 @@
       "url": "https://en.mehrnews.com/news/244659/Two-chinese-oil-tankers-exit-Strait-of-Hormuz-Report",
       "published_date": "2026-05-20T05:09:33Z",
       "category": "Energy"
+    },
+    {
+      "title": "Preserving specialized human capital: Lessons from South Korea for Iran’s economic recovery",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526780/Preserving-specialized-human-capital-Lessons-from-South-Korea",
+      "published_date": "2026-05-25T12:41:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Russia-Iran trade increased by over 20% in 2025, says Russian customs chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164662/Russia-Iran-trade-increased-by-over-20-in-2025-says-Russian",
+      "published_date": "2026-05-25T12:26:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "All raw materials needed for production available in country",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526769/All-raw-materials-needed-for-production-available-in-country",
+      "published_date": "2026-05-25T09:38:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran's gas export capacity to thirsty neighboring markets",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526767/Iran-s-gas-export-capacity-to-thirsty-neighboring-markets",
+      "published_date": "2026-05-25T09:31:20Z",
+      "category": "Economy"
     },
     {
       "title": "Deputy speaker: Enemy seeks to intensify economic pressure on Iran",
@@ -417,143 +452,143 @@
       "category": "Economy"
     },
     {
-      "title": "Newspaper, Issue 15334, 8 pages",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/526756/Newspaper-Issue-15334-8-pages",
-      "published_date": "2026-05-24T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Community participation drives sustainable tourism in Iran’s Pamenar village",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526761/Community-participation-drives-sustainable-tourism-in-Iran-s",
-      "published_date": "2026-05-24T19:43:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancient cemetery from Iron Age, Parthian era discovered in northern Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526759/Ancient-cemetery-from-Iron-Age-Parthian-era-discovered-in-northern",
-      "published_date": "2026-05-24T19:43:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Echoes of the past: A guard dog sculpture",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526760/Echoes-of-the-past-A-guard-dog-sculpture",
-      "published_date": "2026-05-24T19:42:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran taekwondo finishes 2nd in Asian championsips",
+      "title": "Mehr conclusive: Ghalibaf goes to Qatar to meet with Emir",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244770/Iran-taekwondo-fisnhes-2nd-in-Asian-championsips",
-      "published_date": "2026-05-24T19:39:10Z",
+      "url": "https://en.mehrnews.com/news/244792/Mehr-conclusive-Ghalibaf-goes-to-Qatar-to-meet-with-Emir",
+      "published_date": "2026-05-25T13:59:37Z",
       "category": "Local Events"
     },
     {
-      "title": "From Khorramshahr to Hormuz: A legacy of bravery and resistance against aggressors",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526750/From-Khorramshahr-to-Hormuz-A-legacy-of-bravery-and-resistance",
-      "published_date": "2026-05-24T18:03:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "No decision made without Leader's approval: President Pezeshkian",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526754/No-decision-made-without-Leader-s-approval-President-Pezeshkian",
-      "published_date": "2026-05-24T17:51:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran condemns terrorist attack on Pakistan’s Quetta railway",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163760/Iran-condemns-terrorist-attack-on-Pakistan-s-Quetta-railway",
-      "published_date": "2026-05-24T15:52:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gharibabadi: Gaza is a test of states’ commitment to international law",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163736/Gharibabadi-Gaza-is-a-test-of-states-commitment-to-international",
-      "published_date": "2026-05-24T15:41:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FM spox calls liberation of Khorramshahr symbol of Iranian resilience",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163721/FM-spox-calls-liberation-of-Khorramshahr-symbol-of-Iranian-resilience",
-      "published_date": "2026-05-24T15:19:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan likely to announce points agreed by Iran, US",
+      "title": "Iran women's volleyball march into 2026 CAVA semifinals",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244765/Pakistan-likely-to-announce-points-agreed-by-Iran-US",
-      "published_date": "2026-05-24T14:20:08Z",
+      "url": "https://en.mehrnews.com/news/244790/Iran-women-s-volleyball-march-into-2026-CAVA-semifinals",
+      "published_date": "2026-05-25T13:49:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Rescuers search for 20 after bldg. collapse in Philippines",
+      "title": "China’s Xi praises ‘unbreakable’ Pakistan ties",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244762/Rescuers-search-for-20-after-bldg-collapse-in-Philippines",
-      "published_date": "2026-05-24T13:05:19Z",
+      "url": "https://en.mehrnews.com/news/244789/China-s-Xi-praises-unbreakable-Pakistan-ties",
+      "published_date": "2026-05-25T13:27:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Sea turtles: threats and opportunities",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526746/Sea-turtles-threats-and-opportunities",
-      "published_date": "2026-05-24T13:03:33Z",
+      "title": "Brazilian Gaza aid flotilla activists recount brutal treatment by Israeli forces",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86164719/Brazilian-Gaza-aid-flotilla-activists-recount-brutal-treatment",
+      "published_date": "2026-05-25T13:21:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Resistance deeply rooted in Iranians' spirit: Pezeshkian",
+      "title": "Tulip farm in Village of Espareh Khoun in Tabriz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244761/Resistance-deeply-rooted-in-Iranians-spirit-Pezeshkian",
-      "published_date": "2026-05-24T12:56:41Z",
+      "url": "https://en.mehrnews.com/photo/244788/Tulip-farm-in-Village-of-Espareh-Khoun-in-Tabriz",
+      "published_date": "2026-05-25T12:52:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Liverpool vs. Brentford preview: Team news, injuries, and expected lineups",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163558/Liverpool-vs-Brentford-preview-Team-news-injuries-and-expected",
-      "published_date": "2026-05-24T12:54:22Z",
+      "title": "Iran march into 2026 CAVA semifinals",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526781/Iran-march-into-2026-CAVA-semifinals",
+      "published_date": "2026-05-25T12:52:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Kiani takes gold at 2026 Asian Taekwondo Championships",
+      "title": "WFP releases April report on Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526778/WFP-releases-April-report-on-Iran",
+      "published_date": "2026-05-25T12:10:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainfall increases by 3.8% compared to long-term average",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526776/Rainfall-increases-by-3-8-compared-to-long-term",
+      "published_date": "2026-05-25T12:08:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRCS aims to draft a roadmap for collaboration with IFRC",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526774/IRCS-aims-to-draft-a-roadmap-for-long-term-collaboration-with",
+      "published_date": "2026-05-25T11:40:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Knowledge-based products: the driving engine of Iran's energy optimization market",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526772/Knowledge-based-products-the-driving-engine-of-Iran-s-energy",
+      "published_date": "2026-05-25T11:34:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China launches Shenzhou-23 spacecraft",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244760/Kiani-takes-gold-at-2026-Asian-Taekwondo-Championships",
-      "published_date": "2026-05-24T12:41:18Z",
+      "url": "https://en.mehrnews.com/news/244785/China-launches-Shenzhou-23-spacecraft",
+      "published_date": "2026-05-25T11:28:05Z",
       "category": "Local Events"
     },
     {
-      "title": "‘Tobacco-free families for a tobacco-free generation’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526744/Tobacco-free-families-for-a-tobacco-free-generation",
-      "published_date": "2026-05-24T12:37:53Z",
+      "title": "20 Iranian airports resume op. after US-Israeli aggression",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244783/20-Iranian-airports-resume-op-after-US-Israeli-aggression",
+      "published_date": "2026-05-25T10:40:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran's position in international maritime bodies will be elevated: PMO head",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526738/Iran-s-position-in-international-maritime-bodies-will-be-elevated",
-      "published_date": "2026-05-24T12:14:42Z",
+      "title": "Taekwondo athlete Kiani dedicates gold medal to Iran people",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244782/taekwondo-athlete-Kiani-dedicates-gold-medal-to-Iran-people",
+      "published_date": "2026-05-25T10:24:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Brighton vs. Manchester United: Team news and lineups",
+      "title": "US must guarantee participation of Iran football team at World Cup: FM spox",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163522/Brighton-vs-Manchester-United-Team-news-and-lineups",
-      "published_date": "2026-05-24T12:10:12Z",
+      "url": "https://en.irna.ir/news/86164518/US-must-guarantee-participation-of-Iran-football-team-at-World",
+      "published_date": "2026-05-25T10:04:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran finishes runner-up in 2026 Asian Taekwondo Championships",
+      "title": "Slab production increases 10.2% in a year",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526765/Slab-production-increases-10-2-in-a-year",
+      "published_date": "2026-05-25T09:39:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 66,000 residential units ready for inauguration",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526768/Over-66-000-residential-units-ready-for-inauguration",
+      "published_date": "2026-05-25T09:35:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaysia ready to file complaint against Israel at ICJ: Official",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86163549/Iran-finishes-runner-up-in-2026-Asian-Taekwondo-Championships",
-      "published_date": "2026-05-24T12:09:35Z",
+      "url": "https://en.irna.ir/news/86164393/Malaysia-ready-to-file-complaint-against-Israel-at-ICJ-Official",
+      "published_date": "2026-05-25T09:00:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liberation of Khorramshahr commemorated in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244778/Liberation-of-Khorramshahr-commemorated-in-Tehran",
+      "published_date": "2026-05-25T08:48:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf reinstates as Iranian Parliament Speaker",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244777/Ghalibaf-reinstates-as-Iranian-Parliament-Speaker",
+      "published_date": "2026-05-25T08:38:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nahid Kiani dedicates gold medal to Iran people",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526764/Nahid-Kiani-dedicates-gold-medal-to-Iran-people",
+      "published_date": "2026-05-25T08:20:08Z",
       "category": "Local Events"
     }
   ]
