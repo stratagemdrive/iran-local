@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-27T23:57:41Z",
-  "total_stories": 81,
+  "generated_at": "2026-05-28T14:49:43Z",
+  "total_stories": 83,
   "stories": [
+    {
+      "title": "Iran security official says West Asia would be the most stable region without US presence",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167030/Iran-security-official-says-West-Asia-would-be-the-most-stable",
+      "published_date": "2026-05-28T13:41:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy blames Europe’s silence for Trump’s Oman threat",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167053/Iran-envoy-blames-Europe-s-silence-for-Trump-s-Oman-threat",
+      "published_date": "2026-05-28T12:49:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran condemns US aggression, calls on UN Security Council to intervene",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86166936/Iran-condemns-US-aggression-calls-on-UN-Security-Council-to",
+      "published_date": "2026-05-28T09:23:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Please, don’t surrender the Earth to the night’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86166797/Please-don-t-surrender-the-Earth-to-the-night",
+      "published_date": "2026-05-28T05:56:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pezeshkian and Sharif exchange Eid Adha greetings",
       "source": "Mehr News Agency",
@@ -116,32 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran and Iraq should keep consulting on issues of mutual interest: Pezeshkian",
+      "title": "IRGC Navy: 23 vessels transit Strait of Hormuz under coordinated oversight",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86165864/Iran-and-Iraq-should-keep-consulting-on-issues-of-mutual-interest",
-      "published_date": "2026-05-26T14:08:58Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86166901/IRGC-Navy-23-vessels-transit-Strait-of-Hormuz-under-coordinated",
+      "published_date": "2026-05-28T08:18:41Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Iraq should keep consulting on issues of mutual interest: President",
+      "title": "IRGC: Aggression will not go unanswered",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86165864/Iran-Iraq-should-keep-consulting-on-issues-of-mutual-interest",
-      "published_date": "2026-05-26T14:08:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China ready to play constructive role in Iran nuclear issue",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244817/China-ready-to-play-constructive-role-in-Iran-nuclear-issue",
-      "published_date": "2026-05-26T14:01:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China says ready to play constructive role in Iran nuclear issue",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86165815/China-says-ready-to-play-constructive-role-in-Iran-nuclear-issue",
-      "published_date": "2026-05-26T13:42:34Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86166788/IRGC-Aggression-will-not-go-unanswered",
+      "published_date": "2026-05-28T05:32:43Z",
+      "category": "Military"
     },
     {
       "title": "IRGC Aerospace warns enemies of new level of retaliation",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Pezeshkian highlights importance of modernizing military sys.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244809/Pezeshkian-highlights-significance-of-modernizing-military-sy",
-      "published_date": "2026-05-26T10:13:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran response to be more severe than previous war if attacked",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244808/Iran-s-retaliation-to-be-harsher-than-previous-conflict",
-      "published_date": "2026-05-26T10:07:09Z",
-      "category": "Military"
-    },
-    {
       "title": "Petrodollar loop broken as Iran war chokes Persian Gulf wealth",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/526766/Petrodollar-loop-broken-as-Iran-war-chokes-Persian-Gulf-wealth",
@@ -310,6 +310,20 @@
       "url": "https://en.mehrnews.com/news/244700/Iran-exporting-1-4m-crude-bpd-despite-US-naval-blockade-IEA",
       "published_date": "2026-05-22T09:33:27Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran, Kazakhstan stress $3 billion trade target",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167084/Iran-Kazakhstan-stress-3-billion-trade-target",
+      "published_date": "2026-05-28T14:03:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tehran, Islamabad emphasize strengthening bilateral ties, regional diplomacy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86166845/Tehran-Islamabad-emphasize-strengthening-bilateral-ties-regional",
+      "published_date": "2026-05-28T06:59:45Z",
+      "category": "Economy"
     },
     {
       "title": "Industry, mining, trade minister departs for Kazakhstan to participate in Eurasian Economic Forum",
@@ -429,6 +443,13 @@
       "url": "https://www.tehrantimes.com/news/526660/Nearly-6-4m-in-facilities-paid-to-implement-industrial-support",
       "published_date": "2026-05-22T11:14:39Z",
       "category": "Economy"
+    },
+    {
+      "title": "Leader urges parliamentarians to avoid turning differences into division and conflict",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167028/Leader-urges-parliamentarians-to-avoid-turning-differences-into",
+      "published_date": "2026-05-28T11:26:31Z",
+      "category": "Local Events"
     },
     {
       "title": "Pro-Islamic Establishment rally in Qom",
@@ -561,13 +582,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244829/Eid-Adha-prayers-performed-in-Tehran-other-towns-in-Iran",
       "published_date": "2026-05-27T05:35:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Eid al-Adha carries message of dignity, defiance against modern Pharaohs",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166225/Pezeshkian-Eid-al-Adha-carries-message-of-dignity-defiance",
-      "published_date": "2026-05-27T05:21:06Z",
       "category": "Local Events"
     }
   ]
