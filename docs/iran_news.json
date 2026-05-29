@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-05-29T00:04:46Z",
+  "generated_at": "2026-05-29T14:16:07Z",
   "total_stories": 83,
   "stories": [
+    {
+      "title": "Bagheri: Iran’s initiative welcomed in Moscow",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167664/Bagheri-Iran-s-initiative-welcomed-in-Moscow",
+      "published_date": "2026-05-29T13:45:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Geopolitics over supply: Why Iran-US talks now drive global oil prices",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526836/Geopolitics-over-supply-Why-Iran-US-talks-now-drive-global-oil",
+      "published_date": "2026-05-29T12:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran slams Israeli attacks on Lebanon as deadly aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167495/Iran-slams-Israeli-attacks-on-Lebanon-as-deadly-aggression",
+      "published_date": "2026-05-29T09:40:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan FM to meet Rubio amid peace push",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244868/Pakistan-FM-to-meet-Rubio-amid-peace-push",
+      "published_date": "2026-05-29T09:18:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran condemns US threats against Oman",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167434/Iran-condemns-US-threats-against-Oman",
+      "published_date": "2026-05-29T08:27:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy warns of growing crisis in global governance trust, legitimacy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167376/Iran-envoy-warns-of-growing-crisis-in-global-governance-trust",
+      "published_date": "2026-05-29T07:02:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s actions in Strait of Hormuz lawful, consistent with international law: Envoy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86167370/Iran-s-actions-in-Strait-of-Hormuz-lawful-consistent-with-international",
+      "published_date": "2026-05-29T05:35:05Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran security official says West Asia would be the most stable region without US presence",
       "source": "IRNA",
@@ -95,53 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran welcomes Ireland's ban on Israeli imports, urges other Western states to follow suit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166498/Iran-welcomes-Ireland-s-ban-on-Israeli-imports-urges-other-Western",
-      "published_date": "2026-05-27T12:23:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran hails Ireland’s ban on imports from Israeli settelments",
+      "title": "Iran proposes SCO development bank",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244836/Iran-hails-Ireland-s-ban-on-imports-from-Israeli-settelments",
-      "published_date": "2026-05-27T12:22:04Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244869/Iran-proposes-SCO-development-bank",
+      "published_date": "2026-05-29T10:36:59Z",
+      "category": "Military"
     },
     {
-      "title": "IRCS highlights role of intl. capacities in addressing impacts of sanctions on humanitarian services",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526811/IRCS-highlights-role-of-intl-capacities-in-addressing-impacts",
-      "published_date": "2026-05-27T09:50:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian, Iraqi security officials discuss issues of mutual interest",
+      "title": "President Pezeshkian vows broader ties with Muslim countries",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166371/Iranian-Iraqi-security-officials-discuss-issues-of-mutual-interest",
-      "published_date": "2026-05-27T08:54:00Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86167547/President-Pezeshkian-vows-broader-ties-with-Muslim-countries",
+      "published_date": "2026-05-29T10:25:44Z",
+      "category": "Military"
     },
     {
-      "title": "Senior cleric warns against enemy's malicious goals in talks",
+      "title": "Iran slams Israeli attacks on Lebanon as barbaric",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244833/Senior-cleric-warns-against-enemy-s-malicious-goals-in-talks",
-      "published_date": "2026-05-27T07:32:44Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244866/Iran-slams-Israeli-attacks-on-Lebanon-as-barbaric",
+      "published_date": "2026-05-29T07:32:03Z",
+      "category": "Military"
     },
     {
-      "title": "Iranian, Azerbaijani presidents emphasize deepening ties, cooperation",
+      "title": "Gharibabadi: IRGC’s response to US ‘mischiefs’ shows Iran’s military readiness",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166301/Iranian-Azerbaijani-presidents-emphasize-deepening-ties-cooperation",
-      "published_date": "2026-05-27T07:23:08Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86167404/Gharibabadi-IRGC-s-response-to-US-mischiefs-shows-Iran-s-military",
+      "published_date": "2026-05-29T07:23:03Z",
+      "category": "Military"
     },
     {
-      "title": "Iran says latest ceasefire violations prove US ‘ill-will’",
+      "title": "Iran president vows to deepen regional cooperation",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244821/Iran-says-latest-ceasefire-violations-prove-US-ill-will",
-      "published_date": "2026-05-26T17:04:20Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244864/Iran-president-vows-to-deepen-regional-cooperation",
+      "published_date": "2026-05-29T05:54:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes hit Gaza tents, several killed",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244863/Israeli-strikes-hit-Gaza-tents-several-killed",
+      "published_date": "2026-05-29T04:46:04Z",
+      "category": "Military"
     },
     {
       "title": "Iran ready for constructive dialogue on new West Asia security equation: Official",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Gazans hold Eid al-Adha prayers among ruins of mosques destroyed in war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166470/Gazans-hold-Eid-al-Adha-prayers-among-ruins-of-mosques-destroyed",
-      "published_date": "2026-05-27T11:44:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Navy oversees safe passage of 25 vessels through Strait of Hormuz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166396/IRGC-Navy-oversees-safe-passage-of-25-vessels-through-Strait",
-      "published_date": "2026-05-27T09:32:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Moment F35 intercepted by Iran air defence over Persian Gulf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244828/Moment-F35-intercepted-by-Iran-air-defence-over-Persian-Gulf",
-      "published_date": "2026-05-27T05:10:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "25 vessels pass Hormuz after cooardination with IRGC Navy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244827/25-vessels-pass-Hormuz-after-cooardination-with-IRGC-Navy",
-      "published_date": "2026-05-26T19:54:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran ready for ‘dignified framework’ to end war, regional tensions: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86165992/Iran-ready-for-dignified-framework-to-end-war-regional-tensions",
-      "published_date": "2026-05-26T16:38:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "At least 14 killed in Israeli strike on eastern Lebanon",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86165859/At-least-14-killed-in-Israeli-strike-on-eastern-Lebanon",
-      "published_date": "2026-05-26T14:03:19Z",
-      "category": "Military"
+      "title": "Weightlifting chief says Iran’s new generation is ready to deliver",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526812/Weightlifting-chief-says-Iran-s-new-generation-is-ready-to-deliver",
+      "published_date": "2026-05-29T12:19:39Z",
+      "category": "Energy"
     },
     {
       "title": "Petrodollar loop broken as Iran war chokes Persian Gulf wealth",
@@ -298,18 +305,39 @@
       "category": "Energy"
     },
     {
-      "title": "Strait of Hormuz closure shakes Europe: Oil price forecast soars 46%",
+      "title": "Iran, Kazakhstan emphasize development of trade, transport, industry, mining, logistics co-op",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526658/Strait-of-Hormuz-closure-shakes-Europe-Oil-price-forecast-soars",
-      "published_date": "2026-05-22T11:06:27Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/526838/Iran-Kazakhstan-emphasize-development-of-trade-transport-industry",
+      "published_date": "2026-05-29T13:07:28Z",
+      "category": "Economy"
     },
     {
-      "title": "Iran exporting 1.4m crude bpd despite US naval blockade: IEA",
+      "title": "Iran, Tajikistan forge closer economic ties as $1-billion trade target looms",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526837/Iran-Tajikistan-forge-closer-economic-ties-as-1-billion-trade",
+      "published_date": "2026-05-29T13:03:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "President orders to develop alternative trade corridors through northern ports, neighboring countrie",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526833/President-orders-to-develop-alternative-trade-corridors-through",
+      "published_date": "2026-05-29T12:55:31Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran, Kazakhstan eye joint industrial projects",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244700/Iran-exporting-1-4m-crude-bpd-despite-US-naval-blockade-IEA",
-      "published_date": "2026-05-22T09:33:27Z",
-      "category": "Energy"
+      "url": "https://en.mehrnews.com/news/244870/Iran-Kazakhstan-eye-joint-industrial-projects",
+      "published_date": "2026-05-29T11:35:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Strait of Hormuz: US new fear and dawn of new regional order",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244867/Strait-of-Hormuz-US-new-fear-and-dawn-of-new-regional-order",
+      "published_date": "2026-05-29T08:23:25Z",
+      "category": "Economy"
     },
     {
       "title": "Iran, Kazakhstan stress $3 billion trade target",
@@ -417,32 +445,67 @@
       "category": "Economy"
     },
     {
-      "title": "Truck traffic at Iran-Turkey customs borders to be facilitated",
+      "title": "Every ego empire eventually falls",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526700/Truck-traffic-at-Iran-Turkey-customs-borders-to-be-facilitated",
-      "published_date": "2026-05-23T10:06:43Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/526829/Every-ego-empire-eventually-falls",
+      "published_date": "2026-05-29T14:04:15Z",
+      "category": "Local Events"
     },
     {
-      "title": "How war on Iran affects world economy beyond energy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526696/How-war-on-Iran-affects-world-economy-beyond-energy",
-      "published_date": "2026-05-23T09:53:07Z",
-      "category": "Economy"
+      "title": "Iran-US MoU text not finalized, Western reports inaccurate",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244872/Iran-US-MoU-text-not-finalized-Western-reports-inaccurate",
+      "published_date": "2026-05-29T12:56:25Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran’s minister says sustainable food security is expanding in region",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86162123/Iran-s-minister-says-sustainable-food-security-is-expanding-in",
-      "published_date": "2026-05-23T08:11:00Z",
-      "category": "Economy"
+      "title": "Tehran, Dushanbe ink MOU in health sector, medical insurance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526835/Tehran-Dushanbe-ink-MOU-in-health-sector-medical-insurance",
+      "published_date": "2026-05-29T12:55:06Z",
+      "category": "Local Events"
     },
     {
-      "title": "Nearly $6.4m in facilities paid to implement industrial support package",
+      "title": "‘IFRC firmly supports IRCS in conducting humanitarian activities’",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526660/Nearly-6-4m-in-facilities-paid-to-implement-industrial-support",
-      "published_date": "2026-05-22T11:14:39Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/526831/IFRC-firmly-supports-IRCS-in-conducting-humanitarian-activities",
+      "published_date": "2026-05-29T12:46:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran skipper Jahanbakhsh struggles for fitness ahead of World Cup",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526815/Iran-skipper-Jahanbakhsh-struggles-for-fitness-ahead-of-World",
+      "published_date": "2026-05-29T12:21:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO reports 906 suspected Ebola cases",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244871/WHO-reports-906-suspected-Ebola-cases",
+      "published_date": "2026-05-29T12:20:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DOE starts satellite monitoring across Hyrcanian forests",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/526826/DOE-starts-satellite-monitoring-across-Hyrcanian-forests",
+      "published_date": "2026-05-29T12:07:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq says opposes any threat to regional stability",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244865/Iraq-says-opposes-any-threat-to-regional-stability",
+      "published_date": "2026-05-29T06:45:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan sources claim Iran-US deal near",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244862/Pakistan-sources-claim-Iran-US-deal-near",
+      "published_date": "2026-05-29T04:38:31Z",
+      "category": "Local Events"
     },
     {
       "title": "President Pezeshkian congratulates Azerbaijan on Independence Day",
@@ -459,7 +522,7 @@
       "category": "Local Events"
     },
     {
-      "title": "News saved by at 19:04-14050307",
+      "title": "Iran into CAVA final",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/526819/%D8%AE%D8%A8%D8%B1-%D8%B0%D8%AE%DB%8C%D8%B1%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D8%AA%D9%88%D8%B3%D8%B7-%D8%AF%D8%B1-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%DB%B1%DB%B4%DB%B0%DB%B5%DB%B0%DB%B3%DB%B0%DB%B7-%DB%B1%DB%B9-%DB%B0%DB%B4",
       "published_date": "2026-05-28T15:37:31Z",
@@ -519,69 +582,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244847/Please-don-t-surrender-the-Earth-to-the-Night",
       "published_date": "2026-05-28T06:42:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran not to back down from its redlines: Senior lawmaker",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244846/Iran-not-to-back-down-from-its-redlines-Senior-lawmaker",
-      "published_date": "2026-05-28T05:53:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Islamic Establishment rally in Qom",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244844/Pro-Islamic-Establishment-rally-in-Qom",
-      "published_date": "2026-05-27T21:41:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Energy minister presents 6 strategic proposals for forming a regional water co-op assembly",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526818/Energy-minister-presents-6-strategic-proposals-for-forming-a",
-      "published_date": "2026-05-27T16:14:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "India confirms release of 10 sailors detained in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244837/India-confirms-release-of-10-sailors-detained-in-Iran",
-      "published_date": "2026-05-27T12:29:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abraham Accords: Surrendering Palestinian rights to Israel",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244835/Abraham-Accords-Surrendering-Palestinian-rights-to-Israel",
-      "published_date": "2026-05-27T11:42:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 370 earthquakes hit Iran in a month",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526814/Over-370-earthquakes-hit-Iran-in-a-month",
-      "published_date": "2026-05-27T11:39:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Highly-enriched uranium stockpiles not on agenda of talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244834/Highly-enriched-uranium-stockpiles-not-on-agenda-of-talks",
-      "published_date": "2026-05-27T10:26:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran president urges Muslim nations to unite to counter threats",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166432/Iran-president-urges-Muslim-nations-to-unite-to-counter-threats",
-      "published_date": "2026-05-27T10:16:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian, Uzbek universities ink MOU on scientific co-op",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526809/Iranian-Uzbek-universities-ink-MOU-on-scientific-co-op",
-      "published_date": "2026-05-27T09:44:57Z",
       "category": "Local Events"
     }
   ]
