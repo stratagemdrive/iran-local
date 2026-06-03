@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-02T15:04:52Z",
-  "total_stories": 81,
+  "generated_at": "2026-06-03T00:26:18Z",
+  "total_stories": 82,
   "stories": [
+    {
+      "title": "Iranian, Saudi FMs discuss diplomatic trends in region",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245004/Iranian-Saudi-FMs-discuss-diplomatic-trends-in-region",
+      "published_date": "2026-06-02T19:41:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli regime continues aggression on south Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244996/Israeli-regime-continues-aggression-on-south-Lebanon",
+      "published_date": "2026-06-02T15:48:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "D-8 energy ministers adopt Baku Declaration to deepen cooperation",
       "source": "IRNA",
@@ -50,6 +64,13 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86171065/Araghchi-holds-phone-consultations-with-Pakistani-officials",
       "published_date": "2026-06-02T06:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf warns Israel attacks could halt peace talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244980/Ghalibaf-warns-Israel-attacks-could-halt-peace-talks",
+      "published_date": "2026-06-02T03:47:39Z",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pezeshkian: Iran committed to diplomacy, ready to ensure shipping security in Strait of Hormuz",
+      "title": "Iran’s scientific, technological capabilities have advanced since before war, VP says",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170617/Pezeshkian-Iran-committed-to-diplomacy-ready-to-ensure-shipping",
-      "published_date": "2026-06-01T14:53:30Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86171798/Iran-s-scientific-technological-capabilities-have-advanced-since",
+      "published_date": "2026-06-02T16:11:46Z",
+      "category": "Military"
     },
     {
-      "title": "Any breach of US ceasefire on one front violates entire truce: Iran FM",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170589/Any-breach-of-US-ceasefire-on-one-front-violates-entire-truce",
-      "published_date": "2026-06-01T14:10:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "VIDEO: Leader's envoy visits Sirik",
+      "title": "\"They Were Angels\" ceremony to be held in Tehran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244964/VIDEO-Leader-s-envoy-visits-Sirik",
-      "published_date": "2026-06-01T13:35:36Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/244998/They-Were-Angels-ceremony-to-be-held-in-Tehran",
+      "published_date": "2026-06-02T14:13:21Z",
+      "category": "Military"
     },
     {
       "title": "Iran-Russia children’s painting contest in Astrakhan honors Minab students",
@@ -158,6 +172,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran military power has increased during ceasefire: IRGC gen.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244995/Iran-military-power-has-increases-since-ceasefire-IRGC-gen",
+      "published_date": "2026-06-02T13:05:06Z",
+      "category": "Military"
+    },
+    {
       "title": "Exclusive | Iranians’ identity and conduct key to their success against aggressors, says Russian scholar",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86171432/Exclusive-Iranians-identity-and-conduct-key-to-their-success",
@@ -169,6 +190,41 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86171463/Two-dozen-more-ships-permitted-through-Strait-of-Hormuz-in-24",
       "published_date": "2026-06-02T11:05:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's air defense network inflicted heavy UAV losses in war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244992/Iran-s-air-defense-network-inflicted-heavy-UAV-losses-in-war",
+      "published_date": "2026-06-02T10:13:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "24 ships cross Strait of Hormuz with IRGC coordination",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244989/24-ships-cross-Strait-of-Hormuz-with-IRGC-coordination",
+      "published_date": "2026-06-02T09:32:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran military front still remains at apex of readiness: Gen.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244988/Iran-military-front-still-remains-at-apex-of-readiness-Gen",
+      "published_date": "2026-06-02T08:45:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran top gen. warns Israeli settlers over  attack on Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244986/Iran-top-gen-warns-Israeli-settlers-over-attack-on-Lebanon",
+      "published_date": "2026-06-02T08:15:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran retains unused strategic capabilities: General Asadi",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244985/Iran-retains-unused-strategic-capabilities-General-Asadi",
+      "published_date": "2026-06-02T07:54:20Z",
       "category": "Military"
     },
     {
@@ -200,6 +256,20 @@
       "category": "Military"
     },
     {
+      "title": "IRGC Navy fires cruise missile at US-Israeli ship (+VIDEO)",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244981/IRGC-Navy-fires-cruise-missile-at-US-Israeli-ship-VIDEO",
+      "published_date": "2026-06-02T04:37:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "How did Iran stop Israel's attack on Beirut?",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244979/How-did-Iran-stop-Israel-s-attack-on-Beirut",
+      "published_date": "2026-06-02T03:30:27Z",
+      "category": "Military"
+    },
+    {
       "title": "Lebanon links Bab al-Mandab to Hormuz front: Gen. Ghaani",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244977/Lebanon-links-Bab-al-Mandab-to-Hormuz-front-Gen-Ghaani",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran warns northern Israeli settlers to evacuate if Israel attacks Beirut’s suburbs",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170794/Iran-warns-northern-Israeli-settlers-to-evacuate-if-Israel-attacks",
-      "published_date": "2026-06-01T17:52:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Intel. Unit warns Zionists over aggression on Lebanon",
+      "title": "No uranium transfer without Iran’s approval",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244972/IRGC-Intel-Unit-warns-Zionists-over-aggression-on-Lebanon",
-      "published_date": "2026-06-01T17:27:26Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/245001/No-uranium-transfer-without-Iran-s-approval",
+      "published_date": "2026-06-02T17:54:11Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran warns residents of northern occupied Palestinian lands",
+      "title": "Transferring enriched uranium from Iran difficult: IAEA chief",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244970/Iran-warns-residents-of-northern-occupied-Palesitian-lands",
-      "published_date": "2026-06-01T16:38:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: hezbollah drone havors over Israeli soldiers",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244966/VIDEO-hezbollah-drone-havors-over-Israeli-soldiers",
-      "published_date": "2026-06-01T14:40:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli crimes in Lebanon “intolerable”: Armed Forces spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244962/Israeli-crimes-in-Lebanon-intolerable-Armed-Forces-spox",
-      "published_date": "2026-06-01T12:12:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran will not tolerate ongoing Israeli crimes in Lebanon: Senior commander",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170514/Iran-will-not-tolerate-ongoing-Israeli-crimes-in-Lebanon-Senior",
-      "published_date": "2026-06-01T11:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Oil rate skyrocketed as Israel intensifies attack on Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244960/Oil-rate-skyrocketed-as-Israel-intensifies-attack-on-Lebanon",
-      "published_date": "2026-06-01T11:54:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran driving enemy back in historic battle: Speaker Ghalibaf",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86170439/Iran-driving-enemy-back-in-historic-battle-Speaker-Ghalibaf",
-      "published_date": "2026-06-01T10:41:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "US must pay for Israeli crimes in Lebanon: Iran parliament speaker",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170424/US-must-pay-for-Israeli-crimes-in-Lebanon-Iran-parliament-speaker",
-      "published_date": "2026-06-01T10:37:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘Champion of Iran’ ceremony honors martyred Minab students",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170242/Champion-of-Iran-ceremony-honors-martyred-Minab-students",
-      "published_date": "2026-06-01T08:54:46Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/244991/Transfer-of-enriched-uranium-from-Iran-difficult-IAEA-chief",
+      "published_date": "2026-06-02T09:45:22Z",
+      "category": "Energy"
     },
     {
       "title": "Iran war costs US households nearly $450 in extra fuel expenses",
@@ -424,17 +438,108 @@
       "category": "Economy"
     },
     {
-      "title": "Islamic unity key to countering regional threats, says Pezeshkian",
+      "title": "Iran’s Hazfi Cup canceled for remainder of season",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245003/Iran-s-Hazfi-Cup-canceled-for-remainder-of-season",
+      "published_date": "2026-06-02T19:00:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran to play Mali on Thursday in preparation for World Cup",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245002/Iran-to-play-Mali-on-Thursday-in-preparation-for-World-Cup",
+      "published_date": "2026-06-02T18:26:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hezbollah leader sends message to conference in Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245000/Hezbollah-leader-sends-message-to-conference-in-Iran",
+      "published_date": "2026-06-02T16:50:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab League condemns storming of Al-Aqsa Mosque by Zionist settlers",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86165963/Islamic-unity-key-to-countering-regional-threats-says-Pezeshkian",
-      "published_date": "2026-05-26T16:03:43Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86171791/Arab-League-condemns-storming-of-Al-Aqsa-Mosque-by-Zionist-settlers",
+      "published_date": "2026-06-02T16:29:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funeral processions for martyred Leader to be held in Tehran, Qom, Mashhad: Official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86171708/Funeral-processions-for-martyred-Leader-to-be-held-in-Tehran",
+      "published_date": "2026-06-02T15:26:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran announce 26-man squad for the 2026 World Cup",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244999/Iran-announce-26-man-squad-for-the-2026-World-Cup",
+      "published_date": "2026-06-02T14:25:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Martyred Leader funeral to last three days: Tehran official",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244997/Martyred-Leader-funeral-to-last-three-days-Tehran-official",
+      "published_date": "2026-06-02T14:20:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Cancer Inst. opened at Imam Khomeini Hospital Complex",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244994/Iran-Cancer-Inst-opened-at-Imam-Khomeini-Hospital-Complex",
+      "published_date": "2026-06-02T11:40:45Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran stresses social protection for platform workers",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86171410/Iran-stresses-social-protection-for-platform-workers",
       "published_date": "2026-06-02T11:19:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces still continue killing Palestinians in Gaza",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244993/Israel-forces-still-continue-killing-Palestinians-in-Gaza",
+      "published_date": "2026-06-02T10:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "6 people killed in Iowa domestic dispute: police say",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244990/6-people-killed-in-Iowa-domestic-dispute-police-say",
+      "published_date": "2026-06-02T09:33:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola cases surpass 300 in Congo",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244987/Ebola-cases-surpass-300-in-Congo",
+      "published_date": "2026-06-02T08:24:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran still studying draft deal, no reply sent yet",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244984/Iran-still-studying-draft-deal-no-reply-sent-yet",
+      "published_date": "2026-06-02T07:40:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran hosts celebration from Eid al-Adha to Eid al-Ghadir",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244983/Tehran-hosts-celebration-from-Eid-al-Adha-to-Eid-al-Ghadir",
+      "published_date": "2026-06-02T07:21:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Resistance Axis stand by Lebanon: Velayati",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/244982/Iran-Resistance-Axis-stand-by-Lebanon-Velayati",
+      "published_date": "2026-06-02T05:47:51Z",
       "category": "Local Events"
     },
     {
@@ -452,6 +557,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Front pages of Iran's English dailies on June 2",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/244978/Front-pages-of-Iran-s-English-dailies-on-June-2",
+      "published_date": "2026-06-02T03:15:54Z",
+      "category": "Local Events"
+    },
+    {
       "title": "‘Iran’s patience has limits,’: Gen. Mohsen Rezaei",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244975/Iran-s-patience-has-limits-Gen-Mohsen-Rezaei",
@@ -463,111 +575,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86170711/Expediency-Council-chief-says-Iranians-stand-with-Lebanon-amid",
       "published_date": "2026-06-01T16:53:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran suspends exchange of messages with US over Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244965/Iran-suspending-talks-with-US-over-Israeli-crimes-in-Lebanon",
-      "published_date": "2026-06-01T13:47:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japan PM holds phone call with Pres. Pezeshkian on ending war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244963/Japan-PM-holds-phone-call-with-Pres-Pezeshkian-on-ending-war",
-      "published_date": "2026-06-01T12:24:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President hails U17 freestyle wrestling team on Asian Champions title",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170549/President-hails-U17-freestyle-wrestling-team-on-Asian-Champions",
-      "published_date": "2026-06-01T12:16:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US naval blockade, escalation of Israeli crime ‘truce breach'",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244959/US-naval-blockade-escalation-of-Israeli-crime-truce-breach",
-      "published_date": "2026-06-01T10:52:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian says to continue his path with utmost strength",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244957/Pezeshkian-says-to-continue-his-path-with-utmost-strength",
-      "published_date": "2026-06-01T10:33:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 convicted of foreign-backed riots in January hanged in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244956/2-convicted-of-foreign-backed-riots-in-January-hanged-in-Iran",
-      "published_date": "2026-06-01T10:14:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hezbollah destroys Israel Iron Dome launcher for truce breach",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244955/Hezbollah-destroys-Israel-Iron-Dome-launcher-for-truce-breach",
-      "published_date": "2026-06-01T10:02:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yazd’s Tar-o-Pood Museum: Heritage of Iranian textiles and handlooms",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86170295/Yazd-s-Tar-o-Pood-Museum-Heritage-of-Iranian-textiles-and-handlooms",
-      "published_date": "2026-06-01T09:25:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Amir Hossein Zare, Zahra Kiani named Iran’s Champions gala",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244949/Amir-Hossein-Zare-Zahra-Kiani-named-Iran-s-Champions-gala",
-      "published_date": "2026-06-01T07:03:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enemies project their wishes as fact amid fake resignation rumors: Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86170026/Enemies-project-their-wishes-as-fact-amid-fake-resignation-rumors",
-      "published_date": "2026-06-01T06:39:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron says escalation in S Lebanon cannot be justified",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244948/Macron-says-escalation-in-S-Lebanon-cannot-be-justified",
-      "published_date": "2026-06-01T05:43:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian reaffirms determination to continue serving Iranian nation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86169948/Pezeshkian-reaffirms-determination-to-continue-serving-Iranian",
-      "published_date": "2026-06-01T05:35:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran's English dailies on June 1",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244945/Front-pages-of-Iran-s-English-dailies-on-June-1",
-      "published_date": "2026-06-01T03:20:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baghaei deplores Dutch police attack on Palestinian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244944/Baghaei-deplores-Dutch-police-attack-on-Palestinian",
-      "published_date": "2026-05-31T21:56:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gov’t spokesperson rejects news on President’s resignation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86169785/Gov-t-spokesperson-rejects-news-on-President-s-resignation",
-      "published_date": "2026-05-31T19:40:30Z",
       "category": "Local Events"
     }
   ]
