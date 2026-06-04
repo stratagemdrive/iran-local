@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-04T00:28:19Z",
-  "total_stories": 81,
+  "generated_at": "2026-06-04T14:13:55Z",
+  "total_stories": 80,
   "stories": [
+    {
+      "title": "Iran-US messages continue as Tehran seeks dignified peace: FM Araghchi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86173098/Iran-US-messages-continue-as-Tehran-seeks-dignified-peace-FM",
+      "published_date": "2026-06-04T05:42:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Any hostile act against Iran will be met with ‘immediate, decisive response’: Araghchi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86173097/Any-hostile-act-against-Iran-will-be-met-with-immediate-decisive",
+      "published_date": "2026-06-04T05:21:53Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hezbollah cannot be eliminated, ignored despite all attempts",
       "source": "Mehr News Agency",
@@ -130,18 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian foreign minister, envoy to Egypt discuss bilateral relations",
+      "title": "Israel must retreat to pre-Ramadan War positions: Top IRGC commander",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171396/Iranian-foreign-minister-envoy-to-Egypt-discuss-bilateral-relations",
-      "published_date": "2026-06-02T10:35:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86173410/Israel-must-retreat-to-pre-Ramadan-War-positions-Top-IRGC-commander",
+      "published_date": "2026-06-04T13:28:01Z",
+      "category": "Military"
     },
     {
-      "title": "Truce violation on one front equals truce violation on all fronts: Araghchi",
+      "title": "Images of hitting Kuwait airports with Iran drone fabricated",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245032/Images-of-hitting-Kuwait-airports-with-Iran-drone-fabrikated",
+      "published_date": "2026-06-04T12:33:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran and Tajikistan call for developing environmental cooperation",
       "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86171271/Truce-violation-on-one-front-equals-truce-violation-on-all-fronts",
-      "published_date": "2026-06-02T08:01:17Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86173360/Iran-and-Tajikistan-call-for-developing-environmental-cooperation",
+      "published_date": "2026-06-04T12:09:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel must return to pre-40-day war positions: Gen. Ghaani",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245031/Israel-must-return-to-pre-40-day-war-positions",
+      "published_date": "2026-06-04T11:54:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli regime further isolated after its battlefield humiliation: Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86173254/Israeli-regime-further-isolated-after-its-battlefield-humiliation",
+      "published_date": "2026-06-04T09:00:40Z",
+      "category": "Military"
+    },
+    {
+      "title": "Imam Khomeini's insights show Iran's path forward: Leader",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245028/Imam-Khomeini-s-insights-show-Iran-s-path-forward-Leader",
+      "published_date": "2026-06-04T07:54:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Era of cost-free threats against Iran is over: Ghalibaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86173199/Era-of-cost-free-threats-against-Iran-is-over-Ghalibaf",
+      "published_date": "2026-06-04T07:23:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "House approves measure to limit Trump's Iran war powers",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245026/House-approves-measure-to-limit-Trump-s-Iran-war-powers",
+      "published_date": "2026-06-04T06:06:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "US Patriot missile error responsible for damage at Kuwait airport: IRGC",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86173106/US-Patriot-missile-error-responsible-for-damage-at-Kuwait-airport",
+      "published_date": "2026-06-04T05:46:54Z",
+      "category": "Military"
     },
     {
       "title": "US patriot missile behind destruction in Kuwait airport",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "IRGC conducts retaliatory missile, drone strike on US Fifth Fleet Headquarters",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86172028/IRGC-conducts-retaliatory-missile-drone-strike-on-US-Fifth-Fleet",
-      "published_date": "2026-06-03T05:10:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC strikes US Navy's 5th Fleet HQ with missiles, drones",
+      "title": "Iran's Bushehr nuclear plant hits record 80 billion kWh",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245006/IRGC-strikes-US-Navy-s-5th-Fleet-HQ-with-missiles-drones",
-      "published_date": "2026-06-03T03:54:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s scientific, technological capabilities have advanced since before war, VP says",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171798/Iran-s-scientific-technological-capabilities-have-advanced-since",
-      "published_date": "2026-06-02T16:11:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"They Were Angels\" ceremony to be held in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244998/They-Were-Angels-ceremony-to-be-held-in-Tehran",
-      "published_date": "2026-06-02T14:13:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-Russia children’s painting contest in Astrakhan honors Minab students",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171684/Iran-Russia-children-s-painting-contest-in-Astrakhan-honors-Minab",
-      "published_date": "2026-06-02T13:43:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s air defense network inflicted heaviest equipment losses on enemies: Top commander",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171648/Iran-s-air-defense-network-inflicted-heaviest-equipment-losses",
-      "published_date": "2026-06-02T13:15:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran military power has increased during ceasefire: IRGC gen.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244995/Iran-military-power-has-increases-since-ceasefire-IRGC-gen",
-      "published_date": "2026-06-02T13:05:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Exclusive | Iranians’ identity and conduct key to their success against aggressors, says Russian scholar",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171432/Exclusive-Iranians-identity-and-conduct-key-to-their-success",
-      "published_date": "2026-06-02T11:32:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two dozen more ships permitted through Strait of Hormuz in 24 hours: IRGC Navy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171463/Two-dozen-more-ships-permitted-through-Strait-of-Hormuz-in-24",
-      "published_date": "2026-06-02T11:05:02Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/245030/Iran-s-Bushehr-nuclear-plant-hits-record-80-billion-kWh",
+      "published_date": "2026-06-04T11:04:44Z",
+      "category": "Energy"
     },
     {
       "title": "No uranium transfer without Iran’s approval",
@@ -417,18 +424,53 @@
       "category": "Economy"
     },
     {
-      "title": "Iran, Kazakhstan stress $3 billion trade target",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86167084/Iran-Kazakhstan-stress-3-billion-trade-target",
-      "published_date": "2026-05-28T14:03:36Z",
-      "category": "Economy"
+      "title": "10-km long Ghadir feast begins in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/live/245034/10-km-long-Ghadir-feast-begins-in-Tehran",
+      "published_date": "2026-06-04T13:23:17Z",
+      "category": "Local Events"
     },
     {
-      "title": "Tehran, Islamabad emphasize strengthening bilateral ties, regional diplomacy",
+      "title": "Enemies to fail in face of resistant Iranian nation: Qassem",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245033/Enemies-to-fail-in-face-of-resistant-Iranian-nation-Qassem",
+      "published_date": "2026-06-04T13:04:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imam Khomeini’s legacy honored at commemorative event in Tunisia",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86166845/Tehran-Islamabad-emphasize-strengthening-bilateral-ties-regional",
-      "published_date": "2026-05-28T06:59:45Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86173330/Imam-Khomeini-s-legacy-honored-at-commemorative-event-in-Tunisia",
+      "published_date": "2026-06-04T10:38:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahraini regime detains 20 figures, including 5 Shia scholars",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245029/Bahraini-regime-detains-20-figures-including-5-Shia-scholars",
+      "published_date": "2026-06-04T08:43:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thousands of Iranians mark 37th anniversary of Imam Khomeini’s passing",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86173189/Thousands-of-Iranians-mark-37th-anniversary-of-Imam-Khomeini-s",
+      "published_date": "2026-06-04T07:27:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran marks 37 years since passing of Imam Khomeini",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86173174/Iran-marks-37-years-since-passing-of-Imam-Khomeini",
+      "published_date": "2026-06-04T07:00:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ceremony held to mark passing anniv. of Imam Khomeini",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245027/Ceremony-gets-underway-to-mark-passing-of-Imam-Khomeini",
+      "published_date": "2026-06-04T06:46:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran Navy targets 'command center' aboard US destroyer",
@@ -519,55 +561,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86172096/In-photos-Tehran-Jews-honor-Imam-Khomeini-on-passing-anniversary",
       "published_date": "2026-06-03T05:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran's English dailies on June 3",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245005/Front-pages-of-Iran-s-English-dailies-on-June-3",
-      "published_date": "2026-06-03T03:45:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Hazfi Cup canceled for remainder of season",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245003/Iran-s-Hazfi-Cup-canceled-for-remainder-of-season",
-      "published_date": "2026-06-02T19:00:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to play Mali on Thursday in preparation for World Cup",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245002/Iran-to-play-Mali-on-Thursday-in-preparation-for-World-Cup",
-      "published_date": "2026-06-02T18:26:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hezbollah leader sends message to conference in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245000/Hezbollah-leader-sends-message-to-conference-in-Iran",
-      "published_date": "2026-06-02T16:50:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab League condemns storming of Al-Aqsa Mosque by Zionist settlers",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171791/Arab-League-condemns-storming-of-Al-Aqsa-Mosque-by-Zionist-settlers",
-      "published_date": "2026-06-02T16:29:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral processions for martyred Leader to be held in Tehran, Qom, Mashhad: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171708/Funeral-processions-for-martyred-Leader-to-be-held-in-Tehran",
-      "published_date": "2026-06-02T15:26:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran announce 26-man squad for the 2026 World Cup",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244999/Iran-announce-26-man-squad-for-the-2026-World-Cup",
-      "published_date": "2026-06-02T14:25:36Z",
       "category": "Local Events"
     }
   ]
