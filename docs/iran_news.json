@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-03T15:55:03Z",
-  "total_stories": 82,
+  "generated_at": "2026-06-04T00:28:19Z",
+  "total_stories": 81,
   "stories": [
+    {
+      "title": "Hezbollah cannot be eliminated, ignored despite all attempts",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245025/Hezbollah-cannot-be-eliminated-ingored-despite-all-attempts",
+      "published_date": "2026-06-03T21:00:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Any hostile act to be met with immediate, decisive response",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245021/Any-hostile-act-to-be-met-with-immediate-decisive-response",
+      "published_date": "2026-06-03T16:55:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Japan can play effective role in Iran’s post-war reconstruction: Iran envoy",
       "source": "IRNA",
@@ -130,21 +144,14 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US, Israel keep violating ceasefire on all fronts: Iran’s Foreign Ministry",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171183/US-Israel-keep-violating-ceasefire-on-all-fronts-Iran-s-Foreign",
-      "published_date": "2026-06-02T07:38:00Z",
-      "category": "Diplomacy"
+      "title": "US patriot missile behind destruction in Kuwait airport",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245024/US-patriot-missile-behind-destruction-in-Kuwait-airport",
+      "published_date": "2026-06-03T20:43:00Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi holds phone consultations with Pakistani officials",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171065/Araghchi-holds-phone-consultations-with-Pakistani-officials",
-      "published_date": "2026-06-02T06:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran strike cause serious damage to US base in Kuwait",
+      "title": "Iran strikes cause serious damage to US base in Kuwait",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245020/Iran-strike-cause-serious-damage-to-US-base-in-Kuwait",
       "published_date": "2026-06-03T15:47:50Z",
@@ -274,13 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86171463/Two-dozen-more-ships-permitted-through-Strait-of-Hormuz-in-24",
       "published_date": "2026-06-02T11:05:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's air defense network inflicted heavy UAV losses in war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244992/Iran-s-air-defense-network-inflicted-heavy-UAV-losses-in-war",
-      "published_date": "2026-06-02T10:13:13Z",
       "category": "Military"
     },
     {
@@ -431,11 +431,25 @@
       "category": "Economy"
     },
     {
-      "title": "Industry, mining, trade minister departs for Kazakhstan to participate in Eurasian Economic Forum",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/526816/Industry-mining-trade-minister-departs-for-Kazakhstan-to-participate",
-      "published_date": "2026-05-27T16:07:48Z",
-      "category": "Economy"
+      "title": "Iran Navy targets 'command center' aboard US destroyer",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245023/Iran-Navy-targets-command-center-aboard-US-destroyer",
+      "published_date": "2026-06-03T20:34:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Era of cost-free threats against Iran has ended: Ghalibaf",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245022/Era-of-cost-free-threats-against-Iran-has-ended-Ghalibaf",
+      "published_date": "2026-06-03T18:09:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Pezeshkian hails Eid al-Ghadir as harbinger of just leadership",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86172878/President-Pezeshkian-hails-Eid-al-Ghadir-as-harbinger-of-just",
+      "published_date": "2026-06-03T16:47:53Z",
+      "category": "Local Events"
     },
     {
       "title": "S. Arabia did not agree to Iran pilgrims use of Taif airport",
@@ -554,27 +568,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/244999/Iran-announce-26-man-squad-for-the-2026-World-Cup",
       "published_date": "2026-06-02T14:25:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martyred Leader funeral to last three days: Tehran official",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/244997/Martyred-Leader-funeral-to-last-three-days-Tehran-official",
-      "published_date": "2026-06-02T14:20:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Cancer Inst. opened at Imam Khomeini Hospital Complex",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/244994/Iran-Cancer-Inst-opened-at-Imam-Khomeini-Hospital-Complex",
-      "published_date": "2026-06-02T11:40:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran stresses social protection for platform workers",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86171410/Iran-stresses-social-protection-for-platform-workers",
-      "published_date": "2026-06-02T11:19:35Z",
       "category": "Local Events"
     }
   ]
