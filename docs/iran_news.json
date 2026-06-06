@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-05T13:58:58Z",
-  "total_stories": 76,
+  "generated_at": "2026-06-06T00:01:45Z",
+  "total_stories": 75,
   "stories": [
+    {
+      "title": "Iranian industry minister meets with Tajik, Uzbek counterparts",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86174030/Iranian-industry-minister-meets-with-Tajik-Uzbek-counterparts",
+      "published_date": "2026-06-05T15:47:38Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran FM commemorates martyred children of Minab School",
       "source": "IRNA",
@@ -134,13 +141,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245021/Any-hostile-act-to-be-met-with-immediate-decisive-response",
       "published_date": "2026-06-03T16:55:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Japan can play effective role in Iran’s post-war reconstruction: Iran envoy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86172841/Japan-can-play-effective-role-in-Iran-s-post-war-reconstruction",
-      "published_date": "2026-06-03T15:33:48Z",
       "category": "Diplomacy"
     },
     {
@@ -389,11 +389,11 @@
       "category": "Economy"
     },
     {
-      "title": "Pezeshkian: Iran’s presence in major regional blocs signifies Tehran’s serious will for development",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86167737/Pezeshkian-Iran-s-presence-in-major-regional-blocs-signifies",
-      "published_date": "2026-05-29T16:18:57Z",
-      "category": "Economy"
+      "title": "Why US cant's tolerate strong, independent Iran?",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245061/Why-US-cant-s-tolerate-strong-independent-Iran",
+      "published_date": "2026-06-05T14:40:13Z",
+      "category": "Local Events"
     },
     {
       "title": "Islamic Republic standing in a ‘privileged’ position in world",
@@ -526,13 +526,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245027/Ceremony-gets-underway-to-mark-passing-of-Imam-Khomeini",
       "published_date": "2026-06-04T06:46:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Navy targets 'command center' aboard US destroyer",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245023/Iran-Navy-targets-command-center-aboard-US-destroyer",
-      "published_date": "2026-06-03T20:34:44Z",
       "category": "Local Events"
     }
   ]
