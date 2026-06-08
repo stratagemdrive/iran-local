@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-07T23:59:17Z",
+  "generated_at": "2026-06-08T14:53:24Z",
   "total_stories": 67,
   "stories": [
+    {
+      "title": "Russia warns against US push to pass anti-Iran IAEA res.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245173/Russia-warns-against-US-push-to-pass-anti-Iran-IAEA-res",
+      "published_date": "2026-06-08T14:47:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Europe no longer part of Iran's nuclear negotiations",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245152/Europe-no-longer-part-of-Iran-s-nuclear-negotiations",
+      "published_date": "2026-06-08T07:10:06Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi holds calls with Qatar, France, UK FMs, Asim Munir",
       "source": "Mehr News Agency",
@@ -130,157 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Releasing 50% of frozen assets a need for inking MoU with US",
+      "title": "Lebanon says Israel has bombed it nearly 3,500 times",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245072/Releasing-50-of-frozen-assets-a-need-for-inking-MoU-with-US",
-      "published_date": "2026-06-06T07:47:59Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245172/Lebanon-says-Israel-has-bombed-it-nearly-3-500-times",
+      "published_date": "2026-06-08T14:06:02Z",
+      "category": "Military"
     },
     {
-      "title": "SCO members back Iran against US-Israeli aggression: Minister",
+      "title": "Iran used latest generation of Kheibar Shekan missile",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245070/SCO-members-back-Iran-against-US-Israeli-aggression-Minister",
-      "published_date": "2026-06-06T06:45:26Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245171/Iran-used-latest-generation-of-Kheibar-Shekan-missile",
+      "published_date": "2026-06-08T13:18:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Enemy not upholding ceasefire, honoring agreement: Army cmdr.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245170/Enemy-not-upholding-ceasefire-honoring-agreement-Army-cmdr",
+      "published_date": "2026-06-08T12:57:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "No casualties in Iran after Israeli regime'e attcks: IRCS",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245168/No-casualties-in-Iran-after-Israeli-regime-e-attcks-IRCS",
+      "published_date": "2026-06-08T12:38:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Child-killing Zionist regime closer than ever to decline",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245166/Child-killing-Zionist-regime-closer-than-ever-to-decline",
+      "published_date": "2026-06-08T12:09:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran declares operations pause after striking Israel",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245165/Iran-declares-operations-pause-after-striking-Israel",
+      "published_date": "2026-06-08T11:27:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran geared up for long-term war: source",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245162/Iran-geared-up-for-long-term-war-source",
+      "published_date": "2026-06-08T10:53:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns of harsher blows to enemy if attacks continue",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245161/Iran-warns-of-harsher-blows-to-enemy-if-attacks-continue",
+      "published_date": "2026-06-08T10:13:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Recent military, cyber op. against Israel complete success",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245160/Recent-military-cyber-op-against-Israel-complete-success",
+      "published_date": "2026-06-08T09:59:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC strikes Haifa in retaliation for petchem attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245155/IRGC-strikes-Haifa-in-retaliation-for-petchem-attack",
+      "published_date": "2026-06-08T07:47:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mousavi commends Iranian people for disappointing enemies",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245153/IRGC-cmdr-commends-Iranian-people-in-disappointing-enemies",
+      "published_date": "2026-06-08T07:14:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian missile hits Haifa region in occupied Palestine",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245151/Iranian-missile-hits-Haifa-region-in-occupied-Palestine",
+      "published_date": "2026-06-08T07:03:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Skies in occupied lands under control of Iranian missiles",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245150/Skies-in-occupied-lands-under-control-of-Iranian-missiles",
+      "published_date": "2026-06-08T07:01:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran fires 6 more missiles toward occupied Palestine",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245149/Iran-fires-6-more-missiles-on-occupied-Palestine",
+      "published_date": "2026-06-08T06:48:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen hits Israel, closes Red Sea to Israeli ships",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245148/Yemen-declares-Red-Sea-closed-to-Israeli-ships",
+      "published_date": "2026-06-08T06:09:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rezaei warns of stronger response to further aggression",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245147/Rezaei-warns-of-stronger-response-to-further-aggression",
+      "published_date": "2026-06-08T06:04:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli regime strikes Iran's Karun petrochemical facility",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245146/Israeli-regime-strikes-Iran-s-Mahshahr-petrochemical-facility",
+      "published_date": "2026-06-08T05:59:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Stop the folly or face consequences in Hormuz, Bab al-Mandeb",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245145/Stop-the-folly-or-face-consequences-in-Hormuz-Bab-al-Mandeb",
+      "published_date": "2026-06-08T05:40:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC starts \"Operation Nasr\" by targeting Israeli airbases",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245144/IRGC-starts-Operation-Nasr-by-targeting-Israeli-airbases",
+      "published_date": "2026-06-08T05:22:45Z",
+      "category": "Military"
     },
     {
       "title": "VIDEO: Kheibar Shekan missiles launch",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245132/VIDEO-Kheibar-Shekan-missiles-launch",
       "published_date": "2026-06-07T20:45:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Video: Firing missiles at Zionist regime from Kermanshah",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245131/Video-Firing-missiles-at-Zionist-regime-from-Kermanshah",
-      "published_date": "2026-06-07T20:00:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran launches missiles at Zionist regime",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245130/Iran-launches-missiles-at-Zionist-regime",
-      "published_date": "2026-06-07T19:15:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "US bases, Zionist regime legitimate targets: Ghalibaf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245127/US-bases-Zionist-regime-legitimate-targets-Ghalibaf",
-      "published_date": "2026-06-07T16:56:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Handala group warns Zionists to evacuate N occupied lands",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245125/Handala-group-warns-Zionists-to-evacuate-N-occupied-lands",
-      "published_date": "2026-06-07T15:05:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches airstrike on Beirut’s southern suburb",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245123/Israel-launches-airstrike-on-Beirut-s-southern-suburb",
-      "published_date": "2026-06-07T14:01:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to use mechanisms to pursuit Minab School perpetrators",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245119/Iran-to-use-mechanisms-to-pursuit-Minab-School-perpetrators",
-      "published_date": "2026-06-07T13:11:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "A team of terrorists dismantled in Saravan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245118/A-team-of-terrorists-dismantled-in-Saravan",
-      "published_date": "2026-06-07T12:51:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Massive explosion hits Dahiyeh of Beirut",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245117/VIDEO-Massive-explosion-hits-Dahiyeh-of-Beirut",
-      "published_date": "2026-06-07T12:34:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Leader advisor denounces massacre of innocent children in war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245116/Leader-advisor-denounces-massacre-of-innocent-children-in-war",
-      "published_date": "2026-06-07T12:17:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "China conducts law enforcement operation east of Taiwan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245103/China-conducts-law-enforcement-operation-east-of-Taiwan",
-      "published_date": "2026-06-07T07:15:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tens killed, injured during fresh Israel strikes on Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245097/Dozens-killed-injured-during-fresh-Israel-strikes-on-Lebanon",
-      "published_date": "2026-06-07T04:22:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Time for Lebanon to unite against Israel: Yemeni official",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245095/Time-for-Lebanon-to-unite-against-Israel-Yemeni-official",
-      "published_date": "2026-06-06T20:48:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Many condemn Israeli assassination of Lebanese commanders",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245094/Many-condemn-Israeli-assassination-of-senior-army-commanders",
-      "published_date": "2026-06-06T20:08:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pope Leo, Spanish PM condemn war on Iran as unjust, illegal",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245091/Pope-Leo-Spanish-PM-condemn-war-on-Iran-as-unjust-illegal",
-      "published_date": "2026-06-06T18:14:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Satellite images show Iran destroys drone hangar at US base",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245090/Satellite-images-show-drone-hangars-at-US-base-shattered",
-      "published_date": "2026-06-06T16:40:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah condemns deadly Israeli strike on Lebanese army vehicle",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86174931/Hezbollah-condemns-deadly-Israeli-strike-on-Lebanese-army-vehicle",
-      "published_date": "2026-06-06T15:53:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says Israeli strike on Lebanese army shows hostility toward entire country",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86174946/Iran-says-Israeli-strike-on-Lebanese-army-shows-hostility-toward",
-      "published_date": "2026-06-06T15:14:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israeli attacks caused over $40 million in damage to Shahid Beheshti University",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86174863/US-Israeli-attacks-caused-over-40-million-in-damage-to-Shahid",
-      "published_date": "2026-06-06T13:06:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "11 planes flee Kuwait space as Iran responds to US aggresion",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245086/11-planes-flee-Kuwait-space-as-Iran-responds-to-US-aggresion",
-      "published_date": "2026-06-06T13:04:02Z",
       "category": "Military"
     },
     {
@@ -331,6 +331,69 @@
       "url": "https://en.irna.ir/news/86173846/Iran-s-minister-says-security-is-prerequisite-for-sustainable",
       "published_date": "2026-06-05T09:42:34Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iran not to retreat in face of any threats: Pezeshkian says",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245169/Iran-not-to-retreat-in-face-of-any-threat-Pres-Pezeshkian",
+      "published_date": "2026-06-08T12:35:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "6 injured in knife attack at New York City’s Penn Station",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245167/6-injured-in-knife-attack-at-New-York-City-s-Penn-Station",
+      "published_date": "2026-06-08T12:27:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran dismantles four terror cells in southeast, 19 arrested",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245164/Iran-dismantles-four-terror-cells-in-southeast-19-arrested",
+      "published_date": "2026-06-08T11:49:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran joins countries in producing advanced cryogenic parts",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245163/Iran-joins-countries-in-producing-advanced-cryogenic-parts",
+      "published_date": "2026-06-08T11:20:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armenia’s Pashinyan claims victory in parl. elections",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245159/Armenia-s-Pashinyan-claims-victory-in-parl-elections",
+      "published_date": "2026-06-08T09:24:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China's Xi arrives in North Korea with ‘new missions: report",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245158/China-s-Xi-arrives-in-North-Korea-with-new-missions-report",
+      "published_date": "2026-06-08T08:59:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hostile drone shot down over Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245157/Hostile-drone-shot-down-over-Tehran",
+      "published_date": "2026-06-08T08:26:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US responsible for outcomes of escalating tension in region",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245156/US-responsible-for-outcomes-of-escalating-tension-in-region",
+      "published_date": "2026-06-08T07:58:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Legal proceedings launched against 3,121 for coop. with enemy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245154/Legal-proceedings-launched-against-3-121-for-coop-with-enemy",
+      "published_date": "2026-06-08T07:25:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran stands by Lebanon: Ejei",
@@ -407,69 +470,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245106/Voting-begins-in-Armenia-parl-elections",
       "published_date": "2026-06-07T07:58:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Mourning tent of Faziliyyah set up at Karbala",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245105/VIDEO-Mourning-tent-of-Faziliyyah-set-up-at-Karbala",
-      "published_date": "2026-06-07T07:51:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian officials united on negotiation proposals: VP Aref",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245102/Iranian-officials-united-on-negotiation-proposals-VP-Aref",
-      "published_date": "2026-06-07T07:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 12 people wounded in Ohio shooting",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245101/At-least-12-people-wounded-in-Ohio-shooting",
-      "published_date": "2026-06-07T06:38:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dozens of fishing boats destroyed in Ecuador port fire",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245100/Dozens-of-fishing-boats-destroyed-in-Ecuador-port-fire",
-      "published_date": "2026-06-07T05:43:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran's English dailies on June 7",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245096/Front-pages-of-Iran-s-English-dailies-on-June-7",
-      "published_date": "2026-06-07T03:55:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran hails Pakistan mediatory role",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86175098/Iran-hails-Pakistan-mediatory-role",
-      "published_date": "2026-06-06T21:18:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani interior minister in Tehran to discuss bilateral ties, regional developments",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86175084/Pakistani-interior-minister-in-Tehran-to-discuss-bilateral-ties",
-      "published_date": "2026-06-06T20:24:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Pakistan interior ministers hold meeting in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245093/Iran-Pakistan-interior-ministers-hold-meeting-in-Tehran",
-      "published_date": "2026-06-06T19:33:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosion reported near Kharg Island in Persian Gulf: Report",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245092/Explosion-reported-near-Kharg-Island-in-Persian-Gulf-Report",
-      "published_date": "2026-06-06T18:25:12Z",
       "category": "Local Events"
     }
   ]
