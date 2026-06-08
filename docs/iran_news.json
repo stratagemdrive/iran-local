@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-08T14:53:24Z",
+  "generated_at": "2026-06-08T23:59:14Z",
   "total_stories": 67,
   "stories": [
     {
@@ -144,6 +144,41 @@
       "category": "Diplomacy"
     },
     {
+      "title": "From Hormuz Strait to Red Sea resistance's new security belt",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245180/From-Hormuz-Strait-to-Red-Sea-resistance-s-new-security-belt",
+      "published_date": "2026-06-08T19:56:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ceasefire on paper, violations in practice equation disrupted",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245179/Ceasefire-on-paper-violations-in-practice-equation-disrupted",
+      "published_date": "2026-06-08T17:50:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "UKMTO reports incident for tanker off Oman coast",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245178/UKMTO-reports-incident-for-tanker-off-Oman-coast",
+      "published_date": "2026-06-08T17:11:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "MP warns of trans-regional war in case of new adventurism",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245175/MP-warns-of-trans-regional-war-in-case-of-new-adventurism",
+      "published_date": "2026-06-08T15:55:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel wishes cessation of war after Iran missile attacks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245174/Israel-wishes-war-cessation-of-war-after-Iran-missile-attacks",
+      "published_date": "2026-06-08T15:36:37Z",
+      "category": "Military"
+    },
+    {
       "title": "Lebanon says Israel has bombed it nearly 3,500 times",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245172/Lebanon-says-Israel-has-bombed-it-nearly-3-500-times",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Rezaei warns of stronger response to further aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245147/Rezaei-warns-of-stronger-response-to-further-aggression",
-      "published_date": "2026-06-08T06:04:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli regime strikes Iran's Karun petrochemical facility",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245146/Israeli-regime-strikes-Iran-s-Mahshahr-petrochemical-facility",
-      "published_date": "2026-06-08T05:59:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Stop the folly or face consequences in Hormuz, Bab al-Mandeb",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245145/Stop-the-folly-or-face-consequences-in-Hormuz-Bab-al-Mandeb",
-      "published_date": "2026-06-08T05:40:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC starts \"Operation Nasr\" by targeting Israeli airbases",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245144/IRGC-starts-Operation-Nasr-by-targeting-Israeli-airbases",
-      "published_date": "2026-06-08T05:22:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Kheibar Shekan missiles launch",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245132/VIDEO-Kheibar-Shekan-missiles-launch",
-      "published_date": "2026-06-07T20:45:24Z",
-      "category": "Military"
-    },
-    {
       "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86174854/US-made-crisis-in-Strait-of-Hormuz-harms-all-nations-Rosneft",
@@ -331,6 +331,13 @@
       "url": "https://en.irna.ir/news/86173846/Iran-s-minister-says-security-is-prerequisite-for-sustainable",
       "published_date": "2026-06-05T09:42:34Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iran will make region hell for enemy in case of new mistake",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245176/Iran-will-make-region-hell-for-enemy-in-case-of-new-mistake",
+      "published_date": "2026-06-08T16:28:35Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran not to retreat in face of any threats: Pezeshkian says",
@@ -463,13 +470,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245107/VIDEO-Israeli-forces-shoot-on-Palestinian-in-Al-Zaytoun-Area",
       "published_date": "2026-06-07T08:10:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Voting begins in Armenia parl. elections",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245106/Voting-begins-in-Armenia-parl-elections",
-      "published_date": "2026-06-07T07:58:40Z",
       "category": "Local Events"
     }
   ]
