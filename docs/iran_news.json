@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-09T13:49:01Z",
-  "total_stories": 67,
+  "generated_at": "2026-06-10T00:06:40Z",
+  "total_stories": 66,
   "stories": [
+    {
+      "title": "Iran FM warns against new US miscalculation in Persian Gulf",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245211/FM-warns-against-new-US-miscalculation-in-Persian-Gulf",
+      "published_date": "2026-06-09T19:47:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah asks Lebanese gov. to ‘correct’ ties with Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245205/Hezbollah-asks-Lebanese-gov-to-correct-ties-with-Iran",
+      "published_date": "2026-06-09T13:58:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Israeli regime cabinet makes latest decision on Lebanon",
       "source": "Mehr News Agency",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran condemns continued US ceasefire violations, calls for immediate UN action",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86174923/Iran-condemns-continued-US-ceasefire-violations-calls-for-immediate",
-      "published_date": "2026-06-06T14:25:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exclusive | Iran envoy rejects UK's Hormuz narrative, says external forces cannot ensure regional security",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86174800/Exclusive-Iran-envoy-rejects-UK-s-Hormuz-narrative-says-external",
-      "published_date": "2026-06-06T12:16:29Z",
-      "category": "Diplomacy"
+      "title": "Israeli regime kills 8 in southern Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245206/Israeli-regime-kills-8-in-southern-Lebanon",
+      "published_date": "2026-06-09T14:28:56Z",
+      "category": "Military"
     },
     {
       "title": "Iran Army Ground Force ready to decisively respond to threats",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Iran geared up for long-term war: source",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245162/Iran-geared-up-for-long-term-war-source",
-      "published_date": "2026-06-08T10:53:14Z",
-      "category": "Military"
-    },
-    {
       "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86174854/US-made-crisis-in-Strait-of-Hormuz-harms-all-nations-Rosneft",
@@ -295,13 +295,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245030/Iran-s-Bushehr-nuclear-plant-hits-record-80-billion-kWh",
       "published_date": "2026-06-04T11:04:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "No uranium transfer without Iran’s approval",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245001/No-uranium-transfer-without-Iran-s-approval",
-      "published_date": "2026-06-02T17:54:11Z",
       "category": "Energy"
     },
     {
@@ -331,6 +324,27 @@
       "url": "https://en.irna.ir/news/86173846/Iran-s-minister-says-security-is-prerequisite-for-sustainable",
       "published_date": "2026-06-05T09:42:34Z",
       "category": "Economy"
+    },
+    {
+      "title": "Iran prefers diplomacy while more fluent in other languages",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245210/Iran-prefers-diplomacy-while-more-fluent-in-other-languages",
+      "published_date": "2026-06-09T19:13:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump claims Iran downed helicopter over Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245209/Trump-claims-Iran-downed-helicopter-over-Hormuz",
+      "published_date": "2026-06-09T17:24:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hezbollah fighters infiltrated into occupied lands",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245207/Hezbollah-fighters-infiltrated-into-occupied-lands",
+      "published_date": "2026-06-09T15:43:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Netanyahu’s ‘life project’ for Iran has utterly ‘failed’",
@@ -449,27 +463,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245158/China-s-Xi-arrives-in-North-Korea-with-new-missions-report",
       "published_date": "2026-06-08T08:59:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hostile drone shot down over Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245157/Hostile-drone-shot-down-over-Tehran",
-      "published_date": "2026-06-08T08:26:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US responsible for outcomes of escalating tension in region",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245156/US-responsible-for-outcomes-of-escalating-tension-in-region",
-      "published_date": "2026-06-08T07:58:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Legal proceedings launched against 3,121 for coop. with enemy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245154/Legal-proceedings-launched-against-3-121-for-coop-with-enemy",
-      "published_date": "2026-06-08T07:25:02Z",
       "category": "Local Events"
     }
   ]
