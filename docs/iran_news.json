@@ -1,13 +1,125 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-10T00:06:40Z",
-  "total_stories": 66,
+  "generated_at": "2026-06-10T14:31:39Z",
+  "total_stories": 68,
   "stories": [
+    {
+      "title": "Iran’s president congratulates Kyrgyzstan on non-permanent UNSC membership",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179208/Iran-s-president-congratulates-Kyrgyzstan-on-non-permanent-UNSC",
+      "published_date": "2026-06-10T14:00:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatari delegation visits Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245240/Qatari-delegation-visits-Tehran",
+      "published_date": "2026-06-10T13:13:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran blasts Israel irresponsible act to UN violence blacklist",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245236/Iran-denounces-Israel-irresponsible-act-to-UN-violence-b",
+      "published_date": "2026-06-10T11:13:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran reviewing future of talks amid latest ceasefire violations: Foreign Ministry",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178889/Iran-reviewing-future-of-talks-amid-latest-ceasefire-violations",
+      "published_date": "2026-06-10T10:12:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US harming diplomatic process by repeatedly truce violation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245234/US-harming-diplomatic-process-by-repeatedly-truce-violation",
+      "published_date": "2026-06-10T09:51:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns IAEA against becoming ‘political tool’ of US amid push for anti-Tehran resolution",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178522/Iran-warns-IAEA-against-becoming-political-tool-of-US-amid",
+      "published_date": "2026-06-10T07:59:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Iran reserves right to respond to US aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178524/Araghchi-Iran-reserves-right-to-respond-to-US-aggression",
+      "published_date": "2026-06-10T07:42:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran slams UN Security Council meeting on nuclear issue as ‘another display of hypocrisy’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178597/Iran-slams-UN-Security-Council-meeting-on-nuclear-issue-as-another",
+      "published_date": "2026-06-10T07:32:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran slams Security Council nuclear meeting as hypocrisy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245226/Tehran-slams-Security-Council-nuclear-meeting-as-hypocrisy",
+      "published_date": "2026-06-10T06:28:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi advises Americans to leave region if they want to be safe",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178443/Araghchi-advises-Americans-to-leave-region-if-they-want-to-be",
+      "published_date": "2026-06-10T05:52:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi holds talks with Saudi, Turkish counterparts",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245224/Araghchi-holds-talks-with-Saudi-Turkish-counterparts",
+      "published_date": "2026-06-10T04:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi warns against new US miscalculation in Persian Gulf",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245223/Araghchi-warns-against-new-US-miscalculation-in-Persian-Gulf",
+      "published_date": "2026-06-10T04:53:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Foreign Ministry issues statement after US aggression",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245221/Iran-s-Foreign-Ministry-issues-statement-after-US-aggression",
+      "published_date": "2026-06-10T04:35:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns against new US miscalculation in Persian Gulf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178272/Iran-warns-against-new-US-miscalculation-in-Persian-Gulf",
+      "published_date": "2026-06-09T20:12:09Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran FM warns against new US miscalculation in Persian Gulf",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245211/FM-warns-against-new-US-miscalculation-in-Persian-Gulf",
       "published_date": "2026-06-09T19:47:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran completes Ardabil-Mianeh railway after more than two decades",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178157/Iran-completes-Ardabil-Mianeh-railway-after-more-than-two-decades",
+      "published_date": "2026-06-09T16:57:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran condemns US boasting over seized assets, quotes Macbeth",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86178078/Iran-condemns-US-boasting-over-seized-assets-quotes-Macbeth",
+      "published_date": "2026-06-09T14:46:31Z",
       "category": "Diplomacy"
     },
     {
@@ -32,255 +144,143 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FM Araghchi congrats Armenian PM on victory in parl. election",
+      "title": "Army drones used in attack on US base in Bahrain",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245190/FM-Araghchi-congrats-Armenian-PM-on-victory-in-parl-election",
-      "published_date": "2026-06-09T08:15:57Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245241/Army-drones-used-in-attack-on-US-base-in-Bahrain",
+      "published_date": "2026-06-10T13:49:59Z",
+      "category": "Military"
     },
     {
-      "title": "Iran urges unconditional release of Afghanistan frozen assets",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245187/Iran-urges-unconditional-release-of-Afghanistan-frozen-assets",
-      "published_date": "2026-06-09T07:18:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia warns against US push to pass anti-Iran IAEA res.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245173/Russia-warns-against-US-push-to-pass-anti-Iran-IAEA-res",
-      "published_date": "2026-06-08T14:47:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe no longer part of Iran's nuclear negotiations",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245152/Europe-no-longer-part-of-Iran-s-nuclear-negotiations",
-      "published_date": "2026-06-08T07:10:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi holds calls with Qatar, France, UK FMs, Asim Munir",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245133/Araghchi-holds-calls-with-Qatar-France-UK-FMs-Asim-Munir",
-      "published_date": "2026-06-07T21:11:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Talks with US stalled due to Washington contradictory stance",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245124/Talks-with-US-stalled-due-to-Washington-contradictory-stance",
-      "published_date": "2026-06-07T14:10:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan special letter for Iran Leader submitted to Araghchi",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245113/Pakistan-special-letter-for-Iran-Leader-submitted-to-Araghchi",
-      "published_date": "2026-06-07T10:02:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran FM Araghchi meets with Pakistan interior min. in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245110/Iran-FM-Araghchi-meets-with-Pakistan-interior-min-in-Tehran",
-      "published_date": "2026-06-07T08:58:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mobarakeh steel ready to join Afghanistan mining projects",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245109/Mobarakeh-steel-ready-to-join-Afghanistan-mining-projects",
-      "published_date": "2026-06-07T08:31:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "North Korea nuclear program 'absolutely non-negotiable'",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245104/North-Korea-Nuclear-Program-Absolutely-Non-negotiable",
-      "published_date": "2026-06-07T07:31:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi calls for deeper Tehran-Caracas cooperation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245099/Araghchi-calls-for-deeper-Tehran-Caracas-cooperation",
-      "published_date": "2026-06-07T05:33:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran calls for fair energy order within BRICS",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245098/Iran-calls-for-fair-energy-order-within-BRICS",
-      "published_date": "2026-06-07T04:50:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran condemns US strikes on nuclear sites under Safeguards Agreement",
+      "title": "Iran’s progress in scientific and defense fields will not stop: Parliament speaker",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86175105/Iran-condemns-US-strikes-on-nuclear-sites-under-Safeguards-Agreement",
-      "published_date": "2026-06-06T21:40:15Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86179131/Iran-s-progress-in-scientific-and-defense-fields-will-not-stop",
+      "published_date": "2026-06-10T13:18:23Z",
+      "category": "Military"
     },
     {
-      "title": "Iran envoy to Mexico calls for strengthening dialog among civilizations",
+      "title": "Satellite imagery shows damage at Israeli base after strikes",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245239/Satellite-imagery-shows-damage-at-Israeli-base-after-strikes",
+      "published_date": "2026-06-10T12:32:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Erdogan warns Israeli regime poses a threat to Turkey",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86175012/Iran-envoy-to-Mexico-calls-for-strengthening-dialog-among-civilizations",
-      "published_date": "2026-06-06T16:46:19Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86179085/Erdogan-warns-Israeli-regime-poses-a-threat-to-Turkey",
+      "published_date": "2026-06-10T12:05:34Z",
+      "category": "Military"
     },
     {
-      "title": "SCO members should take clear stances in sensitive times: Iran's interior minister",
+      "title": "Pakistan army chopper crashes in Kashmir, all crew killed",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245238/Pakistan-army-chopper-crashes-in-Kashmir-all-crew-killed",
+      "published_date": "2026-06-10T12:00:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks leave residents without potable water in Hormozgan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245237/US-attacks-leave-over-2k-residents-without-water-in-Hormozgan",
+      "published_date": "2026-06-10T11:26:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "‘Leave our region if you want to be safe’: Araghchi warns US",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86174997/SCO-members-should-take-clear-stances-in-sensitive-times-Iran-s",
-      "published_date": "2026-06-06T16:17:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran blasts US strikes on sites under Safeguards Agreement",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245089/Iran-blasts-US-strikes-on-sites-under-Safeguards-Agreement",
-      "published_date": "2026-06-06T14:52:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli regime kills 8 in southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245206/Israeli-regime-kills-8-in-southern-Lebanon",
-      "published_date": "2026-06-09T14:28:56Z",
+      "url": "https://en.irna.ir/photo/86178969/Leave-our-region-if-you-want-to-be-safe-Araghchi-warns-US",
+      "published_date": "2026-06-10T10:45:04Z",
       "category": "Military"
     },
     {
-      "title": "Iran Army Ground Force ready to decisively respond to threats",
+      "title": "Pakistan airstrikes in Afghanistan kill at least 13",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245203/Iran-Army-Ground-Force-ready-to-decisively-respond-to-threats",
-      "published_date": "2026-06-09T13:19:57Z",
+      "url": "https://en.mehrnews.com/news/245232/Pakistan-airstrikes-in-Afghanistan-kill-at-least-13",
+      "published_date": "2026-06-10T08:49:18Z",
       "category": "Military"
     },
     {
-      "title": "Trump has claimed war-ending deal with Iran 37 times",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245199/Trump-has-claimed-war-ending-deal-with-Iran-37-times",
-      "published_date": "2026-06-09T11:26:17Z",
+      "title": "Iran vows response to sources of attacks on its soil",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178614/Iran-vows-response-to-sources-of-attacks-on-its-soil",
+      "published_date": "2026-06-10T07:25:44Z",
       "category": "Military"
     },
     {
-      "title": "VIDEO: Car bomb blast in Moscow, one person dead",
+      "title": "Maritime incident reported off Yemen coast",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245198/VIDEO-Car-bomb-blast-in-Moscow-one-person-dead",
-      "published_date": "2026-06-09T11:17:54Z",
+      "url": "https://en.mehrnews.com/news/245228/Maritime-incident-reported-off-Yemen-coast",
+      "published_date": "2026-06-10T06:37:24Z",
       "category": "Military"
     },
     {
-      "title": "VIDEO: Israeli forces target towns in southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245191/VIDEO-Israeli-forces-target-towns-in-southern-Lebanon",
-      "published_date": "2026-06-09T08:39:41Z",
+      "title": "IRGC Navy launches drone strike on US Fifth Fleet in Bahrain",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178500/IRGC-Navy-launches-drone-strike-on-US-Fifth-Fleet-in-Bahrain",
+      "published_date": "2026-06-10T06:17:18Z",
       "category": "Military"
     },
     {
-      "title": "Trump confesses US attack chopper crash near Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245188/Trump-confesses-US-attack-chopper-crash-near-Strait-of-Hormuz",
-      "published_date": "2026-06-09T07:35:15Z",
+      "title": "IRGC says it struck US military targets in Jordan with long-range missiles",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178479/IRGC-says-it-struck-US-military-targets-in-Jordan-with-long-range",
+      "published_date": "2026-06-10T06:14:00Z",
       "category": "Military"
     },
     {
-      "title": "How Iran's attack on Israel redefined regional equations?",
+      "title": "Why Trump, Netanyahu have conflicting opinions on ending war?",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245184/How-Iran-s-attack-on-Israel-redefined-regional-equations",
-      "published_date": "2026-06-09T05:21:36Z",
+      "url": "https://en.mehrnews.com/news/245225/Netanyahu-survives-through-war-Trump-through-peace",
+      "published_date": "2026-06-10T06:11:00Z",
       "category": "Military"
     },
     {
-      "title": "US military chopper crashes near Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245183/US-military-chopper-crashes-near-Strait-of-Hormuz",
-      "published_date": "2026-06-09T04:47:13Z",
+      "title": "Iran’s Army and IRGC target US bases: Statement",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178430/Iran-s-Army-and-IRGC-target-US-bases-Statement",
+      "published_date": "2026-06-10T05:39:49Z",
       "category": "Military"
     },
     {
-      "title": "Israeli strikes kill 7, including 4 medics, in Lebanon",
+      "title": "VIDEO: Watch Iran's missile attack against US bases",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245181/Israeli-strikes-kill-7-including-4-medics-in-Lebanon",
-      "published_date": "2026-06-09T03:42:42Z",
+      "url": "https://en.mehrnews.com/news/245222/VIDEO-Watch-Iran-s-missile-operation-against-US-bases",
+      "published_date": "2026-06-10T04:41:07Z",
       "category": "Military"
     },
     {
-      "title": "From Hormuz Strait to Red Sea resistance's new security belt",
+      "title": "US declares end to strikes on southern Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245180/From-Hormuz-Strait-to-Red-Sea-resistance-s-new-security-belt",
-      "published_date": "2026-06-08T19:56:05Z",
+      "url": "https://en.mehrnews.com/news/245219/US-declares-end-to-strikes-on-southern-Iran",
+      "published_date": "2026-06-10T04:18:22Z",
       "category": "Military"
     },
     {
-      "title": "Ceasefire on paper, violations in practice equation disrupted",
+      "title": "Iran warns of wider strikes if US attacks again",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245179/Ceasefire-on-paper-violations-in-practice-equation-disrupted",
-      "published_date": "2026-06-08T17:50:13Z",
+      "url": "https://en.mehrnews.com/news/245218/Iran-warns-of-wider-strikes-if-US-attacks-again",
+      "published_date": "2026-06-10T04:10:27Z",
       "category": "Military"
     },
     {
-      "title": "UKMTO reports incident for tanker off Oman coast",
+      "title": "VIDEO: Iran downs US MQ-9 Reaper drone in south",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245178/UKMTO-reports-incident-for-tanker-off-Oman-coast",
-      "published_date": "2026-06-08T17:11:34Z",
+      "url": "https://en.mehrnews.com/news/245217/VIDEO-Iran-downs-US-MQ-9-Reaper-drone-in-south",
+      "published_date": "2026-06-10T04:06:48Z",
       "category": "Military"
     },
     {
-      "title": "MP warns of trans-regional war in case of new adventurism",
+      "title": "IRGC downs US MQ-9 Reaper drone over southern Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245175/MP-warns-of-trans-regional-war-in-case-of-new-adventurism",
-      "published_date": "2026-06-08T15:55:58Z",
+      "url": "https://en.mehrnews.com/news/245215/IRGC-downs-US-MQ-9-Reaper-drone-over-southern-Iran",
+      "published_date": "2026-06-10T03:47:00Z",
       "category": "Military"
     },
     {
-      "title": "Israel wishes cessation of war after Iran missile attacks",
+      "title": "US missiles destroy water tanks in southern Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245174/Israel-wishes-war-cessation-of-war-after-Iran-missile-attacks",
-      "published_date": "2026-06-08T15:36:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon says Israel has bombed it nearly 3,500 times",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245172/Lebanon-says-Israel-has-bombed-it-nearly-3-500-times",
-      "published_date": "2026-06-08T14:06:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran used latest generation of Kheibar Shekan missile",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245171/Iran-used-latest-generation-of-Kheibar-Shekan-missile",
-      "published_date": "2026-06-08T13:18:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Enemy not upholding ceasefire, honoring agreement: Army cmdr.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245170/Enemy-not-upholding-ceasefire-honoring-agreement-Army-cmdr",
-      "published_date": "2026-06-08T12:57:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "No casualties in Iran after Israeli regime'e attcks: IRCS",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245168/No-casualties-in-Iran-after-Israeli-regime-e-attcks-IRCS",
-      "published_date": "2026-06-08T12:38:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Child-killing Zionist regime closer than ever to decline",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245166/Child-killing-Zionist-regime-closer-than-ever-to-decline",
-      "published_date": "2026-06-08T12:09:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran declares operations pause after striking Israel",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245165/Iran-declares-operations-pause-after-striking-Israel",
-      "published_date": "2026-06-08T11:27:10Z",
+      "url": "https://en.mehrnews.com/news/245214/US-missiles-destroy-water-tanks-in-southern-Iran",
+      "published_date": "2026-06-10T03:42:03Z",
       "category": "Military"
     },
     {
@@ -296,6 +296,20 @@
       "url": "https://en.mehrnews.com/news/245030/Iran-s-Bushehr-nuclear-plant-hits-record-80-billion-kWh",
       "published_date": "2026-06-04T11:04:44Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran’s auto imports register 47% growth in 2 months: IRICA",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245235/Iran-s-auto-imports-register-47-growth-in-2-months-IRICA",
+      "published_date": "2026-06-10T11:00:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran, EAEU trade registers 22% growth in 1st year of FTA",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245233/Iran-EAEU-trade-registers-22-growth-in-1st-year-of-FTA",
+      "published_date": "2026-06-10T09:00:16Z",
+      "category": "Economy"
     },
     {
       "title": "Martyred Leader funeral to be held after Muharram 1st decade",
@@ -326,10 +340,80 @@
       "category": "Economy"
     },
     {
+      "title": "Iran to respond to any new aggression firmly, immediately",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245242/Iran-to-respond-to-any-new-aggression-firmly-immediately",
+      "published_date": "2026-06-10T14:15:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Enemy counting on internal division to force Iran into submission",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178975/Pezeshkian-Enemy-counting-on-internal-division-to-force-Iran",
+      "published_date": "2026-06-10T10:57:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rare photos of Iran’s national football team’s presence at 1998 World Cup",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86178941/Rare-photos-of-Iran-s-national-football-team-s-presence-at-1998",
+      "published_date": "2026-06-10T10:34:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran beat Brazil in 2026 IWBF Men’s Repechage",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245231/Iran-beat-Brazil-in-2026-IWBF-Men-s-Repechage",
+      "published_date": "2026-06-10T08:01:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "12 killed, 9 injured in Johannesburg shooting in S Africa",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245230/12-killed-9-injured-in-Johannesburg-shooting-in-S-Africa",
+      "published_date": "2026-06-10T07:05:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran censures IAEA’s BoG over anti-Iran draft resolution",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245229/Tehran-censures-IAEA-s-BoG-over-anti-Iran-draft-resolution",
+      "published_date": "2026-06-10T07:02:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from earthquake in S Philippines rises to 45",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245227/Death-toll-from-earthquake-in-S-Philippines-rises-to-45",
+      "published_date": "2026-06-10T06:31:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli jets hit south Lebanon despite ceasefire",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245220/Israeli-jets-hit-south-Lebanon-despite-ceasefire",
+      "published_date": "2026-06-10T04:28:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on June 10",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/245216/Front-pages-of-Iran-s-English-dailies-on-June-10",
+      "published_date": "2026-06-10T03:49:40Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran prefers diplomacy while more fluent in other languages",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245210/Iran-prefers-diplomacy-while-more-fluent-in-other-languages",
       "published_date": "2026-06-09T19:13:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Parliament Speaker: Iran prefers diplomacy but is more fluent in other languages",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178250/Parliament-Speaker-Iran-prefers-diplomacy-but-is-more-fluent",
+      "published_date": "2026-06-09T19:03:38Z",
       "category": "Local Events"
     },
     {
@@ -347,6 +431,20 @@
       "category": "Local Events"
     },
     {
+      "title": "Ghalibaf thanks Iranian nation for ‘100 days of jihad’ against US-Israeli aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178073/Ghalibaf-thanks-Iranian-nation-for-100-days-of-jihad-against",
+      "published_date": "2026-06-09T14:18:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Deputy speaker: Iran has absolutely no trust in US",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86178061/Deputy-speaker-Iran-has-absolutely-no-trust-in-US",
+      "published_date": "2026-06-09T14:02:08Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Netanyahu’s ‘life project’ for Iran has utterly ‘failed’",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245204/Netanyahu-s-life-project-for-Iran-has-utterly-failed",
@@ -354,115 +452,31 @@
       "category": "Local Events"
     },
     {
-      "title": "Iran FM dismisses Albanian PM anti-Iran allegations",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245200/Iran-FM-dismisses-Albanian-PM-anti-Iran-allegations",
-      "published_date": "2026-06-09T11:53:45Z",
+      "title": "Iran, Belarus vow to expand medicine and medical equipment trade",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86177705/Iran-Belarus-vow-to-expand-medicine-and-medical-equipment-trade",
+      "published_date": "2026-06-09T13:14:09Z",
       "category": "Local Events"
     },
     {
-      "title": "FFIRI denounces US to cancel ticket quota for 2026 World Cup",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245197/FFIRI-denounces-US-to-cancel-ticket-quota-for-2026-World-Cup",
-      "published_date": "2026-06-09T10:55:09Z",
+      "title": "Iran, Lebanon not proxy forces of each other: Government spox",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86177823/Iran-Lebanon-not-proxy-forces-of-each-other-Government-spox",
+      "published_date": "2026-06-09T13:04:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Rights advocates are accomplice in US massacre in Minab",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245196/Rights-advocates-are-accomplice-in-US-massacre-in-Minab",
-      "published_date": "2026-06-09T10:39:50Z",
+      "title": "Iran reproves Albanian PM claim, advises Rama to respect his ‘intelligent’ citizens",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86177923/Iran-reproves-Albanian-PM-claim-advises-Rama-to-respect-his",
+      "published_date": "2026-06-09T12:56:14Z",
       "category": "Local Events"
     },
     {
-      "title": "One-hundred night of resistance of Iranian people",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245194/One-hundred-night-of-resistance-of-Iranian-people",
-      "published_date": "2026-06-09T09:37:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon integral part of any agreement: Iranian lawmaker says",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245192/Lebanon-integral-part-of-any-agreement-Iranian-lawmaker",
-      "published_date": "2026-06-09T08:49:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on June 09",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245189/Front-pages-of-Iran-s-English-dailies-on-June-09",
-      "published_date": "2026-06-09T07:50:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US to continue to seek deal with Iran: Vance",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245186/US-to-continue-to-seek-deal-with-Iran-Vance",
-      "published_date": "2026-06-09T07:11:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baghaei slams boasting about theft of Iranian assets",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245185/Baghaei-slams-boasting-about-theft-of-Iranian-assets",
-      "published_date": "2026-06-09T05:59:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hormuz an Iran-Oman affair, no third party",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245182/Hormuz-an-Iran-Oman-affair-no-third-party",
-      "published_date": "2026-06-09T03:46:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran will make region hell for enemy in case of new mistake",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245176/Iran-will-make-region-hell-for-enemy-in-case-of-new-mistake",
-      "published_date": "2026-06-08T16:28:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran not to retreat in face of any threats: Pezeshkian says",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245169/Iran-not-to-retreat-in-face-of-any-threat-Pres-Pezeshkian",
-      "published_date": "2026-06-08T12:35:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "6 injured in knife attack at New York City’s Penn Station",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245167/6-injured-in-knife-attack-at-New-York-City-s-Penn-Station",
-      "published_date": "2026-06-08T12:27:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran dismantles four terror cells in southeast, 19 arrested",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245164/Iran-dismantles-four-terror-cells-in-southeast-19-arrested",
-      "published_date": "2026-06-08T11:49:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran joins countries in producing advanced cryogenic parts",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245163/Iran-joins-countries-in-producing-advanced-cryogenic-parts",
-      "published_date": "2026-06-08T11:20:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Armenia’s Pashinyan claims victory in parl. elections",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245159/Armenia-s-Pashinyan-claims-victory-in-parl-elections",
-      "published_date": "2026-06-08T09:24:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China's Xi arrives in North Korea with ‘new missions: report",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245158/China-s-Xi-arrives-in-North-Korea-with-new-missions-report",
-      "published_date": "2026-06-08T08:59:35Z",
+      "title": "Senior Iranian cleric calls for stronger unity among Muslim nations",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86177963/Senior-Iranian-cleric-calls-for-stronger-unity-among-Muslim-nations",
+      "published_date": "2026-06-09T12:08:15Z",
       "category": "Local Events"
     }
   ]
