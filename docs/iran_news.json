@@ -1,8 +1,64 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-10T14:31:39Z",
-  "total_stories": 68,
+  "generated_at": "2026-06-11T00:09:32Z",
+  "total_stories": 74,
   "stories": [
+    {
+      "title": "Iran consults Turkey and Saudi Arabia on regional security",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527226/Iran-consults-Turkey-and-Saudi-Arabia-on-regional-security",
+      "published_date": "2026-06-10T16:45:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran rebukes IAEA board resolution, vows to defend ‘inalienable rights’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179304/Iran-rebukes-IAEA-board-resolution-vows-to-defend-inalienable",
+      "published_date": "2026-06-10T16:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IAEA board passes anti-Iran resolution despite objections",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527223/IAEA-board-passes-anti-Iran-resolution-despite-objections",
+      "published_date": "2026-06-10T16:34:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US truce breaches have undermined diplomatic efforts, Iran says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527222/US-truce-breaches-have-undermined-diplomatic-efforts-Iran-says",
+      "published_date": "2026-06-10T16:31:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says World Cup must not be used as pretext for discrimination against nations",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179267/Iran-says-World-Cup-must-not-be-used-as-pretext-for-discrimination",
+      "published_date": "2026-06-10T16:07:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Russia, and China issue joint statement at IAEA",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245244/Iran-Russia-and-China-issue-joint-statement-at-IAEA",
+      "published_date": "2026-06-10T15:38:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Russia and China rap US-backed anti-Tehran draft resolution at IAEA BoG",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179243/Iran-Russia-and-China-rap-US-backed-anti-Tehran-draft-resolution",
+      "published_date": "2026-06-10T14:49:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israeli war on Lebanon could serve as catalyst for regional unity",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527218/Israeli-war-on-Lebanon-could-serve-as-catalyst-for-regional-unity",
+      "published_date": "2026-06-10T14:31:18Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s president congratulates Kyrgyzstan on non-permanent UNSC membership",
       "source": "IRNA",
@@ -88,60 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran's Foreign Ministry issues statement after US aggression",
+      "title": "Handala warns US army of harsh response to aggression",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245221/Iran-s-Foreign-Ministry-issues-statement-after-US-aggression",
-      "published_date": "2026-06-10T04:35:22Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245247/Handala-warns-US-army-of-harsh-response-Harsh-Resp",
+      "published_date": "2026-06-10T18:48:25Z",
+      "category": "Military"
     },
     {
-      "title": "Iran warns against new US miscalculation in Persian Gulf",
+      "title": "Armed Forces will deliver more crushing response to any threats: Spokesperson",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178272/Iran-warns-against-new-US-miscalculation-in-Persian-Gulf",
-      "published_date": "2026-06-09T20:12:09Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86179322/Armed-Forces-will-deliver-more-crushing-response-to-any-threats",
+      "published_date": "2026-06-10T16:48:27Z",
+      "category": "Military"
     },
     {
-      "title": "Iran FM warns against new US miscalculation in Persian Gulf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245211/FM-warns-against-new-US-miscalculation-in-Persian-Gulf",
-      "published_date": "2026-06-09T19:47:48Z",
-      "category": "Diplomacy"
+      "title": "Whitewashing crimes under the IAEA’s seal",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527215/Whitewashing-crimes-under-the-IAEA-s-seal",
+      "published_date": "2026-06-10T16:43:06Z",
+      "category": "Military"
     },
     {
-      "title": "Iran completes Ardabil-Mianeh railway after more than two decades",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178157/Iran-completes-Ardabil-Mianeh-railway-after-more-than-two-decades",
-      "published_date": "2026-06-09T16:57:38Z",
-      "category": "Diplomacy"
+      "title": "Iran war drives US inflation to 4.2%, highest in three years",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527221/Iran-war-drives-US-inflation-to-4-2-highest-in-three-years",
+      "published_date": "2026-06-10T16:42:28Z",
+      "category": "Military"
     },
     {
-      "title": "Iran condemns US boasting over seized assets, quotes Macbeth",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86178078/Iran-condemns-US-boasting-over-seized-assets-quotes-Macbeth",
-      "published_date": "2026-06-09T14:46:31Z",
-      "category": "Diplomacy"
+      "title": "Iran honors activists with ‘Right Side of History’ medal",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527224/Iran-honors-activists-with-Right-Side-of-History-medal",
+      "published_date": "2026-06-10T16:37:41Z",
+      "category": "Military"
     },
     {
-      "title": "Hezbollah asks Lebanese gov. to ‘correct’ ties with Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245205/Hezbollah-asks-Lebanese-gov-to-correct-ties-with-Iran",
-      "published_date": "2026-06-09T13:58:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli regime cabinet makes latest decision on Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245202/Israeli-regime-cabinet-makes-latest-decision-on-Lebanon",
-      "published_date": "2026-06-09T12:21:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FIFA Secretary General holds talks with Iran delegation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245201/FIFA-Secretary-General-holds-talks-with-Iran-delegation",
-      "published_date": "2026-06-09T11:58:33Z",
-      "category": "Diplomacy"
+      "title": "The war on the moral identity of Lebanese resistance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527219/The-war-on-the-moral-identity-of-Lebanese-resistance",
+      "published_date": "2026-06-10T14:43:00Z",
+      "category": "Military"
     },
     {
       "title": "Army drones used in attack on US base in Bahrain",
@@ -155,6 +197,13 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86179131/Iran-s-progress-in-scientific-and-defense-fields-will-not-stop",
       "published_date": "2026-06-10T13:18:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "VP urges SCO to protect sci-tech infrastructures against foreign aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527211/VP-urges-SCO-to-protect-sci-tech-infrastructures-against-foreign",
+      "published_date": "2026-06-10T12:40:54Z",
       "category": "Military"
     },
     {
@@ -235,53 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Iran’s Army and IRGC target US bases: Statement",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178430/Iran-s-Army-and-IRGC-target-US-bases-Statement",
-      "published_date": "2026-06-10T05:39:49Z",
-      "category": "Military"
+      "title": "Iran, energy transit highway between Central Asia, Persian Gulf",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527207/Iran-energy-transit-highway-between-Central-Asia-Persian-Gulf",
+      "published_date": "2026-06-10T12:06:26Z",
+      "category": "Energy"
     },
     {
-      "title": "VIDEO: Watch Iran's missile attack against US bases",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245222/VIDEO-Watch-Iran-s-missile-operation-against-US-bases",
-      "published_date": "2026-06-10T04:41:07Z",
-      "category": "Military"
+      "title": "Renewable power plants being developed in line with environmental requirements",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527206/Renewable-power-plants-being-developed-in-line-with-environmental",
+      "published_date": "2026-06-10T11:58:25Z",
+      "category": "Energy"
     },
     {
-      "title": "US declares end to strikes on southern Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245219/US-declares-end-to-strikes-on-southern-Iran",
-      "published_date": "2026-06-10T04:18:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns of wider strikes if US attacks again",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245218/Iran-warns-of-wider-strikes-if-US-attacks-again",
-      "published_date": "2026-06-10T04:10:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Iran downs US MQ-9 Reaper drone in south",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245217/VIDEO-Iran-downs-US-MQ-9-Reaper-drone-in-south",
-      "published_date": "2026-06-10T04:06:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC downs US MQ-9 Reaper drone over southern Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245215/IRGC-downs-US-MQ-9-Reaper-drone-over-southern-Iran",
-      "published_date": "2026-06-10T03:47:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "US missiles destroy water tanks in southern Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245214/US-missiles-destroy-water-tanks-in-southern-Iran",
-      "published_date": "2026-06-10T03:42:03Z",
-      "category": "Military"
+      "title": "Oil crisis deepens as global reserves plummet to 20-year low",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527203/Oil-crisis-deepens-as-global-reserves-plummet-to-20-year-low",
+      "published_date": "2026-06-10T11:56:05Z",
+      "category": "Energy"
     },
     {
       "title": "US-made crisis in Strait of Hormuz harms all nations: Rosneft CEO",
@@ -296,6 +317,27 @@
       "url": "https://en.mehrnews.com/news/245030/Iran-s-Bushehr-nuclear-plant-hits-record-80-billion-kWh",
       "published_date": "2026-06-04T11:04:44Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran government pursues sanctions neutralization, economic resilience: President",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179210/Iran-government-pursues-sanctions-neutralization-economic-resilience",
+      "published_date": "2026-06-10T14:39:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "How does China define the new global order?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527212/How-does-China-define-the-new-global-order",
+      "published_date": "2026-06-10T14:03:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran's pistachio exports to Europe reach €27m in 3 months",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527208/Iran-s-pistachio-exports-to-Europe-reach-27m-in-3-months",
+      "published_date": "2026-06-10T12:08:28Z",
+      "category": "Economy"
     },
     {
       "title": "Iran’s auto imports register 47% growth in 2 months: IRICA",
@@ -340,6 +382,104 @@
       "category": "Economy"
     },
     {
+      "title": "Explosions reported in south Iran: local sources to Mehr",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245250/Explosions-reported-in-south-Iran-local-people",
+      "published_date": "2026-06-10T22:08:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baqaei: US attacked Iranian nation's pulse of life",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179390/Baqaei-US-attacked-Iranian-nation-s-pulse-of-life",
+      "published_date": "2026-06-10T19:41:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Threats to target critical infrastructure shows desperation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245249/Threats-to-target-critical-infrastructure-shows-desperation",
+      "published_date": "2026-06-10T19:23:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "India summons US diplomat to protest over ‘attack’ on vessel",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245248/India-summons-US-diplomat-to-protest-over-attack-on-vessel",
+      "published_date": "2026-06-10T19:18:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Threats to target critical infrastructure shows desperation against will of Iranian nation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86179369/Pezeshkian-Threats-to-target-critical-infrastructure-shows-desperation",
+      "published_date": "2026-06-10T18:34:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran victorious over Poland in 2026 IWBF Men's Repechage",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245246/Iran-victorious-over-Poland-in-2026-IWBF-Men-s-Repechage",
+      "published_date": "2026-06-10T18:31:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran not to back down in face of hegemony-seeking powers",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245245/Iran-not-to-back-down-in-face-of-hegemony-seeking-powers",
+      "published_date": "2026-06-10T17:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The Sinners” and the cinematic anatomy of Trumpism",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527209/The-Sinners-and-the-cinematic-anatomy-of-Trumpism",
+      "published_date": "2026-06-10T16:50:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ali Rahbari to conduct Mariinsky Orchestra in St. Petersburg",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527196/Ali-Rahbari-to-conduct-Mariinsky-Orchestra-in-St-Petersburg",
+      "published_date": "2026-06-10T16:49:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: US and Israel can only dream of Iran’s capitulation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527216/Pezeshkian-US-and-Israel-can-only-dream-of-Iran-s-capitulation",
+      "published_date": "2026-06-10T16:42:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Unprovoked aggression’: Russia, China urge restraint after US-Iran escalation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527217/Unprovoked-aggression-Russia-China-urge-restraint-after-US-Iran",
+      "published_date": "2026-06-10T16:40:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US adventurism: Apache down, F-35 hangar hit, oil up",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527214/US-adventurism-Apache-down-F-35-hangar-hit-oil-up",
+      "published_date": "2026-06-10T16:39:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hydrological horror in Hormozgan and America’s infinite regress to barbarism",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527220/Hydrological-horror-in-Hormozgan-and-America-s-infinite-regress",
+      "published_date": "2026-06-10T15:56:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US-drafted anti-Iran resolution at IAEABoG adopted",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245243/US-drafted-anti-Iran-resolution-at-IAEABoG-adopted",
+      "published_date": "2026-06-10T15:02:13Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran to respond to any new aggression firmly, immediately",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245242/Iran-to-respond-to-any-new-aggression-firmly-immediately",
@@ -347,136 +487,38 @@
       "category": "Local Events"
     },
     {
-      "title": "Pezeshkian: Enemy counting on internal division to force Iran into submission",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178975/Pezeshkian-Enemy-counting-on-internal-division-to-force-Iran",
-      "published_date": "2026-06-10T10:57:59Z",
+      "title": "Spectrum: Trump Epic Fury to Pyrrhic Victory",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527213/Spectrum-Trump-Epic-Fury-to-Pyrrhic-Victory",
+      "published_date": "2026-06-10T13:59:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Rare photos of Iran’s national football team’s presence at 1998 World Cup",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86178941/Rare-photos-of-Iran-s-national-football-team-s-presence-at-1998",
-      "published_date": "2026-06-10T10:34:52Z",
+      "title": "Health Ministry to start Family Physician Program in cities on June 15",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527205/Health-Ministry-to-start-Family-Physician-Program-on-June-15",
+      "published_date": "2026-06-10T11:55:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran beat Brazil in 2026 IWBF Men’s Repechage",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245231/Iran-beat-Brazil-in-2026-IWBF-Men-s-Repechage",
-      "published_date": "2026-06-10T08:01:34Z",
+      "title": "Tehran, Moscow emphasize need to boost scientific cooperation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527202/Tehran-Moscow-emphasize-need-to-boost-scientific-cooperation",
+      "published_date": "2026-06-10T11:53:15Z",
       "category": "Local Events"
     },
     {
-      "title": "12 killed, 9 injured in Johannesburg shooting in S Africa",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245230/12-killed-9-injured-in-Johannesburg-shooting-in-S-Africa",
-      "published_date": "2026-06-10T07:05:41Z",
+      "title": "‘Eco-friendly dormitory’ to promote environmental protection in universities",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527200/Eco-friendly-dormitory-to-promote-environmental-protection",
+      "published_date": "2026-06-10T11:50:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Tehran censures IAEA’s BoG over anti-Iran draft resolution",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245229/Tehran-censures-IAEA-s-BoG-over-anti-Iran-draft-resolution",
-      "published_date": "2026-06-10T07:02:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death toll from earthquake in S Philippines rises to 45",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245227/Death-toll-from-earthquake-in-S-Philippines-rises-to-45",
-      "published_date": "2026-06-10T06:31:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli jets hit south Lebanon despite ceasefire",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245220/Israeli-jets-hit-south-Lebanon-despite-ceasefire",
-      "published_date": "2026-06-10T04:28:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on June 10",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245216/Front-pages-of-Iran-s-English-dailies-on-June-10",
-      "published_date": "2026-06-10T03:49:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran prefers diplomacy while more fluent in other languages",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245210/Iran-prefers-diplomacy-while-more-fluent-in-other-languages",
-      "published_date": "2026-06-09T19:13:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parliament Speaker: Iran prefers diplomacy but is more fluent in other languages",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178250/Parliament-Speaker-Iran-prefers-diplomacy-but-is-more-fluent",
-      "published_date": "2026-06-09T19:03:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump claims Iran downed helicopter over Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245209/Trump-claims-Iran-downed-helicopter-over-Hormuz",
-      "published_date": "2026-06-09T17:24:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hezbollah fighters infiltrated into occupied lands",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245207/Hezbollah-fighters-infiltrated-into-occupied-lands",
-      "published_date": "2026-06-09T15:43:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf thanks Iranian nation for ‘100 days of jihad’ against US-Israeli aggression",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178073/Ghalibaf-thanks-Iranian-nation-for-100-days-of-jihad-against",
-      "published_date": "2026-06-09T14:18:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deputy speaker: Iran has absolutely no trust in US",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86178061/Deputy-speaker-Iran-has-absolutely-no-trust-in-US",
-      "published_date": "2026-06-09T14:02:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu’s ‘life project’ for Iran has utterly ‘failed’",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245204/Netanyahu-s-life-project-for-Iran-has-utterly-failed",
-      "published_date": "2026-06-09T13:36:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Belarus vow to expand medicine and medical equipment trade",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86177705/Iran-Belarus-vow-to-expand-medicine-and-medical-equipment-trade",
-      "published_date": "2026-06-09T13:14:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Lebanon not proxy forces of each other: Government spox",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86177823/Iran-Lebanon-not-proxy-forces-of-each-other-Government-spox",
-      "published_date": "2026-06-09T13:04:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran reproves Albanian PM claim, advises Rama to respect his ‘intelligent’ citizens",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86177923/Iran-reproves-Albanian-PM-claim-advises-Rama-to-respect-his",
-      "published_date": "2026-06-09T12:56:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior Iranian cleric calls for stronger unity among Muslim nations",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86177963/Senior-Iranian-cleric-calls-for-stronger-unity-among-Muslim-nations",
-      "published_date": "2026-06-09T12:08:15Z",
+      "title": "Iran set to open 2026 VNL campaign against Brazil",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527198/Iran-set-to-open-2026-VNL-campaign-against-Brazil",
+      "published_date": "2026-06-10T11:14:34Z",
       "category": "Local Events"
     }
   ]
