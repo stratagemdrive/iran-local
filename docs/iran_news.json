@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-11T14:49:51Z",
+  "generated_at": "2026-06-12T00:15:44Z",
   "total_stories": 75,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Top commander warns US over ‘futile cycle’ of lies, contradiction",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180226/Top-commander-warns-US-over-futile-cycle-of-lies-contradiction",
+      "published_date": "2026-06-11T20:59:06Z",
+      "category": "Military"
+    },
+    {
       "title": "Rezaei: ‘Unhinged’ US president cannot escape self-made ‘quagmire’ with bombs",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86180008/Rezaei-Unhinged-US-president-cannot-escape-self-made-quagmire",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "VP urges SCO to protect sci-tech infrastructures against foreign aggression",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527211/VP-urges-SCO-to-protect-sci-tech-infrastructures-against-foreign",
-      "published_date": "2026-06-10T12:40:54Z",
-      "category": "Military"
-    },
-    {
       "title": "Strait of Hormuz fully closed after US strikes on Iran",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86179680/Strait-of-Hormuz-fully-closed-after-US-strikes-on-Iran",
@@ -387,6 +387,20 @@
       "url": "https://en.irna.ir/news/86173846/Iran-s-minister-says-security-is-prerequisite-for-sustainable",
       "published_date": "2026-06-05T09:42:34Z",
       "category": "Economy"
+    },
+    {
+      "title": "Ghalibaf to US: You will be trapped in endless quagmire",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180174/Ghalibaf-to-US-You-will-be-trapped-in-endless-quagmire",
+      "published_date": "2026-06-11T19:20:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "If US attacks Kharg, Iran’s response will go down in history: Senior MP",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180092/If-US-attacks-Kharg-Iran-s-response-will-go-down-in-history",
+      "published_date": "2026-06-11T16:12:30Z",
+      "category": "Local Events"
     },
     {
       "title": "New strategic equations in West Asia not to change: Ejei",
@@ -512,20 +526,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245243/US-drafted-anti-Iran-resolution-at-IAEABoG-adopted",
       "published_date": "2026-06-10T15:02:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to respond to any new aggression firmly, immediately",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245242/Iran-to-respond-to-any-new-aggression-firmly-immediately",
-      "published_date": "2026-06-10T14:15:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spectrum: Trump Epic Fury to Pyrrhic Victory",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527213/Spectrum-Trump-Epic-Fury-to-Pyrrhic-Victory",
-      "published_date": "2026-06-10T13:59:42Z",
       "category": "Local Events"
     }
   ]
