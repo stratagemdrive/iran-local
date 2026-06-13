@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-12T14:14:06Z",
+  "generated_at": "2026-06-13T00:14:22Z",
   "total_stories": 74,
   "stories": [
+    {
+      "title": "Iran’s foreign minister says MoU with US ‘has never been closer’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180689/Iran-s-foreign-minister-says-MoU-with-US-has-never-been-closer",
+      "published_date": "2026-06-12T16:44:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European inaction on Zionist Regime root cause of regional instability: Iran envoy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180684/European-inaction-on-Zionist-Regime-root-cause-of-regional-instability",
+      "published_date": "2026-06-12T16:35:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Defeat and isolation, ultimate fate of enemy: Iran Foreign Ministry spokesperson",
       "source": "IRNA",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Russia, and China issue joint statement at IAEA",
+      "title": "Iran after war: A power that was not contained",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245244/Iran-Russia-and-China-issue-joint-statement-at-IAEA",
-      "published_date": "2026-06-10T15:38:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Russia and China rap US-backed anti-Tehran draft resolution at IAEA BoG",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179243/Iran-Russia-and-China-rap-US-backed-anti-Tehran-draft-resolution",
-      "published_date": "2026-06-10T14:49:09Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245281/Iran-after-war-A-power-that-was-not-contained",
+      "published_date": "2026-06-12T16:05:43Z",
+      "category": "Military"
     },
     {
       "title": "Handala hacks California water systems after US attacks",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US warplanes destroyed in Iran retaliation: IRGC",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245257/US-warplanes-destroyed-in-Iran-retaliation-IRGC",
-      "published_date": "2026-06-11T05:58:06Z",
-      "category": "Military"
-    },
-    {
       "title": "Threats on Iran's energy facilities could endanger oil export",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245265/Threat-on-Iran-s-energy-facilities-could-endanger-oil-export",
@@ -380,6 +380,20 @@
       "url": "https://en.mehrnews.com/news/245111/4-Israelis-injured-in-shooting-in-Kohav-Ya-ir-in-West-Bank",
       "published_date": "2026-06-07T09:21:55Z",
       "category": "Economy"
+    },
+    {
+      "title": "Ghalibaf: Commitments made must be fulfilled without any excuses",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180763/Ghalibaf-Commitments-made-must-be-fulfilled-without-any-excuses",
+      "published_date": "2026-06-12T20:40:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran-Russia strategic partnership will further deepen: Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86180679/Iran-Russia-strategic-partnership-will-further-deepen-Pezeshkian",
+      "published_date": "2026-06-12T16:31:27Z",
+      "category": "Local Events"
     },
     {
       "title": "Natl. unity has played decisive role in foiling enemy’s plots",
@@ -505,20 +519,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245248/India-summons-US-diplomat-to-protest-over-attack-on-vessel",
       "published_date": "2026-06-10T19:18:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Threats to target critical infrastructure shows desperation against will of Iranian nation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179369/Pezeshkian-Threats-to-target-critical-infrastructure-shows-desperation",
-      "published_date": "2026-06-10T18:34:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran victorious over Poland in 2026 IWBF Men's Repechage",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245246/Iran-victorious-over-Poland-in-2026-IWBF-Men-s-Repechage",
-      "published_date": "2026-06-10T18:31:25Z",
       "category": "Local Events"
     }
   ]
