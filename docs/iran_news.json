@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-13T12:56:03Z",
+  "generated_at": "2026-06-13T23:58:40Z",
   "total_stories": 76,
   "stories": [
+    {
+      "title": "Iranian nation expects goodwill and mutual respect from US, says Iran envoy to Mexico",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86181693/Iranian-nation-expects-goodwill-and-mutual-respect-from-US-says",
+      "published_date": "2026-06-13T18:33:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran discusses urban cooperation with India, Russia, China at BRICS Forum",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86181639/Iran-discusses-urban-cooperation-with-India-Russia-China-at",
+      "published_date": "2026-06-13T15:59:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Foreign Policy chief slams violence by Israel settlers",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245305/EU-Foreign-Policy-chief-slams-violence-by-Israel-settlers",
+      "published_date": "2026-06-13T14:13:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s deputy FM meets Russian and Chinese ambassadors in Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86181525/Iran-s-deputy-FM-meets-Russian-and-Chinese-ambassadors-in-Tehran",
+      "published_date": "2026-06-13T13:28:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran, Moscow, Beijing review developments in Islamabad MoU",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245304/Tehran-Moscow-Beijing-review-developments-in-Islamabad-MoU",
+      "published_date": "2026-06-13T12:59:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran-US peace deal may be finalized in 24 hours: Pakistan PM",
       "source": "Mehr News Agency",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Sustainable peace, security in ME requires end to aggression",
+      "title": "'Israel'preparing to stop ground operations in Lebanon",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245263/Sustainable-peace-security-in-ME-requires-end-to-aggression",
-      "published_date": "2026-06-12T06:01:38Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245315/Israel-preparing-to-stop-ground-operations-in-Lebanon",
+      "published_date": "2026-06-13T20:47:11Z",
+      "category": "Military"
     },
     {
-      "title": "Iravani: Iran will never bow to pressures, threats",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86180288/Iravani-Iran-will-never-bow-to-pressures-threats",
-      "published_date": "2026-06-12T04:57:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi warns silence over US threats will fuel regional, global insecurity",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179956/Araghchi-warns-silence-over-US-threats-will-fuel-regional-global",
-      "published_date": "2026-06-11T11:45:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's Foreign Ministry slams fresh US aggression",
+      "title": "Five Lebanese people martyred in Israeli airstrikes in south",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245259/Iran-s-Foreign-Ministry-slams-fresh-US-aggression",
-      "published_date": "2026-06-11T11:00:39Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245313/Five-Lebanese-people-martyred-in-Israeli-airstrikes-in-south",
+      "published_date": "2026-06-13T20:01:56Z",
+      "category": "Military"
     },
     {
-      "title": "Washington responsible for consequences of warmongering: Tehran warns after US attacks",
+      "title": "Iran rights body condemns US attack on water facility",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245312/Iran-rights-body-condemns-US-attack-on-water-facility",
+      "published_date": "2026-06-13T19:56:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran will never compromise its security, independence",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245311/Iran-will-never-compromise-its-security-independence",
+      "published_date": "2026-06-13T18:42:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "Five killed in India military transport plane crash",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245307/Five-killed-in-India-military-transport-plane-crash",
+      "published_date": "2026-06-13T14:43:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran hits back at some states’ silence on US-Israel attacks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245306/Iran-hits-back-at-some-states-silence-on-US-Israel-attacks",
+      "published_date": "2026-06-13T14:33:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran Embassy in Berlin slams silence of some nations over US-Israeli aggression",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179897/Washington-responsible-for-consequences-of-warmongering-Tehran",
-      "published_date": "2026-06-11T10:39:31Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86181545/Iran-Embassy-in-Berlin-slams-silence-of-some-nations-over-US-Israeli",
+      "published_date": "2026-06-13T13:37:39Z",
+      "category": "Military"
     },
     {
       "title": "Military cargo plane crashes in India with unknown casualties",
@@ -232,55 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245271/South-Korea-sentences-ex-president-to-30-years-report",
       "published_date": "2026-06-12T08:03:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Will of Lebanon nation, Hezbollah to not broken by aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245269/Will-of-Lebanon-nation-Hezbollah-to-not-broken-by-aggression",
-      "published_date": "2026-06-12T07:33:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC: Iran stronger than ever, fingers on trigger for decisive and regret-inducing response",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180303/IRGC-Iran-stronger-than-ever-fingers-on-trigger-for-decisive",
-      "published_date": "2026-06-12T05:37:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Top commander warns US over ‘futile cycle’ of lies, contradiction",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180226/Top-commander-warns-US-over-futile-cycle-of-lies-contradiction",
-      "published_date": "2026-06-11T20:59:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Rezaei: ‘Unhinged’ US president cannot escape self-made ‘quagmire’ with bombs",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180008/Rezaei-Unhinged-US-president-cannot-escape-self-made-quagmire",
-      "published_date": "2026-06-11T13:28:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Gharibabadi: ‘Wordplay’ cannot legitimize US military aggression against Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179984/Gharibabadi-Wordplay-cannot-legitimize-US-military-aggression",
-      "published_date": "2026-06-11T12:28:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army drones target US Fifth Fleet HQ in Bahrain",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245255/Iran-Army-drones-target-US-Fifth-Fleet-HQ-in-Bahrain",
-      "published_date": "2026-06-11T10:45:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC strongly rejects Trump contacted Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179875/IRGC-strongly-rejects-Trump-contacted-Iran",
-      "published_date": "2026-06-11T10:15:36Z",
       "category": "Military"
     },
     {
@@ -396,6 +396,48 @@
       "category": "Economy"
     },
     {
+      "title": "Pezeshkian: Iran’s unity in 12-day war forced enemy to ask for ceasefire",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86181792/Pezeshkian-Iran-s-unity-in-12-day-war-forced-enemy-to-ask-for",
+      "published_date": "2026-06-13T20:52:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s unity in 12-day war forced enemy to ask for ceasefire",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245314/Iran-s-unity-in-12-day-war-forced-enemy-to-ask-for-ceasefire",
+      "published_date": "2026-06-13T20:35:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Potential MoU to focus on ending war: Baghaei",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245310/Potential-MoU-to-focus-on-ending-war-Baghaei",
+      "published_date": "2026-06-13T17:44:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Huge ceremony held in Lahore for martyred Leader",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245309/Huge-gatherinng-held-in-Lahore-for-marryred-Leader",
+      "published_date": "2026-06-13T16:28:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran is stronger than ever in the face of threats: Momeni",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245308/Iran-is-stronger-than-ever-in-the-face-of-threats-Momeni",
+      "published_date": "2026-06-13T15:24:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranians will stand until ‘final victory,’ Ghalibaf says on 12-day war anniversary",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86181500/Iranians-will-stand-until-final-victory-Ghalibaf-says-on-12-day",
+      "published_date": "2026-06-13T13:03:28Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran gear up for World Cup opener against New Zealand",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245303/Iran-gear-up-for-World-Cup-opener-against-New-Zealand",
@@ -491,48 +533,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245287/UAE-to-reportedly-unlock-billions-of-dollars-for-Iran",
       "published_date": "2026-06-13T06:09:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran beats Argentina for first VNL 2026 win",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245286/Iran-beats-Argentina-for-first-VNL-2026-win",
-      "published_date": "2026-06-13T05:28:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on June 13",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245285/Front-pages-of-Iran-s-English-dailies-on-June-13",
-      "published_date": "2026-06-13T04:28:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf: Commitments made must be fulfilled without any excuses",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180763/Ghalibaf-Commitments-made-must-be-fulfilled-without-any-excuses",
-      "published_date": "2026-06-12T20:40:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran-Russia strategic partnership will further deepen: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180679/Iran-Russia-strategic-partnership-will-further-deepen-Pezeshkian",
-      "published_date": "2026-06-12T16:31:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Natl. unity has played decisive role in foiling enemy’s plots",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245280/Natl-unity-has-played-decisive-role-in-foiling-enemy-s-plots",
-      "published_date": "2026-06-12T13:11:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran will firmly defend its independence, dignity and territorial integrity: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180555/Iran-will-firmly-defend-its-independence-dignity-and-territorial",
-      "published_date": "2026-06-12T12:08:18Z",
       "category": "Local Events"
     }
   ]
