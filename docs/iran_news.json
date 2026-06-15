@@ -1,13 +1,34 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-15T00:02:59Z",
-  "total_stories": 76,
+  "generated_at": "2026-06-15T16:23:59Z",
+  "total_stories": 81,
   "stories": [
+    {
+      "title": "Iran-US reach MoU to end war across all fronts",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527338/Iran-US-reach-MoU-to-end-war-across-all-fronts",
+      "published_date": "2026-06-15T05:32:50Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran cannot stand violations of Lebanese ceasefire",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245335/Iranian-armed-forces-cannot-stand-violation-of-ceasefire",
       "published_date": "2026-06-14T18:28:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Surrender or war: The only options Washington contemplates",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527336/Surrender-or-war-The-only-options-Washington-contemplates",
+      "published_date": "2026-06-14T17:57:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s strategic leverage forced a shift in US approach: analyst",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527331/Iran-s-strategic-leverage-forced-a-shift-in-US-approach-analyst",
+      "published_date": "2026-06-14T17:30:08Z",
       "category": "Diplomacy"
     },
     {
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Islamabad deal closer than ever, says Araghchi",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245283/Islamabad-deal-closer-than-ever-says-Araghchi",
-      "published_date": "2026-06-13T03:44:12Z",
-      "category": "Diplomacy"
+      "title": "“The Sky Holders” book series on martyred aerospace commanders unveiled in Tehran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527358/The-Sky-Holders-book-series-on-martyred-aerospace-commanders",
+      "published_date": "2026-06-15T13:42:40Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s foreign minister says MoU with US ‘has never been closer’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180689/Iran-s-foreign-minister-says-MoU-with-US-has-never-been-closer",
-      "published_date": "2026-06-12T16:44:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European inaction on Zionist Regime root cause of regional instability: Iran envoy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86180684/European-inaction-on-Zionist-Regime-root-cause-of-regional-instability",
-      "published_date": "2026-06-12T16:35:36Z",
-      "category": "Diplomacy"
+      "title": "Gas production in SP phases 22-24 to increase by 4mcm per day",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527347/Gas-production-in-SP-phases-22-24-to-increase-by-4mcm-per-day",
+      "published_date": "2026-06-15T10:34:38Z",
+      "category": "Military"
     },
     {
       "title": "Iran FM blasts Israeli strike on Beirut’s Dahiyah district",
@@ -207,6 +221,27 @@
       "category": "Military"
     },
     {
+      "title": "Iran to replace air defense assets damaged during conflict, senior commander says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527335/Iran-to-replace-air-defense-assets-damaged-during-conflict-senior",
+      "published_date": "2026-06-14T17:41:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran is forcing America to deal with the real balance of power on the ground",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527330/Iran-is-forcing-America-to-deal-with-the-real-balance-of-power",
+      "published_date": "2026-06-14T17:22:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran among architects of new regional order",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527324/Iran-among-architects-of-new-regional-order",
+      "published_date": "2026-06-14T17:21:37Z",
+      "category": "Military"
+    },
+    {
       "title": "Iran’s Armed Forces have ‘finger on trigger,’ top commander says after Israeli attack on Beirut",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86182715/Iran-s-Armed-Forces-have-finger-on-trigger-top-commander-says",
@@ -249,39 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "12-Day War anniv.: FM spox says Iran’s resistance secured foes’ defeat",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86181997/12-Day-War-anniv-FM-spox-says-Iran-s-resistance-secured-foes",
-      "published_date": "2026-06-14T06:35:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Security of Iran borders at highest level: Cmdr.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245319/Security-of-Iran-borders-at-highest-level-Cmdr",
-      "published_date": "2026-06-14T06:06:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "US fighter jet crashes in Washington state (+VIDEO)",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245317/US-fighter-jet-crashes-in-Washington-state-VIDEO",
-      "published_date": "2026-06-14T04:05:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel preparing to stop ground operations in Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245315/Israel-preparing-to-stop-ground-operations-in-Lebanon",
-      "published_date": "2026-06-13T20:47:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Five Lebanese people martyred in Israeli airstrikes in south",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245313/Five-Lebanese-people-martyred-in-Israeli-airstrikes-in-south",
-      "published_date": "2026-06-13T20:01:56Z",
-      "category": "Military"
+      "title": "$900m in resources attracted for renewables; home solar packages to be offered soon",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527346/900m-in-resources-attracted-for-renewables-home-solar-packages",
+      "published_date": "2026-06-15T10:29:43Z",
+      "category": "Energy"
     },
     {
       "title": "New well lifts South Pars Gas Field's Phase 11 output",
@@ -347,6 +354,34 @@
       "category": "Energy"
     },
     {
+      "title": "Iran plans handicrafts export push, names Isfahan key hub for tourism growth",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527362/Iran-plans-handicrafts-export-push-names-Isfahan-key-hub-for",
+      "published_date": "2026-06-15T14:54:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran war shatters global markets, leaves US economy, Trump’s base in ruins",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527343/Iran-war-shatters-global-markets-leaves-US-economy-Trump-s",
+      "published_date": "2026-06-15T10:21:37Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Rise in an era of global contraction",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527337/Rise-in-an-era-of-global-contraction",
+      "published_date": "2026-06-15T07:03:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Poland's rise to become the new power of Europe",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527326/Poland-s-rise-to-become-the-new-power-of-Europe",
+      "published_date": "2026-06-14T17:42:22Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran announces funeral schedule for martyred Leader Ayatollah Khamenei",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86181449/Iran-announces-funeral-schedule-for-martyred-Leader-Ayatollah",
@@ -396,10 +431,94 @@
       "category": "Economy"
     },
     {
+      "title": "Qeshm UNESCO Global Geopark expands digital conservation measures",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527361/Qeshm-UNESCO-Global-Geopark-expands-digital-conservation-measures",
+      "published_date": "2026-06-15T14:54:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chogha Golan archaeological site undergoes new excavation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527360/Chogha-Golan-archaeological-site-undergoes-new-excavation",
+      "published_date": "2026-06-15T14:54:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian scholar receives MAB Young Scientist Award",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527357/Iranian-scholar-receives-MAB-Young-Scientist-Award",
+      "published_date": "2026-06-15T12:22:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran shakes with 67 earthquakes in a week",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527355/Iran-shakes-with-67-earthquakes-in-a-week",
+      "published_date": "2026-06-15T12:19:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Measles under control, few cases reported: health official",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527353/Measles-under-control-few-cases-reported-health-official",
+      "published_date": "2026-06-15T12:09:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "17th cold plasma clinic for wound healing inaugurated",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527351/17th-cold-plasma-clinic-for-wound-healing-inaugurated",
+      "published_date": "2026-06-15T11:38:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FAO, Agriculture Ministry partner to empower locals, conserve indigenous livestock breeds",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527349/FAO-Agriculture-Ministry-partner-to-empower-locals-conserve",
+      "published_date": "2026-06-15T11:30:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jahanbakhsh determined to make Iranian nation happy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527344/Jahanbakhsh-determined-to-make-Iranian-nation-happy",
+      "published_date": "2026-06-15T10:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MOUs signed with private sector for rail transport development",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527345/MOUs-signed-with-private-sector-for-rail-transport-development",
+      "published_date": "2026-06-15T10:23:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran volleyball must learn from defeats: Piazza",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527342/Iran-volleyball-must-learn-from-defeats-Piazza",
+      "published_date": "2026-06-15T09:29:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran football team arrive in the U.S.",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527341/Iran-football-team-arrive-in-the-U-S",
+      "published_date": "2026-06-15T08:20:41Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pakistan says Iran, US reach peace deal",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245340/Islamabad-says-Iran-US-reach-peace-deal",
       "published_date": "2026-06-14T21:35:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15349",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/527334/15349",
+      "published_date": "2026-06-14T20:31:00Z",
       "category": "Local Events"
     },
     {
@@ -410,129 +529,45 @@
       "category": "Local Events"
     },
     {
+      "title": "The ‘roaring lion’ proved to be a whimpering mouse",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527329/The-roaring-lion-proved-to-be-a-whimpering-mouse",
+      "published_date": "2026-06-14T17:42:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: All political groups must adhere to Leader’s decisions",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527333/Pezeshkian-All-political-groups-must-adhere-to-Leader-s-decisions",
+      "published_date": "2026-06-14T17:38:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian officials say national unity and resistance defeated aggressors",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527332/Iranian-officials-say-national-unity-and-resistance-defeated",
+      "published_date": "2026-06-14T17:33:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hezbollah lures and ambushes Israeli forces",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527325/Hezbollah-lures-and-ambushes-Israeli-forces",
+      "published_date": "2026-06-14T17:23:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judiciary chief: Zionists’ plot to break Iran’s unity will fail",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527322/Judiciary-chief-Zionists-plot-to-break-Iran-s-unity-will-fail",
+      "published_date": "2026-06-14T17:19:02Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iranian capital prepares for martyred Leader's farewell and funeral ceremony",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86182667/Iranian-capital-prepares-for-martyred-Leader-s-farewell-and-funeral",
       "published_date": "2026-06-14T16:02:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive | Government spokesperson urges political unity amid prospects of Iran-US understanding",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86182650/Exclusive-Government-spokesperson-urges-political-unity-amid",
-      "published_date": "2026-06-14T15:27:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Attack on Dahiyeh shows US has no will to fulfill commitments",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245333/Attack-on-Dahiyeh-shows-US-has-no-will-to-fulfill-commitments",
-      "published_date": "2026-06-14T13:27:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final decision on MoU btw Iran-US under discussion in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245332/Final-decision-on-MoU-btw-Iran-US-under-discussion-in-Iran",
-      "published_date": "2026-06-14T13:14:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran arrests dozens of enemy mercenaries and terrorists",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86182518/Iran-arrests-dozens-of-enemy-mercenaries-and-terrorists",
-      "published_date": "2026-06-14T12:47:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian officials united on resistance against threats: Ejei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245330/Iranian-officials-united-on-resistance-against-threats-Ejei",
-      "published_date": "2026-06-14T11:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 FIFA World Cup schedule: All 104 matches, groups & times",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86182461/2026-FIFA-World-Cup-schedule-All-104-matches-groups-times",
-      "published_date": "2026-06-14T11:49:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enemy seeking to undermine Iran’s national unity, Judiciary chief warns",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86182422/Enemy-seeking-to-undermine-Iran-s-national-unity-Judiciary-chief",
-      "published_date": "2026-06-14T11:30:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran stresses strengthening cooperation with Nigeria",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245325/Iran-stresses-strengthening-cooperation-with-Nigeria",
-      "published_date": "2026-06-14T09:07:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air in California turns toxic as huge warehouse fire",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245324/Air-in-California-turns-toxic-as-huge-warehouse-fire",
-      "published_date": "2026-06-14T08:19:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "3 Philadelphia police officers shot in Pennsylvania: report",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245323/3-Philadelphia-police-officers-shot-in-Pennsylvania",
-      "published_date": "2026-06-14T07:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian people resistance foiled enemy’s plots: Baghaei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245321/Iranian-people-resistance-foiled-enemy-s-plots-Baghaei",
-      "published_date": "2026-06-14T07:11:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Air: 27,810 Hajj pilgrims returned home as of June 13",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86182016/Iran-Air-27-810-Hajj-pilgrims-returned-home-as-of-June-13",
-      "published_date": "2026-06-14T06:47:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister: Grounds paved for developing Iran’s extraterritorial cultivation in Nigeria",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86181939/Minister-Grounds-paved-for-developing-Iran-s-extraterritorial",
-      "published_date": "2026-06-14T06:41:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian delegation takes 2nd place at Intl championship event",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245320/Iranian-delegation-takes-2nd-place-at-Intl-championship-event",
-      "published_date": "2026-06-14T06:33:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Minab 168 takes second place at World University Combat Championships",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86181938/Iran-s-Minab-168-takes-second-place-at-World-University-Combat",
-      "published_date": "2026-06-14T05:47:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on June 14",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245316/Front-pages-of-Iran-s-English-dailies-on-June-14",
-      "published_date": "2026-06-14T03:50:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Iran’s unity in 12-day war forced enemy to ask for ceasefire",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86181792/Pezeshkian-Iran-s-unity-in-12-day-war-forced-enemy-to-ask-for",
-      "published_date": "2026-06-13T20:52:02Z",
       "category": "Local Events"
     }
   ]
