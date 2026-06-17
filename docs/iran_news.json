@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-16T16:03:41Z",
-  "total_stories": 84,
+  "generated_at": "2026-06-17T00:09:48Z",
+  "total_stories": 85,
   "stories": [
+    {
+      "title": "Iran, Oman FMs hold call on Tehran-Washington MoU",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245394/Iran-Oman-FMs-hold-call-on-Tehran-Washington-MoU",
+      "published_date": "2026-06-16T19:55:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Judiciary chief: 'Diplomacy and battlefield' move in sync",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527399/Judiciary-chief-Diplomacy-and-battlefield-move-in-sync",
+      "published_date": "2026-06-16T19:20:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Iran discuss unfreezing Iranian assets",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527407/US-Iran-discuss-unfreezing-Iranian-assets",
+      "published_date": "2026-06-16T19:20:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Families returning to southern Lebanon witness widespread destruction",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527401/Families-returning-to-southern-Lebanon-witness-widespread-destruction",
+      "published_date": "2026-06-16T16:12:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Boroujerdi gives more details on Iran-US MoU",
       "source": "Mehr News Agency",
@@ -116,32 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FM Araghchi intensifies diplomatic outreach as int'l support grows for Iran-US MoU",
+      "title": "Trump needs an agreement",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527367/FM-Araghchi-intensifies-diplomatic-outreach-as-int-l-support",
-      "published_date": "2026-06-15T17:16:30Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/527400/Trump-needs-an-agreement",
+      "published_date": "2026-06-16T19:21:32Z",
+      "category": "Military"
     },
     {
-      "title": "Iraq, Turkey FMs congratulate Iranian counterpart on MoU with US",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86183865/Iraq-Turkey-FMs-congratulate-Iranian-counterpart-on-MoU-with",
-      "published_date": "2026-06-15T16:31:24Z",
-      "category": "Diplomacy"
+      "title": "Iran’s military leadership declares strategic victory over US-Israeli aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527404/Iran-s-military-leadership-declares-strategic-victory-over-US-Israeli",
+      "published_date": "2026-06-16T19:11:20Z",
+      "category": "Military"
     },
     {
-      "title": "Hezbollah congratulates Iran on MoU, ending war on Lebanon",
+      "title": "France shuts down 12 Israeli stands at major arms expo",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245364/Hezbollah-congratulates-Iran-on-MoU-ending-war-on-Lebanon",
-      "published_date": "2026-06-15T15:52:48Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245392/France-shuts-down-12-Israeli-stands-at-major-arms-expo",
+      "published_date": "2026-06-16T18:05:26Z",
+      "category": "Military"
     },
     {
-      "title": "Ending war in Lebanon integral part of MoU btw Iran and US",
+      "title": "Trump spins failure as victory",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527397/Trump-spins-failure-as-victory",
+      "published_date": "2026-06-16T17:48:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Advanced arms production never halted during imposed war",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245359/Iran-US-MoU-includes-ending-war-on-all-fronts-Lebanon",
-      "published_date": "2026-06-15T12:23:10Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245391/Advanced-arms-production-never-halted-during-imposed-war",
+      "published_date": "2026-06-16T16:18:23Z",
+      "category": "Military"
     },
     {
       "title": "Zionists may resort to aggressive policies to undercut the Iran-US MOU",
@@ -249,41 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Trump, the lying loser",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527363/Trump-the-lying-loser",
-      "published_date": "2026-06-15T17:41:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hegseth framed the war on Iran in explicitly theological terms: analysis",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527365/Hegseth-framed-the-war-on-Iran-in-explicitly-theological-terms",
-      "published_date": "2026-06-15T17:40:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Has the Gaza resistance agreed to hand over its weapons?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527366/Has-the-Gaza-resistance-agreed-to-hand-over-its-weapons",
-      "published_date": "2026-06-15T17:39:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian says national unity was key to winning 12-day imposed war against Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86183813/Pezeshkian-says-national-unity-was-key-to-winning-12-day-imposed",
-      "published_date": "2026-06-15T16:19:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘Blood triumphs over sword’: IRGC Quds Force chief hails victory of resistance",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86183759/Blood-triumphs-over-sword-IRGC-Quds-Force-chief-hails-victory",
-      "published_date": "2026-06-15T15:08:22Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran cargo vessels sail through after lifting naval blockade",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245373/Iran-cargo-vessels-sail-through-after-lifting-naval-blockade",
@@ -366,6 +366,13 @@
       "url": "https://www.tehrantimes.com/news/527203/Oil-crisis-deepens-as-global-reserves-plummet-to-20-year-low",
       "published_date": "2026-06-10T11:56:05Z",
       "category": "Energy"
+    },
+    {
+      "title": "Inside Washington’s meltdown over Iran and the rising chorus of imperial defeat",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527402/Inside-Washington-s-meltdown-over-Iran-and-the-rising-chorus",
+      "published_date": "2026-06-16T17:05:44Z",
+      "category": "Economy"
     },
     {
       "title": "Central Bank of Iran hosts ACU technical committee permanent meeting",
@@ -452,6 +459,76 @@
       "category": "Economy"
     },
     {
+      "title": "15351",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/527403/15351",
+      "published_date": "2026-06-16T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Pro-Islamic Establishment nightly marches in Bojnourd",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245395/VIDEO-Pro-Islamic-Establishment-nightly-marches-in-Bojnourd",
+      "published_date": "2026-06-16T20:09:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Million-man march in Yemen in support of resistance, Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245393/Million-man-march-in-Yemen-in-support-of-resistance-Iran",
+      "published_date": "2026-06-16T19:30:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qalibaf, Vance to represent Iran and US at Switzerland signing of MoU",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527406/Qalibaf-Vance-to-represent-Iran-and-US-at-Switzerland-signing",
+      "published_date": "2026-06-16T19:17:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanon welcomes MoU and Hezbollah praises Tehran’s role",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527405/Lebanon-welcomes-MoU-and-Hezbollah-praises-Tehran-s-role",
+      "published_date": "2026-06-16T19:14:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran governor: Preparations underway for mass turnout at Ayatollah Khamenei funeral",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527398/Tehran-governor-Preparations-underway-for-mass-turnout-at-Ayatollah",
+      "published_date": "2026-06-16T18:05:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "38th ICFF to dedicate special section to war-affected children",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527390/38th-ICFF-to-dedicate-special-section-to-war-affected-children",
+      "published_date": "2026-06-16T18:04:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran cultural center to review “Hokum”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527391/Tehran-cultural-center-to-review-Hokum",
+      "published_date": "2026-06-16T18:01:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Documentary “Iran in the Hermitage” honored at Cal Film Festival",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527389/Iranian-Documentary-Iran-in-the-Hermitage-honored-at-Cal-Film",
+      "published_date": "2026-06-16T18:00:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Valiasr Square mural honors Muharram, Martyred Leader",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527388/New-Valiasr-Square-mural-honors-Muharram-Martyred-Leader",
+      "published_date": "2026-06-16T18:00:27Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Tourism minister says Western perceptions of Iran are often inaccurate",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527392/Tourism-minister-says-Western-perceptions-of-Iran-are-often-inaccurate",
@@ -519,76 +596,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245382/Iran-now-a-regional-superpower-Lebanese-MP-says",
       "published_date": "2026-06-16T12:14:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran leads regional countries in Scopus-indexed journals 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527380/Iran-leads-regional-countries-in-Scopus-indexed-journals-2026",
-      "published_date": "2026-06-16T12:04:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests on tourism project in Albania go on for 16th day",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245378/Protests-on-tourism-project-in-Albania-go-on-for-16th-day",
-      "published_date": "2026-06-16T09:40:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf, Vance to sign Iran-US peace deal in Switzerland",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245377/Ghalibaf-Vance-to-sign-Iran-US-peace-deal-in-Switzerland",
-      "published_date": "2026-06-16T09:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran coach Ghalenoei hits out at travel restrictions",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527374/Iran-coach-Ghalenoei-hits-out-at-travel-restrictions",
-      "published_date": "2026-06-16T08:35:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on June 16",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245374/Front-pages-of-Iran-s-English-dailies-on-June-16",
-      "published_date": "2026-06-16T08:21:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran supporters watch match at Tehran Book Garden",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86184302/Iran-supporters-watch-match-at-Tehran-Book-Garden",
-      "published_date": "2026-06-16T08:20:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Vienna embassy: Sanctions removal by four European countries is not a concession to Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86184211/Iran-Vienna-embassy-Sanctions-removal-by-four-European-countries",
-      "published_date": "2026-06-16T08:04:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's Team Melli draw 2-2 with New Zealand in World Cup 2026",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245372/Iran-s-Team-Melli-draw-2-2-with-New-Zealand-in-World-Cup-2026",
-      "published_date": "2026-06-16T07:33:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian football star named man of match against New Zealand",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86184111/Iranian-football-star-named-man-of-match-against-New-Zealand",
-      "published_date": "2026-06-16T05:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian appreciates for Leader's role in including clauses protecting national interests in MoU",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86183982/Pezeshkian-appreciates-for-Leader-s-role-in-including-clauses",
-      "published_date": "2026-06-15T20:51:46Z",
       "category": "Local Events"
     }
   ]
