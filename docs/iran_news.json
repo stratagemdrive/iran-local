@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-17T14:31:13Z",
-  "total_stories": 83,
+  "generated_at": "2026-06-18T00:08:09Z",
+  "total_stories": 84,
   "stories": [
+    {
+      "title": "Iran expands diplomatic coordination with Russia, China, and Oman following Islamabad Accord",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527446/Iran-expands-diplomatic-coordination-with-Russia-China-and",
+      "published_date": "2026-06-17T17:41:33Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why does Netanyahu fear a US-Iran agreement?",
       "source": "Tehran Times",
@@ -137,11 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran took ‘great step towards final victory’: Ghalibaf",
+      "title": "Tehran publishes Islamabad Memorandum of Understanding between Iran and US",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86186085/Tehran-publishes-Islamabad-Memorandum-of-Understanding-between",
+      "published_date": "2026-06-17T20:12:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hands on the trigger, eyes filled with absolute distrust toward the enemy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527442/Hands-on-the-trigger-eyes-filled-with-absolute-distrust-toward",
+      "published_date": "2026-06-17T17:54:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran and US reach a preliminary agreement to end the war",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527443/Iran-and-US-reach-a-preliminary-agreement-to-end-the-war",
+      "published_date": "2026-06-17T17:53:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rejects Israeli allegations at UN, reaffirms right to self-defense",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527447/Iran-rejects-Israeli-allegations-at-UN-reaffirms-right-to-self-defense",
+      "published_date": "2026-06-17T17:52:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "5 Israeli soldiers injured in retaliatory drone strikes",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245368/Iran-took-great-step-towards-final-victory-Ghalibaf",
-      "published_date": "2026-06-15T18:32:45Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245418/5-Israeli-soldiers-injured-in-retaliatory-drone-strikes",
+      "published_date": "2026-06-17T17:45:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Miscalculation after miscalculation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527445/Miscalculation-after-miscalculation",
+      "published_date": "2026-06-17T16:47:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah resistance carried out 3,185 ops: Qassem",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245417/Hezbollah-resistance-carried-out-3-185-ops-Qassem",
+      "published_date": "2026-06-17T16:33:01Z",
+      "category": "Military"
     },
     {
       "title": "Iran’s International Renewable Energy Conference, Exhibit to be held on July 20-21",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Advanced arms production never halted during imposed war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245391/Advanced-arms-production-never-halted-during-imposed-war",
-      "published_date": "2026-06-16T16:18:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zionists may resort to aggressive policies to undercut the Iran-US MOU",
+      "title": "Rosatom reaffirms commitment to Bushehr Nuclear Plant, plans phased return of specialists",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527396/Zionists-may-resort-to-aggressive-policies-to-undercut-the-Iran-US",
-      "published_date": "2026-06-16T15:56:33Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/527448/Rosatom-reaffirms-commitment-to-Bushehr-Nuclear-Plant-plans",
+      "published_date": "2026-06-17T17:41:10Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran is a symbol of dignity and honor: Hezbollah chief",
+      "title": "Bushehr nuclear power plant remains Russia's priority",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245390/Iran-is-a-symbol-of-dignity-and-honor-Hezbollah-chief",
-      "published_date": "2026-06-16T15:20:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘We must strengthen our unity, cohesion against enemies’: VP",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245389/We-must-strengthen-our-unity-cohesion-against-enemies-VP",
-      "published_date": "2026-06-16T14:47:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Rangelands: Recognize. Respect. Restore.",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527387/Rangelands-Recognize-Respect-Restore",
-      "published_date": "2026-06-16T12:32:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "ICRC, German Red Cross deliver second batch of emergency relief to Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527382/ICRC-German-Red-Cross-deliver-second-batch-of-emergency-relief",
-      "published_date": "2026-06-16T12:08:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Resistance Front remains resilient, able to endure pressure",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245381/Resistance-Front-remains-resilient-able-to-endure-pressure",
-      "published_date": "2026-06-16T11:27:14Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/245415/Bushehr-nuclear-power-plant-remains-Russia-s-priority",
+      "published_date": "2026-06-17T15:54:12Z",
+      "category": "Energy"
     },
     {
       "title": "Urgent plan to increase gas production launched",
@@ -438,11 +452,81 @@
       "category": "Economy"
     },
     {
-      "title": "Iran government pursues sanctions neutralization, economic resilience: President",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86179210/Iran-government-pursues-sanctions-neutralization-economic-resilience",
-      "published_date": "2026-06-10T14:39:36Z",
-      "category": "Economy"
+      "title": "15352",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/527449/15352",
+      "published_date": "2026-06-17T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, US presidents to probably sign MoU: FM spox",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245420/Iran-US-presidents-to-probably-sign-MoU-FM-spox",
+      "published_date": "2026-06-17T19:07:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "11 Iranian ships break through US naval blockade: report",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245419/11-Iranian-ships-break-through-US-naval-blockade-report",
+      "published_date": "2026-06-17T18:52:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel violates Iran–US MoU as global support grows",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527441/Israel-violates-Iran-US-MoU-as-global-support-grows",
+      "published_date": "2026-06-17T17:48:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Thrown under the bus: The fate of US-Israeli proxies",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527440/Thrown-under-the-bus-The-fate-of-US-Israeli-proxies",
+      "published_date": "2026-06-17T17:48:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IAF to show 1973 animation “Fantastic Planet”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527439/IAF-to-show-1973-animation-Fantastic-Planet",
+      "published_date": "2026-06-17T17:43:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "International section of 15th 100-Second Film Festival launched",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527425/International-section-of-15th-100-Second-Film-Festival-launched",
+      "published_date": "2026-06-17T17:43:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asghar Farhadi to hold masterclass in Portugal",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527438/Asghar-Farhadi-to-hold-masterclass-in-Portugal",
+      "published_date": "2026-06-17T17:42:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Tehran mural depicts Minab’s martyred children in Team Melli jerseys",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527422/New-Tehran-mural-depicts-Minab-s-martyred-children-in-Team-Melli",
+      "published_date": "2026-06-17T17:42:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Argentine lawyer from Global Sumud Flotilla reports on torture of activists in Israeli detention",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527444/Argentine-lawyer-from-Global-Sumud-Flotilla-reports-on-torture",
+      "published_date": "2026-06-17T17:35:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, China FMs discuss MoU with US",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245414/Iran-China-FMs-discuss-MoU-with-US",
+      "published_date": "2026-06-17T14:43:01Z",
+      "category": "Local Events"
     },
     {
       "title": "Breathing life into a 6,000-year-old instrument: the Chogha Mish harp project",
@@ -505,83 +589,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/photo/245412/2nd-night-of-mourning-month-of-Muharram-in-Tajrish-Sq-Tehran",
       "published_date": "2026-06-17T12:54:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran not mere customer to China rather a partner: Ghalibaf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245411/Iran-not-mere-customer-to-China-rather-a-partner-Ghalibaf",
-      "published_date": "2026-06-17T12:33:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran volleyball team begin training camp in Serbia",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527419/Iran-volleyball-team-begin-training-camp-in-Serbia",
-      "published_date": "2026-06-17T12:23:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IBTO serves as a role model in the region: WHO official",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527416/IBTO-serves-as-a-role-model-in-the-region-WHO-official",
-      "published_date": "2026-06-17T12:11:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One killed when small plane crashes on Texas highway",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245406/One-killed-when-small-plane-crashes-on-Texas-highway",
-      "published_date": "2026-06-17T11:00:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ansarallah leader hails Iran on great victory over US, Israel",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245405/Ansarallah-leader-hails-Iran-on-great-victory-over-US-Israel",
-      "published_date": "2026-06-17T10:37:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran face tough test after New Zealand’s draw",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527408/Iran-face-tough-test-after-draw-New-Zealand-s-draw",
-      "published_date": "2026-06-17T10:05:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FAO urges action on rangeland restoration, drought resilience",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245402/FAO-urges-action-on-rangeland-restoration-drought-resilience",
-      "published_date": "2026-06-17T08:53:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Front pages of Iran’s English dailies on June 17",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245401/Front-pages-of-Iran-s-English-dailies-on-June-17",
-      "published_date": "2026-06-17T08:27:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FAO, agri. min. to empower local livestock breed in NW Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245400/FAO-agri-min-to-empower-local-livestock-breed-in-NW-Iran",
-      "published_date": "2026-06-17T08:16:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranians learned from Leader never to give in to humiliation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245397/Iranians-learned-from-Leader-never-to-give-in-to-humiliation",
-      "published_date": "2026-06-17T07:43:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran slams intl. community selective approach to human rights",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245396/Iran-slams-intl-community-selective-approach-to-human-rights",
-      "published_date": "2026-06-17T07:08:53Z",
       "category": "Local Events"
     }
   ]
