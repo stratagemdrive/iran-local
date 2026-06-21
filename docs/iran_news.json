@@ -1,8 +1,78 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-21T00:00:16Z",
-  "total_stories": 86,
+  "generated_at": "2026-06-21T13:15:39Z",
+  "total_stories": 87,
   "stories": [
+    {
+      "title": "Iran delegation not to hold talks with IAEA chief in Geneva",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245501/Iran-delegation-not-to-hold-talks-with-IAEA-chief-in-Geneva",
+      "published_date": "2026-06-21T13:07:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IRCS proposes UN bodies set up humanitarian training center in West Asia",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527539/IRCS-proposes-UN-bodies-set-up-humanitarian-training-center-in",
+      "published_date": "2026-06-21T12:15:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘Reducing Iran's oil exports to zero; A wish that never came true’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527537/Reducing-Iran-s-oil-exports-to-zero-A-wish-that-never-came",
+      "published_date": "2026-06-21T12:12:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon ceasefire, oil sales, frozen assets release central to Swiss talks: Iran Foreign Ministry spox",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86189120/Lebanon-ceasefire-oil-sales-frozen-assets-release-central-to",
+      "published_date": "2026-06-21T11:51:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bilateral talks underway in Switzerland before formal talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/live/245500/Bilateral-talks-underway-in-Switzerland-before-formal-talks",
+      "published_date": "2026-06-21T11:05:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baqaei: Iran needs to make sure of continued US commitments fulfillment",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86188880/Baqaei-Iran-needs-to-make-sure-of-continued-US-commitments-fulfillment",
+      "published_date": "2026-06-21T10:30:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Talks on final deal not being unless 5 points put into effect",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245499/Talks-on-final-deal-not-being-unless-5-points-put-into-effect",
+      "published_date": "2026-06-21T10:03:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian FM meets Swiss counterpart at Bürgenstock",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86188888/Iranian-FM-meets-Swiss-counterpart-at-B%C3%BCrgenstock",
+      "published_date": "2026-06-21T09:53:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran slams Israeli envoy’s insults at UN official",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245497/Iran-slams-Israeli-envoy-s-insults-at-UN-official",
+      "published_date": "2026-06-21T09:35:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's FM Araghchi meets with his Swiss counterpart in Zurich",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245493/Iran-s-FM-Araghchi-meets-with-Swiss-counterpart-in-Zurich",
+      "published_date": "2026-06-21T08:56:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pezeshkian appreciates Pakistan for constructive role in diplomatic process leading to Iran-US MoU",
       "source": "IRNA",
@@ -18,7 +88,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Strait of Hormuz closure tied to curbing Israel: Expert",
+      "title": "Strait of Hormuz reopening tied to curbing Israel: Expert",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245479/Strait-of-Hormuz-closure-tied-to-curbing-Israel-Expert",
       "published_date": "2026-06-20T17:53:34Z",
@@ -74,74 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Russia discuss expansion of energy cooperation",
+      "title": "SCO education ministers censure attacks on Iran’s scientific centers",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527514/Iran-Russia-discuss-expansion-of-energy-cooperation",
-      "published_date": "2026-06-20T16:03:38Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/527547/SCO-education-ministers-censure-attacks-on-Iran-s-scientific",
+      "published_date": "2026-06-21T12:24:55Z",
+      "category": "Military"
     },
     {
-      "title": "Russia’s Medvedev warns Israel seeking to sabotage Iran-US agreement",
+      "title": "Ghalibaf reaffirms commitments to martyrs in US-Israel attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245498/Ghalibaf-reaffirms-commitments-to-martyrs-in-US-Israel-attack",
+      "published_date": "2026-06-21T09:52:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Energy flows in region to halt if Iran-US MoU not implemented",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245494/Energy-flows-in-region-to-halt-if-Iran-US-MoU-not-implemented",
+      "published_date": "2026-06-21T09:05:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran-Washington memorandum benefits Palestine: Barghouti",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188161/Russia-s-Medvedev-warns-Israel-seeking-to-sabotage-Iran-US-agreement",
-      "published_date": "2026-06-20T15:23:57Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86188816/Tehran-Washington-memorandum-benefits-Palestine-Barghouti",
+      "published_date": "2026-06-21T08:45:12Z",
+      "category": "Military"
     },
     {
-      "title": "Iran says Israeli envoy’s conduct at UN reflects impunity granted by allies",
+      "title": "‘Power’ only reliable guarantee against enemies: IRGC Navy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245491/Power-only-reliable-guarantee-against-enemies-IRGC-Navy",
+      "published_date": "2026-06-21T07:53:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah fully prepared to defend Lebanon against attacks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245489/Hezbollah-fully-prepared-to-defend-Lebanon-against-attacks",
+      "published_date": "2026-06-21T07:23:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "What are Iran's solutions for responding to US?",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245475/What-are-Iran-s-solutions-for-responding-to-US",
+      "published_date": "2026-06-21T06:57:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Illegal war on Iran was a major mistake: US senator",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188186/Iran-says-Israeli-envoy-s-conduct-at-UN-reflects-impunity-granted",
-      "published_date": "2026-06-20T15:18:11Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86188551/Illegal-war-on-Iran-was-a-major-mistake-US-senator",
+      "published_date": "2026-06-21T05:59:14Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi meets with Pakistani itnerior minister in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245474/Araghchi-meets-with-Pakistani-itnerior-minister-in-Tehran",
-      "published_date": "2026-06-20T14:51:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan’s interior min. arrives in Mashhad for talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245467/Pakistan-s-interior-min-arrives-in-Mashhad-for-talks",
-      "published_date": "2026-06-20T10:14:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Refugee crisis to remain reality unless powers change course",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245466/Refugee-crisis-to-remain-reality-unless-powers-change-course",
-      "published_date": "2026-06-20T09:36:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Foreign Ministry spokesperson calls French minister’s remarks on Iranians hypocritical",
+      "title": "Al Jazeera cameraman killed in Israeli airstrike",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86187497/Foreign-Ministry-spokesperson-calls-French-minister-s-remarks",
-      "published_date": "2026-06-20T05:15:40Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86188519/Al-Jazeera-cameraman-killed-in-Israeli-airstrike",
+      "published_date": "2026-06-21T05:53:23Z",
+      "category": "Military"
     },
     {
-      "title": "Iran deputy FM says ‘ready to move forward’ in deal with US",
+      "title": "Israel continues ceasefire breaches in Lebanon",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245456/Iran-deputy-FM-says-ready-to-move-forward-in-deal-with-US",
-      "published_date": "2026-06-20T04:44:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "French FM's meddlesome remarks 'height of hypocrisy'",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245454/French-FM-s-meddlesome-remarks-as-height-of-hypocrisy",
-      "published_date": "2026-06-20T04:30:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi crown prince welcomes Iran-US agreement",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245452/Saudi-crown-prince-welcomes-Iran-US-agreement",
-      "published_date": "2026-06-20T04:17:43Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245486/Israel-continues-ceasefire-breaches-in-Lebanon",
+      "published_date": "2026-06-21T04:37:34Z",
+      "category": "Military"
     },
     {
       "title": "US-Israeli coalition reached strategic deadlock, Iranian commanders say",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran's military command declares Strait of Hormuz closed again over MoU violations",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188180/Iran-s-military-command-declares-Strait-of-Hormuz-closed-again",
-      "published_date": "2026-06-20T15:20:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran closes Hormuz Strait after US-Israel violations of MoU",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245473/Iran-closes-Hormuz-Strait-after-US-Israel-violations-of-MoU",
-      "published_date": "2026-06-20T13:30:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran emphasizes enhancing port, transit coop. with Kazakhstan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245472/Iran-emphasizes-enhancing-port-transit-coop-with-Kazakhstan",
-      "published_date": "2026-06-20T13:07:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel kills more than 16 people in Lebanon’s Nabatieh",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245471/Israel-kills-more-than-16-people-in-Lebanon-s-Nabatieh",
-      "published_date": "2026-06-20T12:42:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "DOE, UNEP to boost co-op on documenting war damage",
+      "title": "Target set for collecting 35mcm of flare gas to be achieved by end of 14th government",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527502/DOE-UNEP-to-boost-co-op-on-documenting-war-damage",
-      "published_date": "2026-06-20T12:37:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "CPDI depicts ways to improve Iran’s sci-tech co-op with BRICS",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527500/CPDI-depicts-ways-to-improve-Iran-s-sci-tech-co-op-with-BRICS",
-      "published_date": "2026-06-20T12:34:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "HCHR denounces US suggestion over Iran's blocked assets",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245465/HCHR-denounces-US-suggestion-over-Iran-s-blocked-assets",
-      "published_date": "2026-06-20T09:06:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Seagal blasts Minab massacre as most hateful act in US-Israeli war on Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86187749/Seagal-blasts-Minab-massacre-as-most-hateful-act-in-US-Israeli",
-      "published_date": "2026-06-20T08:08:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Twin roadside bomb blast in NW Pakistan, 7 killed",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245461/Twin-roadside-bomb-blast-in-NW-Pakistan-7-killed",
-      "published_date": "2026-06-20T07:40:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel must learn lessons from its defeat against Hezbollah",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245459/Israel-must-learn-lessons-from-its-defeat-from-Hezbollah",
-      "published_date": "2026-06-20T07:11:09Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/527541/Target-set-for-collecting-35mcm-of-flare-gas-to-be-achieved-by",
+      "published_date": "2026-06-21T12:18:19Z",
+      "category": "Energy"
     },
     {
       "title": "Iran's plan to connect electricity grids of SCO member states welcomed",
@@ -347,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "New well lifts South Pars Gas Field's Phase 11 output",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245327/New-well-lifts-South-Pars-Gas-Field-s-Phase-11-output",
-      "published_date": "2026-06-14T10:11:11Z",
-      "category": "Energy"
+      "title": "Annual monetary, forex policy conference calls for structural economic reform, inflation control",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527536/Annual-monetary-forex-policy-conference-calls-for-structural",
+      "published_date": "2026-06-21T12:10:48Z",
+      "category": "Economy"
     },
     {
       "title": "Iran presents investment-ready projects to Azerbaijan",
@@ -466,143 +473,143 @@
       "category": "Economy"
     },
     {
-      "title": "Pr-Islamic Establishment rallies in Mashhad",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245485/Pr-Islamic-Establishment-rallies-in-Mashhad",
-      "published_date": "2026-06-20T20:45:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani PM, Army chief likely to join Iran talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245484/Pakistani-PM-Army-chief-likely-to-join-Iran-talks",
-      "published_date": "2026-06-20T20:33:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15354",
+      "title": "Healthy, restored wetlands hosting migratory birds",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/527529/15354",
-      "published_date": "2026-06-20T20:31:00Z",
+      "url": "https://www.tehrantimes.com/news/527549/Healthy-restored-wetlands-hosting-migratory-birds",
+      "published_date": "2026-06-21T13:10:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Muharram mourning ceremony in Urmia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245483/Muharram-mourning-ceremony-in-Urmia",
-      "published_date": "2026-06-20T19:09:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cinema Museum to screen documentary about Iran by Albert Lamorisse",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527495/Cinema-Museum-to-screen-documentary-about-Iran-by-Albert-Lamorisse",
-      "published_date": "2026-06-20T17:43:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian photographer wins top honor at Golden Shot Photography Awards 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527497/Iranian-photographer-wins-top-honor-at-Golden-Shot-Photography",
-      "published_date": "2026-06-20T17:42:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawsuit filed on behalf of families of Minab victims against US",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527526/Lawsuit-filed-on-behalf-of-families-of-Minab-victims-against",
-      "published_date": "2026-06-20T17:35:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Leap from the Dust to the Heavens",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245480/A-Leap-from-the-Dust-to-the-Heavens",
-      "published_date": "2026-06-20T17:19:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran slams Australia’s punitive policy against doctors over criticism of Israel",
+      "title": "Surrender not in Iranians’ nature, red lines will never be crossed: Vice president",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188265/Iran-slams-Australia-s-punitive-policy-against-doctors-over-criticism",
-      "published_date": "2026-06-20T16:10:06Z",
+      "url": "https://en.irna.ir/news/86189111/Surrender-not-in-Iranians-nature-red-lines-will-never-be-crossed",
+      "published_date": "2026-06-21T12:46:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran submits proposals for expanding energy co-op among SCO member states",
+      "title": "Iranian, Malaysian scientific officials agree on joint engineering projects",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527515/Iran-submits-proposals-for-expanding-energy-co-op-among-SCO-member",
-      "published_date": "2026-06-20T16:06:25Z",
+      "url": "https://www.tehrantimes.com/news/527545/Iranian-Malaysian-scientific-officials-agree-on-joint-engineering",
+      "published_date": "2026-06-21T12:22:27Z",
       "category": "Local Events"
     },
     {
-      "title": "‘The street belongs to the people’",
+      "title": "Robustness of Iran’s food security structure proven during crises: agriculture minister",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527513/The-street-belongs-to-the-people",
-      "published_date": "2026-06-20T15:48:24Z",
+      "url": "https://www.tehrantimes.com/news/527540/Robustness-of-Iran-s-food-security-structure-proven-during-crises",
+      "published_date": "2026-06-21T12:15:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Iranian negotiating delegation departs for Switzerland: spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245477/Iranian-negotiating-delegation-departs-for-Switzerland-spox",
-      "published_date": "2026-06-20T15:29:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15353",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/527512/15353",
-      "published_date": "2026-06-20T15:21:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain vs. Saudi Arabia: Team news, lineups & key stats | World Cup 2026",
+      "title": "9 Palestinians killed over the past 24 hours; death toll rises to 73,032",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188174/Spain-vs-Saudi-Arabia-Team-news-lineups-key-stats-World",
-      "published_date": "2026-06-20T15:15:22Z",
+      "url": "https://en.irna.ir/news/86189064/9-Palestinians-killed-over-the-past-24-hours-death-toll-rises",
+      "published_date": "2026-06-21T11:45:03Z",
       "category": "Local Events"
     },
     {
-      "title": "The Leader of the Islamic Revolution’s wise message",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245476/The-Leader-of-the-Revolution-s-wise-message",
-      "published_date": "2026-06-20T14:44:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ancient DNA reveals Zagros foothills as Bronze Age crossroads of peoples and cultures",
+      "title": "Bakhtiarizadeh extends deal with Esteghlal for two years",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527509/Ancient-DNA-reveals-Zagros-foothills-as-Bronze-Age-crossroads",
-      "published_date": "2026-06-20T14:01:29Z",
+      "url": "https://www.tehrantimes.com/news/527535/Bakhtiarizadeh-extends-deal-with-Esteghlal-for-two-years",
+      "published_date": "2026-06-21T11:24:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran showcases culture and handicrafts in Mexico City",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527510/Iran-showcases-culture-and-handicrafts-in-Mexico-City",
-      "published_date": "2026-06-20T14:01:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Malileh Kari of Zanjan: a legacy of Persian silver filigree",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527511/Malileh-Kari-of-Zanjan-a-legacy-of-Persian-silver-filigree",
-      "published_date": "2026-06-20T14:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What’s in Tehran art galleries",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527498/What-s-in-Tehran-art-galleries",
-      "published_date": "2026-06-20T13:52:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral ceremonies of martyred Leader will display Iran’s global authority: Deputy speaker",
+      "title": "Unity forced enemy to accept Iran’s rights: Pezeshkian",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188089/Funeral-ceremonies-of-martyred-Leader-will-display-Iran-s-global",
-      "published_date": "2026-06-20T13:31:36Z",
+      "url": "https://en.irna.ir/news/86189037/Unity-forced-enemy-to-accept-Iran-s-rights-Pezeshkian",
+      "published_date": "2026-06-21T11:19:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran female kumite win gold in AKF Senior Championships",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527534/Iran-female-kumite-win-gold-in-AKF-Senior-Championships",
+      "published_date": "2026-06-21T11:08:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asian Gymnastics Championships: Iranian gymnast claims bronze in vault",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86188914/Asian-Gymnastics-Championships-Iranian-gymnast-claims-bronze",
+      "published_date": "2026-06-21T09:59:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Tehran-Washington understanding largely serves interests of Iranian people",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86188875/Pezeshkian-Tehran-Washington-understanding-largely-serves-interests",
+      "published_date": "2026-06-21T09:45:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian women grab gold as Karate team finishes runner-up",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245496/Iranian-women-grab-gold-as-Karate-team-finishes-runner-up",
+      "published_date": "2026-06-21T09:22:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Olfati seizes bronze in 2026 Asian Artistic Gymnastics",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527533/Iran-s-Olfati-seizes-bronze-in-2026-Asian-Artistic-Gymnastics",
+      "published_date": "2026-06-21T09:16:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran parl. delegation in Baku to partake in PUIC Summit",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245495/Iran-parl-delegation-in-Baku-to-partake-in-PUIC-Summit",
+      "published_date": "2026-06-21T09:15:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s travel restrictions in U.S. to be eased",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527532/Iran-s-travel-restrictions-in-U-S-to-be-eased",
+      "published_date": "2026-06-21T09:05:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian brothers Nemati win gold in AKF Senior Championships",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527530/Iranian-brothers-Nemati-win-gold-in-AKF-Senior-Championships",
+      "published_date": "2026-06-21T08:58:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lebanese people laud Iran’s support",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86188689/Lebanese-people-laud-Iran-s-support",
+      "published_date": "2026-06-21T08:35:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran delegation in Switzerland for new round of talks with US",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245490/Iran-delegation-in-Switzerland-for-new-round-of-talk-with-US",
+      "published_date": "2026-06-21T07:41:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranians mourn anniversary of Imam Hussein martyrdom in Qom",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86188684/Iranians-mourn-anniversary-of-Imam-Hussein-martyrdom-in-Qom",
+      "published_date": "2026-06-21T07:26:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Front pages of Iran’s English dailies on June 21",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/245488/Front-pages-of-Iran-s-English-dailies-on-June-21",
+      "published_date": "2026-06-21T07:16:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s top officials discuss post-war conditions",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245487/Iran-s-top-officials-discuss-post-war-conditions",
+      "published_date": "2026-06-21T07:07:52Z",
       "category": "Local Events"
     }
   ]
