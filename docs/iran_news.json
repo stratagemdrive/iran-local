@@ -1,8 +1,71 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-22T16:00:06Z",
+  "generated_at": "2026-06-23T00:00:36Z",
   "total_stories": 93,
   "stories": [
+    {
+      "title": "Iran-US agreement marks political demise of Netanyahu",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
+      "published_date": "2026-06-22T21:25:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran to continue diplomatic efforts to boost ties",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
+      "published_date": "2026-06-22T21:19:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian: Iran ready to pursue diplomacy as per international law",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86190482/Pezeshkian-Iran-ready-to-pursue-diplomacy-as-per-international",
+      "published_date": "2026-06-22T20:47:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive | Iran’s interaction with IAEA to continue in line with existing procedures: FM spokesperson",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86190352/Exclusive-Iran-s-interaction-with-IAEA-to-continue-in-line",
+      "published_date": "2026-06-22T18:43:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Military power and diplomacy within Iran’s negotiating team",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527589/Military-power-and-diplomacy-within-Iran-s-negotiating-team",
+      "published_date": "2026-06-22T17:38:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, US advance post-war diplomacy as Swiss talks yield roadmap toward final agreement",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527603/Iran-US-advance-post-war-diplomacy-as-Swiss-talks-yield-roadmap",
+      "published_date": "2026-06-22T17:24:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf travels to Oman for talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245539/Ghalaibaf-travels-to-Oman-for-talks",
+      "published_date": "2026-06-22T17:17:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Germany’s Security Council defeat: A global referendum on Berlin’s foreign policy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527595/Germany-s-Security-Council-defeat-A-global-referendum-on-Berlin-s",
+      "published_date": "2026-06-22T16:05:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf leaves Tehran for Muscat for talks with Omani officials",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86190357/Ghalibaf-leaves-Tehran-for-Muscat-for-talks-with-Omani-officials",
+      "published_date": "2026-06-22T16:03:46Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "US issues sanctions waiver for Iranian oil exports",
       "source": "IRNA",
@@ -81,67 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran delegation leaves Switzerland talks for Tehran after 18 hours of intensive negotiations",
+      "title": "President Pezeshkian: Israeli aggressive policies are a cause of insecurity in the region",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189953/Iran-delegation-leaves-Switzerland-talks-for-Tehran-after-18",
-      "published_date": "2026-06-22T09:37:28Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86190495/President-Pezeshkian-Israeli-aggressive-policies-are-a-cause",
+      "published_date": "2026-06-22T21:05:28Z",
+      "category": "Military"
     },
     {
-      "title": "Iranian negotiating team leave Switzerland for Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245529/Iranian-negotiating-team-leave-Switzerland-for-Tehran",
-      "published_date": "2026-06-22T09:10:47Z",
-      "category": "Diplomacy"
+      "title": "IOF manpower crisis: A battle over identity, not tanks",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527597/IOF-manpower-crisis-A-battle-over-identity-not-tanks",
+      "published_date": "2026-06-22T17:41:36Z",
+      "category": "Military"
     },
     {
-      "title": "Why Iran ties peacs talks to full ceasefire in Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245528/Why-Iran-ties-peacs-talks-to-full-ceasefire-in-Lebanon",
-      "published_date": "2026-06-22T09:00:48Z",
-      "category": "Diplomacy"
+      "title": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom",
+      "published_date": "2026-06-22T17:39:05Z",
+      "category": "Military"
     },
     {
-      "title": "Good progress made in Swiss talks on implementation of US commitments under MoU: Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189653/Good-progress-made-in-Swiss-talks-on-implementation-of-US-commitments",
-      "published_date": "2026-06-22T08:53:49Z",
-      "category": "Diplomacy"
+      "title": "Iran proposes 'Islamic Security Belt'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527601/Iran-proposes-Islamic-Security-Belt",
+      "published_date": "2026-06-22T17:35:40Z",
+      "category": "Military"
     },
     {
-      "title": "Bürgenstock 60-Day Roadmap Puts US Commitments to the Test",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189853/B%C3%BCrgenstock-60-Day-Roadmap-Puts-US-Commitments-to-the-Test",
-      "published_date": "2026-06-22T08:30:00Z",
-      "category": "Diplomacy"
+      "title": "NYT spills the beans on Trump’s failed Iran strategy: 'US bit off more than it could chew'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527588/NYT-spills-the-beans-on-Trump-s-failed-Iran-strategy-US-bit",
+      "published_date": "2026-06-22T17:35:07Z",
+      "category": "Military"
     },
     {
-      "title": "China imposes fresh sanctions on 56 US firms",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245525/China-imposes-fresh-sanctions-on-56-US-firms",
-      "published_date": "2026-06-22T08:28:01Z",
-      "category": "Diplomacy"
+      "title": "Qaani warns Israel of another forced withdrawal from southern Lebanon",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527602/Qaani-warns-Israel-of-another-forced-withdrawal-from-southern",
+      "published_date": "2026-06-22T17:33:38Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi outlines outcome of Iran-US talks, highlights progress toward lasting ceasefire",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189643/Araghchi-outlines-outcome-of-Iran-US-talks-highlights-progress",
-      "published_date": "2026-06-22T06:59:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, US agree on 60-day roadmap in first Switzerland talks",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189664/Iran-US-agree-on-60-day-roadmap-in-first-Switzerland-talks",
-      "published_date": "2026-06-22T06:55:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranians defend nation’s dignity through sports, diplomacy, defense: FM Araghchi",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189577/Iranians-defend-nation-s-dignity-through-sports-diplomacy-defense",
-      "published_date": "2026-06-22T06:52:37Z",
-      "category": "Diplomacy"
+      "title": "‘The street belongs to the people’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527599/The-street-belongs-to-the-people",
+      "published_date": "2026-06-22T17:07:51Z",
+      "category": "Military"
     },
     {
       "title": "Iran ready to respond to any potential threats: official",
@@ -232,55 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245509/We-are-a-stage-of-defating-Israeli-project-Hezbollah-leader",
       "published_date": "2026-06-21T16:18:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "SCO education ministers censure attacks on Iran’s scientific centers",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527547/SCO-education-ministers-censure-attacks-on-Iran-s-scientific",
-      "published_date": "2026-06-21T12:24:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf reaffirms commitments to martyrs in US-Israel attack",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245498/Ghalibaf-reaffirms-commitments-to-martyrs-in-US-Israel-attack",
-      "published_date": "2026-06-21T09:52:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Energy flows in region to halt if Iran-US MoU not implemented",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245494/Energy-flows-in-region-to-halt-if-Iran-US-MoU-not-implemented",
-      "published_date": "2026-06-21T09:05:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran-Washington memorandum benefits Palestine: Barghouti",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86188816/Tehran-Washington-memorandum-benefits-Palestine-Barghouti",
-      "published_date": "2026-06-21T08:45:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "‘Power’ only reliable guarantee against enemies: IRGC Navy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245491/Power-only-reliable-guarantee-against-enemies-IRGC-Navy",
-      "published_date": "2026-06-21T07:53:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah fully prepared to defend Lebanon against attacks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245489/Hezbollah-fully-prepared-to-defend-Lebanon-against-attacks",
-      "published_date": "2026-06-21T07:23:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "What are Iran's solutions for responding to US?",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245475/What-are-Iran-s-solutions-for-responding-to-US",
-      "published_date": "2026-06-21T06:57:52Z",
       "category": "Military"
     },
     {
@@ -515,6 +515,90 @@
       "category": "Economy"
     },
     {
+      "title": "Ghalibaf: Strait of Hormuz will be administered by Iran according to international law",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86190527/Ghalibaf-Strait-of-Hormuz-will-be-administered-by-Iran-according",
+      "published_date": "2026-06-22T22:14:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hormuz to be administred by Iran with Iranian arrangements",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
+      "published_date": "2026-06-22T21:08:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15356",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/527604/15356",
+      "published_date": "2026-06-22T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rubio heads to region to address Iran MoU, Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
+      "published_date": "2026-06-22T19:18:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Source rejects Vance's claim on IAEA inspectors return",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
+      "published_date": "2026-06-22T18:54:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranshahr Theater to host Antonio Buero Vallejo’s “In the Burning Darkness”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527590/Iranshahr-Theater-to-host-Antonio-Buero-Vallejo-s-In-the-Burning",
+      "published_date": "2026-06-22T17:44:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "London Bridge is finally falling down. No fresh sacrifices can save Britain.",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527598/London-Bridge-is-finally-falling-down-No-fresh-sacrifices-can",
+      "published_date": "2026-06-22T17:41:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian and Iraqi cities prepare to hold funeral ceremonies for Ayatollah Seyyed Ali Khamenei",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527587/Iranian-and-Iraqi-cities-prepare-to-hold-funeral-ceremonies-for",
+      "published_date": "2026-06-22T17:34:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A walk along Tehran's Enghelab Street, the capital's booksellers' district",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527551/How-war-is-reshaping-Iranian-readers-literary-tastes",
+      "published_date": "2026-06-22T17:26:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian to go to Pakistan on a one-day visit tomorrow",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527600/Pezeshkian-to-go-to-Pakistan-on-a-one-day-visit-tomorrow",
+      "published_date": "2026-06-22T17:13:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Broken Country” appears at Iranian bookstores",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527550/Broken-Country-appears-at-Iranian-bookstores",
+      "published_date": "2026-06-22T16:57:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The street belongs to the people'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527591/The-street-belongs-to-the-people",
+      "published_date": "2026-06-22T16:15:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran arrests 17 US-Israeli-linked mercenaries in Ilam province",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86190341/Iran-arrests-17-US-Israeli-linked-mercenaries-in-Ilam-province",
@@ -568,90 +652,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527584/Morteza-Nemati-delighted-to-claim-first-Asian-karate-gold",
       "published_date": "2026-06-22T13:06:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian to go to Pakistan on one-day visit tomorrow",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245533/Pezeshkian-to-go-to-Pakistan-on-one-day-visit-tomorrow",
-      "published_date": "2026-06-22T12:48:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran shakes with 89 earthquakes in a week",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527577/Iran-shakes-with-89-earthquakes-in-a-week",
-      "published_date": "2026-06-22T12:29:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Environmental protection should safeguard rights of future generations’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527575/Environmental-protection-should-safeguard-rights-of-future-generations",
-      "published_date": "2026-06-22T12:27:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "71 Iranian scholars dispatched to Chinese scientific centers via TYSP",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527573/71-Iranian-scholars-dispatched-to-Chinese-scientific-centers",
-      "published_date": "2026-06-22T12:23:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian to visit Pakistan on Tuesday",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190198/President-Pezeshkian-to-visit-Pakistan-on-Tuesday",
-      "published_date": "2026-06-22T12:06:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina vs. Austria World Cup 2026: team news, lineups",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190183/Argentina-vs-Austria-World-Cup-2026-team-news-lineups",
-      "published_date": "2026-06-22T12:02:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran show resilience against Belgium",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527571/Iran-show-resilience-against-Belgium",
-      "published_date": "2026-06-22T10:10:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to hold 6-day funeral for martyred Leader across country",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245530/Iran-to-hold-6-day-funeral-for-martyred-Leader-across-country",
-      "published_date": "2026-06-22T10:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran claims second place at Croatia beach handball tournament",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189871/Iran-claims-second-place-at-Croatia-beach-handball-tournament",
-      "published_date": "2026-06-22T10:06:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran defeats US in beach handball friendly",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189773/Iran-defeats-US-in-beach-handball-friendly",
-      "published_date": "2026-06-22T09:36:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“This is how we protect our land”: Ghalibaf hails Beiranvand after World Cup draw with Belgium",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189655/This-is-how-we-protect-our-land-Ghalibaf-hails-Beiranvand",
-      "published_date": "2026-06-22T09:35:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funeral service for Iran's martyred Leader to be held in Iraq",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245527/Funeral-service-for-Iran-s-martyred-Leader-to-be-held-in-Iraq",
-      "published_date": "2026-06-22T08:54:26Z",
       "category": "Local Events"
     }
   ]
