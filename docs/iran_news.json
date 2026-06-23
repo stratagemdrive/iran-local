@@ -1,8 +1,64 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-23T13:45:30Z",
-  "total_stories": 90,
+  "generated_at": "2026-06-23T23:46:50Z",
+  "total_stories": 89,
   "stories": [
+    {
+      "title": "Pakistani PM: Iran’s missile program was never part of Iran talks",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191636/Pakistani-PM-Iran-s-missile-program-was-never-part-of-Iran-talks",
+      "published_date": "2026-06-23T21:21:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s missile program was never part of Iran talks: Sharif",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245570/Iran-s-missile-program-was-never-part-of-Iran-talks-Sharif",
+      "published_date": "2026-06-23T19:02:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian President lauds Pakistan’s efforts for regional peace",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191377/Iranian-President-lauds-Pakistan-s-efforts-for-regional-peace",
+      "published_date": "2026-06-23T17:17:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pres. Pezeshkian meets with Pakistani counterpart Zardari",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245567/Pres-Pezeshkian-meets-with-Pakistani-counterpart-Zardari",
+      "published_date": "2026-06-23T16:24:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says no plans for IAEA inspections of damaged nuclear facilities",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86191417/Iran-says-no-plans-for-IAEA-inspections-of-damaged-nuclear-facilities",
+      "published_date": "2026-06-23T15:27:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "5th round of Lebanon-Israel talks begins in Washington",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245566/5th-round-of-Lebanon-Israel-talks-begins-in-Washington",
+      "published_date": "2026-06-23T14:50:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman, Iran form ‘joint working group’ to manage Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245565/Oman-Iran-form-joint-working-group-to-manage-Hormuz",
+      "published_date": "2026-06-23T14:00:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Pezeshkian meets his Pakistani counterpart during Islamabad visit",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191383/President-Pezeshkian-meets-his-Pakistani-counterpart-during-Islamabad",
+      "published_date": "2026-06-23T13:49:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Culture minister calls Iran’s victory in diplomacy ‘dominant narrative’",
       "source": "IRNA",
@@ -88,60 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran-US agreement marks political demise of Netanyahu",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245544/Iran-US-agreement-marks-political-demise-of-Netanyahu",
-      "published_date": "2026-06-22T21:25:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran to continue diplomatic efforts to boost ties",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
-      "published_date": "2026-06-22T21:19:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian: Iran ready to pursue diplomacy as per international law",
+      "title": "President Pezeshkian rules out talks on Iranian defense capabilities",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190482/Pezeshkian-Iran-ready-to-pursue-diplomacy-as-per-international",
-      "published_date": "2026-06-22T20:47:28Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86191623/President-Pezeshkian-rules-out-talks-on-Iranian-defense-capabilities",
+      "published_date": "2026-06-23T21:09:37Z",
+      "category": "Military"
     },
     {
-      "title": "Exclusive | Iran’s interaction with IAEA to continue in line with existing procedures: FM spokesperson",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190352/Exclusive-Iran-s-interaction-with-IAEA-to-continue-in-line",
-      "published_date": "2026-06-22T18:43:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Military power and diplomacy within Iran’s negotiating team",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527589/Military-power-and-diplomacy-within-Iran-s-negotiating-team",
-      "published_date": "2026-06-22T17:38:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, US advance post-war diplomacy as Swiss talks yield roadmap toward final agreement",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527603/Iran-US-advance-post-war-diplomacy-as-Swiss-talks-yield-roadmap",
-      "published_date": "2026-06-22T17:24:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ghalibaf travels to Oman for talks",
+      "title": "Israel has no choice but to pull out from entire Lebanon",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245539/Ghalaibaf-travels-to-Oman-for-talks",
-      "published_date": "2026-06-22T17:17:39Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245572/Israel-has-no-choice-but-to-pull-out-from-entire-Lebanon",
+      "published_date": "2026-06-23T20:17:46Z",
+      "category": "Military"
     },
     {
-      "title": "Germany’s Security Council defeat: A global referendum on Berlin’s foreign policy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527595/Germany-s-Security-Council-defeat-A-global-referendum-on-Berlin-s",
-      "published_date": "2026-06-22T16:05:35Z",
-      "category": "Diplomacy"
+      "title": "Senate votes to limit Trump’s Iran war powers",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245571/Senate-votes-to-limit-Trump-s-Iran-war-powers",
+      "published_date": "2026-06-23T20:03:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian source rejects claims of missile talks with US",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245568/Iranian-source-rejects-claims-of-missile-talks-with-US",
+      "published_date": "2026-06-23T17:00:07Z",
+      "category": "Military"
     },
     {
       "title": "Pakistani army chief meets Iranian President Pezeshkian in Islamabad",
@@ -253,34 +281,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527580/Trump-s-Iran-war-A-40-billion-catastrophe-that-hurts-Americans",
       "published_date": "2026-06-22T12:44:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Public donations to Welfare Organization rise by 500% during 40-day war",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527579/Public-donations-to-Welfare-Organization-rise-by-500-during",
-      "published_date": "2026-06-22T12:32:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Top IRGC commander: Zionist occupiers will be kicked out of southern Lebanon",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86189608/Top-IRGC-commander-Zionist-occupiers-will-be-kicked-out-of-southern",
-      "published_date": "2026-06-22T08:54:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Organic traffic growth hacks that actually work in 2026",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245526/Organic-traffic-growth-hacks-that-actually-work-in-2026",
-      "published_date": "2026-06-22T08:43:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Qaani warns Israeli forces over presence in Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245524/Qaani-warns-Israeli-forces-over-presence-in-Lebanon",
-      "published_date": "2026-06-22T07:30:21Z",
       "category": "Military"
     },
     {
@@ -487,11 +487,53 @@
       "category": "Economy"
     },
     {
-      "title": "Inside Washington’s meltdown over Iran and the rising chorus of imperial defeat",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527402/Inside-Washington-s-meltdown-over-Iran-and-the-rising-chorus",
-      "published_date": "2026-06-16T17:05:44Z",
-      "category": "Economy"
+      "title": "Pezeshkian: Iranians stood firm against pressure, threats",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191606/Pezeshkian-Iranians-stood-firm-against-pressure-threats",
+      "published_date": "2026-06-23T20:33:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian meets with Pakistani army chief in Islamabad",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245569/Pezeshkian-meets-with-Pakistani-army-chief-in-Islamabad",
+      "published_date": "2026-06-23T18:13:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Oman agree to form Strait of Hormuz Committee",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191471/Iran-Oman-agree-to-form-Strait-of-Hormuz-Committee",
+      "published_date": "2026-06-23T15:59:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Pakistan agriculture ministers call for strengthening cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191447/Iran-Pakistan-agriculture-ministers-call-for-strengthening-cooperation",
+      "published_date": "2026-06-23T15:25:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "England vs. Ghana World Cup 2026: How to watch, team news, and predicted lineups",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191387/England-vs-Ghana-World-Cup-2026-How-to-watch-team-news-and",
+      "published_date": "2026-06-23T14:18:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran condemns Zionist attacks on Lebanese residential areas",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86191379/Iran-condemns-Zionist-attacks-on-Lebanese-residential-areas",
+      "published_date": "2026-06-23T13:45:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mourning ceremony at Sadat Akhavi Hosseiniyah in Muharram mos",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/245564/Mourning-ceremony-at-Sadat-Akhavi-Hosseiniyah-in-Muharram-mos",
+      "published_date": "2026-06-23T13:44:27Z",
+      "category": "Local Events"
     },
     {
       "title": "Gaza death toll reaches 73,039 since Oct. 2023: health min.",
@@ -582,55 +624,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245548/17-mercenaries-linked-with-US-Israel-nabbed-in-Iran",
       "published_date": "2026-06-23T06:32:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf: Swiss talks helped prevent more bloodshed in Lebanon",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190663/Ghalibaf-Swiss-talks-helped-prevent-more-bloodshed-in-Lebanon",
-      "published_date": "2026-06-23T05:59:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli aggressive acts root cause of regional insecurity",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245546/Israeli-aggressive-acts-root-cause-of-regional-insecurity",
-      "published_date": "2026-06-23T04:52:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf: Strait of Hormuz will be administered by Iran according to international law",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190527/Ghalibaf-Strait-of-Hormuz-will-be-administered-by-Iran-according",
-      "published_date": "2026-06-22T22:14:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hormuz to be administred by Iran with Iranian arrangements",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245542/Hormuz-to-be-administred-by-Iran-with-Iranian-arrangements",
-      "published_date": "2026-06-22T21:08:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15356",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/527604/15356",
-      "published_date": "2026-06-22T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rubio heads to region to address Iran MoU, Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245541/Rubio-heads-to-region-to-address-Iran-MoU-Hormuz",
-      "published_date": "2026-06-22T19:18:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Source rejects Vance's claim on IAEA inspectors return",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245540/Source-rejects-Vance-s-claim-on-IAEA-inspection-return",
-      "published_date": "2026-06-22T18:54:24Z",
       "category": "Local Events"
     }
   ]
