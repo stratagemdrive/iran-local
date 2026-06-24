@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-24T13:26:16Z",
-  "total_stories": 86,
+  "generated_at": "2026-06-24T23:56:51Z",
+  "total_stories": 82,
   "stories": [
+    {
+      "title": "Baqaei to Rubio: Peace is not possible if US continues interventionist policies",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192230/Baqaei-to-Rubio-Peace-is-not-possible-if-US-continues-interventionist",
+      "published_date": "2026-06-24T19:48:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, Saudi foreign ministers discuss peace talks progress",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192154/Iranian-Saudi-foreign-ministers-discuss-peace-talks-progress",
+      "published_date": "2026-06-24T16:39:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, Saudi FMs discuss peace talks progress",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245582/Iran-Saudi-FMs-discuss-peace-talks-progress",
+      "published_date": "2026-06-24T15:18:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "No plan for access to Iran’s attacked nuclear facilities without final deal, says deputy FM",
       "source": "IRNA",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran free to use released assets as it sees fit: Foreign Ministry",
+      "title": "Ghalibaf: US image of dominance collapsed in recent war",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190983/Iran-free-to-use-released-assets-as-it-sees-fit-Foreign-Ministry",
-      "published_date": "2026-06-23T08:40:01Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86192130/Ghalibaf-US-image-of-dominance-collapsed-in-recent-war",
+      "published_date": "2026-06-24T16:17:32Z",
+      "category": "Military"
     },
     {
-      "title": "US is obliged to lift all illegal sanctions on Iran under MoU",
+      "title": "Israeli drone attack kills two in south Lebanon",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245557/No-plans-for-IAEA-inspectors-to-visit-damaged-nuclear-sites",
-      "published_date": "2026-06-23T08:23:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman reports constructive talks with Iran on Hormuz Strait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245555/Oman-reports-constructive-talks-with-Iran-on-Hormuz-Strait",
-      "published_date": "2026-06-23T07:55:32Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245581/Israeli-drone-attack-kills-two-in-south-Lebanon",
+      "published_date": "2026-06-24T15:15:02Z",
+      "category": "Military"
     },
     {
       "title": "56 IRCS sites hit in war: ‌Kolivand",
@@ -270,20 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "NYT spills the beans on Trump’s failed Iran strategy: 'US bit off more than it could chew'",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527588/NYT-spills-the-beans-on-Trump-s-failed-Iran-strategy-US-bit",
-      "published_date": "2026-06-22T17:35:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Qaani warns Israel of another forced withdrawal from southern Lebanon",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527602/Qaani-warns-Israel-of-another-forced-withdrawal-from-southern",
-      "published_date": "2026-06-22T17:33:38Z",
-      "category": "Military"
-    },
-    {
       "title": "US authorizes Iranian oil and echemical products sales",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245538/US-authorizes-Iranian-oil-and-echemical-products-sales",
@@ -337,27 +337,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245426/IAEA-chief-welcomes-Iran-US-MoU",
       "published_date": "2026-06-18T09:27:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Rosatom reaffirms commitment to Bushehr Nuclear Plant, plans phased return of specialists",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527448/Rosatom-reaffirms-commitment-to-Bushehr-Nuclear-Plant-plans",
-      "published_date": "2026-06-17T17:41:10Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bushehr nuclear power plant remains Russia's priority",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245415/Bushehr-nuclear-power-plant-remains-Russia-s-priority",
-      "published_date": "2026-06-17T15:54:12Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Urgent plan to increase gas production launched",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527434/Urgent-plan-to-increase-gas-production-launched",
-      "published_date": "2026-06-17T14:15:06Z",
       "category": "Energy"
     },
     {
@@ -459,11 +438,32 @@
       "category": "Economy"
     },
     {
-      "title": "Private sector proposals presented to parliament speaker on Iran-China economic ties",
+      "title": "Iran suffer narrow loss against  France  in 2026 VNL",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527431/Private-sector-proposals-presented-to-parliament-speaker-on-Iran-China",
-      "published_date": "2026-06-17T14:04:51Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/527605/Iran-suffer-narrow-loss-against-France-in-2026-VNL",
+      "published_date": "2026-06-24T21:50:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf: Islamic countries should learn from the experience of recent war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192212/Ghalibaf-Islamic-countries-should-learn-from-the-experience",
+      "published_date": "2026-06-24T18:46:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Muharram mourning ceremony at Tehran’s Grand Bazaar",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86192100/Muharram-mourning-ceremony-at-Tehran-s-Grand-Bazaar",
+      "published_date": "2026-06-24T15:34:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistan’s peace efforts stem from its rich culture, says Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192055/Pakistan-s-peace-efforts-stem-from-its-rich-culture-says-Pezeshkian",
+      "published_date": "2026-06-24T14:13:35Z",
+      "category": "Local Events"
     },
     {
       "title": "ICCIMA to attend 40th ICCD Board Meeting in Ankara",
@@ -575,34 +575,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86191218/Pezeshkian-arrives-in-Islamabad-for-official-visit",
       "published_date": "2026-06-23T11:10:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pres. Pezeshkian arrives in Islamabad for high-profile talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245561/Pres-Pezeshkian-arrives-in-Islamabad-for-talks",
-      "published_date": "2026-06-23T10:48:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel hits Lebanon again despite truce",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245560/Israel-hits-Lebanon-again-despite-truce",
-      "published_date": "2026-06-23T10:03:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IRNA selected photos of the month",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86191067/IRNA-selected-photos-of-the-month",
-      "published_date": "2026-06-23T10:03:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gov’t is pursuing to safeguard rights of Iranians, ensure regional peace and stability: President",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190974/Gov-t-is-pursuing-to-safeguard-rights-of-Iranians-ensure-regional",
-      "published_date": "2026-06-23T08:35:18Z",
       "category": "Local Events"
     }
   ]
