@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-24T23:56:51Z",
-  "total_stories": 82,
+  "generated_at": "2026-06-25T13:23:39Z",
+  "total_stories": 81,
   "stories": [
+    {
+      "title": "Iran, Oman FMs discuss Strait of Hormuz developments",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245595/Iran-Oman-FMs-discuss-Strait-of-Hormuz-developments",
+      "published_date": "2026-06-25T12:38:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Oman FMs discuss Strait of Hormuz, regional issues",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192670/Iran-Oman-FMs-discuss-Strait-of-Hormuz-regional-issues",
+      "published_date": "2026-06-25T12:12:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s UN nnvoy condemns ‘horrific crime’ at Minab school",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245588/Iran-s-UN-nnvoy-condemns-horrific-crime-at-Minab-school",
+      "published_date": "2026-06-25T08:44:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO must be held to account for role in aggression on Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245584/NATO-must-be-held-to-account-for-role-in-aggression-on-Iran",
+      "published_date": "2026-06-25T06:24:54Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baqaei to Rubio: Peace is not possible if US continues interventionist policies",
       "source": "IRNA",
@@ -116,32 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Culture minister calls Iran’s victory in diplomacy ‘dominant narrative’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191320/Culture-minister-calls-Iran-s-victory-in-diplomacy-dominant",
-      "published_date": "2026-06-23T13:32:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Oman discuss Hormuz Strait management, form joint committee",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191239/Iran-Oman-discuss-Hormuz-Strait-management-form-joint-committee",
-      "published_date": "2026-06-23T11:17:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian FM Araghchi arrives in Islamabad ahead of President Pezeshkian’s visit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191212/Iranian-FM-Araghchi-arrives-in-Islamabad-ahead-of-President-Pezeshkian-s",
-      "published_date": "2026-06-23T11:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ghalibaf meets Sultan of Oman in Muscat for talks (+VIDEO)",
+      "title": "Ghaani warns 'Israel' to leave entire Lebanon",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245559/Ghalibaf-meets-with-Sultan-of-Oman-in-Muscat-for-talks",
-      "published_date": "2026-06-23T08:56:59Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245593/Ghaani-warns-Israel-to-leave-entire-Lebanon",
+      "published_date": "2026-06-25T12:21:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC Quds Force chief warns Israel to leave Lebanon or face humiliating defeat",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192654/IRGC-Quds-Force-chief-warns-Israel-to-leave-Lebanon-or-face-humiliating",
+      "published_date": "2026-06-25T12:17:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "West Asia security requires foreign troop withdrawal",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245591/West-Asia-security-requires-foreign-troop-withdrawal",
+      "published_date": "2026-06-25T11:12:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah issues new warning over Israeli attacks in south",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245590/Hezbollah-issues-new-warning-over-Israeli-attacks-in-south",
+      "published_date": "2026-06-25T10:57:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran calls for foreign troop withdrawal to ensure regional stability, global energy security",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192598/Iran-calls-for-foreign-troop-withdrawal-to-ensure-regional-stability",
+      "published_date": "2026-06-25T10:31:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran condemns attack on Minab schoolchildren, calls for justice and accountability",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192507/Iran-condemns-attack-on-Minab-schoolchildren-calls-for-justice",
+      "published_date": "2026-06-25T09:12:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran demands accountability after NATO chief admits alliance’s support for US strikes",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192483/Iran-demands-accountability-after-NATO-chief-admits-alliance-s",
+      "published_date": "2026-06-25T08:53:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC Navy declares Iran-designated channels only safe routes through Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192425/IRGC-Navy-declares-Iran-designated-channels-only-safe-routes",
+      "published_date": "2026-06-25T07:05:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Safe passage in Hormuz only possible via disignated routes",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245585/Safe-passage-in-Hormuz-only-possible-via-disignated-routes",
+      "published_date": "2026-06-25T06:56:25Z",
+      "category": "Military"
     },
     {
       "title": "Ghalibaf: US image of dominance collapsed in recent war",
@@ -221,67 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Exclusive | Ambassador praises Pakistani people’s unparalleled support for Iran",
+      "title": "Iran, India oil ministers call for expanding energy ties",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191238/Exclusive-Ambassador-praises-Pakistani-people-s-unparalleled",
-      "published_date": "2026-06-23T11:22:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
-      "published_date": "2026-06-23T08:45:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Serbian pres. welcomes Iran-US peace deal aimed at ending war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245554/Serbian-pres-welcomes-Iran-US-peace-deal-aimed-at-ending-war",
-      "published_date": "2026-06-23T08:00:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel to keep occupying southern Lebanon: Netanyahu",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245553/Israel-to-keep-occupying-southern-Lebanon-Netanyahu",
-      "published_date": "2026-06-23T07:29:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lebanon war toll passes 4,175 dead",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245547/Lebanon-war-toll-passes-4-175-dead",
-      "published_date": "2026-06-23T05:42:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "President Pezeshkian: Israeli aggressive policies are a cause of insecurity in the region",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86190495/President-Pezeshkian-Israeli-aggressive-policies-are-a-cause",
-      "published_date": "2026-06-22T21:05:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "IOF manpower crisis: A battle over identity, not tanks",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527597/IOF-manpower-crisis-A-battle-over-identity-not-tanks",
-      "published_date": "2026-06-22T17:41:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom",
-      "published_date": "2026-06-22T17:39:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran proposes 'Islamic Security Belt'",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527601/Iran-proposes-Islamic-Security-Belt",
-      "published_date": "2026-06-22T17:35:40Z",
-      "category": "Military"
+      "url": "https://en.irna.ir/news/86192626/Iran-India-oil-ministers-call-for-expanding-energy-ties",
+      "published_date": "2026-06-25T11:49:14Z",
+      "category": "Energy"
     },
     {
       "title": "US authorizes Iranian oil and echemical products sales",
@@ -330,13 +337,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527468/Iran-s-plan-to-connect-electricity-grids-of-SCO-member-states",
       "published_date": "2026-06-19T13:15:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "IAEA chief welcomes Iran-US MoU",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245426/IAEA-chief-welcomes-Iran-US-MoU",
-      "published_date": "2026-06-18T09:27:38Z",
       "category": "Energy"
     },
     {
@@ -431,11 +431,88 @@
       "category": "Economy"
     },
     {
-      "title": "Peace to be achieved through mutual respect: Pezeshkian",
+      "title": "Iran sympathizes with Venezuela over deadly earthquakes",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245429/Peace-to-be-chived-through-mutual-respect-Pezeshkian",
-      "published_date": "2026-06-18T11:26:16Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/245594/Iran-sympathizes-with-Venezuela-over-deadly-earthquakes",
+      "published_date": "2026-06-25T12:25:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Watch Yom Al-Abbas Day in Zanjan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245592/VIDEO-Watch-Ashura-Day-in-Zanjan",
+      "published_date": "2026-06-25T11:34:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashura commemoration in Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86192590/Ashura-commemoration-in-Iran",
+      "published_date": "2026-06-25T10:25:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Red Crescent offers aid to Venezuela after deadly earthquakes",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192583/Iran-Red-Crescent-offers-aid-to-Venezuela-after-deadly-earthquakes",
+      "published_date": "2026-06-25T10:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran warns Washington against contradictory interpretations of MoU",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192547/Tehran-warns-Washington-against-contradictory-interpretations",
+      "published_date": "2026-06-25T09:58:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashura mourning ceremony in Imam Khomeini mausoleum",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/245589/Ashoura-mourning-ceremony-in-Imam-Khomeini-mausoleum",
+      "published_date": "2026-06-25T09:53:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China's tech and logistical support: A key to Iran's World Cup brilliant performance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527606/China-s-tech-and-logistical-support-A-key-to-Iran-s-World-Cup",
+      "published_date": "2026-06-25T08:40:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf urges new regional Islamic order after US deafeat",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245587/Ghalibaf-urges-new-regional-Islamic-order-after-US-deafeat",
+      "published_date": "2026-06-25T08:36:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hamas admires Iran for unwavering support for Palestinians",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245586/Hamas-admires-Iran-for-unwavering-support-for-Palestinians",
+      "published_date": "2026-06-25T07:37:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imam Hossein mourning ceremony held on eve of Ashura",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86192447/Imam-Hossein-mourning-ceremony-held-on-eve-of-Ashura",
+      "published_date": "2026-06-25T06:48:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ashura; symbol of struggle btw righteousness, falsehood",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245583/Ashura-symbol-of-struggle-btw-righteousness-falsehood",
+      "published_date": "2026-06-25T06:00:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Undermining national unity serves interests of Iran’s enemies: President Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86192381/Undermining-national-unity-serves-interests-of-Iran-s-enemies",
+      "published_date": "2026-06-25T05:59:35Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran suffer narrow loss against  France  in 2026 VNL",
@@ -491,90 +568,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86191822/Hamas-praises-Iran-s-unwavering-support-for-Palestinians",
       "published_date": "2026-06-24T07:37:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qalibaf visits Azerbaijan for PUIC conference",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245575/Qalibaf-visits-Azerbaijan-for-PUIC-conference",
-      "published_date": "2026-06-24T06:56:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tasu’a; Day of loyalty, resistance in Shia history",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245573/Tasu-a-Day-of-loyalty-resistance-in-Shia-history",
-      "published_date": "2026-06-24T05:35:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Iranians stood firm against pressure, threats",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191606/Pezeshkian-Iranians-stood-firm-against-pressure-threats",
-      "published_date": "2026-06-23T20:33:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian meets with Pakistani army chief in Islamabad",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245569/Pezeshkian-meets-with-Pakistani-army-chief-in-Islamabad",
-      "published_date": "2026-06-23T18:13:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Oman agree to form Strait of Hormuz Committee",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191471/Iran-Oman-agree-to-form-Strait-of-Hormuz-Committee",
-      "published_date": "2026-06-23T15:59:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Pakistan agriculture ministers call for strengthening cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191447/Iran-Pakistan-agriculture-ministers-call-for-strengthening-cooperation",
-      "published_date": "2026-06-23T15:25:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "England vs. Ghana World Cup 2026: How to watch, team news, and predicted lineups",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191387/England-vs-Ghana-World-Cup-2026-How-to-watch-team-news-and",
-      "published_date": "2026-06-23T14:18:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran condemns Zionist attacks on Lebanese residential areas",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191379/Iran-condemns-Zionist-attacks-on-Lebanese-residential-areas",
-      "published_date": "2026-06-23T13:45:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mourning ceremony at Sadat Akhavi Hosseiniyah in Muharram mos",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245564/Mourning-ceremony-at-Sadat-Akhavi-Hosseiniyah-in-Muharram-mos",
-      "published_date": "2026-06-23T13:44:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza death toll reaches 73,039 since Oct. 2023: health min.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245563/Gaza-death-toll-reaches-73-039-since-Oct-2023-health-min",
-      "published_date": "2026-06-23T13:01:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian delegation leaves after concluding short trip to Oman",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191264/Iranian-delegation-leaves-after-concluding-short-trip-to-Oman",
-      "published_date": "2026-06-23T11:57:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian arrives in Islamabad for official visit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86191218/Pezeshkian-arrives-in-Islamabad-for-official-visit",
-      "published_date": "2026-06-23T11:10:33Z",
       "category": "Local Events"
     }
   ]
