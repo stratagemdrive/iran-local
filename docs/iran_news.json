@@ -1,8 +1,85 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-29T23:52:21Z",
+  "generated_at": "2026-06-30T13:11:32Z",
   "total_stories": 86,
   "stories": [
+    {
+      "title": "Qatar says no Iran, US high-level talks to take place",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245762/Qatar-says-no-Iran-US-high-level-talks-scheduled",
+      "published_date": "2026-06-30T12:42:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Stable ties with Tehran a long-term strategic goal for Islamabad: Pakistani researcher",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197048/Stable-ties-with-Tehran-a-long-term-strategic-goal-for-Islamabad",
+      "published_date": "2026-06-30T12:06:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aras Free Zone, Railways sign agreement to turn Jolfa into a transit hub",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527766/Aras-Free-Zone-Railways-sign-agreement-to-turn-Jolfa-into-a",
+      "published_date": "2026-06-30T11:50:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s FM visits memorial exhibition of Dena destroyer martyrs",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86196950/Iran-s-FM-visits-memorial-exhibition-of-Dena-destroyer-martyrs",
+      "published_date": "2026-06-30T10:13:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Berri says Lebanon deal aims to damage Iran-US talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245757/Berri-says-Lebanon-deal-aims-to-damage-Iran-US-talks",
+      "published_date": "2026-06-30T09:55:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Palestine envoy urges intl. bodies to stop Israeli annexation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245752/Palestine-envoy-urges-intl-bodies-to-stop-Israeli-annexation",
+      "published_date": "2026-06-30T07:57:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, France foreign ministers discuss regional developments over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
+      "published_date": "2026-06-30T07:56:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq eyes on joining BRICS",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245747/Iraq-eyes-on-joining-BRICS",
+      "published_date": "2026-06-30T05:41:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, France FMs discuss Islamabad MoU implementation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245746/Iran-France-FMs-discuss-Islamabad-MoU-implementation",
+      "published_date": "2026-06-30T05:10:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq ready to host US-Iran talks: Envoy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245744/Iraq-ready-to-host-US-Iran-talks-Envoy",
+      "published_date": "2026-06-30T04:37:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Special Envoy Witkoff en route to Qatar",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245742/US-Special-Envoy-Witkoff-en-route-to-Qatar",
+      "published_date": "2026-06-30T03:52:53Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baqaei: Iran will not attend negotiations with US in coming days",
       "source": "IRNA",
@@ -67,81 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "No meeting with US at any level in coming days: Spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245738/No-meeting-with-US-at-any-level-with-US-in-coming-days-Spox",
-      "published_date": "2026-06-29T18:24:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Araghchi: Iran-Iraq solidarity reflects deep religious, human bonds",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86196331/FM-Araghchi-Iran-Iraq-solidarity-reflects-deep-religious-human",
-      "published_date": "2026-06-29T16:59:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi meets Karbala governor to coordinate funeral of martyred Leader in holy shrines",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86196321/Araghchi-meets-Karbala-governor-to-coordinate-funeral-of-martyred",
-      "published_date": "2026-06-29T16:00:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says no technical talks with US planned in Doha this week",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86196089/Iran-says-no-technical-talks-with-US-planned-in-Doha-this-week",
-      "published_date": "2026-06-29T12:20:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kazakh investment at Shahid Rajaei Port to triple bilateral trade, guarantee 1.5m-ton-transit",
+      "title": "\"U.S. bombers struck Iran from U.K. base day after war declared\"",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527730/Kazakh-investment-at-Shahid-Rajaei-Port-to-triple-bilateral-trade",
-      "published_date": "2026-06-29T12:19:15Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/527770/U-S-bombers-struck-Iran-from-U-K-base-day-after-war-declared",
+      "published_date": "2026-06-30T11:57:06Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s FM Araghchi lands in Najaf after Karbala visit",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245726/Iran-s-FM-Araghchi-lands-in-Najaf-after-Karbala-visit",
-      "published_date": "2026-06-29T11:50:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran official says ‘no plan’ for direct US talks this week",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245724/Iran-official-says-no-plan-for-direct-US-talks-this-week",
-      "published_date": "2026-06-29T10:59:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi foreign minister to visit China amid US-Iran tensions",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245722/Saudi-foreign-minister-to-visit-China-amid-US-Iran-tensions",
-      "published_date": "2026-06-29T09:39:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran,  Oman convene first meeting of joint Hormuz committee",
+      "title": "Rapid reaction forces deterred any ground attack on Iran: Army Ground Force chief",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86195778/Iran-Oman-convene-first-meeting-of-joint-Hormuz-committee",
-      "published_date": "2026-06-29T08:51:36Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86196976/Rapid-reaction-forces-deterred-any-ground-attack-on-Iran-Army",
+      "published_date": "2026-06-30T10:22:05Z",
+      "category": "Military"
     },
     {
-      "title": "Arrangement made to observe martyred Leader’s funeral in Iraq",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245719/Arrangement-made-to-observe-martyred-Leader-s-funeral-in-Iraq",
-      "published_date": "2026-06-29T08:51:04Z",
-      "category": "Diplomacy"
+      "title": "National unity foiled enemies’ plots during 12-day war: Iran president",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86196949/National-unity-foiled-enemies-plots-during-12-day-war-Iran",
+      "published_date": "2026-06-30T10:14:25Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Oman hold 1st joint cmte. on Hormuz Strait in Muscat",
+      "title": "Iran war revealed limits of American military power",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245718/Iran-Oman-hold-1st-joint-cmte-on-Hormuz-Strait-in-Muscat",
-      "published_date": "2026-06-29T08:26:26Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/245754/Iran-war-revealed-limits-of-American-military-power",
+      "published_date": "2026-06-30T09:10:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Over 1,000 drones discovered since FIFA World Cup 2026 start",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245753/Over-1-000-drones-discovered-since-FIFA-World-Cup-2026-start",
+      "published_date": "2026-06-30T08:32:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran well-prepared for ‘historic’ funeral ceremonies of martyred Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86196709/Iran-well-prepared-for-historic-funeral-ceremonies-of-martyred",
+      "published_date": "2026-06-30T08:03:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran not trust enemy, finger on trigger if truce violated",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245750/Iran-not-trust-enemy-finger-remains-on-trigger-Defense-min",
+      "published_date": "2026-06-30T07:28:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "Almost all S. Korean vessels left Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245748/Almost-all-S-Korean-vessels-left-Strait-of-Hormuz",
+      "published_date": "2026-06-30T06:07:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli strikes kill eight in Gaza, overall toll tops 73,000",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245745/Israeli-strikes-kill-eight-in-Gaza-overall-toll-tops-73-000",
+      "published_date": "2026-06-30T04:58:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Two IRGC members martyred in terror attack in Paveh",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245743/Two-IRGC-members-martyred-in-terror-attack-in-Paveh",
+      "published_date": "2026-06-30T04:10:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to honour deal if US does: Pezeshkian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245740/Iran-will-honour-deal-if-US-does-Pezeshkian",
+      "published_date": "2026-06-30T03:44:18Z",
+      "category": "Military"
     },
     {
       "title": "Iran’s Trojan Horse in US: Team Melli's presence in WC",
@@ -207,83 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Pakistani strikes kill dozens in Afghanistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245711/Pakistani-strikes-kill-dozens-in-Afghanistan",
-      "published_date": "2026-06-29T07:21:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's defense sector continues to make steady progress: Gen.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245709/Iran-s-defense-sector-continues-to-make-steady-progress-Gen",
-      "published_date": "2026-06-29T06:50:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Trojan Horse in US: Team Melli's presence in WC",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245705/Iran-s-Trojan-Horse-in-US-Team-Melli-s-presence-in-WC",
-      "published_date": "2026-06-28T19:23:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran demands justice over Sardasht chemical attack on 39th anniversary",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86195393/Iran-demands-justice-over-Sardasht-chemical-attack-on-39th-anniversary",
-      "published_date": "2026-06-28T18:28:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Burnt Breaths” photo exhibition opens in Tehran to mark Sardasht chemical attack anniversary",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527688/Burnt-Breaths-photo-exhibition-opens-in-Tehran-to-mark-Sardasht",
-      "published_date": "2026-06-28T17:17:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran pledges to pursue accountability for Sardasht chemical attack",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527718/Iran-pledges-to-pursue-accountability-for-Sardasht-chemical-attack",
-      "published_date": "2026-06-28T17:07:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Qalibaf: Iran seriously pursuing an end to Israel's war on Lebanon",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527716/Qalibaf-Iran-seriously-pursuing-an-end-to-Israel-s-war-on-Lebanon",
-      "published_date": "2026-06-28T17:04:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to respond more forcefully to MoU violations after 2nd night of fire exchange with US",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527715/Iran-to-respond-more-forcefully-to-MoU-violations-after-2nd-night",
-      "published_date": "2026-06-28T17:00:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf: End of war in Lebanon key part of Islamabad MoU",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86195304/Ghalibaf-End-of-war-in-Lebanon-key-part-of-Islamabad-MoU",
-      "published_date": "2026-06-28T16:18:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran manufactured more advanced weapons during US-Israel war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245697/Iran-manufactured-more-advanced-weapons-during-US-Israel-war",
-      "published_date": "2026-06-28T12:43:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Military Planning Beyond the Present: A Look at a Past Speech",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527696/Military-Planning-Beyond-the-Present-A-Look-at-a-Past-Speech",
-      "published_date": "2026-06-28T12:05:48Z",
-      "category": "Military"
-    },
-    {
       "title": "NIDC completes drilling of 23 oil, gas wells in Q1",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527726/NIDC-completes-drilling-of-23-oil-gas-wells-in-Q1",
@@ -331,6 +331,13 @@
       "url": "https://en.irna.ir/news/86192626/Iran-India-oil-ministers-call-for-expanding-energy-ties",
       "published_date": "2026-06-25T11:49:14Z",
       "category": "Energy"
+    },
+    {
+      "title": "Mehran emerges as Iran's western logistics powerhouse",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527762/Mehran-emerges-as-Iran-s-western-logistics-powerhouse",
+      "published_date": "2026-06-30T10:27:05Z",
+      "category": "Economy"
     },
     {
       "title": "South Korea's Steel Miracle: A Model for Iran's Reconstruction",
@@ -459,150 +466,143 @@
       "category": "Economy"
     },
     {
-      "title": "Tehran has ‘no obligation’ to buy US products",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245550/Tehran-has-no-obligation-to-buy-US-products",
-      "published_date": "2026-06-23T06:47:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "15360",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/527751/15360",
-      "published_date": "2026-06-29T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charging a fee in Hormuz Strait is legitimate",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527746/Charging-a-fee-in-Hormuz-Strait-is-legitimate",
-      "published_date": "2026-06-29T19:48:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dennis Kelly’s “DNA” published in Persian",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527731/Dennis-Kelly-s-DNA-published-in-Persian",
-      "published_date": "2026-06-29T19:46:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "20th Cinema Verite unveils call for entries",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527734/20th-Cinema-Verite-unveils-call-for-entries",
-      "published_date": "2026-06-29T19:45:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tahereh Mafi’s bestselling novel “Shatter Me” to be adapted into film by Warner Bros.",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527722/Tahereh-Mafi-s-bestselling-novel-Shatter-Me-to-be-adapted-into",
-      "published_date": "2026-06-29T19:44:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Tent of Art” Ashura gathering opens in Tehran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527732/Tent-of-Art-Ashura-gathering-opens-in-Tehran",
-      "published_date": "2026-06-29T19:43:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian meets Grand Ayatollahs in Qom",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527755/Pezeshkian-meets-Grand-Ayatollahs-in-Qom",
-      "published_date": "2026-06-29T19:28:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran demands US adherence to MoU before any technical discussions begin",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527752/Tehran-demands-US-adherence-to-MoU-before-any-technical-discussions",
-      "published_date": "2026-06-29T19:19:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eliminated on Paper. Victorious in Character.",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527749/Eliminated-on-Paper-Victorious-in-Character",
-      "published_date": "2026-06-29T17:49:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senior Iranian and Qatari military officials hold phone call",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245737/Senior-Iranian-and-Qatari-military-officials-hold-call",
-      "published_date": "2026-06-29T17:36:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire breaks out on bus en route to occupied Quds",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245736/Fire-breaks-out-on-bus-en-route-to-occupied-Quds",
-      "published_date": "2026-06-29T16:41:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New Iraqi PM to visit Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245735/New-Iraqi-PM-to-visit-Iran-after-US-trip",
-      "published_date": "2026-06-29T16:30:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran appoints representative for Expo 2027 Belgrade national pavilion",
+      "title": "Eight Palestinians killed in Gaza; death toll rises to 73,066",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86196299/Iran-appoints-representative-for-Expo-2027-Belgrade-national",
-      "published_date": "2026-06-29T16:12:38Z",
+      "url": "https://en.irna.ir/news/86197062/Eight-Palestinians-killed-in-Gaza-death-toll-rises-to-73-066",
+      "published_date": "2026-06-30T12:24:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump says to send representatives to Doha for Iran talks",
+      "title": "Iran marks World Drug Day",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527778/Iran-marks-World-Drug-Day",
+      "published_date": "2026-06-30T12:24:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US duty bound to stop Israeli aggression on Lebanon under MoU",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245734/Trump-says-to-send-representatives-to-Doha-for-Iran-talks",
-      "published_date": "2026-06-29T15:55:39Z",
+      "url": "https://en.mehrnews.com/news/245761/Iran-urges-US-to-live-up-to-its-commitments-MoU-FM-spox",
+      "published_date": "2026-06-30T12:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ISC IWUR 2025 includes more Iranian universities",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527776/ISC-IWUR-2025-includes-more-Iranian-universities",
+      "published_date": "2026-06-30T12:09:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran to host 13th FIRA CUP Open Competition",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527774/FIRA-CUP-Open-Competition-slated-for-mid-July",
+      "published_date": "2026-06-30T12:06:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exhibitions displaying photos on national and religious themes open in Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197123/Exhibitions-displaying-photos-on-national-and-religious-themes",
+      "published_date": "2026-06-30T12:03:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran National Science Foundation, BRICS to cooperate in flagship projects",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527772/Iran-National-Science-Foundation-BRICS-to-cooperate-in-flagship",
+      "published_date": "2026-06-30T12:03:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Officials from 30 countries to attend Iran Leader's funeral",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245760/Officials-from-30-countries-to-attend-Iran-Leader-s-funeral",
+      "published_date": "2026-06-30T11:54:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nenad Kljaić arrives in Tehran to begin Iran handball mission",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527768/Nenad-Kljai%C4%87-arrives-in-Tehran-to-begin-Iran-handball-mission",
+      "published_date": "2026-06-30T11:44:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Developing exploration standards, expanding private sector participation, top priorities of IMIDRO",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527764/Developing-exploration-standards-expanding-private-sector-participation",
+      "published_date": "2026-06-30T11:07:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Turkey eye deeper economic cooperation as ICCIMA pushes economic diplomacy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527763/Iran-Turkey-eye-deeper-economic-cooperation-as-ICCIMA-pushes",
+      "published_date": "2026-06-30T10:57:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Air announces readiness to support official flights for martyred Leader’s funeral",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197106/Iran-Air-announces-readiness-to-support-official-flights-for",
+      "published_date": "2026-06-30T10:52:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gaza death toll reaches 73,066 since Oct. 07: health min.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245759/Gaza-death-toll-reaches-73-066-since-Oct-07-health-min",
+      "published_date": "2026-06-30T10:50:55Z",
       "category": "Local Events"
     },
     {
       "title": "Iran beat Syria at FIBA World Cup 2027 Asian qualifier",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527745/Iran-beat-Syria-at-FIBA-World-Cup-2027-Asian-qualifier",
-      "published_date": "2026-06-29T15:25:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pourmousavi appointed Zob Ahan head coach",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527744/Pourmousavi-appointed-Zob-Ahan-head-coach",
-      "published_date": "2026-06-29T14:53:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taj: Iran fought until the very end",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527743/Taj-Iran-fought-until-the-very-end",
-      "published_date": "2026-06-29T14:52:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Few Iranian heritage sites located in high-risk land subsidence zones, official says",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527742/Few-Iranian-heritage-sites-located-in-high-risk-land-subsidence",
-      "published_date": "2026-06-29T14:22:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1st flight from Tehran in 4 mos lands in Dubai airport",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245733/1st-flight-from-Tehran-in-4-mos-lands-in-Dubai-airport",
-      "published_date": "2026-06-29T14:21:01Z",
+      "url": "https://en.mehrnews.com/news/245758/Iran-beat-Syria-at-FIBA-World-Cup-2027-Asian-qualifier",
+      "published_date": "2026-06-30T10:31:34Z",
       "category": "Local Events"
     },
     {
-      "title": "LightHouse S02 E01",
+      "title": "Hundreds of foreign journalists to cover martyred leader’s farewell, funeral ceremonies in Tehran: Official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86196964/Hundreds-of-foreign-journalists-to-cover-martyred-leader-s-farewell",
+      "published_date": "2026-06-30T10:19:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "American pride hits a 25-year record low: Gallup",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245756/American-pride-hits-a-25-year-record-low-Gallup",
+      "published_date": "2026-06-30T10:08:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran boxer Nourani ruled out of 2026 Asian Games",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527740/LightHouse-S02-E01",
-      "published_date": "2026-06-29T14:19:28Z",
+      "url": "https://www.tehrantimes.com/news/527761/Iran-boxer-Nourani-ruled-out-of-2026-Asian-Games",
+      "published_date": "2026-06-30T09:44:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Era of US interference in regional affairs ‘over’: Lawmaker",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245755/Ear-of-US-interference-in-regional-affairs-over-Lawmaker",
+      "published_date": "2026-06-30T09:16:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Shoe Left Behind",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527760/The-Shoe-Left-Behind",
+      "published_date": "2026-06-30T09:10:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRNA CEO visits University of Tehran Library and Archives Center",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86196860/IRNA-CEO-visits-University-of-Tehran-Library-and-Archives-Center",
+      "published_date": "2026-06-30T08:34:53Z",
       "category": "Local Events"
     }
   ]
