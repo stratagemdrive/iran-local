@@ -1,8 +1,50 @@
 {
   "country": "iran",
-  "generated_at": "2026-06-30T23:56:59Z",
-  "total_stories": 86,
+  "generated_at": "2026-07-01T13:43:11Z",
+  "total_stories": 88,
   "stories": [
+    {
+      "title": "Iran warns Israel: Any threat against Leader, people will meet firm response",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198317/Iran-warns-Israel-Any-threat-against-Leader-people-will-meet",
+      "published_date": "2026-07-01T13:06:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s top negotiator meets with Qatari PM as working groups for final deal established in Doha",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198280/Iran-s-top-negotiator-meets-with-Qatari-PM-as-working-groups",
+      "published_date": "2026-07-01T12:43:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s envoy urges accountability over Western role in Sardasht chemical attack",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197963/Iran-s-envoy-urges-accountability-over-Western-role-in-Sardasht",
+      "published_date": "2026-07-01T10:24:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy praises witnesses for exposing US-Israel atrocities during recent war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197797/Iran-envoy-praises-witnesses-for-exposing-US-Israel-atrocities",
+      "published_date": "2026-07-01T08:44:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM: Iraq visit included constructive talks on bilateral, regional issues",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197605/Iran-FM-Iraq-visit-included-constructive-talks-on-bilateral",
+      "published_date": "2026-07-01T06:27:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US, Israel failed to achieve objectives in recent aggression: Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197655/US-Israel-failed-to-achieve-objectives-in-recent-aggression",
+      "published_date": "2026-07-01T06:15:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi: Iraq is preparing to hold magnificent funeral procession ceremony for Martyr Ayatollah Khamenei",
       "source": "IRNA",
@@ -102,46 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Stable ties with Tehran a long-term strategic goal for Islamabad: Pakistani researcher",
+      "title": "Tehran Grand Mosalla prepares for farewell ceremony for martyred leader",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86197048/Stable-ties-with-Tehran-a-long-term-strategic-goal-for-Islamabad",
-      "published_date": "2026-06-30T12:06:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aras Free Zone, Railways sign agreement to turn Jolfa into a transit hub",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527766/Aras-Free-Zone-Railways-sign-agreement-to-turn-Jolfa-into-a",
-      "published_date": "2026-06-30T11:50:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran’s FM visits memorial exhibition of Dena destroyer martyrs",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86196950/Iran-s-FM-visits-memorial-exhibition-of-Dena-destroyer-martyrs",
-      "published_date": "2026-06-30T10:13:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Berri says Lebanon deal aims to damage Iran-US talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245757/Berri-says-Lebanon-deal-aims-to-damage-Iran-US-talks",
-      "published_date": "2026-06-30T09:55:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Palestine envoy urges intl. bodies to stop Israeli annexation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245752/Palestine-envoy-urges-intl-bodies-to-stop-Israeli-annexation",
-      "published_date": "2026-06-30T07:57:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, France foreign ministers discuss regional developments over phone",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86196620/Iran-France-foreign-ministers-discuss-regional-developments",
-      "published_date": "2026-06-30T07:56:47Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86197853/Tehran-Grand-Mosalla-prepares-for-farewell-ceremony-for-martyred",
+      "published_date": "2026-07-01T08:04:53Z",
+      "category": "Military"
     },
     {
       "title": "The Iran war was intended to remove obstacle to Trump’s new world order",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Two IRGC members martyred in terror attack in Paveh",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245743/Two-IRGC-members-martyred-in-terror-attack-in-Paveh",
-      "published_date": "2026-06-30T04:10:33Z",
-      "category": "Military"
+      "title": "Iran’s nuclear chief calls for faster implementation of plasma-based wastewater treatment project",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198024/Iran-s-nuclear-chief-calls-for-faster-implementation-of-plasma-based",
+      "published_date": "2026-07-01T10:30:29Z",
+      "category": "Energy"
     },
     {
       "title": "NIDC completes drilling of 23 oil, gas wells in Q1",
@@ -331,6 +338,13 @@
       "url": "https://en.irna.ir/news/86192626/Iran-India-oil-ministers-call-for-expanding-energy-ties",
       "published_date": "2026-06-25T11:49:14Z",
       "category": "Energy"
+    },
+    {
+      "title": "Funeral ceremonies of martyred Leader should symbolize national unity and cohesion: President",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198288/Funeral-ceremonies-of-martyred-Leader-should-symbolize-national",
+      "published_date": "2026-07-01T12:57:49Z",
+      "category": "Economy"
     },
     {
       "title": "Mehran emerges as Iran's western logistics powerhouse",
@@ -466,6 +480,62 @@
       "category": "Economy"
     },
     {
+      "title": "Ghalibaf praises national team: You fought with full strength and displayed Iran’s unity, return home with pride",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198255/Ghalibaf-praises-national-team-You-fought-with-full-strength",
+      "published_date": "2026-07-01T12:31:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Infantino hails Iran’s performance in World Cup as ‘remarkable feat’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198192/Infantino-hails-Iran-s-performance-in-World-Cup-as-remarkable",
+      "published_date": "2026-07-01T11:32:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Those responsible for Leader’s martyrdom will face justice: Security chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198114/Those-responsible-for-Leader-s-martyrdom-will-face-justice-Security",
+      "published_date": "2026-07-01T10:59:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 32K tourists visit Iran’s Takht-e Soleyman World Heritage Site",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86198053/Over-32K-tourists-visit-Iran-s-Takht-e-Soleyman-World-Heritage",
+      "published_date": "2026-07-01T10:36:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exclusive | Martyred Iranian Leader’s vision will endure across Muslim world: Lebanese scholar",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197975/Exclusive-Martyred-Iranian-Leader-s-vision-will-endure-across",
+      "published_date": "2026-07-01T10:26:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Belarus seek to expand agricultural cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197953/Iran-Belarus-seek-to-expand-agricultural-cooperation",
+      "published_date": "2026-07-01T09:09:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from Israel’s aggression against Lebanon rises to 4,278",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197691/Death-toll-from-Israel-s-aggression-against-Lebanon-rises-to",
+      "published_date": "2026-07-01T07:44:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Speaker: Iran will not back down from its rights in Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86197724/Speaker-Iran-will-not-back-down-from-its-rights-in-Strait-of",
+      "published_date": "2026-07-01T07:05:16Z",
+      "category": "Local Events"
+    },
+    {
       "title": "15361",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/photo/527790/15361",
@@ -547,62 +617,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527781/Legendary-Iranian-wrestler-Mollaghasemi-dies-at-97",
       "published_date": "2026-06-30T14:55:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Loud car explosion reported in Haifa",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245764/Car-laden-with-bomb-detonates-in-Haifa",
-      "published_date": "2026-06-30T14:47:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of foreign journalists to cover leader’s farwel",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245763/Hundreds-of-foreign-journalists-to-cover-leader-s-farwel",
-      "published_date": "2026-06-30T13:59:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Officials from over 30 countries to attend Iran’s martyred Leader’s funeral",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86197245/Officials-from-over-30-countries-to-attend-Iran-s-martyred-Leader-s",
-      "published_date": "2026-06-30T13:36:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight Palestinians killed in Gaza; death toll rises to 73,066",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86197062/Eight-Palestinians-killed-in-Gaza-death-toll-rises-to-73-066",
-      "published_date": "2026-06-30T12:24:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran marks World Drug Day",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527778/Iran-marks-World-Drug-Day",
-      "published_date": "2026-06-30T12:24:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US duty bound to stop Israeli aggression on Lebanon under MoU",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245761/Iran-urges-US-to-live-up-to-its-commitments-MoU-FM-spox",
-      "published_date": "2026-06-30T12:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ISC IWUR 2025 includes more Iranian universities",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527776/ISC-IWUR-2025-includes-more-Iranian-universities",
-      "published_date": "2026-06-30T12:09:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran to host 13th FIRA CUP Open Competition",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527774/FIRA-CUP-Open-Competition-slated-for-mid-July",
-      "published_date": "2026-06-30T12:06:13Z",
       "category": "Local Events"
     }
   ]
