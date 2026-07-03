@@ -1,8 +1,92 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-02T23:54:30Z",
-  "total_stories": 88,
+  "generated_at": "2026-07-03T13:01:30Z",
+  "total_stories": 87,
   "stories": [
+    {
+      "title": "Global Tributes: Iranian president, high-ranking officials honor Martyr Khamenei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199789/Global-Tributes-Iranian-president-high-ranking-officials-honor",
+      "published_date": "2026-07-03T12:55:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran calls for holding foreign backers of Sudanese militias accountable for crimes",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199788/Iran-calls-for-holding-foreign-backers-of-Sudanese-militias-accountable",
+      "published_date": "2026-07-03T12:55:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian: Iran, Armenia enjoy deep friendly ties, historical bonds",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199730/Pezeshkian-Iran-Armenia-enjoy-deep-friendly-ties-historical",
+      "published_date": "2026-07-03T11:58:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nechirvan Barzani meets with Araghchi, Pezeshkian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245846/Nechirvan-Barzani-meets-with-Araghchi-Pezeshkian",
+      "published_date": "2026-07-03T11:42:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran end Jordan's unbeaten run at FIBA World Cup 2027 Asian qualifier",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527830/Iran-end-Jordan-s-unbeaten-run-at-FIBA-World-Cup-2027-Asian-qualifier",
+      "published_date": "2026-07-03T07:50:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel is world's problem: Turkish FM",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245839/Israel-is-the-world-s-problem-Turkish-FM",
+      "published_date": "2026-07-03T07:41:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UNICEF warns 100,000 children in Lebanon risk missing school",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245836/UNICEF-warns-100-000-children-in-Lebanon-risk-missing-school",
+      "published_date": "2026-07-03T07:08:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran begins funeral ceremonies for martyred Leader in Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199400/Iran-begins-funeral-ceremonies-for-martyred-Leader-in-Tehran",
+      "published_date": "2026-07-03T06:17:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Intl. delegations arriving in Tehran to attend Leader funeral",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245827/Intl-delegations-arriving-in-Tehran-to-attend-Leader-funeral",
+      "published_date": "2026-07-03T06:03:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM, UN chief discuss regional developments in phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245822/Iran-FM-UN-chief-discuss-regional-developments-in-phone-call",
+      "published_date": "2026-07-03T05:20:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran urges UNSC to refrain from provocative moves",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245821/Iran-urges-UNSC-to-refrain-from-provocative-moves",
+      "published_date": "2026-07-03T05:08:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Funeral ceremonies for martyred Leader begin in Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245820/Funeral-ceremonies-for-martyred-Leader-begin-in-Iran",
+      "published_date": "2026-07-03T04:58:01Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi, UN chief hold phone call on regional developments",
       "source": "IRNA",
@@ -60,88 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Foreign guests from 100 countries to attend Leader’s funeral",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245814/Foreign-guests-from-100-countries-to-attend-Leader-s-funeral",
-      "published_date": "2026-07-02T12:25:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Govt. would have complied if Leader ordered not to negotiate",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245806/Govt-would-have-complied-if-Leader-ordered-not-to-negotiate",
-      "published_date": "2026-07-02T07:30:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China calls on US to lift sanctions on Iran, enforce MoU: FM",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245805/China-calls-on-US-to-lift-sanctions-on-Iran-enforces-MoU-FM",
-      "published_date": "2026-07-02T07:20:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gharibabadi: Hormuz defined under Iran’s command, not Washington’s",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198728/Gharibabadi-Hormuz-defined-under-Iran-s-command-not-Washington-s",
-      "published_date": "2026-07-02T06:43:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran slams Israel’s public threat against Ayatollah Khamenei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245798/Iran-slams-Israel-s-threat-against-Ayatollah-Khamenei",
-      "published_date": "2026-07-02T05:42:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "No direct Iran-US talks held in Qatar",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245797/Iran-says-no-direct-talks-with-US-in-Qatar",
-      "published_date": "2026-07-02T05:36:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns UN of Israel’s ‘deliberate’ and ‘public’ threat against Leader of Islamic Revolution",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198604/Iran-warns-UN-of-Israel-s-deliberate-and-public-threat-against",
-      "published_date": "2026-07-01T21:55:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian: Government would have fully complied if Leader had ordered not to negotiate",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198598/Pezeshkian-Government-would-have-fully-complied-if-Leader-had",
-      "published_date": "2026-07-01T21:30:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gharibabadi: Doha talks focused on US violations of MoU by US, frozen asstes",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198582/Gharibabadi-Doha-talks-focused-on-US-violations-of-MoU-by-US",
-      "published_date": "2026-07-01T20:43:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Energy, economic pressure brought US closer to an agreement",
+      "title": "‘Inaction to environmental devastation resulting from conflicts exacerbates war impacts’",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527829/Energy-economic-pressure-brought-US-closer-to-an-agreement",
-      "published_date": "2026-07-01T18:08:22Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/527835/Inaction-to-environmental-devastation-resulting-from-conflicts",
+      "published_date": "2026-07-03T12:29:10Z",
+      "category": "Military"
     },
     {
-      "title": "In Doha, Iran tends to frozen funds as US claims talks that are not happening",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527826/In-Doha-Iran-tends-to-frozen-funds-as-US-claims-talks-that-are",
-      "published_date": "2026-07-01T17:48:27Z",
-      "category": "Diplomacy"
+      "title": "Enemy's dream of Iran surrender to never come true: IRGC cmdr",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245847/Enemy-s-dream-of-Iran-surrender-to-never-come-true-IRGC-cmdr",
+      "published_date": "2026-07-03T12:28:48Z",
+      "category": "Military"
     },
     {
-      "title": "Can the Israel–Lebanon agreement succeed where military victory failed?",
+      "title": "Nasrallah’s family, Lebanese Resistance commanders honor Martyr Khamenei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199765/Nasrallah-s-family-Lebanese-Resistance-commanders-honor-Martyr",
+      "published_date": "2026-07-03T12:14:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "CENTCOM weighs regional bases relocation after Iran war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245845/CENTCOM-weighs-regional-bases-relocation-after-Iran-war",
+      "published_date": "2026-07-03T11:30:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "US, Israel failed to achieve objectives in anti-Iran war: Speaker Ghalibaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199685/US-Israel-failed-to-achieve-objectives-in-anti-Iran-war-Speaker",
+      "published_date": "2026-07-03T11:13:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Funeral ceremony for martyr Leader Ayatollah Khamenei officially begins",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527819/Can-the-Israel-Lebanon-agreement-succeed-where-military-victory",
-      "published_date": "2026-07-01T16:41:33Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/527831/Funeral-ceremony-for-martyr-Leader-Ayatollah-Khamenei-officially",
+      "published_date": "2026-07-03T11:05:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC warns enemies of crushing response to any mistake",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245844/IRGC-warns-enemies-of-crushing-response-to-any-mistake",
+      "published_date": "2026-07-03T10:23:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Global Tributes: Turkish delegation pays respects to Martyr Khameni in Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199632/Global-Tributes-Turkish-delegation-pays-respects-to-Martyr-Khameni",
+      "published_date": "2026-07-03T10:14:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, Turkey stress regional security cooperation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245843/Iran-Turkey-stress-regional-security-cooperation",
+      "published_date": "2026-07-03T10:06:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "Global Tribute: Ahmad Massoud, Afghan delegation pay respects to Martyr Khamenei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199615/Global-Tribute-Ahmad-Massoud-Afghan-delegation-pay-respects",
+      "published_date": "2026-07-03T09:58:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Tehran-Baghdad cooperation key to regional security, development: Speaker Ghalibaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199579/Tehran-Baghdad-cooperation-key-to-regional-security-development",
+      "published_date": "2026-07-03T09:40:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC warns any enemy miscalculation will draw more crushing response",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199552/IRGC-warns-any-enemy-miscalculation-will-draw-more-crushing-response",
+      "published_date": "2026-07-03T09:02:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Acting Iranian defense minister urges Islamic unity to prevent Israeli escalation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199479/Acting-Iranian-defense-minister-urges-Islamic-unity-to-prevent",
+      "published_date": "2026-07-03T08:06:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli drone strikes vehicle in southern Lebanon, wounding 2",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245833/Israeli-drone-strikes-vehicle-in-southern-Lebanon-wounding-2",
+      "published_date": "2026-07-03T06:50:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Senior commanders pledge blood vengeance for martyred Leader",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245832/Senior-commanders-pledge-blood-vengeance-for-martyred-Leader",
+      "published_date": "2026-07-03T06:42:14Z",
+      "category": "Military"
     },
     {
       "title": "Army chief urges massive turnout at martyred Leader’s funeral to disappoint enemies",
@@ -176,111 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/245809/Iran-will-respond-harshly-to-any-attack",
       "published_date": "2026-07-02T08:49:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf: Claims of IAEA access to bombed sites are false",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198715/Ghalibaf-Claims-of-IAEA-access-to-bombed-sites-are-false",
-      "published_date": "2026-07-02T06:26:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armed forces on high alert as Iran prepares for Ayatollah Khamenei’s funeral",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198482/Armed-forces-on-high-alert-as-Iran-prepares-for-Ayatollah-Khamenei-s",
-      "published_date": "2026-07-01T20:28:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran's missile and drone capabilities remain 'non-negotiable,' defense chief says",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527823/Iran-s-missile-and-drone-capabilities-remain-non-negotiable",
-      "published_date": "2026-07-01T17:38:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "The modern golem of Silicon Valley demands a ritual sacrifice of innocence",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527820/The-modern-golem-of-Silicon-Valley-demands-a-ritual-sacrifice",
-      "published_date": "2026-07-01T16:51:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"A Martyr Never Dies\": Brazilian cartoonist reflects on illustrating Iran's supreme leader",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527812/A-Martyr-Never-Dies-Brazilian-cartoonist-reflects-on-illustrating",
-      "published_date": "2026-07-01T16:42:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "War, memory and the race to save a civilization",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527815/War-memory-and-the-race-to-save-a-civilization",
-      "published_date": "2026-07-01T16:40:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran football team receive warm welcome home",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527816/Iran-football-team-receive-warm-welcome-home",
-      "published_date": "2026-07-01T14:51:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says missile and drone capabilities are non-negotiable",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198362/Iran-says-missile-and-drone-capabilities-are-non-negotiable",
-      "published_date": "2026-07-01T14:21:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s missile, UAV capabilities nonnegotiable: Defense min.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245790/Iran-s-missile-UAV-capabilities-nonnegotiable-Defense-min",
-      "published_date": "2026-07-01T10:32:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Martyrdom-seeking ops in occupied territories",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245786/VIDEO-Martyrdom-seeking-ops-in-occupied-territories",
-      "published_date": "2026-07-01T08:43:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran Grand Mosalla prepares for farewell ceremony for martyred leader",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86197853/Tehran-Grand-Mosalla-prepares-for-farewell-ceremony-for-martyred",
-      "published_date": "2026-07-01T08:04:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "US military deploys over 900 personnel to Venezuela",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245778/US-military-deploys-over-900-personnel-to-Venezuela",
-      "published_date": "2026-07-01T06:00:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Leaked Israeli report shows Iran strikes' true cost",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245776/Leaked-Israeli-report-shows-Iran-strikes-true-cost",
-      "published_date": "2026-07-01T04:51:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pakistan says it intercepted four drones launched from Afghan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245773/Pakistan-says-it-intercepted-four-drones-launched-from-Afghan",
-      "published_date": "2026-07-01T04:18:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Iran war was intended to remove obstacle to Trump’s new world order",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527784/The-Iran-war-was-intended-to-remove-obstacle-to-Trump-s-new-world",
-      "published_date": "2026-06-30T17:34:19Z",
       "category": "Military"
     },
     {
@@ -330,13 +330,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/527629/Oil-minister-stresses-BRICS-cooperation-to-achieve-energy-security",
       "published_date": "2026-06-26T14:00:40Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran, India urge broadening relations in oil, energy sectors",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245612/Iran-India-oil-urge-broadening-ties-in-oil-energy-fields",
-      "published_date": "2026-06-26T06:37:36Z",
       "category": "Energy"
     },
     {
@@ -480,143 +473,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ghalibaf receives Amal members",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245819/Ghalibaf-receives-Amal-members",
-      "published_date": "2026-07-02T22:53:18Z",
+      "title": "DOE issues title deeds for 22 wetlands",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527839/DOE-issues-title-deeds-for-22-wetlands",
+      "published_date": "2026-07-03T12:36:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Bahrain Security Dialogue ‘political theater': Baghaei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245818/Bahrain-Security-Dialogue-political-theater-Baghaei",
-      "published_date": "2026-07-02T22:24:28Z",
+      "title": "Iranian, Russian experts ink MOU to combat SDSs in Khuzestan province",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527837/Iranian-Russian-experts-ink-MOU-to-combat-SDSs-in-Khuzestan",
+      "published_date": "2026-07-03T12:32:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Italian anti-imperialist activists travel to Tehran to attend martyred Leader’s funeral",
+      "title": "Martyr Ayatollah Khamenei held distinguished character, exalted status: Turkmenistan’s official",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199184/Italian-anti-imperialist-activists-travel-to-Tehran-to-attend",
-      "published_date": "2026-07-02T16:59:08Z",
+      "url": "https://en.irna.ir/news/86199758/Martyr-Ayatollah-Khamenei-held-distinguished-character-exalted",
+      "published_date": "2026-07-03T12:12:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Pakistan’s Senate chief hails Martyr Ayatollah Khamenei’s role in Muslim world",
+      "title": "Global Tributes: Palestinian clerics honor Martyr Khamenei in Tehran",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199193/Pakistan-s-Senate-chief-hails-Martyr-Ayatollah-Khamenei-s-role",
-      "published_date": "2026-07-02T16:36:26Z",
+      "url": "https://en.irna.ir/news/86199757/Global-Tributes-Palestinian-clerics-honor-Martyr-Khamenei-in",
+      "published_date": "2026-07-03T12:08:18Z",
       "category": "Local Events"
     },
     {
-      "title": "We Must Rise",
+      "title": "Global Tributes: Georgia’s Supreme Muslim Administration honors Martyr Khamenei",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199171/We-Must-Rise",
-      "published_date": "2026-07-02T15:50:00Z",
+      "url": "https://en.irna.ir/news/86199723/Global-Tributes-Georgia-s-Supreme-Muslim-Administration-honors",
+      "published_date": "2026-07-03T11:59:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Najaf, Karbala to host funeral procession for martyred Leader of Islamic Revolution: Iraqi committee",
+      "title": "Duhok football club complete signing of Asadbeigi",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527833/Duhok-football-club-complete-signing-of-Asadbeigi",
+      "published_date": "2026-07-03T11:56:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US-Israeli crimes against Iran to be pursued vigorously: President Pezeshkian",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199120/Najaf-Karbala-to-host-funeral-procession-for-martyred-Leader",
-      "published_date": "2026-07-02T14:44:09Z",
+      "url": "https://en.irna.ir/news/86199700/US-Israeli-crimes-against-Iran-to-be-pursued-vigorously-President",
+      "published_date": "2026-07-03T11:46:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Pakistan’s PM to join farewell ceremony for martyred Leader in Tehran",
+      "title": "Global Tribute: Russian clerics pay respect to martyred leader of Islamic Revolution",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199070/Pakistan-s-PM-to-join-farewell-ceremony-for-martyred-Leader-in",
-      "published_date": "2026-07-02T13:20:59Z",
+      "url": "https://en.irna.ir/news/86199708/Global-Tribute-Russian-clerics-pay-respect-to-martyred-leader",
+      "published_date": "2026-07-03T11:45:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Multilingual website launched to assist mourners at martyred Leader’s farewell ceremonies",
+      "title": "Iran handball team to participate in 2026 Asian Games",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527832/Iran-handball-team-to-participate-in-2026-Asian-Games",
+      "published_date": "2026-07-03T11:16:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US crime against Flight 655 will never be forgotten: Iran’s official",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199016/Multilingual-website-launched-to-assist-mourners-at-martyred",
-      "published_date": "2026-07-02T12:04:03Z",
+      "url": "https://en.irna.ir/news/86199621/US-crime-against-Flight-655-will-never-be-forgotten-Iran-s-official",
+      "published_date": "2026-07-03T10:01:10Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran’s firepower shatters regional states’ trust in US security umbrella: Report",
+      "title": "In photos: World dignitaries pay tribute to martyred leader at Tehran’s Grand Mosalla",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86199031/Iran-s-firepower-shatters-regional-states-trust-in-US-security",
-      "published_date": "2026-07-02T11:47:54Z",
+      "url": "https://en.irna.ir/photo/86199604/In-photos-World-dignitaries-pay-tribute-to-martyred-leader-at",
+      "published_date": "2026-07-03T09:54:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Pakistan PM Sharif to attend Leader's funeral",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245813/Pakistan-PM-Sharif-to-attend-Leader-s-funeral",
-      "published_date": "2026-07-02T11:30:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian says martyred Leader’s legacy marks new chapter for Iran",
+      "title": "Global Tributes: Amal Movement delegation honors martyred leader of Islamic Revolution",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198945/President-Pezeshkian-says-martyred-Leader-s-legacy-marks-new",
-      "published_date": "2026-07-02T10:41:19Z",
+      "url": "https://en.irna.ir/news/86199608/Global-Tributes-Amal-Movement-delegation-honors-martyred-leader",
+      "published_date": "2026-07-03T09:46:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Israeli settlers storm Al-Aqsa Mosque",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245812/Israeli-settlers-storm-Al-Aqsa-Mosque",
-      "published_date": "2026-07-02T10:02:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thought of late Leader to go down in nation's memory forever",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245810/Thought-of-late-Leader-to-go-down-in-nation-s-memory-forever",
-      "published_date": "2026-07-02T09:15:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader’s funeral renewal of nation allegiance with IR values",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245808/Leader-s-funeral-renewal-of-nation-allegiance-with-IR-values",
-      "published_date": "2026-07-02T08:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Parliament speaker calls for mass turnout at martyr Imam Khamenei’s funeral",
+      "title": "Parliament Speaker Ghalibaf calls for stronger Iran-China strategic ties",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86198809/Parliament-speaker-calls-for-mass-turnout-at-martyr-Imam-Khamenei-s",
-      "published_date": "2026-07-02T08:08:14Z",
+      "url": "https://en.irna.ir/news/86199577/Parliament-Speaker-Ghalibaf-calls-for-stronger-Iran-China-strategic",
+      "published_date": "2026-07-03T09:29:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Opening ceremony of 1st Intl. Conf. on School of Imam Mujahid",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245807/Opening-ceremony-of-1st-Intl-Conf-on-School-of-Imam-Mujahid",
-      "published_date": "2026-07-02T08:04:20Z",
+      "title": "Iraqi president arrives in Tehran to attend funeral of Iran’s martyred Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199528/Iraqi-president-arrives-in-Tehran-to-attend-funeral-of-Iran-s",
+      "published_date": "2026-07-03T08:28:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Major wildfire forces evacuations in southern France",
+      "title": "Israel planned to assassinate Iranian negotiators: Report",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245804/Major-wildfire-forces-evacuations-in-southern-France",
-      "published_date": "2026-07-02T06:59:12Z",
+      "url": "https://en.mehrnews.com/news/245842/Israel-planned-to-assassinate-Iranian-negotiators-Report",
+      "published_date": "2026-07-03T08:25:10Z",
       "category": "Local Events"
     },
     {
-      "title": "600 foreign journalists to cover martyred Leader’s funeral",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245803/600-foreign-journalists-to-cover-martyred-Leader-s-funeral",
-      "published_date": "2026-07-02T06:48:20Z",
+      "title": "Tajik president arrives in Tehran to attend tribute ceremony for martyred Iranian Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199516/Tajik-president-arrives-in-Tehran-to-attend-tribute-ceremony",
+      "published_date": "2026-07-03T08:14:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Positive progress made during indirect Iran-US talks in Qatar",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245802/Positive-progress-made-during-indirect-Iran-US-talks-in-Qatar",
-      "published_date": "2026-07-02T06:28:47Z",
+      "title": "IRNA publishes rare archival photos of Iran’s martyred Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86199494/IRNA-publishes-rare-archival-photos-of-Iran-s-martyred-Leader",
+      "published_date": "2026-07-03T08:11:37Z",
       "category": "Local Events"
     },
     {
-      "title": "VIDEO: Preparations for martyred Leader’s funeral at Mosalla",
+      "title": "Iran not to allow US interfere in Strait of Hormuz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245801/VIDEO-Arrangements-for-martyred-Leader-s-funeral-at-Mosalla",
-      "published_date": "2026-07-02T06:24:18Z",
+      "url": "https://en.mehrnews.com/news/245841/Iran-not-to-allow-US-interfere-in-Strait-of-Hormuz",
+      "published_date": "2026-07-03T08:08:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani Interior Minister arrives in Tehran to attend funeral of Iran’s martyred Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86199468/Pakistani-Interior-Minister-arrives-in-Tehran-to-attend-funeral",
+      "published_date": "2026-07-03T07:52:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Bangladesh parliament speakers meet in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/245840/Iran-Bangladesh-parliament-speakers-meet-in-Tehran",
+      "published_date": "2026-07-03T07:51:54Z",
       "category": "Local Events"
     }
   ]
