@@ -1,10 +1,24 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-07T13:24:01Z",
-  "total_stories": 90,
+  "generated_at": "2026-07-07T23:44:29Z",
+  "total_stories": 92,
   "stories": [
     {
-      "title": "Iran-Iraq officials stress bilateral cooperation to remove obstacles for Arbaeen pilgrims",
+      "title": "The transactional rot of NATO predators in Ankara and 'Euroslopulism'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527960/The-transactional-rot-of-NATO-predators-in-Ankara-and-Euroslopulism",
+      "published_date": "2026-07-07T18:03:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM: Talks on final deal with US will not begin unless threats end",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527956/Iran-FM-Talks-on-final-deal-with-US-will-not-begin-unless-threats",
+      "published_date": "2026-07-07T17:50:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Iraq officials stress bilateral cooperation to remove obstacles for Arbaeen pilgrims",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86203368/Iran-Iraq-officials-stress-bilateral-cooperation-to-remove-obstacles",
       "published_date": "2026-07-07T13:11:38Z",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Hamas hails Iran's victory in war as win for Resistance",
+      "title": "Martyred Leader's coffin warmly welcome in Najaf",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245925/Hamas-hails-Iran-s-victory-in-war-as-win-for-Resistance",
-      "published_date": "2026-07-05T07:02:27Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246008/Martyred-Leader-s-coffin-warmly-welcome-in-Najaf",
+      "published_date": "2026-07-07T19:34:46Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi calls for global condemnation of US lawlessness",
+      "title": "VIDEO: Quds Force commander in Najaf",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246007/VIDEO-Quds-Force-commander-in-Najaf",
+      "published_date": "2026-07-07T19:03:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "US provocations in Hormuz to be met with Iran firm reaction",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246005/US-provocations-Hormuz-to-be-met-with-swift-reaction",
+      "published_date": "2026-07-07T18:24:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-CENTCOM chief suggests US needs to move bases from Persian Gulf",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527952/Ex-CENTCOM-chief-suggests-US-needs-to-move-bases-from-Persian",
+      "published_date": "2026-07-07T17:35:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sanctions strengthened Iran’s defense self-sufficiency, Defense Ministry spokesperson says",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86201222/Araghchi-calls-for-global-condemnation-of-US-lawlessness",
-      "published_date": "2026-07-05T06:34:33Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86203486/Sanctions-strengthened-Iran-s-defense-self-sufficiency-Defense",
+      "published_date": "2026-07-07T16:45:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq’s Hashd al-Shaabi Reviews Security Plans for Imam Khamenei’s Funeral Procession in Karbala",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86203446/Iraq-s-Hashd-al-Shaabi-Reviews-Security-Plans-for-Imam-Khamenei-s",
+      "published_date": "2026-07-07T15:19:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Over 140m tons of goods transported via roads in Q1",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527948/Over-140m-tons-of-goods-transported-via-roads-in-Q1",
+      "published_date": "2026-07-07T15:17:45Z",
+      "category": "Military"
     },
     {
       "title": "IRGC Quds Force chief says funeral in Iraq will strengthen vengeance",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Police chief: Enemies have no choice but to understand resistance’s strength",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86201827/Police-chief-Enemies-have-no-choice-but-to-understand-resistance-s",
-      "published_date": "2026-07-05T16:18:13Z",
-      "category": "Military"
+      "title": "Growth of Iran’s peaceful nuclear program driven by martyred Leader’s vision, AEOI chief says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527953/Growth-of-Iran-s-peaceful-nuclear-program-driven-by-martyred",
+      "published_date": "2026-07-07T17:26:03Z",
+      "category": "Energy"
     },
     {
-      "title": "Ships use Iran-desingated route in Hormuz Strait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245941/Ships-use-Iran-desingated-route-in-Hormuz-Strait",
-      "published_date": "2026-07-05T15:56:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armed Forces, backed by people, stand firm against any enemy threats: IRGC spox",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86201735/Armed-Forces-backed-by-people-stand-firm-against-any-enemy",
-      "published_date": "2026-07-05T15:25:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Army chief vows Iran will never stop pursuing Leader’s assassins",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86201783/Army-chief-vows-Iran-will-never-stop-pursuing-Leader-s-assassins",
-      "published_date": "2026-07-05T15:23:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran army commander vows revenge for Leader’s blood",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245939/Iran-army-commander-Hatami-vows-revenge-for-Leader-s-blood",
-      "published_date": "2026-07-05T13:23:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Resistance no longer confined to geographic borders: Navy chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86201716/Resistance-no-longer-confined-to-geographic-borders-Navy-chief",
-      "published_date": "2026-07-05T12:58:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran army spox vows crushing response to any miscalculation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245937/Iran-army-spox-vows-crushing-response-to-any-miscalculation",
-      "published_date": "2026-07-05T12:50:59Z",
-      "category": "Military"
+      "title": "Post-war era: smart reconstruction, not a return to past: energy expert",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527949/Post-war-era-smart-reconstruction-not-a-return-to-past-energy",
+      "published_date": "2026-07-07T15:17:09Z",
+      "category": "Energy"
     },
     {
       "title": "Growth of Iran’s peaceful nuclear industry owes to guidance of martyred Leader: AEOI chief",
@@ -352,6 +366,20 @@
       "url": "https://en.mehrnews.com/news/245782/Iran-exported-50mln-crude-oil-barrels-in-2-weeks-source",
       "published_date": "2026-07-01T07:34:35Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran outlines consumer rights achievements at UNCTAD meeting in Geneva",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86203447/Iran-outlines-consumer-rights-achievements-at-UNCTAD-meeting",
+      "published_date": "2026-07-07T15:14:27Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Martyr Leader's economic vision: self-reliance, value chains, food security, reform",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527947/Martyr-Leader-s-economic-vision-self-reliance-value-chains",
+      "published_date": "2026-07-07T15:11:22Z",
+      "category": "Economy"
     },
     {
       "title": "Martyred Leader contributes to release of prisoners for 20 years",
@@ -480,157 +508,143 @@
       "category": "Economy"
     },
     {
-      "title": "Iran Chamber presents 200 investment opportunities to Turkey’s DEIK",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527847/Iran-Chamber-presents-200-investment-opportunities-to-Turkey-s",
-      "published_date": "2026-07-03T13:39:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Replacement of oil revenues with mining resources should be pursued: minister",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527846/Replacement-of-oil-revenues-with-mining-resources-should-be-pursued",
-      "published_date": "2026-07-03T13:34:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Western media narrative on Iran shattered by Imam Khamenei’s funeral crowds, Ansarullah adviser says",
+      "title": "President Pezeshkian thanks Iraq for honoring martyred Leader, calls for stronger cooperation",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203375/Western-media-narrative-on-Iran-shattered-by-Imam-Khamenei-s",
-      "published_date": "2026-07-07T13:17:20Z",
+      "url": "https://en.irna.ir/news/86203608/President-Pezeshkian-thanks-Iraq-for-honoring-martyred-Leader",
+      "published_date": "2026-07-07T21:32:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran sends 36 Red Crescent rescue teams to Iraq for martyred Leader’s funeral ceremonies",
+      "title": "Pezeshkian, Iraqi PM attend official reception for martyred Leader in Najaf",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203367/Iran-sends-36-Red-Crescent-rescue-teams-to-Iraq-for-martyred",
-      "published_date": "2026-07-07T13:08:10Z",
+      "url": "https://en.irna.ir/news/86203594/Pezeshkian-Iraqi-PM-attend-official-reception-for-martyred-Leader",
+      "published_date": "2026-07-07T20:35:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Laboratorium. Nanosatellite for monitoring forest wildfires",
+      "title": "15367",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527943/Laboratorium-Nanosatellite-for-monitoring-forest-wildfires",
-      "published_date": "2026-07-07T13:04:31Z",
+      "url": "https://www.tehrantimes.com/photo/527958/15367",
+      "published_date": "2026-07-07T20:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "DOE chief highlights Leader’s collective responsibility policy for environmental protection",
+      "title": "Coffin of martyred Leader arrives in Najaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86203573/Coffin-of-martyred-Leader-arrives-in-Najaf",
+      "published_date": "2026-07-07T20:07:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian singer Mostafa Ragheb facilitates release of 10 inmates of unintentional crimes in Yazd",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527942/DOE-chief-highlights-Leader-s-collective-responsibility-policy",
-      "published_date": "2026-07-07T12:46:11Z",
+      "url": "https://www.tehrantimes.com/news/527934/Iranian-singer-Mostafa-Ragheb-facilitates-release-of-10-inmates",
+      "published_date": "2026-07-07T20:04:32Z",
       "category": "Local Events"
     },
     {
-      "title": "HQ for medicinal herbs, Tehran University of Medical Sciences ink MOU",
+      "title": "Artists from Iran, Lebanon, Yemen create mural in Tehran",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527939/HQ-for-medicinal-herbs-Tehran-University-of-Medical-Sciences",
-      "published_date": "2026-07-07T12:44:07Z",
+      "url": "https://www.tehrantimes.com/news/527932/Artists-from-Iran-Lebanon-Yemen-create-mural-in-Tehran",
+      "published_date": "2026-07-07T20:03:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran defeat Palestine at FIBA U18 Asia Cup WABA qualifiers",
+      "title": "Art, cultural programs held across Tehran for Martyr Leader",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527940/Iran-defeat-Palestine-at-FIBA-U18-Asia-Cup-WABA-qualifiers",
-      "published_date": "2026-07-07T12:44:04Z",
+      "url": "https://www.tehrantimes.com/news/527933/Art-cultural-programs-held-across-Tehran-for-Martyr-Leader",
+      "published_date": "2026-07-07T20:02:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Leader's massive funeral in holy Qom",
+      "title": "The funeral in Tehran that the West cannot explain",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527961/The-funeral-in-Tehran-that-the-West-cannot-explain",
+      "published_date": "2026-07-07T19:55:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Pezeshkian arrives in Najaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86203549/President-Pezeshkian-arrives-in-Najaf",
+      "published_date": "2026-07-07T19:09:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plane carrying martyred Leader’s coffin arrives in Iraq",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245997/Leader-s-massive-funeral-in-holy-Qom",
-      "published_date": "2026-07-07T12:06:29Z",
+      "url": "https://en.mehrnews.com/news/246006/Plane-carrying-martyred-Leader-s-coffin-arrives-in-Iraq",
+      "published_date": "2026-07-07T18:34:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran come 12th at AVC Girls' U18 Volleyball Championship",
+      "title": "River of tears: A nation's defiance and a superpower's confusion",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/527937/Iran-come-12th-at-AVC-Girls-U18-Volleyball-Championship",
-      "published_date": "2026-07-07T11:56:38Z",
+      "url": "https://www.tehrantimes.com/news/527959/River-of-tears-A-nation-s-defiance-and-a-superpower-s-confusion",
+      "published_date": "2026-07-07T18:00:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran rejects IMO draft, defends Strait of Hormuz legal position in council submission",
+      "title": "Brutal and regular torture of Dr. Abu Safiya is horrible",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527955/Brutal-and-regular-torture-of-Dr-Abu-Safiya-is-horrible",
+      "published_date": "2026-07-07T17:55:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq prepares for historic farewell as millions expected to honor Iran’s martyred Leader",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527957/Iraq-prepares-for-historic-farewell-as-millions-expected-to-honor",
+      "published_date": "2026-07-07T17:55:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran rejects IMO draft, defends legal position on Strait of Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527954/Iran-rejects-IMO-draft-defends-legal-position-on-Strait-of-Hormuz",
+      "published_date": "2026-07-07T17:45:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The tide of mourners  reaches Qom",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/527950/Millions-converge-on-Qom-to-bid-farewell-to-martyred-Leader",
+      "published_date": "2026-07-07T17:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exclusive | American analyst says Ayatollah Khamenei belongs to entire world, not Iran alone",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203311/Iran-rejects-IMO-draft-defends-Strait-of-Hormuz-legal-position",
-      "published_date": "2026-07-07T11:19:25Z",
+      "url": "https://en.irna.ir/news/86203500/Exclusive-American-analyst-says-Ayatollah-Khamenei-belongs",
+      "published_date": "2026-07-07T17:12:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Leader’s funeral in Iraq deepen Tehran-Baghdad relations",
+      "title": "President Pezeshkian arrives in Iraq's Najaf",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245996/Leader-s-funeral-in-Najaf-Karbala-deepen-Iran-Iraq-relations",
-      "published_date": "2026-07-07T11:16:31Z",
+      "url": "https://en.mehrnews.com/news/246004/President-Pezeshkian-arrives-in-Iraq-s-Najaf",
+      "published_date": "2026-07-07T17:10:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Independence and national power outstanding legacy of Martyr Ayatollah Khamenei: IRNA chief",
+      "title": "Iraq declares Wednesday public holiday for martyred Leader funeral",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203297/Independence-and-national-power-outstanding-legacy-of-Martyr",
-      "published_date": "2026-07-07T11:15:11Z",
+      "url": "https://en.irna.ir/news/86203502/Iraq-declares-Wednesday-public-holiday-for-martyred-Leader-funeral",
+      "published_date": "2026-07-07T17:00:22Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran’s martyr Leader described Al-Aqsa Flood as new era of triumph for Palestine: Hamas",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203283/Iran-s-martyr-Leader-described-Al-Aqsa-Flood-as-new-era-of-triumph",
-      "published_date": "2026-07-07T11:09:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ayatollah Khamenei was a great leader who stood firmly with world oppressed",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203234/Ayatollah-Khamenei-was-a-great-leader-who-stood-firmly-with-world",
-      "published_date": "2026-07-07T11:06:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina vs. Egypt preview: Team news, predicted lineups | World Cup 2026",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203300/Argentina-vs-Egypt-preview-Team-news-predicted-lineups-World",
-      "published_date": "2026-07-07T11:06:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 strategic messages of Leader's funeral ceremony",
+      "title": "Iraq declares Wed. public holiday for Leader's funeral",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245995/10-strategic-messages-from-Leader-s-funeral-ceremony",
-      "published_date": "2026-07-07T10:29:31Z",
+      "url": "https://en.mehrnews.com/news/246003/Iraq-declared-Wed-public-holiday-for-Leader-s-funeral",
+      "published_date": "2026-07-07T16:06:29Z",
       "category": "Local Events"
     },
     {
-      "title": "In photos: Vast crowds bid farewell to Martyr Leader in Qom (2)",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86203203/In-photos-Vast-crowds-bid-farewell-to-Martyr-Leader-in-Qom-2",
-      "published_date": "2026-07-07T10:03:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martyred Leader’s funeral, farewell ceremonies in photos",
+      "title": "VIDEO: Mehr staffer's video footage of funeral in Qom",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/245994/Leader-s-funeral-farewell-ceremonies-in-photos",
-      "published_date": "2026-07-07T09:44:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive | Chilean analyst says martyr Leader’s letters to Western youth urged intellectual independence",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86203207/Exclusive-Chilean-analyst-says-martyr-Leader-s-letters-to-Western",
-      "published_date": "2026-07-07T09:36:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela earthquake death toll tops 3,500",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/245993/Venezuela-earthquake-death-toll-tops-3-500",
-      "published_date": "2026-07-07T09:35:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Vast crowds bid farewell to Martyr Leader in Qom (1)",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86203183/In-photos-Vast-crowds-bid-farewell-to-Martyr-Leader-in-Qom-1",
-      "published_date": "2026-07-07T09:30:59Z",
+      "url": "https://en.mehrnews.com/news/246002/VIDEO-Mehr-staffer-s-video-footage-of-funeral-in-Qom",
+      "published_date": "2026-07-07T15:48:29Z",
       "category": "Local Events"
     }
   ]
