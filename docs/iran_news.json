@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-16T12:26:28Z",
+  "generated_at": "2026-07-16T23:48:16Z",
   "total_stories": 92,
   "stories": [
+    {
+      "title": "Iran slams US, Israel, Argentina for voting against UN anti-terror measures",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211095/Iran-slams-US-Israel-Argentina-for-voting-against-UN-anti-terror",
+      "published_date": "2026-07-16T16:39:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran urges UN Human Rights Office to condemn US aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211046/Iran-urges-UN-Human-Rights-Office-to-condemn-US-aggression",
+      "published_date": "2026-07-16T16:13:58Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi Felicitates Venezuelan counterpart upon appointment",
       "source": "Mehr News Agency",
@@ -130,18 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN envoy dismisses US allegations against Iran over Yemen",
+      "title": "Iran’s military warns of ‘devastating’ response to any new aggression against infrastructure",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86209773/UN-envoy-dismisses-US-allegations-against-Iran-over-Yemen",
-      "published_date": "2026-07-15T07:14:42Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86211213/Iran-s-military-warns-of-devastating-response-to-any-new-aggression",
+      "published_date": "2026-07-16T22:11:38Z",
+      "category": "Military"
     },
     {
-      "title": "Iran oil sales continue despite US waiver breach",
+      "title": "Qatar rejects Israeli media hype on attacking Irab",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211184/Qatar-rejects-Israeli-media-hype-on-attacking-Irab",
+      "published_date": "2026-07-16T20:09:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran calls on southern neighbours to block US attacks",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211113/Iran-calls-on-southern-neighbours-to-block-US-attacks",
+      "published_date": "2026-07-16T17:22:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran urges southern neighbours to block US attacks",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246215/Iran-oil-sales-continue-despite-US-waiver-breach",
-      "published_date": "2026-07-15T06:45:02Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246265/Iran-urges-southern-neighbours-to-block-US-attacks",
+      "published_date": "2026-07-16T15:47:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "Shahid Baqaei 2 Hospital in Ahvaz resumed operations: Health official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211017/Shahid-Baqaei-2-Hospital-in-Ahvaz-resumed-operations-Health",
+      "published_date": "2026-07-16T14:43:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "The civilized Iranian nation will prevail in any war: Russian scholar",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211033/The-civilized-Iranian-nation-will-prevail-in-any-war-Russian",
+      "published_date": "2026-07-16T14:39:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "Attack on children’s hospital ‘war crime’: FM spokesperson",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211019/Attack-on-children-s-hospital-war-crime-FM-spokesperson",
+      "published_date": "2026-07-16T14:24:21Z",
+      "category": "Military"
     },
     {
       "title": "Army Spokesman: Iran will neutralize US’s interventions in region",
@@ -232,55 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86210674/IRGC-shoots-down-US-MQ-9-drone",
       "published_date": "2026-07-16T06:30:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "US strikes target Semnan airport",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246251/US-strikes-target-Semnan-airport",
-      "published_date": "2026-07-16T06:28:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "American MQ-9 drone downed over Iran's Andimeshk",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246250/US-MQ-9-drone-over-Iran-s-Andimeshk",
-      "published_date": "2026-07-16T06:22:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "US airstrikes lead to evacuation of hospital in Ahvaz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86210637/US-airstrikes-lead-to-evacuation-of-hospital-in-Ahvaz",
-      "published_date": "2026-07-16T05:59:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns next phase of operations still to come",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246248/Iran-warns-next-phase-of-operations-still-to-come",
-      "published_date": "2026-07-16T05:38:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC shoots down US Lucas drone over Bandar Abbas",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210566/IRGC-shoots-down-US-Lucas-drone-over-Bandar-Abbas",
-      "published_date": "2026-07-15T22:27:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran condemns intensfied Israeli aggression against Palestine",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210544/Iran-condemns-intensfied-Israeli-aggression-against-Palestine",
-      "published_date": "2026-07-15T21:26:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran slams Israeli war crimes in Gaza and West Bank",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528223/Iran-slams-Israeli-war-crimes-in-Gaza-and-West-Bank",
-      "published_date": "2026-07-15T17:18:06Z",
       "category": "Military"
     },
     {
@@ -508,6 +508,55 @@
       "category": "Economy"
     },
     {
+      "title": "Iranian warns Europe: Appeasing US aggression will backfire on You",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211145/Iranian-warns-Europe-Appeasing-US-aggression-will-backfire-on",
+      "published_date": "2026-07-16T18:55:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran beat Germany at 2026 VNL",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528230/Iran-beat-Germany-at-2026-VNL",
+      "published_date": "2026-07-16T18:48:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Children, schools, hospitals not safe from US war machine: Iranian official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86211094/Children-schools-hospitals-not-safe-from-US-war-machine-Iranian",
+      "published_date": "2026-07-16T16:22:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "S. Korea edge Iran at 2026 Asian Junior Handball Championship",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528229/S-Korea-edge-Iran-at-2026-Asian-Junior-Handball-Championship",
+      "published_date": "2026-07-16T14:25:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran qualify for 2027 FIVB Volleyball Boys' U19 World Championship",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528228/Iran-qualify-for-2027-FIVB-Volleyball-Boys-U19-World-Championship",
+      "published_date": "2026-07-16T14:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s men sitting volleyball secure 2028 LA Paralympics berth",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528227/Iran-s-men-sitting-volleyball-secure-2028-LA-Paralympics-berth",
+      "published_date": "2026-07-16T14:10:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran to resist until US leaves region: Army spokesperson",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246264/Iran-to-resist-until-US-leaves-region-Army-spokesperson",
+      "published_date": "2026-07-16T13:23:40Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran volleyball team secures world championship spot",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86210931/Iran-volleyball-team-secures-world-championship-spot",
@@ -596,55 +645,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528167/Iranian-director-to-stage-adaptation-of-Chekhov-s-Uncle-Vanya",
       "published_date": "2026-07-15T17:25:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abbas Kiarostami to be commemorated at Cinema Museum",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528216/Abbas-Kiarostami-to-be-commemorated-at-Cinema-Museum",
-      "published_date": "2026-07-15T17:24:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inaugural Global Poetry Award for Martyr Leader concluded",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528218/Inaugural-Global-Poetry-Award-for-Martyr-Leader-concluded",
-      "published_date": "2026-07-15T17:23:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strait of Hormuz: A geopolitical lever",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528217/Strait-of-Hormuz-A-geopolitical-lever",
-      "published_date": "2026-07-15T17:20:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian government: Over 30 civilians killed in recent US attacks",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528215/Iranian-government-Over-30-civilians-killed-in-recent-US-attacks",
-      "published_date": "2026-07-15T17:16:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran lose to Ukraine at 2026 VNL Week 3",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528224/Iran-lose-to-Ukraine-at-2026-VNL-Week-3",
-      "published_date": "2026-07-15T17:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Assembly of Experts demands retribution for martyred Leader",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528214/Assembly-of-Experts-demands-retribution-for-martyred-Leader",
-      "published_date": "2026-07-15T17:03:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bahrain’s top cleric warns Shia community faces ‘existential threat’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210377/Bahrain-s-top-cleric-warns-Shia-community-faces-existential",
-      "published_date": "2026-07-15T16:30:43Z",
       "category": "Local Events"
     }
   ]
