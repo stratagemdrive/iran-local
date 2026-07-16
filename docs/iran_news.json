@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-15T23:49:10Z",
+  "generated_at": "2026-07-16T12:26:28Z",
   "total_stories": 92,
   "stories": [
+    {
+      "title": "Araghchi Felicitates Venezuelan counterpart upon appointment",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246263/Araghchi-Felicitates-Venezuelan-counterpart-upon-appointment",
+      "published_date": "2026-07-16T12:01:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM congratulates Venezuelan counterpart for appointment, calls for stronger Tehran–Caracas ties",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210909/Iran-FM-congratulates-Venezuelan-counterpart-for-appointment",
+      "published_date": "2026-07-16T11:15:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan urges US, Iran to resume technical-level talks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246261/Pakistan-urges-US-Iran-to-resume-technical-level-talks",
+      "published_date": "2026-07-16T10:30:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lebanon calls for end to Israel’s occupation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246255/Lebanon-calls-for-end-to-Israel-s-occupation",
+      "published_date": "2026-07-16T06:57:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Ministry summons UK envoy over IRGC blacklisting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246254/Foreign-Ministry-summons-UK-envoy-over-IRGC-blacklisting",
+      "published_date": "2026-07-16T06:49:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran summons British envoy over London's IRGC designation",
       "source": "IRNA",
@@ -109,39 +144,123 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US pushed world to dangerous precipice with attacking Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246212/US-pushed-world-to-dangerous-precipice-with-attacking-Iran",
-      "published_date": "2026-07-15T05:39:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran urges UNSC to hold US accountable for breaches of MoU",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528186/Iran-urges-UNSC-to-hold-US-accountable-for-breaches-of-MoU",
-      "published_date": "2026-07-14T18:08:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran calls for postal, e-commerce cooperation with Turkiye",
+      "title": "Army Spokesman: Iran will neutralize US’s interventions in region",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86209407/Iran-calls-for-postal-e-commerce-cooperation-with-Turkiye",
-      "published_date": "2026-07-14T16:31:08Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86210902/Army-Spokesman-Iran-will-neutralize-US-s-interventions-in-region",
+      "published_date": "2026-07-16T11:10:46Z",
+      "category": "Military"
     },
     {
-      "title": "US to reap nothing but failure in war on Iran: envoy",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246196/Closure-of-Hormuz-15-year-old-plan",
-      "published_date": "2026-07-14T13:27:23Z",
-      "category": "Diplomacy"
+      "title": "Ahvaz medical facility evacuated after terror attacks by US",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210893/Ahvaz-medical-facility-evacuated-after-terror-attacks-by-US",
+      "published_date": "2026-07-16T11:00:30Z",
+      "category": "Military"
     },
     {
-      "title": "Omani FM says Israel rather than Iran threatens region",
+      "title": "Tehran slams US strike near children's hospital in Ahvaz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246194/Omani-FM-says-Israel-rather-than-Iran-threatens-region",
-      "published_date": "2026-07-14T12:46:46Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246262/Tehran-slams-US-strike-near-children-s-hospital-in-Ahvaz",
+      "published_date": "2026-07-16T10:56:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns US of targeting all infrastructures in region",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210772/Iran-warns-US-of-targeting-all-infrastructures-in-region",
+      "published_date": "2026-07-16T08:12:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran Army drones attack US Patriots in Kuwait, Bahrain",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246259/Iran-Army-drones-attack-US-Patriots-in-Kuwait-Bahrain",
+      "published_date": "2026-07-16T08:08:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Majority of Americans believe launching war on Iran was wrong",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246258/Majority-of-Americans-believe-launching-war-on-Iran-was-wrong",
+      "published_date": "2026-07-16T07:55:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "A hospital in Ahvaz evacuates patients after terror attacks by US",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210731/A-hospital-in-Ahvaz-evacuates-patients-after-terror-attacks-by",
+      "published_date": "2026-07-16T07:52:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "US air radar, jet fuel pumps destroyed in Bahrain",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246257/US-air-radar-jet-fuel-pumps-destroyed-in-Bahrain",
+      "published_date": "2026-07-16T07:31:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "All regional infrastructure to be destroyed if Iran's hit",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246256/All-regional-infrastructure-to-be-destroyed-if-Iran-s-hit",
+      "published_date": "2026-07-16T07:14:40Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC pounds US positions across region",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210737/IRGC-pounds-US-positions-across-region",
+      "published_date": "2026-07-16T07:08:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran Army attacks US radar, fuel tanks in Jordan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246253/Iran-Army-attacks-US-radar-fuel-tanks-in-Jordan",
+      "published_date": "2026-07-16T06:43:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC hits US radar, troops gathering site in Kuwait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246252/IRGC-hits-US-radar-troops-gathering-site-in-Kuwait",
+      "published_date": "2026-07-16T06:35:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC shoots down US MQ‑9 drone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210674/IRGC-shoots-down-US-MQ-9-drone",
+      "published_date": "2026-07-16T06:30:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "US strikes target Semnan airport",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246251/US-strikes-target-Semnan-airport",
+      "published_date": "2026-07-16T06:28:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "American MQ-9 drone downed over Iran's Andimeshk",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246250/US-MQ-9-drone-over-Iran-s-Andimeshk",
+      "published_date": "2026-07-16T06:22:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "US airstrikes lead to evacuation of hospital in Ahvaz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86210637/US-airstrikes-lead-to-evacuation-of-hospital-in-Ahvaz",
+      "published_date": "2026-07-16T05:59:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns next phase of operations still to come",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246248/Iran-warns-next-phase-of-operations-still-to-come",
+      "published_date": "2026-07-16T05:38:55Z",
+      "category": "Military"
     },
     {
       "title": "IRGC shoots down US Lucas drone over Bandar Abbas",
@@ -162,125 +281,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528223/Iran-slams-Israeli-war-crimes-in-Gaza-and-West-Bank",
       "published_date": "2026-07-15T17:18:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran condemns UK designation of IRGC",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528225/Iran-condemns-UK-designation-of-IRGC",
-      "published_date": "2026-07-15T17:15:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran blasts intensfied Israeli aggression against Palestine",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246242/Iran-blasts-intesfied-Israeli-agggression-against-Palestine",
-      "published_date": "2026-07-15T17:13:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "President Pezeshkian: National unity greatest asset to foil enemy designs",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528219/President-Pezeshkian-National-unity-greatest-asset-to-foil-enemy",
-      "published_date": "2026-07-15T17:03:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Missiles fired in Hormuz, ballots shaken in America",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528222/Missiles-fired-in-Hormuz-ballots-shaken-in-America",
-      "published_date": "2026-07-15T17:00:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran will respond to any breach of commitments by US: Foreign Ministry spokesperson",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210431/Iran-will-respond-to-any-breach-of-commitments-by-US-Foreign",
-      "published_date": "2026-07-15T16:42:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Deers on Kharg island escape blasts to streets",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246239/VIDEO-Deers-on-Kharg-island-escape-blasts-to-streets",
-      "published_date": "2026-07-15T15:18:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Attack on Dena destroyer exposes enemy fear of Iran’s naval power: Senior commander",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210301/Attack-on-Dena-destroyer-exposes-enemy-fear-of-Iran-s-naval-power",
-      "published_date": "2026-07-15T14:35:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Seven killed, 13 injured in US missile attack against Iranian Army base",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210302/Seven-killed-13-injured-in-US-missile-attack-against-Iranian",
-      "published_date": "2026-07-15T14:06:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minister calls municipalities key partners in tourism development, historical district restoration",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528206/Minister-calls-municipalities-key-partners-in-tourism-development",
-      "published_date": "2026-07-15T12:56:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Kazakhstan sees Iran’s Golestan as potential tourism destination",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528208/Kazakhstan-sees-Iran-s-Golestan-as-potential-tourism-destination",
-      "published_date": "2026-07-15T12:55:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "War, memory and the race to save a civilization",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528204/War-memory-and-the-race-to-save-a-civilization",
-      "published_date": "2026-07-15T12:24:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Israel’s aggression against Gaza rises to 73,246",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210177/Death-toll-from-Israel-s-aggression-against-Gaza-rises-to-73-246",
-      "published_date": "2026-07-15T12:12:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran, Jakarta hold webinar to bolster scientific-research ties",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528199/Tehran-Jakarta-hold-webinar-to-bolster-scientific-research-ties",
-      "published_date": "2026-07-15T11:56:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran, Baghdad agree to strengthen communications infrastructure for improving Arbaeen services",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210132/Tehran-Baghdad-agree-to-strengthen-communications-infrastructure",
-      "published_date": "2026-07-15T11:43:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran army blasts UK parliament blacklisting of IRGC",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246233/Iran-army-blasts-UK-parliament-blacklisting-of-IRGC",
-      "published_date": "2026-07-15T11:34:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Gov’t spokesperson: US attacks on Iran violate fundamental humanitarian values",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210087/Gov-t-spokesperson-US-attacks-on-Iran-violate-fundamental-humanitarian",
-      "published_date": "2026-07-15T11:08:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Why is US limiting its attacks to south of Iran?",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246231/Why-US-is-limiting-its-attacks-to-south-of-Iran",
-      "published_date": "2026-07-15T10:52:30Z",
       "category": "Military"
     },
     {
@@ -508,6 +508,48 @@
       "category": "Economy"
     },
     {
+      "title": "Iran volleyball team secures world championship spot",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210931/Iran-volleyball-team-secures-world-championship-spot",
+      "published_date": "2026-07-16T11:06:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uzbekistan welcomes the expansion of health and medical ties with Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210861/Uzbekistan-welcomes-the-expansion-of-health-and-medical-ties",
+      "published_date": "2026-07-16T10:00:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Vafaei among top 4 players in 2026 Snooker Championship League",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210879/Iran-s-Vafaei-among-top-4-players-in-2026-Snooker-Championship",
+      "published_date": "2026-07-16T09:58:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fire erupts at Imam Reza shrine in Mashhad",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246260/Fire-erupts-at-Imam-Reza-shrine-in-Mashhad",
+      "published_date": "2026-07-16T09:12:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US strikes pound S Iran, kids cancer hospital evacuated",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246249/US-strikes-pound-S-Iran-kids-cancer-hospital-evacuated",
+      "published_date": "2026-07-16T06:15:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What would the Persian Gulf look like without America?",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86210518/What-would-the-Persian-Gulf-look-like-without-America",
+      "published_date": "2026-07-16T02:34:30Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ghalibaf reiterates constant readiness of Iranian Armed Forces to defend homeland",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86210551/Ghalibaf-reiterates-constant-readiness-of-Iranian-Armed-Forces",
@@ -603,48 +645,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86210377/Bahrain-s-top-cleric-warns-Shia-community-faces-existential",
       "published_date": "2026-07-15T16:30:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosions reported in Kuwait, Iraqi Kurdistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246241/Esplosions-reported-in-Kuwait-Iraqi-Kurdistan",
-      "published_date": "2026-07-15T16:20:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran prosecutors back country’s right to control Strait of Hormuz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210364/Iran-prosecutors-back-country-s-right-to-control-Strait-of-Hormuz",
-      "published_date": "2026-07-15T16:14:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scientific, technological cooperation key to Iran-Iraq strategic ties: Minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86210344/Scientific-technological-cooperation-key-to-Iran-Iraq-strategic",
-      "published_date": "2026-07-15T16:12:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US projectiles hit Hengam island in Persian Gulf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246240/US-projectile-hits-Hengam-island-in-Persian-Gulf",
-      "published_date": "2026-07-15T16:12:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Karbala people commemorating martyred Leader in Terhan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/246238/Karbala-people-commemorating-martyred-Leader-in-Terhan",
-      "published_date": "2026-07-15T15:07:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bloodthirsty Netanyahu scrambling to save political career",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528212/Bloodthirsty-Netanyahu-scrambling-to-save-political-career",
-      "published_date": "2026-07-15T14:25:24Z",
       "category": "Local Events"
     }
   ]
