@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-19T12:03:53Z",
-  "total_stories": 93,
+  "generated_at": "2026-07-19T23:46:16Z",
+  "total_stories": 92,
   "stories": [
+    {
+      "title": "Iran strikes on US bases transformed reg. security structure",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246350/Iran-strikes-on-US-bases-transformed-reg-security-structure",
+      "published_date": "2026-07-19T18:19:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Resistance economy, people’s livelihood according to Martyr Leader",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528332/Resistance-economy-people-s-livelihood-according-to-Martyr-Leader",
+      "published_date": "2026-07-19T14:00:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian calls for global-standard multilateral systems in Iran’s oil sector",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213495/Pezeshkian-calls-for-global-standard-multilateral-systems-in",
+      "published_date": "2026-07-19T13:44:07Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Former Barcelona talent Halilović near Persepolis switch",
       "source": "Tehran Times",
@@ -123,25 +144,130 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Why do Lebanese authorities insist on the path of surrender?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528261/Why-do-Lebanese-authorities-insist-on-the-path-of-surrender",
-      "published_date": "2026-07-17T15:05:32Z",
-      "category": "Diplomacy"
+      "title": "US soldier killed in Iraq; remains found of another missing in Jordan: CENTCOM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213708/US-soldier-killed-in-Iraq-remains-found-of-another-missing-in",
+      "published_date": "2026-07-19T19:38:24Z",
+      "category": "Military"
     },
     {
-      "title": "Israel’s influence in US will soon be exposed: Iran FM",
+      "title": "Iran’s air defense shoots down US MQ-9 drone, cruise missile",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213685/Iran-s-air-defense-shoots-down-US-MQ-9-drone-cruise-missile",
+      "published_date": "2026-07-19T18:37:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Leader insists on continuation of proud path of resistance",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246280/Israel-s-influence-in-US-will-soon-be-exposed-IranFM",
-      "published_date": "2026-07-17T14:30:56Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246351/Leader-insists-on-continuaiton-of-proud-path-of-resistance",
+      "published_date": "2026-07-19T18:26:31Z",
+      "category": "Military"
     },
     {
-      "title": "Tehran, Dushanbe emphasize development of railway cooperation",
+      "title": "No US base in West Asia is beyond Iran's reach",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528260/Tehran-Dushanbe-emphasize-development-of-railway-cooperation",
-      "published_date": "2026-07-17T14:07:57Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/528339/No-U-S-base-in-West-Asia-is-beyond-Iran-s-reach",
+      "published_date": "2026-07-19T17:34:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "US will fail to overturn Iran’s strategic victory in Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246349/US-will-fail-to-overturn-Iran-s-strategic-victory-in-Hormuz",
+      "published_date": "2026-07-19T17:21:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Quds Force chief vows to continue ‘honorable path of resistance’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213655/Quds-Force-chief-vows-to-continue-honorable-path-of-resistance",
+      "published_date": "2026-07-19T17:21:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mamdani exploring whether he can arrest 'war criminal' Netanyahu if he visits New York",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528343/Mamdani-exploring-whether-he-can-arrest-war-criminal-Netanyahu",
+      "published_date": "2026-07-19T16:47:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Miscalculation behind attacks on Iran’s infrastructure",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528318/Miscalculation-behind-attacks-on-Iran-s-infrastructure",
+      "published_date": "2026-07-19T16:44:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Geography’s veto",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528333/Geography-s-veto",
+      "published_date": "2026-07-19T16:43:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Former US counterterrorism chief says Iran emerged stronger after war, urges policy shift",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528334/Former-US-counterterrorism-chief-says-Iran-emerged-stronger-after",
+      "published_date": "2026-07-19T16:42:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rights body urges UN action after US strike of children hospital",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528340/Iran-rights-body-urges-UN-action-after-US-strike-of-children",
+      "published_date": "2026-07-19T16:34:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "IAEA shies away from condemning illegal US strike on Darkhovin nuclear plant",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213588/IAEA-shies-away-from-condemning-illegal-US-strike-on-Darkhovin",
+      "published_date": "2026-07-19T16:25:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "US kamikaza drone downed in Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246347/US-kamikaza-drone-downed-in-Iran",
+      "published_date": "2026-07-19T16:09:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "50 martyred, 517 injured in US bombings: Iranian official",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246346/50-martyred-517-injured-in-US-bombings-Iranian-official",
+      "published_date": "2026-07-19T16:01:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Bridges or lives? Trump's calculated war on Iran's everyday people",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528293/Bridges-or-lives-Trump-s-calculated-war-on-Iran-s-everyday-people",
+      "published_date": "2026-07-19T13:40:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Maritime traffic banned for all ships in Hormuz: IRGC source",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246344/Maritime-traffic-banned-for-all-ships-in-Hormuz-IRGC-source",
+      "published_date": "2026-07-19T13:33:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel launches fresh attack on areas in southern Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246343/Israel-launches-fresh-attack-on-areas-in-southern-Lebanon",
+      "published_date": "2026-07-19T12:28:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "US attacks under-construction nuclear power plant in SW Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246341/US-attacks-under-construction-nuclear-power-plant-in-SW-Iran",
+      "published_date": "2026-07-19T12:02:55Z",
+      "category": "Military"
     },
     {
       "title": "2 vessels suffer accidents after attempting to leave Hormuz",
@@ -158,130 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "IRGC Navy: Two ships suffer ‘accidents’ after attempting unsafe Hormuz route",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86213381/IRGC-Navy-Two-ships-suffer-accidents-after-attempting-unsafe",
-      "published_date": "2026-07-19T11:04:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC destroys MQ-9 drone in Iran’s Ahvaz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86213224/IRGC-destroys-MQ-9-drone-in-Iran-s-Ahvaz",
-      "published_date": "2026-07-19T09:11:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "US forces warned not to waste a single second before fleeing",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246338/US-forces-warned-not-to-waste-a-single-second-before-fleeing",
-      "published_date": "2026-07-19T08:31:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns US of devastating response",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86212912/Iran-warns-US-of-devastating-response",
-      "published_date": "2026-07-19T08:04:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Army conducts new drone strikes on US bases in Kuwait",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86213111/Iranian-Army-conducts-new-drone-strikes-on-US-bases-in-Kuwait",
-      "published_date": "2026-07-19T07:46:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Aerospace Force downs US-made MQ-9 drone over Ahvaz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246335/IRGC-Aerospace-Force-downs-US-made-MQ-9-drone-over-Ahvaz",
-      "published_date": "2026-07-19T07:44:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "US aggression against Iran ‘gross violation of UN Charter’",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246334/US-aggression-against-Iran-gross-violation-of-UN-Charter",
-      "published_date": "2026-07-19T07:24:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Damaged tunnel on Bandar Abbas-Sirjan Road reopened",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246331/VIDEO-Damaged-tunnel-on-Bandar-Abbas-Sirjan-Road-reopened",
-      "published_date": "2026-07-19T06:47:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army launches fresh attack on US targets in Kuwait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246330/Iran-Army-launches-fresh-attack-on-US-targets-in-Kuwait",
-      "published_date": "2026-07-19T06:01:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Army targets two major US bases in Kuwait with one-way attack drones",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86212934/Iran-s-Army-targets-two-major-US-bases-in-Kuwait-with-one-way",
-      "published_date": "2026-07-19T05:53:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army attacks US logistics hub, airbase in Kuwait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246328/Iran-Army-attacks-US-logistics-hub-airbase-in-Kuwait",
-      "published_date": "2026-07-19T04:47:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Former Trump allies slam ‘senseless war’ on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246327/Former-Trump-allies-slam-senseless-war-on-Iran",
-      "published_date": "2026-07-19T04:32:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian general vows devastating response to US savagery",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246323/Iranian-general-vows-devastating-response-to-US-savagery",
-      "published_date": "2026-07-19T03:53:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "CENTCOM confirms casualties in Iran attack in Jordan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246320/CENTCOM-confirms-casualties-in-Iran-attack-in-Jordan",
-      "published_date": "2026-07-18T18:37:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Strategic message to the US and its allies",
+      "title": "AEOI condemns US ‘terrorist attack’ on under-construction nuclear power plant",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528283/Strategic-message-to-the-US-and-its-allies",
-      "published_date": "2026-07-18T18:12:47Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/528346/AEOI-condemns-US-terrorist-attack-on-under-construction-nuclear",
+      "published_date": "2026-07-19T17:55:54Z",
+      "category": "Energy"
     },
     {
-      "title": "Government spokesperson visits Ahvaz hospital after US strike",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528285/Government-spokesperson-visits-Ahvaz-hospital-after-US-strike",
-      "published_date": "2026-07-18T18:11:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Leader’s military advisor: Iran will shift to full-scale war if US strikes continue",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528291/Leader-s-military-advisor-Iran-will-shift-to-full-scale-war",
-      "published_date": "2026-07-18T18:05:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian calls for strengthening Iran's legal deterrence on global stage",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528284/Pezeshkian-calls-for-strengthening-Iran-s-legal-deterrence-on",
-      "published_date": "2026-07-18T18:04:56Z",
-      "category": "Military"
+      "title": "AEOI condemns US ‘terrorist attack’ on under-construction nuclear power plant",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213437/AEOI-condemns-US-terrorist-attack-on-under-construction-nuclear",
+      "published_date": "2026-07-19T12:22:44Z",
+      "category": "Energy"
     },
     {
       "title": "Roberto Piazza: we need to learn how to finish sets",
@@ -354,25 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "AEOI rejects rumors of attacks on Bushehr nuclear plant",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246141/AEOI-rejects-rumors-of-attacks-on-Bushehr-nuclear-plant",
-      "published_date": "2026-07-12T21:26:15Z",
-      "category": "Energy"
-    },
-    {
-      "title": "AEOI rejects rumors of attacks on Bushehr nuclear plant",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86207515/AEOI-rejects-rumors-of-attacks-on-Bushehr-nuclear-plant",
-      "published_date": "2026-07-12T19:16:59Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran tightens control over Strait of Hormuz, suspending maritime traffic",
+      "title": "America’s financial stranglehold on Iraq",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528109/Iran-tightens-control-over-Strait-of-Hormuz-suspending-maritime",
-      "published_date": "2026-07-12T17:41:59Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/528341/America-s-financial-stranglehold-on-Iraq",
+      "published_date": "2026-07-19T16:40:11Z",
+      "category": "Economy"
+    },
+    {
+      "title": "ICCIMA compiles “War Damage Management Package”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528331/ICCIMA-compiles-War-Damage-Management-Package",
+      "published_date": "2026-07-19T13:44:38Z",
+      "category": "Economy"
     },
     {
       "title": "‘TPO puts emphasis on development of regional trade, export’",
@@ -501,157 +508,143 @@
       "category": "Economy"
     },
     {
-      "title": "Martyr Leader’s economic thoughts in housing sector",
+      "title": "15377",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528124/Martyr-Leader-s-economic-thoughts-in-housing-sector",
-      "published_date": "2026-07-13T12:08:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Banking system evaluation based on international indicators",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528118/Banking-system-evaluation-based-on-international-indicators",
-      "published_date": "2026-07-13T12:00:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Washington must accept Iran as key regional power",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246340/Washington-must-accept-Iran-as-key-regional-power",
-      "published_date": "2026-07-19T11:51:44Z",
+      "url": "https://www.tehrantimes.com/photo/528345/15377",
+      "published_date": "2026-07-19T20:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sohrab Sepehri’s painting breaks all-time sales record of Tehran Auction",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528308/Sohrab-Sepehri-s-painting-breaks-all-time-sales-record-of-Tehran",
-      "published_date": "2026-07-19T11:49:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Culture Minister proposes cataloging of manuscript collections in Iran, Kyrgyzstan",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528309/Culture-Minister-proposes-cataloging-of-manuscript-collections",
-      "published_date": "2026-07-19T11:48:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SDS hotspots in Iraq, Syria affecting Iran to be controlled",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528319/SDS-hotspots-in-Iraq-Syria-affecting-Iran-to-be-controlled",
-      "published_date": "2026-07-19T11:33:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US president’s signature 'worthless and invalid'",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528313/US-president-s-signature-worthless-and-invalid",
-      "published_date": "2026-07-19T11:24:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader’s call for “sacred unity” key to victory: Iran’s Parliament Speaker",
+      "title": "Government spokesperson says Iranian resistance will defeat Trump, Netanyahu",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86213385/Leader-s-call-for-sacred-unity-key-to-victory-Iran-s-Parliament",
-      "published_date": "2026-07-19T11:07:21Z",
+      "url": "https://en.irna.ir/news/86213729/Government-spokesperson-says-Iranian-resistance-will-defeat-Trump",
+      "published_date": "2026-07-19T20:30:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Iranian academic: American Islamic scholar Esposito left lasting legacy in Islamic studies",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86213374/Iranian-academic-American-Islamic-scholar-Esposito-left-lasting",
-      "published_date": "2026-07-19T10:45:06Z",
+      "title": "Bandar Abbas during sweltering summer",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/246348/Bandar-Abbas-during-sweltering-summer",
+      "published_date": "2026-07-19T17:03:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran’s swift response to US aggression has trapped Washington: Arab analyst",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86213205/Iran-s-swift-response-to-US-aggression-has-trapped-Washington",
-      "published_date": "2026-07-19T09:01:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian trio into AVC Boys’ U18 Volleyball Championship 2026 Dream Team",
+      "title": "All inhumane practices aim to depopulate Gaza of Palestinians",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528312/Iranian-trio-into-AVC-Boys-U18-Volleyball-Championship-2026",
-      "published_date": "2026-07-19T08:40:19Z",
+      "url": "https://www.tehrantimes.com/news/528344/All-inhumane-practices-aim-to-depopulate-Gaza-of-Palestinians",
+      "published_date": "2026-07-19T16:58:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran edge past Qatar at 2026 Asian Junior Handball Championship",
+      "title": "Qalibaf: Unity key to defeating the ‘enemy’",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528311/Iran-edge-past-Qatar-at-2026-Asian-Junior-Handball-Championship",
-      "published_date": "2026-07-19T08:29:14Z",
+      "url": "https://www.tehrantimes.com/news/528320/Qalibaf-Unity-key-to-defeating-the-enemy",
+      "published_date": "2026-07-19T16:42:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Iranian robotics teams excel at RoboCup 2026 in South Korea",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246337/Iranian-robotics-teams-excel-at-RoboCup-2026-in-South-Korea",
-      "published_date": "2026-07-19T08:23:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A small plane crashes in central Brazil, 2 killed",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246336/A-small-plane-crashes-in-central-Brazil-2-killed",
-      "published_date": "2026-07-19T07:58:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian urges stronger legal deterrence in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246333/President-Pezeshkian-urges-stronger-legal-deterrence-in-Iran",
-      "published_date": "2026-07-19T07:11:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NY looking into Netanyahu arrest during visit: mayor",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246332/NY-looking-into-Netanyahu-arrest-during-visit-mayor",
-      "published_date": "2026-07-19T07:07:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanese Christian writer says his love for Iran is rooted in faith and resistance to oppression",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86212931/Lebanese-Christian-writer-says-his-love-for-Iran-is-rooted-in",
-      "published_date": "2026-07-19T05:50:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader hails Iraqis for attending Ayt. Khamenei funeral rites",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246329/Leader-hails-Iraqis-for-attending-Ayt-Khamenei-funeral-rites",
-      "published_date": "2026-07-19T05:49:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli forces killed at least 11 people in Gaza on Saturday",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246326/Israeli-forces-killed-at-least-11-people-in-Gaza-on-Saturday",
-      "published_date": "2026-07-19T04:24:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US actions reminiscent of terrorist groups' behavior",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246325/US-actions-reminiscent-of-terrorist-groups-behavior",
-      "published_date": "2026-07-19T04:14:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baqaei: US actions are reminiscent of terrorist groups' behavior",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86212812/Baqaei-US-actions-are-reminiscent-of-terrorist-groups-behavior",
-      "published_date": "2026-07-18T23:15:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15376",
+      "title": "Hojjatoleslam Qomi: Vengeance for martyred Leader is universal duty",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/528307/15376",
-      "published_date": "2026-07-18T20:31:00Z",
+      "url": "https://www.tehrantimes.com/news/528321/Hojjatoleslam-Qomi-Vengeance-for-martyred-Leader-is-universal",
+      "published_date": "2026-07-19T16:41:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asghar Farhadi to be honored at 32nd Sarajevo Film Festival",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528322/Asghar-Farhadi-to-be-honored-at-32nd-Sarajevo-Film-Festival",
+      "published_date": "2026-07-19T16:40:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Resistance Film Festival calls for documentaries on Leader’s funeral",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528323/Resistance-Film-Festival-calls-for-documentaries-on-Leader-s",
+      "published_date": "2026-07-19T16:40:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian miniature works on display in Moscow",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528325/Iranian-miniature-works-on-display-in-Moscow",
+      "published_date": "2026-07-19T16:39:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader thanks Iraqis for 'historic epic'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528342/Leader-thanks-Iraqis-for-historic-epic",
+      "published_date": "2026-07-19T16:38:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran vows full reconstruction of Hormozgan infrastructure after US strikes",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213563/Iran-vows-full-reconstruction-of-Hormozgan-infrastructure-after",
+      "published_date": "2026-07-19T15:39:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ancient Alamut fortifications complete Iran’s architectural and defensive history, expert says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528338/Ancient-Alamut-fortifications-complete-Iran-s-architectural-and",
+      "published_date": "2026-07-19T15:29:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prominent Iranian archaeologist Ismail Yaghmaei passes away at 84",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528337/Prominent-Iranian-archaeologist-Ismail-Yaghmaei-passes-away-at",
+      "published_date": "2026-07-19T15:18:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain vs Argentina 2026 World Cup final: Team news, predicted lineup",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86213570/Spain-vs-Argentina-2026-World-Cup-final-Team-news-predicted",
+      "published_date": "2026-07-19T15:13:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ancient Iranian goldsmithing in spotlight as 3,000-year-old earrings worn by actress spark heritage",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528336/Ancient-Iranian-goldsmithing-in-spotlight-as-3-000-year-old-earrings",
+      "published_date": "2026-07-19T15:03:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persepolis defender Milad Mohammadi joins Maxline Vitebsk",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528335/Persepolis-defender-Milad-Mohammadi-joins-Belarusian-Club",
+      "published_date": "2026-07-19T14:30:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf says unity around Leader key to victory vs enemies",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246345/Ghalibaf-says-unity-around-Leader-key-to-victory-vs-enemies",
+      "published_date": "2026-07-19T14:30:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Morteza Dehghan appointed as CEO of IAC",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528330/Morteza-Dehghan-appointed-as-CEO-of-IAC",
+      "published_date": "2026-07-19T13:46:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran end 2026 VNL on a disappointing note",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528324/Iran-end-2026-VNL-on-a-disappointing-note",
+      "published_date": "2026-07-19T13:17:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran shines at intl. biology, chemistry Olympiads",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528329/Iran-shines-at-intl-biology-chemistry-Olympiads",
+      "published_date": "2026-07-19T12:35:46Z",
       "category": "Local Events"
     }
   ]
