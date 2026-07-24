@@ -1,8 +1,120 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-24T12:25:09Z",
+  "generated_at": "2026-07-24T23:55:05Z",
   "total_stories": 91,
   "stories": [
+    {
+      "title": "Top Chinese diplomat tells Iranian counterpart Beijing supports Iran in safeguarding 'sovereignty'",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218323/Top-Chinese-diplomat-tells-Iranian-counterpart-Beijing-supports",
+      "published_date": "2026-07-24T20:32:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran seeks reset with EU, expanding partnerships across Asia",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528506/Iran-seeks-reset-with-EU-expanding-partnerships-across-Asia",
+      "published_date": "2026-07-24T17:48:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi's mission to Kyrgyzstan puts Iran's regional strategy in focus",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528503/Araghchi-s-mission-to-Kyrgyzstan-puts-Iran-s-regional-strategy",
+      "published_date": "2026-07-24T17:48:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Iraq deepen strategic partnership",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528505/Iran-Iraq-deepen-strategic-partnership",
+      "published_date": "2026-07-24T17:47:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran defends legitimate right to self-defense, urges UNSC to halt US aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528475/Iran-defends-legitimate-right-to-self-defense-urges-UNSC-to",
+      "published_date": "2026-07-24T17:37:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Omani delegation visits Tehran for Strait of Hormuz navigation talks",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528504/IRNA-Omani-delegation-visits-Tehran-for-Strait-of-Hormuz-navigation",
+      "published_date": "2026-07-24T17:27:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What’s in Tehran art galleries",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528484/What-s-in-Tehran-art-galleries",
+      "published_date": "2026-07-24T17:26:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, Omani FMs discuss maritime security, regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218254/Iranian-Omani-FMs-discuss-maritime-security-regional-developments",
+      "published_date": "2026-07-24T16:58:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Egypt FMs discuss latest regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218249/Iran-Egypt-FMs-discuss-latest-regional-developments",
+      "published_date": "2026-07-24T16:33:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Egypt FMs discuss ties, regional developments in phone",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246496/Iran-Egypt-FMs-discuss-ties-regional-developments-in-call",
+      "published_date": "2026-07-24T15:52:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exclusive | Omani diplomatic delegation in Tehran to discuss Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218219/Exclusive-Omani-diplomatic-delegation-in-Tehran-to-discuss",
+      "published_date": "2026-07-24T15:06:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM meets Chinese, Kyrgyz, Uzbek counterparts on sidelines of SCO conference",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218195/Iran-FM-meets-Chinese-Kyrgyz-Uzbek-counterparts-on-sidelines",
+      "published_date": "2026-07-24T14:48:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran, Baghdad deepen ties with 4 new agreements amid push for regional security",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528489/Tehran-Baghdad-deepen-ties-with-4-new-agreements-amid-push-for",
+      "published_date": "2026-07-24T14:14:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SCO member states denounce US aggression against Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246492/SCO-member-states-denounce-US-aggression-against-Iran",
+      "published_date": "2026-07-24T13:53:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi speaks with counterparts on sidelines of SCO meeting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246491/Araghchi-speaks-with-counterparts-on-sidelines-of-SCO-meeting",
+      "published_date": "2026-07-24T13:43:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM meets Russian counterpart on sidelines of SCO conference",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218096/Iran-FM-meets-Russian-counterpart-on-sidelines-of-SCO-conference",
+      "published_date": "2026-07-24T12:30:30Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "SCO FMs sign 25 cooperation documents in Kyrgyzstan meeting",
       "source": "IRNA",
@@ -32,116 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Foreign Minister Araghchi meets Belarusian counterpart in Kyrgyzstan",
+      "title": "Top commander: New equation is one US trooper will die for every Iranian civilian martyred",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217967/Foreign-Minister-Araghchi-meets-Belarusian-counterpart-in-Kyrgyzstan",
-      "published_date": "2026-07-24T09:19:53Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86218315/Top-commander-New-equation-is-one-US-trooper-will-die-for-every",
+      "published_date": "2026-07-24T20:16:09Z",
+      "category": "Military"
     },
     {
-      "title": "Iran warns US on plan to pay shipping claims with its assets",
+      "title": "Iran urges regional Arab states to publicly reject US claims of co-sponsoring military aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528474/Iran-urges-regional-Arab-states-to-publicly-reject-US-claims",
+      "published_date": "2026-07-24T17:40:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "Reaping the whirlwind: $100 oil and ruined US bases shatter Trump’s Iran strategy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528498/Reaping-the-whirlwind-100-oil-and-ruined-US-bases-shatter-Trump-s",
+      "published_date": "2026-07-24T17:37:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Neither victory nor peace: The futility of America’s imperial wars",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528501/Neither-victory-nor-peace-The-futility-of-America-s-imperial",
+      "published_date": "2026-07-24T15:50:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "China's PLA at 99: A pillar of global peace and true multilateralism",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528499/China-s-PLA-at-99-A-pillar-of-global-peace-and-true-multilateralism",
+      "published_date": "2026-07-24T15:41:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC conducts fresh attacks on US bases in Kuwait, Bahrain",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246486/Iran-warns-US-on-plan-to-pay-shipping-claims-with-its-assets",
-      "published_date": "2026-07-24T08:52:30Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246494/IRGC-conducts-fresh-attacks-on-US-bases-in-Kuwait-Bahrain",
+      "published_date": "2026-07-24T15:29:24Z",
+      "category": "Military"
     },
     {
-      "title": "SCO ministers ink 25 coop. documents in Kyrgyzstan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246483/SCO-ministers-ink-25-coop-documents-in-Kyrgyzstan",
-      "published_date": "2026-07-24T07:58:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns against global silence and ambivalent stances on illegal US–Israeli aggression",
+      "title": "Iran urges BRICS to condemn aggression against nations, civilians",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217888/Iran-warns-against-global-silence-and-ambivalent-stances-on-illegal",
-      "published_date": "2026-07-24T07:21:02Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86218229/Iran-urges-BRICS-to-condemn-aggression-against-nations-civilians",
+      "published_date": "2026-07-24T15:28:42Z",
+      "category": "Military"
     },
     {
-      "title": "Iran reserves rights to retaliate against any aggressive acts",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246478/Iran-reserves-rights-to-retaliate-against-any-acts-of-aggress",
-      "published_date": "2026-07-24T06:44:14Z",
-      "category": "Diplomacy"
+      "title": "House passes $1.15tn defense bill embedding Israel’s war machine inside America",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528497/Autosaved-News-by-on-20260724-18-34",
+      "published_date": "2026-07-24T15:07:43Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi warns US against confiscation of Iranian assets",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246476/Araghchi-warns-US-against-confiscation-of-Iranian-assets",
-      "published_date": "2026-07-24T06:20:21Z",
-      "category": "Diplomacy"
+      "title": "Four Palestinians killed in occupied West Bank",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528495/Four-Palestinians-killed-in-occupied-West-Bank",
+      "published_date": "2026-07-24T14:56:53Z",
+      "category": "Military"
     },
     {
-      "title": "Iran attaches great importance to SCO, similar arrangements",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246475/Iran-attaches-great-importance-to-SCO-similar-arrangements",
-      "published_date": "2026-07-24T06:09:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran FM blasts US asset seizure threat, warns Trump of ‘incendiary precedent’",
+      "title": "Iran destroys US military residences, fighter jets in Jordan, Erbil",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217818/Iran-FM-blasts-US-asset-seizure-threat-warns-Trump-of-incendiary",
-      "published_date": "2026-07-24T06:06:52Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86218194/Iran-destroys-US-military-residences-fighter-jets-in-Jordan",
+      "published_date": "2026-07-24T14:51:39Z",
+      "category": "Military"
     },
     {
-      "title": "Iran determined to defend natl. sovereignty against US attack",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246474/Iran-determined-to-defend-natl-sovereignty-against-US-attack",
-      "published_date": "2026-07-24T05:58:14Z",
-      "category": "Diplomacy"
+      "title": "Saudi Arabia confirms Yemeni attack on two oil tankers",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528494/Saudi-Arabia-confirms-Yemeni-attack-on-two-oil-tankers",
+      "published_date": "2026-07-24T14:50:17Z",
+      "category": "Military"
     },
     {
-      "title": "Compromised individuals in US burying their heads in sands",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246473/Compromised-individuals-in-US-burying-their-heads-in-sands",
-      "published_date": "2026-07-24T05:47:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says determined to defend its sovereignty, territorial integrity and national interests",
+      "title": "IRGC warns regional people to distance themselves from US military hideouts",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217804/Iran-says-determined-to-defend-its-sovereignty-territorial-integrity",
-      "published_date": "2026-07-24T05:34:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi arrives in Kyrgyzstan for SCO ministerial meeting",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246472/Araghchi-arrives-in-Kyrgyzstan-for-SCO-ministerial-meeting",
-      "published_date": "2026-07-24T05:33:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi arrives in Kyrgyzstan to attend SCO meeting",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217785/Araghchi-arrives-in-Kyrgyzstan-to-attend-SCO-meeting",
-      "published_date": "2026-07-24T02:50:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi warns compromised US officials against mindless aggression",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217779/Araghchi-warns-compromised-US-officials-against-mindless-aggression",
-      "published_date": "2026-07-24T02:37:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UK lawmakers demand new PM take action against Gaza genocide",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246470/UK-lawmakers-demand-new-PM-take-action-against-Gaza-genocide",
-      "published_date": "2026-07-23T17:36:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran responds powerfully to US irrational approach",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246466/Iran-responds-powerfully-to-US-irrational-approach",
-      "published_date": "2026-07-23T17:00:28Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86218164/IRGC-warns-regional-people-to-distance-themselves-from-US-military",
+      "published_date": "2026-07-24T13:46:05Z",
+      "category": "Military"
     },
     {
       "title": "Iran hits US military locations in Kuwait, Bahrain in new phase of operations",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran’s Army strikes US bases in Bahrain, Jordan with drones",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246480/Iran-s-Army-strikes-US-airbases-in-Bahrain-Jordan-with-drone",
-      "published_date": "2026-07-24T07:12:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns PGCC states on possible attacks, calls to clarify US claim of their complicity in war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217864/Iran-warns-PGCC-states-on-possible-attacks-calls-to-clarify",
-      "published_date": "2026-07-24T07:08:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Is Britain America's next victim?",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246439/America-s-adventure-in-the-Persian-Gulf",
-      "published_date": "2026-07-24T05:23:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns US troops to refrain from committing war crimes",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246471/Iran-warns-US-troops-to-refrain-from-committing-war-crimes",
-      "published_date": "2026-07-23T17:46:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli drone strike wounds paramedics in southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246468/Israeli-drone-strike-wounds-paramedics-in-southern-Lebanon",
-      "published_date": "2026-07-23T17:15:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "UN chief warns situation in West Asia getting out of control",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246467/UN-chief-warns-situation-in-West-Asia-getting-out-of-control",
-      "published_date": "2026-07-23T17:11:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran slams UK for hosting US warplanes, warns of consequences",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246465/Iran-slams-UK-for-hosting-US-warplanes-warns-of-consequences",
-      "published_date": "2026-07-23T16:53:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC warns Britain against continued complicity in US-led aggression",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217597/IRGC-warns-Britain-against-continued-complicity-in-US-led-aggression",
-      "published_date": "2026-07-23T16:24:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC destroys US electronic warfare unit in Kuwait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246464/IRGC-destroys-US-electronic-warfare-unit-in-Kuwait",
-      "published_date": "2026-07-23T16:15:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC targets US base in retaliation for strike on Arbaeen pilgrims’ route",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217554/IRGC-targets-US-base-in-retaliation-for-strike-on-Arbaeen-pilgrims",
-      "published_date": "2026-07-23T15:16:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran criticizes US congressional hearing for ignoring human cost of war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217470/Iran-criticizes-US-congressional-hearing-for-ignoring-human-cost",
-      "published_date": "2026-07-23T13:51:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Former Iranian foreign minister to Americans: Save your children from Trump’s quagmire",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217508/Former-Iranian-foreign-minister-to-Americans-Save-your-children",
-      "published_date": "2026-07-23T13:31:42Z",
-      "category": "Military"
+      "title": "Iran's first geothermal power plant connected to national electricity grid",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528490/Iran-s-first-geothermal-power-plant-connected-to-national-electricity",
+      "published_date": "2026-07-24T14:18:03Z",
+      "category": "Energy"
     },
     {
       "title": "Ghalibaf: US punished itself with triple-digit oil prices",
@@ -354,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "2026 Asian Junior Handball Championship: Iran, UAE share the spoils",
+      "title": "Financing system, investment, digital infrastructure exhibit to develop intl. interactions",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528255/2026-Asian-Junior-Handball-Championship-Iran-UAE-share-the",
-      "published_date": "2026-07-17T13:32:47Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/528493/Financing-system-investment-digital-infrastructure-exhibit",
+      "published_date": "2026-07-24T14:25:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Is Trump's reckless aggression against Iran pushing global economy toward a catastrophic collapse?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528488/Is-Trump-s-reckless-aggression-against-Iran-pushing-global-economy",
+      "published_date": "2026-07-24T14:08:40Z",
+      "category": "Economy"
     },
     {
       "title": "How industrial giant evolve from crisis to tech. sovereignty",
@@ -487,18 +501,95 @@
       "category": "Economy"
     },
     {
-      "title": "ICCIMA compiles “War Damage Management Package”",
+      "title": "15381",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528331/ICCIMA-compiles-War-Damage-Management-Package",
-      "published_date": "2026-07-19T13:44:38Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/528507/15381",
+      "published_date": "2026-07-24T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "‘TPO puts emphasis on development of regional trade, export’",
+      "title": "Ensuring national cohesion boosts the country’s bargaining power globally",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528292/TPO-puts-emphasis-on-development-of-regional-trade-export",
-      "published_date": "2026-07-18T13:49:10Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/528476/Ensuring-national-cohesion-boosts-the-country-s-bargaining-power",
+      "published_date": "2026-07-24T17:42:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ultimate double standard validating Iranian nuclear sovereignty",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528502/The-ultimate-double-standard-validating-Iranian-nuclear-sovereignty",
+      "published_date": "2026-07-24T17:29:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veteran Baluchi musician Shir Mohammad Espandar dies at 98",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528485/Veteran-Baluchi-musician-Shir-Mohammad-Espandar-dies-at-98",
+      "published_date": "2026-07-24T17:25:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Rostamiyan clinches bronze in 10m air pistol at ISSF",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246495/Iran-s-Rostamiyan-clinches-bronze-in-10m-air-pistol-at-ISSF",
+      "published_date": "2026-07-24T15:40:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "80,000 flee raging wildfires in France and Spain",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528500/Autosaved-News-by-on-20260724-18-38",
+      "published_date": "2026-07-24T15:09:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sadiq Khan says if Israeli PM visits London he would lobby govt to enforce ICC arrest warrant",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528496/Sadiq-Khan-says-if-Israeli-PM-visits-London-he-would-lobby-govt",
+      "published_date": "2026-07-24T15:01:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran, Seoul discuss roadmap for cultural, tourism cooperation at UNESCO meeting",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528491/Tehran-Seoul-discuss-roadmap-for-cultural-tourism-cooperation",
+      "published_date": "2026-07-24T14:47:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran says six border crossings ready for Arbaeen pilgrim traffic",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528486/Iran-says-six-border-crossings-ready-for-Arbaeen-pilgrim-traffic",
+      "published_date": "2026-07-24T14:46:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three cool escapes near Tehran for an affordable family day trip",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528492/Three-cool-escapes-near-Tehran-for-an-affordable-family-day-trip",
+      "published_date": "2026-07-24T14:43:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US must give up illusion that Iran will surrender: Judiciary Chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86218188/US-must-give-up-illusion-that-Iran-will-surrender-Judiciary",
+      "published_date": "2026-07-24T14:32:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran urges BRICS to take clear stance against US aggression",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246493/Iran-urges-BRICS-to-take-clear-stance-against-US-aggression",
+      "published_date": "2026-07-24T14:12:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK aids US psyop",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528487/UK-aids-US-psyop",
+      "published_date": "2026-07-24T14:02:47Z",
+      "category": "Local Events"
     },
     {
       "title": "Tehran, Islamabad explore ways to boost scientific cooperation",
@@ -547,97 +638,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246479/Afghanistan-joins-SputnikPro",
       "published_date": "2026-07-24T06:59:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 Israelis wounded near Havat Gilad settlement, SW Nablus",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246477/4-Israelis-wounded-near-Havat-Gilad-settlement-SW-Nablus",
-      "published_date": "2026-07-24T06:32:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Iraq issue joint statement in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217700/Iran-Iraq-issue-joint-statement-in-Tehran",
-      "published_date": "2026-07-23T19:43:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf and Iraqi PM meet in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217671/Ghalibaf-and-Iraqi-PM-meet-in-Tehran",
-      "published_date": "2026-07-23T19:03:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fresh Iranian strikes target US positions in Kuwait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246469/Fresh-Iranian-strikes-target-US-positions-in-Kuwait",
-      "published_date": "2026-07-23T17:20:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian officially welcomes Iraqi PM in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86217546/President-Pezeshkian-officially-welcomes-Iraqi-PM-in-Tehran",
-      "published_date": "2026-07-23T14:19:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Iraq stress strengthening strategic ties, opening new avenues for cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217401/Iran-Iraq-stress-strengthening-strategic-ties-opening-new-avenues",
-      "published_date": "2026-07-23T11:02:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran seeks deeper ties with Dublin, broader Coop. with Europe",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246457/Iran-seeks-deeper-ties-with-Dublin-broader-Coop-with-Europe",
-      "published_date": "2026-07-23T10:46:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian hosts Iraqi PM for talks in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246456/Pezeshkian-hosts-Iraqi-PM-for-talks-in-Tehran",
-      "published_date": "2026-07-23T10:38:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi prime minister arrives in Tehran on official visit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217324/Iraqi-prime-minister-arrives-in-Tehran-on-official-visit",
-      "published_date": "2026-07-23T09:31:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Latest US attacks target several locations across Iran, leaving two dead and 11 injured",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86217280/Latest-US-attacks-target-several-locations-across-Iran-leaving",
-      "published_date": "2026-07-23T08:58:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi PM al-Zaidi due in Iran for talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246452/Iraqi-PM-al-Zaidi-due-in-Iran-for-talks",
-      "published_date": "2026-07-23T08:42:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nothing can sever Iran-Iraq deep-rooted bonds",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246449/Nothing-can-sever-Iran-Iraq-deep-rooted-bonds",
-      "published_date": "2026-07-23T07:52:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IRGC warns US as tanker burns in unsafe Hormuz route",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246447/IRGC-warns-US-as-tanker-burns-in-unsafe-Hormuz-route",
-      "published_date": "2026-07-23T05:42:16Z",
       "category": "Local Events"
     }
   ]
