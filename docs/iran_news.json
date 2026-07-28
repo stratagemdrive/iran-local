@@ -1,10 +1,94 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-28T12:58:56Z",
-  "total_stories": 94,
+  "generated_at": "2026-07-28T23:50:32Z",
+  "total_stories": 92,
   "stories": [
     {
-      "title": "Iran, Japan FMs discuss regional developments by phone",
+      "title": "Araghchi stresses to Ukraine FM need to make up for attack",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86222389/Araghchi-stresses-to-Ukraine-FM-need-to-make-up-for-attack",
+      "published_date": "2026-07-28T21:15:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran never recognizes southern route in Hormuz Strait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246606/Iran-never-recognizes-southern-route-in-Hormuz-Strait",
+      "published_date": "2026-07-28T20:55:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Ukraine foreign ministers hold talks over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86222350/Iran-Ukraine-foreign-ministers-hold-talks-over-phone",
+      "published_date": "2026-07-28T19:33:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mehr Media Group and Pakistan’s RightNow Media sign memorandum of cooperation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528634/Mehr-Media-Group-and-Pakistan-s-RightNow-Media-sign-memorandum",
+      "published_date": "2026-07-28T17:50:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Saudi Arabia, Oman, Japan step up diplomatic coordination to enhance Hormuz Strait security",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528668/Iran-Saudi-Arabia-Oman-Japan-step-up-diplomatic-coordination",
+      "published_date": "2026-07-28T17:24:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi stresses to Ukraine FM need to make up for attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246604/Iran-Ukraine-foreign-ministers-hold-talks-on-phone",
+      "published_date": "2026-07-28T17:17:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran-Pakistan border development: New horizons for trade, regional connectivity",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528661/Iran-Pakistan-border-development-New-horizons-for-trade-regional",
+      "published_date": "2026-07-28T16:34:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Turkmenistan examine development prospect of transport, energy, infrastructure co-op",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528660/Iran-Turkmenistan-examine-development-prospect-of-transport",
+      "published_date": "2026-07-28T16:22:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran calls for active UN role in post-war reconstruction, damage assessment",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86222206/Iran-calls-for-active-UN-role-in-post-war-reconstruction-damage",
+      "published_date": "2026-07-28T16:13:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Japan FMs discuss bilateral ties, latest regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86222170/Iran-Japan-FMs-discuss-bilateral-ties-latest-regional-developments",
+      "published_date": "2026-07-28T14:21:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China capable of playing effective role in establishing regional, global peace, says Iranian envoy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86222100/China-capable-of-playing-effective-role-in-establishing-regional",
+      "published_date": "2026-07-28T13:30:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Online monitoring system planned for tourists from Afghanistan and Pakistan",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528654/Online-monitoring-system-planned-for-tourists-from-Afghanistan",
+      "published_date": "2026-07-28T13:28:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Japan FMs discuss navigation at Hormuz Strait by phone",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246600/Iran-Japan-FMs-discuss-regional-developments-by-phone",
       "published_date": "2026-07-28T12:51:22Z",
@@ -60,88 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran's Mehr, Pakistan's Right Now Media ink cooperation MoU",
+      "title": "Yemen vows relentless strikes on S. Arabia until siege lifted",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246580/Iran-s-Mehr-and-Pakistan-s-Right-Now-Media-ink-MoU",
-      "published_date": "2026-07-28T04:25:16Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246605/Yemen-vows-relentless-strikes-on-S-Arabia-until-siege-lifted",
+      "published_date": "2026-07-28T19:39:39Z",
+      "category": "Military"
     },
     {
-      "title": "Iran rejects media speculations about talks with US",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246577/Iran-denies-reports-of-proposing-direct-talks-with-US",
-      "published_date": "2026-07-27T18:43:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran rejects US role in setting war terms",
+      "title": "US floundering between threats and retreat",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528631/Iran-rejects-US-role-in-setting-war-terms",
-      "published_date": "2026-07-27T17:34:40Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/528663/US-floundering-between-threats-and-retreat",
+      "published_date": "2026-07-28T17:48:15Z",
+      "category": "Military"
     },
     {
-      "title": "The political theology of vassalage: Nuclear fictions in the Persian Gulf",
+      "title": "Miraculous efficiency: How Iran rebuilt its infrastructure after US attacks",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528624/The-political-theology-of-vassalage-Nuclear-fictions-in-the",
-      "published_date": "2026-07-27T16:51:55Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/528651/Miraculous-efficiency-How-Iran-rebuilt-its-infrastructure-after",
+      "published_date": "2026-07-28T17:45:44Z",
+      "category": "Military"
     },
     {
-      "title": "Iran rejected US proposal in talks due to excessive demands",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246574/Iran-rejected-proposal-for-talks-due-to-execessive-demands",
-      "published_date": "2026-07-27T15:25:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mehr Media Group CEO calls for stronger SCO media cooperation in Bishkek",
+      "title": "Russia condemns Ukrainian strike on Iranian vessel in Caspian Sea",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528612/Mehr-Media-Group-CEO-calls-for-stronger-SCO-media-cooperation",
-      "published_date": "2026-07-27T14:50:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/528652/Russia-condemns-Ukrainian-strike-on-Iranian-vessel-in-Caspian",
+      "published_date": "2026-07-28T17:28:36Z",
+      "category": "Military"
     },
     {
-      "title": "SCO Media and Think Tank Summit opens in Bishkek with delegates from 25 countries",
+      "title": "The South Caucasus: The Persian Gulf of Eurasia's future?",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528613/SCO-Media-and-Think-Tank-Summit-opens-in-Bishkek-with-delegates",
-      "published_date": "2026-07-27T14:49:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/528650/The-South-Caucasus-The-Persian-Gulf-of-Eurasia-s-future",
+      "published_date": "2026-07-28T17:26:42Z",
+      "category": "Military"
     },
     {
-      "title": "Iran denies reports of proposing direct talks with US",
+      "title": "Pentagon changes Iran war casualty reporting, raising questions over transparency",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528669/Pentagon-changes-Iran-war-casualty-reporting-raising-questions",
+      "published_date": "2026-07-28T17:21:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas warns of criminal Israeli plans against West Bank",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221080/Iran-denies-reports-of-proposing-direct-talks-with-US",
-      "published_date": "2026-07-27T14:47:24Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86222235/Hamas-warns-of-criminal-Israeli-plans-against-West-Bank",
+      "published_date": "2026-07-28T16:47:31Z",
+      "category": "Military"
     },
     {
-      "title": "SCO Media & Think Tank Summit opens in Kyrgyzstan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246571/SCO-Media-Think-Tank-Summit-opens-in-Kyrgyzstan",
-      "published_date": "2026-07-27T13:55:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says Strait of Hormuz talks with Oman constructive, unrelated to US",
+      "title": "Iran says countries using frozen assets would face Hormuz transit ban",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221068/Iran-says-Strait-of-Hormuz-talks-with-Oman-constructive-unrelated",
-      "published_date": "2026-07-27T13:08:34Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86222224/Iran-says-countries-using-frozen-assets-would-face-Hormuz-transit",
+      "published_date": "2026-07-28T16:39:53Z",
+      "category": "Military"
     },
     {
-      "title": "Ukraine’s dangerous adventurism will not go unanswered: Spokesperson",
+      "title": "Foolish Iran war, empty promises have made Trump America's most contemptible president?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528659/Foolish-Iran-war-empty-promises-have-made-Trump-America-s-most",
+      "published_date": "2026-07-28T16:17:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Yemeni Ansarullah warns of expanding scope of confrontation",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86220722/Ukraine-s-dangerous-adventurism-will-not-go-unanswered-Spokesperson",
-      "published_date": "2026-07-27T08:13:31Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86222240/Yemeni-Ansarullah-warns-of-expanding-scope-of-confrontation",
+      "published_date": "2026-07-28T16:10:57Z",
+      "category": "Military"
     },
     {
-      "title": "Qatar reiterats support for diplomacy between Iran, US",
+      "title": "Capture of any Iranian island will be extremely costly and fatal to US",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528657/Capture-of-any-Iranian-island-will-be-extremely-costly-and-fatal",
+      "published_date": "2026-07-28T15:03:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen and Saudi Arabia: What lies ahead?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528656/Yemen-and-Saudi-Arabia-What-lies-ahead",
+      "published_date": "2026-07-28T14:40:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iraq dismantles sabotage teams affiliated with Ukraine",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246558/Qatar-reiterats-support-for-diplomacy-between-Iran-US",
-      "published_date": "2026-07-27T04:41:48Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246601/ISabotage-teams-affiliated-with-Ukraine",
+      "published_date": "2026-07-28T13:54:37Z",
+      "category": "Military"
     },
     {
       "title": "DOE pursuing legal actions on US-Israeli environmental damage",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran’s Armed Forces stand strong against enemy: Army commander’s advisor",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221705/Iran-s-Armed-Forces-stand-strong-against-enemy-Army-commander-s",
-      "published_date": "2026-07-28T08:23:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "Just 1 in 3 Americans back war against Iran: Survey",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246585/Just-1-in-3-Americans-back-war-against-Iran-Survey",
-      "published_date": "2026-07-28T07:18:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi resistance rejects Saudi claim of drone attacks from Iraq’s soil",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221550/Iraqi-resistance-rejects-Saudi-claim-of-drone-attacks-from-Iraq-s",
-      "published_date": "2026-07-28T06:55:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cells belonging to Ukraine carried out bombings in Iraq",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246581/Cells-belonging-to-Ukraine-carried-out-bombings-in-Iraq",
-      "published_date": "2026-07-28T05:03:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Naval blockade would mean widened US war: Khatam al-Anbia",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221359/Naval-blockade-would-mean-widened-US-war-Khatam-al-Anbia",
-      "published_date": "2026-07-27T21:07:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Naval blockade would mean widened US war: Khatam al-Anbia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246578/Naval-blockade-would-mean-widened-US-war-Iran-military",
-      "published_date": "2026-07-27T19:26:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "The unholy alliance of Israel and Ukraine anchoring the new imperial order",
+      "title": "Hoover’s ghost stalks Trump as US energy reserves hit 40-year lows",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528629/The-unholy-alliance-of-Israel-and-Ukraine-anchoring-the-new-imperial",
-      "published_date": "2026-07-27T17:43:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s power has brought the enemy to its knees",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528597/Iran-s-power-has-brought-the-enemy-to-its-knees",
-      "published_date": "2026-07-27T17:37:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Are France and Britain about to dive into the quagmire Trump created?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528626/Are-France-and-Britain-about-to-dive-into-the-quagmire-Trump",
-      "published_date": "2026-07-27T16:57:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Senior lawmaker warns Ukraine of ‘regret-inducing’ response after strike on Iranian vessel",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528628/Senior-lawmaker-warns-Ukraine-of-regret-inducing-response-after",
-      "published_date": "2026-07-27T16:50:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli soldiers raid 20 towns and villages in the West Bank",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528627/Israeli-soldiers-raid-20-towns-and-villages-in-the-West-Bank",
-      "published_date": "2026-07-27T16:29:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Germany’s opaque arms export policy toward Israel comes under renewed scrutiny",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528625/Germany-s-opaque-arms-export-policy-toward-Israel-comes-under",
-      "published_date": "2026-07-27T16:01:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen fires drones at Saudi oil transport facilities",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528622/Yemen-fires-drones-at-Saudi-oil-transport-facilities",
-      "published_date": "2026-07-27T15:38:35Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/528664/Hoover-s-ghost-stalks-Trump-as-US-energy-reserves-hit-40-year",
+      "published_date": "2026-07-28T16:59:30Z",
+      "category": "Energy"
     },
     {
       "title": "Minister: Iran, Turkmenistan discuss expanding ties in transport, energy, infrastructure",
@@ -368,18 +375,18 @@
       "category": "Energy"
     },
     {
-      "title": "Israel has frantically spent $100m to manipulate American public opinion",
+      "title": "TPO plans to review regulations to remove barriers to production, trade",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528423/Israel-has-frantically-spent-100m-to-manipulate-American-public",
-      "published_date": "2026-07-21T17:28:09Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/528666/TPO-plans-to-review-regulations-to-remove-barriers-to-production",
+      "published_date": "2026-07-28T16:42:52Z",
+      "category": "Economy"
     },
     {
-      "title": "US greenlights Saudi nuclear enrichment without safeguards: CNN",
+      "title": "War as Trump’s family business",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528420/US-greenlights-Saudi-nuclear-enrichment-without-safeguards-CNN",
-      "published_date": "2026-07-21T16:35:39Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/528658/War-as-Trump-s-family-business",
+      "published_date": "2026-07-28T15:48:46Z",
+      "category": "Economy"
     },
     {
       "title": "VIDEO: Israel demolishes 2 Palestinian homes in West Bank",
@@ -501,25 +508,95 @@
       "category": "Economy"
     },
     {
-      "title": "The geography of the strait speaks for itself",
+      "title": "15385",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528410/The-geography-of-the-strait-speaks-for-itself",
-      "published_date": "2026-07-21T19:15:00Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/528670/15385",
+      "published_date": "2026-07-28T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Schumer: Trump without doubt most corrupt president in US history",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86215738/Schumer-Trump-without-doubt-most-corrupt-president-in-US-history",
-      "published_date": "2026-07-21T16:05:57Z",
-      "category": "Economy"
+      "title": "Avaye Chirok releases audiobook adaptation of “The Unfinished Note”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528605/Avaye-Chirok-releases-audiobook-adaptation-of-The-Unfinished",
+      "published_date": "2026-07-28T17:54:36Z",
+      "category": "Local Events"
     },
     {
-      "title": "Schumer: Trump without doubt most corrupt president in US history",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86215738/Schumer-Trump-without-doubt-most-corrupt-president-in-US-history",
-      "published_date": "2026-07-21T16:05:57Z",
-      "category": "Economy"
+      "title": "Tehran theater to host reading performance of “The Glass Menagerie”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528608/Tehran-theater-to-host-reading-performance-of-The-Glass-Menagerie",
+      "published_date": "2026-07-28T17:54:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 Iranian films to compete in 16th International Youth Film Festival Light of the World",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528593/5-Iranian-films-to-compete-in-16th-International-Youth-Film-Festival",
+      "published_date": "2026-07-28T17:51:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Parliament passes legislation defining crimes of foreign aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528662/Iranian-Parliament-passes-legislation-defining-crimes-of-foreign",
+      "published_date": "2026-07-28T17:28:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran seeks dialogue but is ready to defend, VP says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528667/Iran-seeks-dialogue-but-is-ready-to-defend-VP-says",
+      "published_date": "2026-07-28T17:13:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran defense equipment manufacturers operating more actively",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246603/Iran-defense-equipment-manufacturers-operating-more-actively",
+      "published_date": "2026-07-28T15:49:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Khatam al-Anbia warns states against using Iran frozen assets",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246602/Khatam-al-Anbia-warns-states-against-using-Iran-frozen-assets",
+      "published_date": "2026-07-28T14:23:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Taremi rejects move to Brazilian Serie A club",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528655/Taremi-rejects-move-to-Brazilian-Serie-A-Club",
+      "published_date": "2026-07-28T13:42:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kermanshah among West Asia’s oldest human settlement areas, researcher says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528653/Kermanshah-among-West-Asia-s-oldest-human-settlement-areas-researcher",
+      "published_date": "2026-07-28T13:30:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kordestan sets up Arbaeen handicraft markets along border route",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528649/Kordestan-sets-up-Arbaeen-handicraft-markets-along-border-route",
+      "published_date": "2026-07-28T13:27:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran, Seoul explore closer heritage cooperation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528615/Tehran-Seoul-explore-closer-heritage-cooperation",
+      "published_date": "2026-07-28T13:22:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WASH FIT to help health facilities improve services",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528648/WASH-FIT-to-help-health-facilities-improve-services",
+      "published_date": "2026-07-28T12:57:46Z",
+      "category": "Local Events"
     },
     {
       "title": "Third phase of Family Physician Program kicks off",
@@ -568,97 +645,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528636/Iran-learn-fate-at-Women-s-Volleyball-Continental-Championship",
       "published_date": "2026-07-28T10:57:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khorramshahr–Basra sea line launched to ease Arbaeen pilgrim travel",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221877/Khorramshahr-Basra-sea-line-launched-to-ease-Arbaeen-pilgrim",
-      "published_date": "2026-07-28T10:36:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran not seeking war, but will defend itself if conflict imposed: VP",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221874/Iran-not-seeking-war-but-will-defend-itself-if-conflict-imposed",
-      "published_date": "2026-07-28T09:53:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian nation remains strong to overcome challenges: Administration spokesperson",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221845/Iranian-nation-remains-strong-to-overcome-challenges-Administration",
-      "published_date": "2026-07-28T09:51:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive | German activist says Iranians stand on the right side of history",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221810/Exclusive-German-activist-says-Iranians-stand-on-the-right",
-      "published_date": "2026-07-28T09:36:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alamut’s World Heritage inscription to open new chapter for tourism in northwest Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221690/Alamut-s-World-Heritage-inscription-to-open-new-chapter-for-tourism",
-      "published_date": "2026-07-28T09:07:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Simorgh airplane nears operational certification",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246590/Iranian-Simorgh-airplane-nears-operational-certification",
-      "published_date": "2026-07-28T08:35:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "7.1-magnitude quake hits southern Japan (+VIDEO)",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246592/7-1-magnitude-quake-hits-southern-Japan",
-      "published_date": "2026-07-28T08:25:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: House crashes into a car in Georgia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246589/VIDEO-House-crashes-into-a-car-in-Georgia",
-      "published_date": "2026-07-28T08:17:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turkey's oak honey eyes sweet success in global niches",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246588/Turkey-s-oak-honey-eyes-sweet-success-in-global-niches",
-      "published_date": "2026-07-28T08:05:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Palestinians gather outside White House to protest Netanyahu’s visit, US support for Israel",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221599/Pro-Palestinians-gather-outside-White-House-to-protest-Netanyahu-s",
-      "published_date": "2026-07-28T08:00:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One killed in a shooting near Mexico’s presidential office",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246587/One-killed-in-a-shooting-near-Mexico-s-presidential-office",
-      "published_date": "2026-07-28T07:43:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Commemoration for Iran’s martyred Leader held in Iraq’s Najaf",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221471/Commemoration-for-Iran-s-martyred-Leader-held-in-Iraq-s-Najaf",
-      "published_date": "2026-07-28T06:27:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's Ilam Province operates special flights for Arbaeen pilgrims",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86221458/Iran-s-Ilam-Province-operates-special-flights-for-Arbaeen-pilgrims",
-      "published_date": "2026-07-28T06:10:38Z",
       "category": "Local Events"
     }
   ]
