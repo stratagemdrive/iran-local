@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-29T23:52:47Z",
-  "total_stories": 94,
+  "generated_at": "2026-07-30T12:50:28Z",
+  "total_stories": 95,
   "stories": [
+    {
+      "title": "Iran expresses sympathy with Japan after deadly earthquake",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223635/Iran-expresses-sympathy-with-Japan-after-deadly-earthquake",
+      "published_date": "2026-07-30T09:24:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iraqi resistance group calls for expelling Saudi ambassador",
       "source": "Mehr News Agency",
@@ -137,11 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Ukraine foreign ministers hold talks over phone",
+      "title": "Iran downs yet another hostile US drone in south",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246643/Iran-downs-yet-another-hostile-US-drone-in-south",
+      "published_date": "2026-07-30T12:37:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86222350/Iran-Ukraine-foreign-ministers-hold-talks-over-phone",
-      "published_date": "2026-07-28T19:33:31Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
+      "published_date": "2026-07-30T12:25:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC destroys 3 US F-35 fighter jets in  Al-Azraq Airbase",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246642/IRGC-destroys-3-US-F-35-fighter-jets-in-Al-Azraq-Airbase",
+      "published_date": "2026-07-30T11:51:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Security for Arbaeen pilgrims is fully ensured: Iraqi official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223580/Security-for-Arbaeen-pilgrims-is-fully-ensured-Iraqi-official",
+      "published_date": "2026-07-30T08:19:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC warns of harsh response to countries involved in aiding US aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223506/IRGC-warns-of-harsh-response-to-countries-involved-in-aiding",
+      "published_date": "2026-07-30T06:40:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Reasons for the increase in US military casualties",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246638/Reasons-for-the-increase-in-US-military-casualties",
+      "published_date": "2026-07-30T06:36:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC warns states against being accomplice in US aggression",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246637/IRGC-warns-states-against-being-accomplice-in-US-aggression",
+      "published_date": "2026-07-30T06:03:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Residential areas targeted in new US aggression on south Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246636/Residential-areas-targeted-in-new-US-aggression-on-south-Iran",
+      "published_date": "2026-07-30T05:55:54Z",
+      "category": "Military"
     },
     {
       "title": "Iraqi president denounces deadly US-Saudi aggression",
@@ -161,6 +217,13 @@
       "title": "Army Chief: Armed Forces will defend Iran’s soil and independence against aggressors to their last breath",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-and-independence",
+      "published_date": "2026-07-29T18:21:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Army Chief: Armed Forces will defend Iran’s soil, independence against aggressors to their last breath",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223313/Army-Chief-Armed-Forces-will-defend-Iran-s-soil-independence",
       "published_date": "2026-07-29T18:21:00Z",
       "category": "Military"
     },
@@ -200,6 +263,13 @@
       "category": "Military"
     },
     {
+      "title": "Iraq’s Security Council condemns US–Saudi strikes on Hashd al-Shaabi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223224/Iraq-s-Security-Council-condemns-US-Saudi-strikes-on-Hashd-al-Shaabi",
+      "published_date": "2026-07-29T16:20:36Z",
+      "category": "Military"
+    },
+    {
       "title": "Russia says to have controlled two more Ukrainian towns",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246631/Russia-says-to-have-controlled-two-more-Ukrainian-towns",
@@ -214,74 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran strongly condemns US-Saudi strikes on Iraq",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223183/Iran-strongly-condemns-US-Saudi-strikes-on-Iraq",
-      "published_date": "2026-07-29T14:30:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi presidency condemns US, Saudi attacks on Hashd al-Shaabi",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223147/Iraqi-presidency-condemns-US-Saudi-attacks-on-Hashd-al-Shaabi",
-      "published_date": "2026-07-29T13:30:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "War on Iran becomes multi-billion-dollar drain on US economy: Report",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223090/War-on-Iran-becomes-multi-billion-dollar-drain-on-US-economy",
-      "published_date": "2026-07-29T13:23:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "US achieved none of its goals in war with Iran: American political scientist",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223073/US-achieved-none-of-its-goals-in-war-with-Iran-American-political",
-      "published_date": "2026-07-29T12:42:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "DOE drafts legal framework for sustainable conservation of mountains",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528679/DOE-drafts-legal-framework-for-sustainable-conservation-of-mountains",
-      "published_date": "2026-07-29T12:36:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "No movement conducted in Hormuz without Iran’s permission",
+      "title": "Qatari LNG cargo uses Iran-designated route in Hormuz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246626/No-movement-conducted-in-Hormuz-without-Iran-s-permission",
-      "published_date": "2026-07-29T11:30:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Parl. drafts reciprocal steps against UK blacklisting of IRGC",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246625/Parl-drafts-reciprocal-steps-against-UK-blacklisting-of-IRGC",
-      "published_date": "2026-07-29T10:47:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hashd al-Shaabi Says 20 Members Killed in Joint Saudi-U.S. Airstrikes",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528674/Hashd-al-Shaabi-Says-20-Members-Killed-in-Joint-Saudi-U-S-Airstrikes",
-      "published_date": "2026-07-29T09:42:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "SCO sees new opportunities in evolving global landscape",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246622/SCO-sees-new-opportunities-in-evolving-global-landscape",
-      "published_date": "2026-07-29T08:54:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen downs Saudi spy drone over Saada",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246618/Yemen-downs-Saudi-spy-drone-over-Saada",
-      "published_date": "2026-07-29T08:06:23Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/246641/Qatari-LNG-cargo-uses-Iran-designated-route-in-Hormuz",
+      "published_date": "2026-07-30T10:16:40Z",
+      "category": "Energy"
     },
     {
       "title": "US imposes fresh Iran-related sanctions amid continued pressure campaign",
@@ -387,6 +394,13 @@
       "url": "https://en.irna.ir/news/86217586/Ghalibaf-US-punished-itself-with-triple-digit-oil-prices",
       "published_date": "2026-07-23T15:36:41Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran and Armenia seek to turn joint corridor into an engine of regional growth",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223464/Iran-and-Armenia-seek-to-turn-joint-corridor-into-an-engine-of",
+      "published_date": "2026-07-30T05:55:26Z",
+      "category": "Economy"
     },
     {
       "title": "Antony Loewenstein’s “The Palestine Laboratory” published in Persian",
@@ -515,11 +529,25 @@
       "category": "Economy"
     },
     {
-      "title": "How industrial giant evolve from crisis to tech. sovereignty",
+      "title": "Iran will never accept US-style ceasefire, will keep responding to aggressor: MP",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223707/Iran-will-never-accept-US-style-ceasefire-will-keep-responding",
+      "published_date": "2026-07-30T10:36:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Explosions reported in Erbil in Iraqi Kurdistan",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246455/How-industrial-giant-evolve-from-crisis-to-tech-sovereignty",
-      "published_date": "2026-07-23T10:30:35Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/246640/Explosions-reported-in-Erbil-in-Iraqi-Kurdistan",
+      "published_date": "2026-07-30T10:09:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Will US adopt rationality or continue strategic mistakes?",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246639/Will-US-adopt-rationality-or-continue-strategic-mistakes",
+      "published_date": "2026-07-30T08:18:53Z",
+      "category": "Local Events"
     },
     {
       "title": "15386",
@@ -578,6 +606,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Hakim condemns joint US-Saudi attacks on PMU positions in Iraq",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86223240/Hakim-condemns-joint-US-Saudi-attacks-on-PMU-positions-in-Iraq",
+      "published_date": "2026-07-29T16:49:47Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Nature in the crossfire of climate inaction and wars",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528700/Nature-in-the-crossfire-of-climate-inaction-and-wars",
@@ -631,34 +666,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246628/VIDEO-Fire-in-southwestern-Turkey",
       "published_date": "2026-07-29T13:12:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDF allocates $1b in facilities to Agriculture Ministry for ensuring food security",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528686/NDF-allocates-1b-in-facilities-to-Agriculture-Ministry-for-ensuring",
-      "published_date": "2026-07-29T13:09:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health ministry, WHO hold workshop to strengthen national capacity for PHC",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528684/Health-ministry-WHO-hold-workshop-to-strengthen-national-capacity",
-      "published_date": "2026-07-29T12:50:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian, Portuguese sci-tech parks explore potential to develop ties",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528682/Iranian-Portuguese-sci-tech-parks-explore-potential-to-develop",
-      "published_date": "2026-07-29T12:44:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "INSF, Tehran University of Medical Sciences to improve cancer research",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528677/INSF-Tehran-University-of-Medical-Sciences-to-improve-cancer",
-      "published_date": "2026-07-29T12:32:14Z",
       "category": "Local Events"
     }
   ]
