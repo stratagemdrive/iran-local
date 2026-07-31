@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-07-31T13:03:14Z",
+  "generated_at": "2026-07-31T23:53:15Z",
   "total_stories": 94,
   "stories": [
+    {
+      "title": "Araghchi: Maritime blockade and attacks on Iranian shipping are sources of regional insecurity",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86224558/Araghchi-Maritime-blockade-and-attacks-on-Iranian-shipping-are",
+      "published_date": "2026-07-31T20:18:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, British top diplomats discuss bilateral ties and international developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86224544/Iranian-British-top-diplomats-discuss-bilateral-ties-and-international",
+      "published_date": "2026-07-31T19:37:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi warns against support for US military operations",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528742/Araghchi-warns-against-support-for-US-military-operations",
+      "published_date": "2026-07-31T17:30:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, UK top diplomats discuss ties, regional, intl. issues",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246665/Iran-UK-top-diplomats-discuss-ties-regional-intl-issues",
+      "published_date": "2026-07-31T14:32:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Azerbaijan forge stronger economic ties with new customs agreement",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528728/Iran-Azerbaijan-forge-stronger-economic-ties-with-new-customs",
+      "published_date": "2026-07-31T13:50:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraqi ambassador's diplomatic visit to Mashhad",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528725/Iraqi-ambassador-s-diplomatic-visit-to-Mashhad",
+      "published_date": "2026-07-31T13:40:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy delivers Leader’s message to Russian Orthodox patriarch",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86224394/Iran-envoy-delivers-Leader-s-message-to-Russian-Orthodox-patriarch",
+      "published_date": "2026-07-31T13:02:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran joins world AI cooperation organization",
       "source": "IRNA",
@@ -95,53 +144,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iraqi resistance group calls for expelling Saudi ambassador",
+      "title": "Ansarullah leader ties Riyadh to Epstein as Yemen locks in naval blockade",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528745/Ansarullah-leader-ties-Riyadh-to-Epstein-as-Yemen-locks-in-naval",
+      "published_date": "2026-07-31T18:15:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Senior cleric: Consolidating military gains at negotiating table favors Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528727/Senior-cleric-Consolidating-military-gains-at-negotiating-table",
+      "published_date": "2026-07-31T17:55:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Martyred Iranian Air Force pilot laid to rest in Shiraz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528735/Martyred-Iranian-Air-Force-pilot-laid-to-rest-in-Shiraz",
+      "published_date": "2026-07-31T17:55:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Exposing Western and Israeli plots against Iran-Egypt relations",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528729/Exposing-Western-and-Israeli-plots-against-Iran-Egypt-relations",
+      "published_date": "2026-07-31T17:54:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "The letter that tore the mask off US occupation of Jordan",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528741/The-letter-that-tore-the-mask-off-US-occupation-of-Jordan",
+      "published_date": "2026-07-31T17:52:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "CNN: Trump seeks an exit ramp from the Iran war",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528740/CNN-Trump-seeks-an-exit-ramp-from-the-Iran-war",
+      "published_date": "2026-07-31T17:48:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "Guardian: US military abandons wounded troops after Iran strike",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528734/Guardian-US-military-abandons-wounded-troops-after-Iran-strike",
+      "published_date": "2026-07-31T17:46:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "US writhes, but Hormuz survives—in Iranian hands",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528743/US-writhes-but-Hormuz-survives-in-Iranian-hands",
+      "published_date": "2026-07-31T17:44:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Entertainment against alternatives",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528715/Entertainment-against-alternatives",
+      "published_date": "2026-07-31T17:43:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s false claim that Iraq knew about PMF raids exposes his deceit",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his",
+      "published_date": "2026-07-31T16:36:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Persian Gulf Strait Authority says Hormuz remains closed",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86224486/Persian-Gulf-Strait-Authority-says-Hormuz-remains-closed",
+      "published_date": "2026-07-31T16:18:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "No disarmament before Israeli Gaza pullout: Hamas",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528737/No-disarmament-before-Israeli-Gaza-pullout-Hamas",
+      "published_date": "2026-07-31T16:07:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Strait of Hormuz remains suspended due to US aggression: PGSA",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246633/Iraqi-resistance-group-calls-for-expelling-Saudi-ambassador",
-      "published_date": "2026-07-29T18:52:25Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246664/Strait-of-Hormuz-remains-suspended-due-to-US-aggression-PGSA",
+      "published_date": "2026-07-31T13:59:27Z",
+      "category": "Military"
     },
     {
-      "title": "Grossi’s empty posturing",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528696/Grossi-s-empty-posturing",
-      "published_date": "2026-07-29T18:24:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Illusion of victory: Trump threatens Iran after Netanyahu meeting as empty US arsenal exposes limits",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528695/Illusion-of-victory-Trump-threatens-Iran-after-Netanyahu-meeting",
-      "published_date": "2026-07-29T18:18:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Al-Nusra Front terrorist is now Syria’s chargé d'affaires in US",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528708/Al-Nusra-Front-terrorist-is-now-Syria-s-charg%C3%A9-d-affaires-in",
-      "published_date": "2026-07-29T18:13:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran rejects southern Strait of Hormuz shipping route",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route",
-      "published_date": "2026-07-29T17:50:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran pursues dual diplomatic track with Ukraine and EU to prevent escalation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528701/Iran-pursues-dual-diplomatic-track-with-Ukraine-and-EU-to-prevent",
-      "published_date": "2026-07-29T17:20:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Pakistan emphasize developing cooperation centered on Chabahar-Gwadar",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528691/Iran-Pakistan-emphasize-developing-cooperation-centered-on-Chabahar-Gwadar",
-      "published_date": "2026-07-29T13:21:24Z",
-      "category": "Diplomacy"
+      "title": "Palestinian resistance to never relinquish its weapons",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246663/Palestinian-resistance-to-never-relinquish-its-weapons",
+      "published_date": "2026-07-31T13:49:52Z",
+      "category": "Military"
     },
     {
       "title": "Coffins now integral part of US military equipment in region",
@@ -183,104 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246657/US-terrorists-wounded-in-Iran-war-rise-to-653-Report",
       "published_date": "2026-07-31T07:45:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "US–Saudi strikes on PMF launched without Baghdad’s knowledge, says Iraqi gov’t spox",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86224145/US-Saudi-strikes-on-PMF-launched-without-Baghdad-s-knowledge",
-      "published_date": "2026-07-31T06:51:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "US terrorists wounded in Iran war rise to 653: Report",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86224131/US-terrorists-wounded-in-Iran-war-rise-to-653-Report",
-      "published_date": "2026-07-31T06:20:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC rejects US claim Iran missile had no damage to aircrafts",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246652/IRGC-rejects-US-claim-Iran-missile-had-no-damage-to-aircrafts",
-      "published_date": "2026-07-31T06:19:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns US to \"pay heavy price\" for killing civilians",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246650/Iran-warns-US-to-pay-heavy-price-for-killing-civilians",
-      "published_date": "2026-07-31T05:46:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf: US will ‘pay the price’ for killing civilians on Iran’s Qeshm Island",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86224114/Ghalibaf-US-will-pay-the-price-for-killing-civilians-on-Iran-s",
-      "published_date": "2026-07-31T05:38:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Top Iranian commander: Coffins are now part of US equipment in region",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86224054/Top-Iranian-commander-Coffins-are-now-part-of-US-equipment-in",
-      "published_date": "2026-07-30T21:41:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86224031/Iranian-Army-strikes-key-US-base-in-Bahrain-in-26th-phase-of",
-      "published_date": "2026-07-30T19:55:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Karbala host Arbaeen pilgrims",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/246647/Karbala-hosts-Arbaeen-pilgrims",
-      "published_date": "2026-07-30T15:04:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Drone hangars, fuel depot destroyed at US Ali Salem base",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246646/Drone-hangars-fuel-depot-destroyed-at-US-Ali-Salem-base",
-      "published_date": "2026-07-30T14:56:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Araghchi protests to Bulgaria over US war on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246645/Araghchi-protests-to-Bulgaria-over-US-war-on-Iran",
-      "published_date": "2026-07-30T14:44:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC hits US airbase in Kuwait in fresh wave of attacks",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223825/IRGC-hits-US-airbase-in-Kuwait-in-fresh-wave-of-attacks",
-      "published_date": "2026-07-30T13:39:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "US missile strike on Qeshm kills 3 family members, says Iranian official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
-      "published_date": "2026-07-30T13:14:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran downs yet another hostile US drone in south",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246643/Iran-downs-yet-another-hostile-US-drone-in-south",
-      "published_date": "2026-07-30T12:37:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
-      "published_date": "2026-07-30T12:25:43Z",
       "category": "Military"
     },
     {
@@ -382,11 +382,32 @@
       "category": "Energy"
     },
     {
-      "title": "Iran's first geothermal power plant connected to national electricity grid",
+      "title": "Oil prices no longer react to war rhetoric, but to real supply cuts",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528490/Iran-s-first-geothermal-power-plant-connected-to-national-electricity",
-      "published_date": "2026-07-24T14:18:03Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/528730/Oil-prices-no-longer-react-to-war-rhetoric-but-to-real-supply",
+      "published_date": "2026-07-31T17:57:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran, Armenia seek to turn shared corridor into a trade engine",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528733/Iran-Armenia-seek-to-turn-shared-corridor-into-a-trade-engine",
+      "published_date": "2026-07-31T14:16:46Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tehran, Islamabad place emphasis on developing direct trade, increasing trade exchanges",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528731/Tehran-Islamabad-place-emphasis-on-developing-direct-trade",
+      "published_date": "2026-07-31T13:59:44Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump's economic failure: 97,000 workers axed amid AI hype, negligence",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528726/Trump-s-economic-failure-97-000-workers-axed-amid-AI-hype-negligence",
+      "published_date": "2026-07-31T13:33:35Z",
+      "category": "Economy"
     },
     {
       "title": "Iran and Armenia seek to turn joint corridor into an engine of regional growth",
@@ -501,25 +522,39 @@
       "category": "Economy"
     },
     {
-      "title": "Iran’s SCO Development Bank proposal will facilitate trade within organization: Araghchi",
+      "title": "Pezeshkian will report to people on second anniversary of his presidential inauguration",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86218608/Iran-s-SCO-Development-Bank-proposal-will-facilitate-trade-within",
-      "published_date": "2026-07-25T07:15:10Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86224566/Pezeshkian-will-report-to-people-on-second-anniversary-of-his",
+      "published_date": "2026-07-31T20:45:51Z",
+      "category": "Local Events"
     },
     {
-      "title": "Financing system, investment, digital infrastructure exhibit to develop intl. interactions",
+      "title": "15387",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528493/Financing-system-investment-digital-infrastructure-exhibit",
-      "published_date": "2026-07-24T14:25:14Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/528744/15387",
+      "published_date": "2026-07-31T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Is Trump's reckless aggression against Iran pushing global economy toward a catastrophic collapse?",
+      "title": "“The Cherry Tree” puppet play brings lessons of Ashura to young audiences",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528488/Is-Trump-s-reckless-aggression-against-Iran-pushing-global-economy",
-      "published_date": "2026-07-24T14:08:40Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/528714/The-Cherry-Tree-puppet-play-brings-lessons-of-Ashura-to-young",
+      "published_date": "2026-07-31T17:51:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "9th Iranian Film Festival in Tokyo honors martyred children of Minab",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528713/9th-Iranian-Film-Festival-in-Tokyo-honors-martyred-children-of",
+      "published_date": "2026-07-31T17:50:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Water can be a field of cooperation with neighbors: Iran FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86224436/Water-can-be-a-field-of-cooperation-with-neighbors-Iran-FM",
+      "published_date": "2026-07-31T14:11:19Z",
+      "category": "Local Events"
     },
     {
       "title": "Destruction of Iran's cultural sites by Israel, US tantamount to destroying a civilization",
@@ -624,41 +659,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86223707/Iran-will-never-accept-US-style-ceasefire-will-keep-responding",
       "published_date": "2026-07-30T10:36:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosions reported in Erbil in Iraqi Kurdistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246640/Explosions-reported-in-Erbil-in-Iraqi-Kurdistan",
-      "published_date": "2026-07-30T10:09:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will US adopt rationality or continue strategic mistakes?",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246639/Will-US-adopt-rationality-or-continue-strategic-mistakes",
-      "published_date": "2026-07-30T08:18:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15386",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/528709/15386",
-      "published_date": "2026-07-29T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Huge explosions reported in Sulaymaniyah province in n. Iraq",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246635/Huge-explosions-reported-in-Sulaymaniyah-province-in-n-Iraq",
-      "published_date": "2026-07-29T19:44:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian animation “Legend of Sepehr” to be released in Russian cinemas",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528687/Iranian-animation-Legend-of-Sepehr-to-be-released-in-Russian",
-      "published_date": "2026-07-29T18:23:19Z",
       "category": "Local Events"
     }
   ]
