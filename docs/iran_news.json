@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-03T13:46:15Z",
+  "generated_at": "2026-08-03T23:59:43Z",
   "total_stories": 89,
   "stories": [
+    {
+      "title": "Pakistan’s foreign minister invites Iranian counterpart to visit Islamabad",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227332/Pakistan-s-foreign-minister-invites-Iranian-counterpart-to-visit",
+      "published_date": "2026-08-03T16:22:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan FMs hold call to discuss region",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246742/Iran-Pakistan-FMs-hold-call-to-discuss-region",
+      "published_date": "2026-08-03T15:38:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Oman FMs hold phone call to discuss region",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246741/Iran-Oman-FMs-hold-phone-call-to-discuss-region",
+      "published_date": "2026-08-03T15:30:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "VIDEO: FM Araghchi arrives in Najaf for Arbaeen pilgrimage",
       "source": "Mehr News Agency",
@@ -123,25 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran marks Haniyeh’s 2nd martyrdom anniversary, urges action against Israeli impunity",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86226400/Iran-marks-Haniyeh-s-2nd-martyrdom-anniversary-urges-action",
-      "published_date": "2026-08-02T18:43:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hormuz will not return to pre-war status: FM Spox",
+      "title": "Iran dealt heavy blow to US army in recent 17-day battle",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246716/Iran-by-no-means-asked-US-to-not-strike-FM-Spox",
-      "published_date": "2026-08-02T17:32:18Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246747/Iran-dealt-heavy-blow-to-US-army-in-recent-17-day-battle",
+      "published_date": "2026-08-03T21:13:42Z",
+      "category": "Military"
     },
     {
-      "title": "How Iran's unyielding stance exposed President Trump's TACO pattern",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528805/How-Iran-s-unyielding-stance-exposed-President-Trump-s-TACO-pattern",
-      "published_date": "2026-08-02T17:22:43Z",
-      "category": "Diplomacy"
+      "title": "Iran has ‘total intelligence superiority’ in northwest",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246746/Iran-has-total-intelligence-superiority-in-northwest",
+      "published_date": "2026-08-03T20:33:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC commander: Iran has total intelligence superiority in northwestern part",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227432/IRGC-commander-Iran-has-total-intelligence-superiority-in-northwestern",
+      "published_date": "2026-08-03T19:35:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Gaza Peace Council ties to help Israel force out Gaza people",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227264/Gaza-Peace-Council-ties-to-help-Israel-force-out-Gaza-people",
+      "published_date": "2026-08-03T14:20:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Moscow claims 14 killed, 59 injured in Ukrainian drone attack",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246739/Moscow-claims-14-killed-59-injured-in-Ukrainian-drone-attack",
+      "published_date": "2026-08-03T13:49:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump blunders into unwinnable ‘forever war’ with Iran: British media",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227200/Trump-blunders-into-unwinnable-forever-war-with-Iran-British",
+      "published_date": "2026-08-03T13:49:05Z",
+      "category": "Military"
     },
     {
       "title": "In photos: Najaf Ashraf ahead of Arbaeen",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Ben Macintyre’s “The Spy and the Traitor” available in Persian",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528791/Ben-Macintyre-s-The-Spy-and-the-Traitor-available-in-Persian",
-      "published_date": "2026-08-02T17:09:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army soldier martyred, another wounded in Marivan",
+      "title": "6 Saudi tankers divert via southern Africa for fear of Yemen",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246715/Iran-Army-soldier-martyred-another-wounded-in-Marivan",
-      "published_date": "2026-08-02T16:59:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hybrid war arrives against Spain",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528808/Hybrid-war-arrives-against-Spain",
-      "published_date": "2026-08-02T16:21:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC vows ‘severe, crushing’ retaliation for Haniyeh, Ayatollah Khamenei assassinations",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86226309/IRGC-vows-severe-crushing-retaliation-for-Haniyeh-Ayatollah",
-      "published_date": "2026-08-02T16:20:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran, South Korea to strengthen building industrialization cooperation at Tehran exhibition",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528806/Iran-South-Korea-to-strengthen-building-industrialization-cooperation",
-      "published_date": "2026-08-02T15:38:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Qatar, Iran interior ministers discuss regional developments",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246712/Qatar-Iran-interior-ministers-discuss-regional-developments",
-      "published_date": "2026-08-02T15:24:46Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/246743/6-Saudi-tankers-divert-via-southern-Africa-for-fear-of-Yemen",
+      "published_date": "2026-08-03T16:04:13Z",
+      "category": "Energy"
     },
     {
       "title": "Blast reported near oil tanker off Oman coast",
@@ -354,18 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "Export terminals, effective infrastructure in facilitating, expanding non-oil exports",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528621/Export-terminals-effective-infrastructure-in-facilitating-expanding",
-      "published_date": "2026-07-27T14:39:05Z",
-      "category": "Energy"
+      "title": "Iran Chamber proposes task force to remove trade barriers with Pakistan",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227346/Iran-Chamber-proposes-task-force-to-remove-trade-barriers-with",
+      "published_date": "2026-08-03T16:26:59Z",
+      "category": "Economy"
     },
     {
-      "title": "First smartification project of oil fields to be implemented in Darkhovin",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528619/First-smartification-project-of-oil-fields-to-be-implemented",
-      "published_date": "2026-07-27T14:32:46Z",
-      "category": "Energy"
+      "title": "Industry minister travels to Pakistan for trade, free trade talks",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227279/Industry-minister-travels-to-Pakistan-for-trade-free-trade-talks",
+      "published_date": "2026-08-03T14:26:53Z",
+      "category": "Economy"
     },
     {
       "title": "Pakistan to host Iran for talks on free trade, investment cooperation",
@@ -480,11 +487,32 @@
       "category": "Economy"
     },
     {
-      "title": "Iran Chamber of Commerce calls on Pakistan to set up green corridor for trade",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528618/Iran-Chamber-of-Commerce-calls-on-Pakistan-to-set-up-green-corridor",
-      "published_date": "2026-07-27T14:27:07Z",
-      "category": "Economy"
+      "title": "Arbaeen pilgrims hold up biggest red flag in Karbala",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246744/Arbaeen-pilgrims-hold-up-biggest-red-flag-in-Karabal",
+      "published_date": "2026-08-03T17:05:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s ‘Royan Institute’ preserves fertility in two young girls with cancer",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227377/Iran-s-Royan-Institute-preserves-fertility-in-two-young-girls",
+      "published_date": "2026-08-03T16:56:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Official: 2.5 million pilgrims crossed Iran’s Mehran border for Arbaeen so far",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86227325/Official-2-5-million-pilgrims-crossed-Iran-s-Mehran-border-for",
+      "published_date": "2026-08-03T16:19:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over a million Arbaeen pilgrims are still in Iraq: Radan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246740/Over-a-million-Arbaeen-pilgrims-are-still-in-Iraq-Radan",
+      "published_date": "2026-08-03T14:50:34Z",
+      "category": "Local Events"
     },
     {
       "title": "11 tons of Russian humanitarian aid delivered to Iran",
@@ -596,34 +624,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246713/Iran-U23-learn-2026-Asian-Games-group-stage-schedule",
       "published_date": "2026-08-02T16:24:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel intensifies Gaza killings to quash Hamas’s disarmament plan",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528807/Israel-intensifies-Gaza-killings-to-quash-Hamas-s-disarmament",
-      "published_date": "2026-08-02T16:07:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘US has taken global food security hostage by naval blockade of Iran’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528803/US-has-taken-global-food-security-hostage-by-naval-blockade",
-      "published_date": "2026-08-02T15:27:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 3.2 m people transit Iran to go to Iraq for Arbaeen",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246711/Over-3-2-m-people-transit-Iran-to-go-to-Iraq-for-Arbaeen",
-      "published_date": "2026-08-02T15:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nikol Pashinyan reappointed as Armenia’s prime minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86226264/Nikol-Pashinyan-reappointed-as-Armenia-s-prime-minister",
-      "published_date": "2026-08-02T14:26:40Z",
       "category": "Local Events"
     }
   ]
