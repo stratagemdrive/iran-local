@@ -1,8 +1,85 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-04T23:54:23Z",
-  "total_stories": 88,
+  "generated_at": "2026-08-05T13:00:31Z",
+  "total_stories": 91,
   "stories": [
+    {
+      "title": "Sports minister Donyamali to visit Azerbaijan for bilateral sports cooperation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528860/Sports-minister-Donyamali-to-visit-Azerbaijan-for-bilateral-sports",
+      "published_date": "2026-08-05T11:24:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan sing MOU to boost bilateral trade toward $10b target",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528859/Iran-Pakistan-sing-MOU-to-boost-bilateral-trade-toward-10b",
+      "published_date": "2026-08-05T11:02:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japanese envoy celebrates 100th anniversary of Tehran–Tokyo diplomatic ties",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228576/Japanese-envoy-celebrates-100th-anniversary-of-Tehran-Tokyo-diplomatic",
+      "published_date": "2026-08-05T10:56:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran supports Palestinian leaders’ decisions in negotiations: President Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228550/Iran-supports-Palestinian-leaders-decisions-in-negotiations",
+      "published_date": "2026-08-05T10:37:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "VIDEO: Japanese envoy joins Tehran orchestra on flute",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246781/VIDEO-Japanese-envoy-joins-Tehran-orchestra-on-flute",
+      "published_date": "2026-08-05T09:55:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Pakistan reaffirm $10 bn trade goal, advance free trade agreement",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228393/Iran-Pakistan-reaffirm-10-bn-trade-goal-advance-free-trade",
+      "published_date": "2026-08-05T09:16:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Araghchi meets Iraqi officials during Arbaeen pilgrimage",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246776/FM-Araghchi-meets-Iraqi-officials-during-Arbaeen-pilgrimage",
+      "published_date": "2026-08-05T08:23:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Riyadh stresses need to reduce tension with Iran via dialogue",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246772/S-Arabia-stresses-need-to-reduce-tension-with-Iran-via-dialog",
+      "published_date": "2026-08-05T07:26:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Six Pakistani ministers meet with Iranian minister in Islamabad",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228309/Six-Pakistani-ministers-meet-with-Iranian-minister-in-Islamabad",
+      "published_date": "2026-08-05T07:24:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US interference delaying Iran-Oman deal on Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246770/US-interference-delaying-Iran-Oman-deal-on-Strait-of-Hormuz",
+      "published_date": "2026-08-05T06:41:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hormuz transit talks progressing positively",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246761/Hormuz-transit-talks-progressing-positively",
+      "published_date": "2026-08-05T03:55:48Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baqaei: Iran-Oman talks on Strait of Hormuz progressing positively",
       "source": "IRNA",
@@ -67,81 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FM Araghchi calls Arbaeen grand display of Iran–Iraq unity",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227518/FM-Araghchi-calls-Arbaeen-grand-display-of-Iran-Iraq-unity",
-      "published_date": "2026-08-04T05:13:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reviving economic relations with Italy a priority: Iran’s envoy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528815/Reviving-economic-relations-with-Italy-a-priority-Iran-s-envoy",
-      "published_date": "2026-08-04T03:33:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan’s foreign minister invites Iranian counterpart to visit Islamabad",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227332/Pakistan-s-foreign-minister-invites-Iranian-counterpart-to-visit",
-      "published_date": "2026-08-03T16:22:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Pakistan FMs hold call to discuss region",
+      "title": "Russian drone factory director badly injured in car explosion",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246742/Iran-Pakistan-FMs-hold-call-to-discuss-region",
-      "published_date": "2026-08-03T15:38:15Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246784/Russian-drone-factory-director-badly-injured-in-car-explosion",
+      "published_date": "2026-08-05T12:48:21Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Oman FMs hold phone call to discuss region",
+      "title": "Death toll in Israel’s genocidal war on Gaza reaches 73,381",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246741/Iran-Oman-FMs-hold-phone-call-to-discuss-region",
-      "published_date": "2026-08-03T15:30:20Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246780/Death-toll-in-Israel-s-genocidal-war-on-Gaza-reaches-73-381",
+      "published_date": "2026-08-05T09:44:06Z",
+      "category": "Military"
     },
     {
-      "title": "VIDEO: FM Araghchi arrives in Najaf for Arbaeen pilgrimage",
+      "title": "Yemen strikes Saudi oil tanker in Red Sea",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246737/VIDEO-Iran-FM-Araghchi-arrives-in-Najaf-for-Arbaeen-rituals",
-      "published_date": "2026-08-03T12:02:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246774/Yemen-strikes-Saudi-tanker-in-Red-Sea",
+      "published_date": "2026-08-05T07:59:08Z",
+      "category": "Military"
     },
     {
-      "title": "Iran says harassment of its commercial shipping shows US is still pursuing confrontation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227058/Iran-says-harassment-of-its-commercial-shipping-shows-US-is-still",
-      "published_date": "2026-08-03T11:15:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran, Muscat negotiating temporary Hormuz shipping corridor as talks continue",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227034/Tehran-Muscat-negotiating-temporary-Hormuz-shipping-corridor",
-      "published_date": "2026-08-03T11:00:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM spox reiterates dialogue as only solution to Yemeni issue",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86226986/FM-spox-reiterates-dialogue-as-only-solution-to-Yemeni-issue",
-      "published_date": "2026-08-03T10:54:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Islamabad hosts 10th Iran-Pakistan Joint Trade Cmte. meeting",
+      "title": "PLA celebrates 99th founding anniversary",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246735/Islamabad-hosts-10th-Iran-Pakistan-Joint-Trade-Cmte-meeting",
-      "published_date": "2026-08-03T09:42:06Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246767/PLA-celebrates-99th-founding-anniversary",
+      "published_date": "2026-08-05T05:52:37Z",
+      "category": "Military"
     },
     {
-      "title": "Islamabad hosts 10th meeting of Pakistan–Iran Joint Trade Committee",
+      "title": "Radar hit cripples Saudi airport amid Yemeni retaliation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246766/Radar-hit-cripples-Saudi-airport-amid-Yemeni-retaliation",
+      "published_date": "2026-08-05T05:46:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Arbaeen strengthens religious understanding, Iran–Iraq academic ties: Iranian minister",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86226693/Islamabad-hosts-10th-meeting-of-Pakistan-Iran-Joint-Trade-Committee",
-      "published_date": "2026-08-03T08:46:39Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86228155/Arbaeen-strengthens-religious-understanding-Iran-Iraq-academic",
+      "published_date": "2026-08-05T05:44:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "In photos: Final farewell to family killed in US attack on Iran’s Qeshm Island",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86228135/In-photos-Final-farewell-to-family-killed-in-US-attack-on-Iran-s",
+      "published_date": "2026-08-05T05:27:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Explosion rocks Yemeni capital Sanaa",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246765/Explosion-rocks-Yemeni-capital-Sanaa",
+      "published_date": "2026-08-05T04:59:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli regime builds more military bases in south Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246764/Israeli-regime-builds-more-military-bases-in-south-Lebanon",
+      "published_date": "2026-08-05T04:54:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "US’s THAAD interceptors depleted by up to 80%: Media",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246763/US-s-THAAD-interceptors-depleted-by-up-to-80-Media",
+      "published_date": "2026-08-05T04:16:38Z",
+      "category": "Military"
     },
     {
       "title": "New York art installation mocking Trump’s Iran policy gains international attention",
@@ -214,74 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Yemen attacks Saudi Arabia's airport in Najran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246755/Yemen-attacks-Saudi-Arabia-s-airport-in-Najran",
-      "published_date": "2026-08-04T11:34:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-US MoU stopped Israeli aggression: Hezbollah chief",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246752/Iran-US-MoU-stopped-Israeli-aggression-Hezbollah-chief",
-      "published_date": "2026-08-04T08:31:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "11 killed, injured in drone attack on Moscow Region",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246750/11-killed-injured-in-drone-attack-on-Moscow-Region",
-      "published_date": "2026-08-04T07:02:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cleric hails resolve of families of martyrs who ascended in recent US terrorist attacks",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227559/Cleric-hails-resolve-of-families-of-martyrs-who-ascended-in-recent",
-      "published_date": "2026-08-04T06:19:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "US oil reserve strategy: A futile gamble amid Iran's Strait of Hormuz leverage",
+      "title": "Iran’s electricity industry transitioning to advanced models",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528817/US-oil-reserve-strategy-A-futile-gamble-amid-Iran-s-Strait-of",
-      "published_date": "2026-08-04T05:10:23Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/528853/Iran-s-electricity-industry-transitioning-to-advanced-models",
+      "published_date": "2026-08-05T04:37:57Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran dealt heavy blow to US army in recent 17-day battle",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246747/Iran-dealt-heavy-blow-to-US-army-in-recent-17-day-battle",
-      "published_date": "2026-08-03T21:13:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran has ‘total intelligence superiority’ in northwest",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246746/Iran-has-total-intelligence-superiority-in-northwest",
-      "published_date": "2026-08-03T20:33:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC commander: Iran has total intelligence superiority in northwestern part",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227432/IRGC-commander-Iran-has-total-intelligence-superiority-in-northwestern",
-      "published_date": "2026-08-03T19:35:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Gaza Peace Council ties to help Israel force out Gaza people",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227264/Gaza-Peace-Council-ties-to-help-Israel-force-out-Gaza-people",
-      "published_date": "2026-08-03T14:20:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Moscow claims 14 killed, 59 injured in Ukrainian drone attack",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246739/Moscow-claims-14-killed-59-injured-in-Ukrainian-drone-attack",
-      "published_date": "2026-08-03T13:49:25Z",
-      "category": "Military"
+      "title": "Capacity for collecting flare gases increases",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528852/Capacity-for-collecting-flare-gases-increases",
+      "published_date": "2026-08-05T04:33:54Z",
+      "category": "Energy"
     },
     {
       "title": "Small solar power plants to be developed for electricity generation at consumption point",
@@ -347,11 +361,32 @@
       "category": "Energy"
     },
     {
-      "title": "Iran criticizes IAEA on safeguards, urges to abide by Statute",
+      "title": "Official urges Iran, Pakistan to move beyond goods trade toward economic partnership",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228451/Official-urges-Iran-Pakistan-to-move-beyond-goods-trade-toward",
+      "published_date": "2026-08-05T09:53:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran, Pakistan emphasize strengthening trade, economic coop.",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246617/Iran-criticizes-IAEA-on-safeguards-urges-to-abide-by-Statute",
-      "published_date": "2026-07-29T07:50:24Z",
-      "category": "Energy"
+      "url": "https://en.mehrnews.com/news/246777/Iran-Pakistan-emphasize-strengthening-trade-economic-coop",
+      "published_date": "2026-08-05T08:36:39Z",
+      "category": "Economy"
+    },
+    {
+      "title": "VIDEO: Israel forces demolishing Palestinian home in Maniya",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246775/VIDEO-Israel-forces-demolishing-Palestinian-home-in-al-Maniya",
+      "published_date": "2026-08-05T08:10:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Multiple blasts reported in UAE capital",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246760/Multiple-blasts-reported-in-UAE-capital",
+      "published_date": "2026-08-05T03:44:14Z",
+      "category": "Economy"
     },
     {
       "title": "Iran minister of industry meets with Pakistani stakeholders in Islamabad",
@@ -466,18 +501,123 @@
       "category": "Economy"
     },
     {
-      "title": "Antony Loewenstein’s “The Palestine Laboratory” published in Persian",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528685/Antony-Loewenstein-s-The-Palestine-Laboratory-published-in",
-      "published_date": "2026-07-29T18:23:58Z",
-      "category": "Economy"
+      "title": "Palestine “foremost issue of Islamic world”: Pres. Pezeshkian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246783/Palestine-foremost-issue-of-Islamic-world-Pres-Pezeshkian",
+      "published_date": "2026-08-05T11:15:47Z",
+      "category": "Local Events"
     },
     {
-      "title": "US, Saudi Arabia launch joint aggression on Iraq",
+      "title": "Iran’s interior minister meets new Pakistani ambassador",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228567/Iran-s-interior-minister-meets-new-Pakistani-ambassador",
+      "published_date": "2026-08-05T10:47:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: China launches Smart Dragon-3 carrier rocket from sea",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246609/US-Saudi-Arabia-launch-joint-aggression-on-Iraqi-Resistance",
-      "published_date": "2026-07-29T04:20:56Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/246782/VIDEO-China-launches-Smart-Dragon-3-carrier-rocket-from-sea",
+      "published_date": "2026-08-05T10:47:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s fixtures at 2027 Basketball World Cup Asian Qualifiers revealed",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528858/Iran-s-fixtures-at-2027-Basketball-World-Cup-Asian-Qualifiers",
+      "published_date": "2026-08-05T10:12:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Iran’s northern mountain road offers scenic natural journeys",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86228374/In-photos-Iran-s-northern-mountain-road-offers-scenic-natural",
+      "published_date": "2026-08-05T09:38:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senior lawmaker warns US to soon be expelled from region",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246779/Senior-lawmaker-warns-US-to-soon-to-be-expelled-from-region",
+      "published_date": "2026-08-05T09:31:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel burns over 120-ha olive groves in southern Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246778/Israel-burns-over-120-ha-olive-groves-in-southern-Lebanon",
+      "published_date": "2026-08-05T09:00:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamic Human Rights Day symbol of Muslim countries’ resistance against Western hegemony: Statement",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228344/Islamic-Human-Rights-Day-symbol-of-Muslim-countries-resistance",
+      "published_date": "2026-08-05T08:46:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spectrum: Timeless Message of Karbala",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528856/Spectrum-Timeless-Message-of-Karbala",
+      "published_date": "2026-08-05T08:18:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran set to compete at Iraq’s four-nation tournament: report",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528855/Iran-set-to-compete-at-Iraq-s-four-nation-tournament-report",
+      "published_date": "2026-08-05T08:17:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader’s office dismisses claim regarding Pezeshkian's letter",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246773/Leader-s-office-dismisses-claim-regarding-Pezeshkian-s-letter",
+      "published_date": "2026-08-05T07:43:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Tehran rallies mark Arbaeen for those unable to travel to Karbala in Iraq",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86228217/In-photos-Tehran-rallies-mark-Arbaeen-for-those-unable-to-travel",
+      "published_date": "2026-08-05T07:42:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli forces raid Qalandiya camp in occupied West Bank",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246771/Israeli-forces-raid-Qalandiya-camp-in-occupied-West-Bank",
+      "published_date": "2026-08-05T06:48:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Experts urge heritage protection as UNESCO adds 6 MENA sites",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246769/Experts-urge-heritage-protection-as-UNESCO-adds-6-MENA-sites",
+      "published_date": "2026-08-05T06:00:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China commited to preserving cultural legacy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246768/China-commited-to-preserving-cultural-legacy",
+      "published_date": "2026-08-05T05:55:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fisheries transformation plan being prepared",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528854/Fisheries-transformation-plan-being-prepared",
+      "published_date": "2026-08-05T04:40:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump claims US having ‘very good discussions’ with Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246762/Trump-claims-US-having-very-good-discussions-with-Iran",
+      "published_date": "2026-08-05T04:02:57Z",
+      "category": "Local Events"
     },
     {
       "title": "15390",
@@ -498,125 +638,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528850/The-Biggest-Red-Banner-of-Vengeance-Rises-in-Karbala",
       "published_date": "2026-08-04T17:49:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "21st Tehran-Mobarak International Puppet Theater Festival to kick off at TMoCA",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528832/21st-Tehran-Mobarak-International-Puppet-Theater-Festival-to",
-      "published_date": "2026-08-04T17:44:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sohrab Pournazeri joins Grammy Recording Academy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528833/Sohrab-Pournazeri-joins-Grammy-Recording-Academy",
-      "published_date": "2026-08-04T17:41:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gradual attrition: The cornerstone of the new US strategy against Hezbollah",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528845/Gradual-attrition-The-cornerstone-of-the-new-US-strategy-against",
-      "published_date": "2026-08-04T17:36:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two more Palestinians killed in Gaza; death toll rises to 73,3377",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86227899/Two-more-Palestinians-killed-in-Gaza-death-toll-rises-to-73-3377",
-      "published_date": "2026-08-04T15:01:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arbaeen marked in Zanjan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/246758/Arbaeen-marked-in-Zanjan",
-      "published_date": "2026-08-04T14:06:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "French archaeologist calls for more research into Sasanian military architecture",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528840/French-archaeologist-calls-for-more-research-into-Sasanian-military",
-      "published_date": "2026-08-04T14:06:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Heritage benefactor steps forward to restore Isfahan's historic Sheikh Bahai Bathhouse",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528838/Heritage-benefactor-steps-forward-to-restore-Isfahan-s-historic",
-      "published_date": "2026-08-04T13:46:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hazratpour: Iran will come back stronger after difficult VNL",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528837/Hazratpour-Iran-will-come-back-stronger-after-difficult-VNL",
-      "published_date": "2026-08-04T13:34:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "HEGTA chief highlights Ardabil’s potential as a storytelling destination",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528835/HEGTA-chief-highlights-Ardabil-s-potential-as-a-storytelling",
-      "published_date": "2026-08-04T13:29:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to compete in beach soccer tournament in Russia",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528836/Iran-to-compete-in-beach-soccer-tournament-in-Russia",
-      "published_date": "2026-08-04T13:19:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International eulogy album “Ya Latharat al-Imam” to be released",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528764/International-eulogy-album-Ya-Latharat-al-Imam-to-be-released",
-      "published_date": "2026-08-04T12:53:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Imam Hussein (AS); The ship of salvation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246757/Imam-Hussein-AS-The-ship-of-salvation",
-      "published_date": "2026-08-04T12:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royan Institute, Kazakhstan NCB agree to develop sci-tech co-op",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528825/Royan-Institute-Kazakhstan-NCB-agree-to-develop-sci-tech-co-op",
-      "published_date": "2026-08-04T11:48:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "WFP releases June report on Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528823/WFP-releases-June-report-on-Iran",
-      "published_date": "2026-08-04T11:44:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khwarizmi Youth Festival extends registration deadline",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528821/Khwarizmi-Youth-Festival-extends-registration-deadline",
-      "published_date": "2026-08-04T11:41:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Arbaeen marked at Imam Reza (AS) holy shrine",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246756/VIDEO-Arbaeen-marked-at-Imam-Reza-AS-holy-shrine",
-      "published_date": "2026-08-04T11:37:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's Sanandaj marks Arbaeen occasion",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/246754/Iran-s-Sanandaj-marks-Arbaeen-occasion",
-      "published_date": "2026-08-04T11:10:03Z",
       "category": "Local Events"
     }
   ]
