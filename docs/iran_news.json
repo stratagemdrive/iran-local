@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-05T23:46:54Z",
-  "total_stories": 91,
+  "generated_at": "2026-08-06T13:03:53Z",
+  "total_stories": 90,
   "stories": [
+    {
+      "title": "Arab, Islamic nations condemn continued Israeli aggression in Gaza",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229256/Arab-Islamic-nations-condemn-continued-Israeli-aggression-in",
+      "published_date": "2026-08-06T12:38:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s industry min. meets with Pakistani PM in Islamabad",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246794/Iran-s-industry-min-meets-with-Pakistani-PM-in-Islamabad",
+      "published_date": "2026-08-06T06:07:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gharibabadi: Agreement between Iran and Oman on arrangements for Strait of Hormuz is finalizing",
       "source": "IRNA",
@@ -130,18 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Pakistan reaffirm $10 bn trade goal, advance free trade agreement",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228393/Iran-Pakistan-reaffirm-10-bn-trade-goal-advance-free-trade",
-      "published_date": "2026-08-05T09:16:45Z",
-      "category": "Diplomacy"
+      "title": "Israeli army deliberately killed Lebanese journalist \"Khalil\"",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246804/Israeli-army-deliberately-killed-Lebanese-journalist-Khalil",
+      "published_date": "2026-08-06T12:27:27Z",
+      "category": "Military"
     },
     {
-      "title": "FM Araghchi meets Iraqi officials during Arbaeen pilgrimage",
+      "title": "Years of planning conducted to counter US bases: Comdr",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229231/Years-of-planning-conducted-to-counter-US-bases-Comdr",
+      "published_date": "2026-08-06T11:39:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Armed Forces fully prepared to counter any threat: Acting defense minister",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229190/Armed-Forces-fully-prepared-to-counter-any-threat-Acting-defense",
+      "published_date": "2026-08-06T10:31:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Army maintaining full military readiness despite recent wars: Spokesperson",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229153/Army-maintaining-full-military-readiness-despite-recent-wars",
+      "published_date": "2026-08-06T09:46:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s domestic tech. outmatches any imported sys. in region",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246776/FM-Araghchi-meets-Iraqi-officials-during-Arbaeen-pilgrimage",
-      "published_date": "2026-08-05T08:23:46Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246801/Iran-s-domestic-tech-superior-to-any-imported-sys-in-region",
+      "published_date": "2026-08-06T09:04:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran Air Force ready to sacrifice lives in defense of nation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246800/Iran-Air-Force-ready-to-sacrifice-lives-in-defense-of-nation",
+      "published_date": "2026-08-06T08:51:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Air Force commander vows steadfast defense against enemy aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229101/Air-Force-commander-vows-steadfast-defense-against-enemy-aggression",
+      "published_date": "2026-08-06T08:40:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s Army Force fully prepared to confront enemies: spox",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246799/Iran-s-Army-Force-fully-prepared-to-confront-enemies-spox",
+      "published_date": "2026-08-06T07:41:49Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, Iraq emphasize broadening scientific-cultural coop.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246797/Iran-Iraq-emphasize-broadening-scientific-cultural-coop",
+      "published_date": "2026-08-06T07:09:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran, Iraq stress expanding scientific and cultural cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86228983/Iran-Iraq-stress-expanding-scientific-and-cultural-cooperation",
+      "published_date": "2026-08-06T06:07:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump grows increasingly disappointed over Iran's retaliation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246793/Trump-grows-increasingly-frustrated-over-Iran-retaliation",
+      "published_date": "2026-08-06T05:50:16Z",
+      "category": "Military"
     },
     {
       "title": "Over 16,000 entries received for Minab school literary award",
@@ -204,83 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246784/Russian-drone-factory-director-badly-injured-in-car-explosion",
       "published_date": "2026-08-05T12:48:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll in Israel’s genocidal war on Gaza reaches 73,381",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246780/Death-toll-in-Israel-s-genocidal-war-on-Gaza-reaches-73-381",
-      "published_date": "2026-08-05T09:44:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen strikes Saudi oil tanker in Red Sea",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246774/Yemen-strikes-Saudi-tanker-in-Red-Sea",
-      "published_date": "2026-08-05T07:59:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "PLA celebrates 99th founding anniversary",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246767/PLA-celebrates-99th-founding-anniversary",
-      "published_date": "2026-08-05T05:52:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Radar hit cripples Saudi airport amid Yemeni retaliation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246766/Radar-hit-cripples-Saudi-airport-amid-Yemeni-retaliation",
-      "published_date": "2026-08-05T05:46:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Arbaeen strengthens religious understanding, Iran–Iraq academic ties: Iranian minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228155/Arbaeen-strengthens-religious-understanding-Iran-Iraq-academic",
-      "published_date": "2026-08-05T05:44:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "In photos: Final farewell to family killed in US attack on Iran’s Qeshm Island",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86228135/In-photos-Final-farewell-to-family-killed-in-US-attack-on-Iran-s",
-      "published_date": "2026-08-05T05:27:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Explosion rocks Yemeni capital Sanaa",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246765/Explosion-rocks-Yemeni-capital-Sanaa",
-      "published_date": "2026-08-05T04:59:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli regime builds more military bases in south Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246764/Israeli-regime-builds-more-military-bases-in-south-Lebanon",
-      "published_date": "2026-08-05T04:54:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "US’s THAAD interceptors depleted by up to 80%: Media",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246763/US-s-THAAD-interceptors-depleted-by-up-to-80-Media",
-      "published_date": "2026-08-05T04:16:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "New York art installation mocking Trump’s Iran policy gains international attention",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528831/New-York-art-installation-mocking-Trump-s-Iran-policy-gains-international",
-      "published_date": "2026-08-04T17:40:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s ineffective threats",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528829/Trump-s-ineffective-threats",
-      "published_date": "2026-08-04T17:40:27Z",
       "category": "Military"
     },
     {
@@ -354,11 +354,11 @@
       "category": "Energy"
     },
     {
-      "title": "Qatari LNG cargo uses Iran-designated route in Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246641/Qatari-LNG-cargo-uses-Iran-designated-route-in-Hormuz",
-      "published_date": "2026-07-30T10:16:40Z",
-      "category": "Energy"
+      "title": "Iran, Kyrgyzstan agree to boost trade, mining, economic cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229277/Iran-Kyrgyzstan-agree-to-boost-trade-mining-economic-cooperation",
+      "published_date": "2026-08-06T13:00:02Z",
+      "category": "Economy"
     },
     {
       "title": "Official urges Iran, Pakistan to move beyond goods trade toward economic partnership",
@@ -494,11 +494,46 @@
       "category": "Economy"
     },
     {
-      "title": "Iran and Armenia seek to turn joint corridor into an engine of regional growth",
+      "title": "US expansion of nuclear arsenal 'a threat to all humanity'",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246803/US-expansion-of-nuclear-arsenal-a-threat-to-all-humanity",
+      "published_date": "2026-08-06T12:06:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Intel. min. arrests 21 Mossad-linked mercenaries in SE Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246802/Intel-min-arrests-21-Mossad-linked-mercenaries-in-SE-Iran",
+      "published_date": "2026-08-06T11:45:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "China puts 2 AI-powered satellites into orbit",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246798/China-puts-2-AI-powered-satellites-into-orbit",
+      "published_date": "2026-08-06T07:13:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight armed suspects linked to terrorist groups arrested in southeast Iran: IRGC",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86223464/Iran-and-Armenia-seek-to-turn-joint-corridor-into-an-engine-of",
-      "published_date": "2026-07-30T05:55:26Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86229010/Eight-armed-suspects-linked-to-terrorist-groups-arrested-in-southeast",
+      "published_date": "2026-08-06T06:56:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World’s fastest-growing Ebola outbreak is spreading faster",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246796/World-s-fastest-growing-Ebola-outbreak-is-spreading-faster",
+      "published_date": "2026-08-06T06:48:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight armed operatives arrested in SE Iran: IRGC Ground Force",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246795/IRGC-Ground-Force-nabs-8-armed-militants-in-SE-Iran",
+      "published_date": "2026-08-06T06:21:20Z",
+      "category": "Local Events"
     },
     {
       "title": "15391",
@@ -596,48 +631,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528868/Health-ministry-receives-two-refrigerated-vaccine-trucks-from",
       "published_date": "2026-08-05T16:20:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamabad will continue sincere efforts for regional peace: Pakistani PM",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228737/Islamabad-will-continue-sincere-efforts-for-regional-peace-Pakistani",
-      "published_date": "2026-08-05T14:58:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian reporter describes Arbaeen as “amazing and incredible” ritual",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228731/Russian-reporter-describes-Arbaeen-as-amazing-and-incredible",
-      "published_date": "2026-08-05T14:27:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Rostamian climbs to fifth spot in world shooting ranking",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228663/Iran-s-Rostamian-climbs-to-fifth-spot-in-world-shooting-ranking",
-      "published_date": "2026-08-05T13:22:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNESCO committee approves conservation report for Iran's Hegmataneh",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528864/UNESCO-committee-approves-conservation-report-for-Iran-s-Hegmataneh",
-      "published_date": "2026-08-05T13:10:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "University of Tehran archaeologist warns against repeat of Jiroft civilization looting",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528865/University-of-Tehran-archaeologist-warns-against-repeat-of-Jiroft",
-      "published_date": "2026-08-05T13:09:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Palestine “foremost issue of Islamic world”: Pres. Pezeshkian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246783/Palestine-foremost-issue-of-Islamic-world-Pres-Pezeshkian",
-      "published_date": "2026-08-05T11:15:47Z",
       "category": "Local Events"
     }
   ]
