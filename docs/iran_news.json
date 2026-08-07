@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-06T13:03:53Z",
+  "generated_at": "2026-08-07T01:40:53Z",
   "total_stories": 90,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Members of a terrorist team killed in southeastern Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229343/Members-of-a-terrorist-team-killed-in-southeastern-Iran",
+      "published_date": "2026-08-06T15:29:34Z",
+      "category": "Military"
+    },
+    {
       "title": "Israeli army deliberately killed Lebanese journalist \"Khalil\"",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246804/Israeli-army-deliberately-killed-Lebanese-journalist-Khalil",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Russian drone factory director badly injured in car explosion",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246784/Russian-drone-factory-director-badly-injured-in-car-explosion",
-      "published_date": "2026-08-05T12:48:21Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran’s fuel supply uninterrupted despite US–Israeli terrorist attacks on infrastructure: Official",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86228652/Iran-s-fuel-supply-uninterrupted-despite-US-Israeli-terrorist",
@@ -352,6 +352,13 @@
       "url": "https://en.mehrnews.com/news/246669/Yemen-forces-8-Saudi-oil-tankers-to-change-course",
       "published_date": "2026-08-01T05:06:53Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran, China to expand strategic trade, transit cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229371/Iran-China-to-expand-strategic-trade-transit-cooperation",
+      "published_date": "2026-08-06T16:29:15Z",
+      "category": "Economy"
     },
     {
       "title": "Iran, Kyrgyzstan agree to boost trade, mining, economic cooperation",
@@ -487,11 +494,18 @@
       "category": "Economy"
     },
     {
-      "title": "Trump's economic failure: 97,000 workers axed amid AI hype, negligence",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528726/Trump-s-economic-failure-97-000-workers-axed-amid-AI-hype-negligence",
-      "published_date": "2026-07-31T13:33:35Z",
-      "category": "Economy"
+      "title": "Ghalibaf: US strategy of bullying and broken promises failed",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229484/Ghalibaf-US-strategy-of-bullying-and-broken-promises-failed",
+      "published_date": "2026-08-07T01:38:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian stresses resilience and regional cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229482/Pezeshkian-stresses-resilience-and-regional-cooperation",
+      "published_date": "2026-08-07T01:19:41Z",
+      "category": "Local Events"
     },
     {
       "title": "US expansion of nuclear arsenal 'a threat to all humanity'",
@@ -617,20 +631,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86228802/President-Pezeshkian-to-address-nation-in-televised-interview",
       "published_date": "2026-08-05T16:51:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Iran to Europe: El Niño, climate change about to turn up the heat",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528870/From-Iran-to-Europe-El-Ni%C3%B1o-climate-change-about-to-turn-up",
-      "published_date": "2026-08-05T16:39:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health ministry receives two refrigerated vaccine trucks from IOM",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528868/Health-ministry-receives-two-refrigerated-vaccine-trucks-from",
-      "published_date": "2026-08-05T16:20:26Z",
       "category": "Local Events"
     }
   ]
