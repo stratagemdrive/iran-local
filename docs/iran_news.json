@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-07T01:40:53Z",
+  "generated_at": "2026-08-07T11:51:51Z",
   "total_stories": 90,
   "stories": [
+    {
+      "title": "Iran, Azerbaijan agree to expand sports and youth cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229675/Iran-Azerbaijan-agree-to-expand-sports-and-youth-cooperation",
+      "published_date": "2026-08-07T10:31:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Japan’s ambassador pledges full support for Iran’s participation in Nagoya",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528886/Japan-s-ambassador-pledges-full-support-for-Iran-s-participation",
+      "published_date": "2026-08-07T08:52:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FM Araghchi , Mauritanian counterpart discuss regional developments over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229487/FM-Araghchi-Mauritanian-counterpart-discuss-regional-developments",
+      "published_date": "2026-08-07T01:51:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Arab, Islamic nations condemn continued Israeli aggression in Gaza",
       "source": "IRNA",
@@ -123,25 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Japanese envoy celebrates 100th anniversary of Tehran–Tokyo diplomatic ties",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228576/Japanese-envoy-celebrates-100th-anniversary-of-Tehran-Tokyo-diplomatic",
-      "published_date": "2026-08-05T10:56:34Z",
-      "category": "Diplomacy"
+      "title": "Sardar Azmoun linked with Esteghlal",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528888/Sardar-Azmoun-linked-with-Esteghlal",
+      "published_date": "2026-08-07T11:04:20Z",
+      "category": "Military"
     },
     {
-      "title": "Iran supports Palestinian leaders’ decisions in negotiations: President Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228550/Iran-supports-Palestinian-leaders-decisions-in-negotiations",
-      "published_date": "2026-08-05T10:37:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "VIDEO: Japanese envoy joins Tehran orchestra on flute",
+      "title": "Iranian pilots bombed US bases without using GPS",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246781/VIDEO-Japanese-envoy-joins-Tehran-orchestra-on-flute",
-      "published_date": "2026-08-05T09:55:02Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/246809/Iranian-pilots-bombed-US-bases-without-using-GPS",
+      "published_date": "2026-08-07T10:49:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli artillery strikes hit southern Lebanon",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229621/Israeli-artillery-strikes-hit-southern-Lebanon",
+      "published_date": "2026-08-07T10:00:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump admits to serious ammunition shortages in US army",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246807/Trump-admits-to-serious-ammunition-shortages-in-US-army",
+      "published_date": "2026-08-07T05:59:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran not to allow opening of second corridor in Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246805/Iran-not-to-allow-opening-of-second-corridor-in-Hormuz",
+      "published_date": "2026-08-07T05:17:50Z",
+      "category": "Military"
     },
     {
       "title": "Members of a terrorist team killed in southeastern Iran",
@@ -246,41 +281,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528875/Iran-s-health-minister-denounces-US-Israeli-strike-against-Lamerd",
       "published_date": "2026-08-05T18:15:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Investigative reports: Severe US munition depletion forces Trump to halt Iran war",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528874/Investigative-reports-Severe-US-munition-depletion-forces-Trump",
-      "published_date": "2026-08-05T18:12:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s legal battle against the US and Israel",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528878/Attorney-details-efforts-to-document-US-Israeli-war-crimes-plans",
-      "published_date": "2026-08-05T17:19:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen strikes Saudi oil tanker in Red Sea",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528879/Yemen-strikes-Saudi-oil-tanker-in-Red-Sea",
-      "published_date": "2026-08-05T17:09:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Loud explosion reported near ship off Yemen raises alarm",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246788/Loud-explosion-reported-near-ship-off-Yemen-raises-alarm",
-      "published_date": "2026-08-05T16:50:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s legal battle against the US and Israel",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528857/Iran-s-legal-battle-against-the-US-and-Israel",
-      "published_date": "2026-08-05T15:46:42Z",
       "category": "Military"
     },
     {
@@ -494,6 +494,41 @@
       "category": "Economy"
     },
     {
+      "title": "Senior cleric thanks Iraq for hospitality in Arbaeen",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246810/Senior-cleric-thanks-Iraq-for-hospitality-in-Arbaeen",
+      "published_date": "2026-08-07T11:22:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish coach Joaquin Gil to join Esteghlal coaching staff",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/528887/Spanish-coach-Joaquin-Gil-to-join-Esteghlal-coaching-staff",
+      "published_date": "2026-08-07T10:39:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least six killed, 15 wounded in Thailand school shooting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246808/At-least-six-killed-15-wounded-in-Thailand-school-shooting",
+      "published_date": "2026-08-07T08:50:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 1 million Arbaeen pilgrims return to Iran via Khuzestan borders",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86229553/More-than-1-million-Arbaeen-pilgrims-return-to-Iran-via-Khuzestan",
+      "published_date": "2026-08-07T07:59:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US strategy of bullying and broken promises has failed",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/246806/US-strategy-of-bullying-and-broken-promises-has-failed",
+      "published_date": "2026-08-07T05:26:35Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ghalibaf: US strategy of bullying and broken promises failed",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86229484/Ghalibaf-US-strategy-of-bullying-and-broken-promises-failed",
@@ -596,41 +631,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/528869/Rouhani-US-Israel-made-fundamental-miscalculation-over-Iran-s",
       "published_date": "2026-08-05T18:16:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian reaffirms Palestine as Muslim's top priority",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528882/Pezeshkian-reaffirms-Palestine-as-Muslim-s-top-priority",
-      "published_date": "2026-08-05T17:48:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Surveillance of Sciences Po students critical of Israel shows free speech rings hollow in France",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528880/Surveillance-of-Sciences-Po-students-critical-of-Israel-shows",
-      "published_date": "2026-08-05T17:15:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdul El-Sayed defeats AIPAC-backed rival in Michigan Democratic Senate primary",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528876/Abdul-El-Sayed-defeats-AIPAC-backed-rival-in-Michigan-Democratic",
-      "published_date": "2026-08-05T17:05:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 110 earthquakes hit Iran in a week",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/528871/Over-110-earthquakes-hit-Iran-in-a-week",
-      "published_date": "2026-08-05T17:05:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian to address nation in televised interview series",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86228802/President-Pezeshkian-to-address-nation-in-televised-interview",
-      "published_date": "2026-08-05T16:51:23Z",
       "category": "Local Events"
     }
   ]
