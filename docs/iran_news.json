@@ -1,8 +1,71 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-18T11:33:24Z",
-  "total_stories": 91,
+  "generated_at": "2026-08-18T23:12:55Z",
+  "total_stories": 92,
   "stories": [
+    {
+      "title": "Iran declares two French diplomats persona non grata",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239436/Iran-declares-two-French-diplomats-persona-non-grata",
+      "published_date": "2026-08-18T22:22:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: 40-day war shattered illusion of US-provided security",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239400/Araghchi-40-day-war-shattered-illusion-of-US-provided-security",
+      "published_date": "2026-08-18T19:45:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Welcome to a post-American order in the Persian Gulf: Rezaei",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247079/Welcome-to-a-post-American-order-in-the-Persian-Gulf-Rezaei",
+      "published_date": "2026-08-18T19:45:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Top security official: US failure at Hormuz signals ‘post-American order’ in Persian Gulf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239375/Top-security-official-US-failure-at-Hormuz-signals-post-American",
+      "published_date": "2026-08-18T18:56:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas official: Disarming Resistance cannot be a precondition for any agreement",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529202/Hamas-official-Disarming-Resistance-cannot-be-a-precondition",
+      "published_date": "2026-08-18T17:12:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian FM set to review two‑year foreign policy record before public",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239270/Iranian-FM-set-to-review-two-year-foreign-policy-record-before",
+      "published_date": "2026-08-18T15:39:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran marks 40 days since funeral ceremony of martyred Leader",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239226/Iran-marks-40-days-since-funeral-ceremony-of-martyred-Leader",
+      "published_date": "2026-08-18T14:58:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gharibabadi rebukes trump over strait of Hormuz claim",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239150/Gharibabadi-rebukes-trump-over-strait-of-Hormuz-claim",
+      "published_date": "2026-08-18T13:13:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran envoy in Mexico hails Fidel Castro as symbol of national independence",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239047/Iran-envoy-in-Mexico-hails-Fidel-Castro-as-symbol-of-national",
+      "published_date": "2026-08-18T11:38:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Hormuz Strait will not reopen until US blockade, oil sanctions on Iran stop: Ghalibaf",
       "source": "IRNA",
@@ -81,67 +144,95 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iranian, Iraqi FMs discuss regional security in phone call",
+      "title": "How did Iranian strikes damage Abraham Lincoln carrier?",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247051/Iranian-Iraqi-FMs-discuss-regional-security-in-phone-call",
-      "published_date": "2026-08-17T21:47:24Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247076/How-did-Iranian-strikes-damage-Abraham-Lincoln-carrier",
+      "published_date": "2026-08-18T17:56:38Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi raps attack on Barzani's office as false flag op.",
+      "title": "Pentagon admits no military plan can secure Hormuz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247050/Araghchi-rejects-attack-on-Barzani-s-office-as-false-flag-op",
-      "published_date": "2026-08-17T19:13:32Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247075/Pentagon-concedes-no-military-plan-can-secure-Hormuz",
+      "published_date": "2026-08-18T17:38:02Z",
+      "category": "Military"
     },
     {
-      "title": "Gharibabadi: Iran–China ties built on mutual respect",
+      "title": "Arab, Islamic nations slam fresh Israeli aggression against Syria",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238361/Gharibabadi-Iran-China-ties-built-on-mutual-respect",
-      "published_date": "2026-08-17T18:54:18Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86239333/Arab-Islamic-nations-slam-fresh-Israeli-aggression-against-Syria",
+      "published_date": "2026-08-18T17:37:13Z",
+      "category": "Military"
     },
     {
-      "title": "Iran demands global tribunals after Ben-Gvir urges daily slaughter quota in Gaza",
+      "title": "Iraqi resistance group sets conditions over weapons",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529157/Iran-demands-global-tribunals-after-Ben-Gvir-urges-daily-slaughter",
-      "published_date": "2026-08-17T18:30:46Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529200/Iraqi-resistance-group-sets-conditions-over-weapons",
+      "published_date": "2026-08-18T17:14:15Z",
+      "category": "Military"
     },
     {
-      "title": "“The Murder of Mr. Haversham” to return to stage for fourth run",
+      "title": "Despite al-Jolani’s appeasement, Israel strikes Syrian airfield, warning Ankara",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529072/The-Murder-of-Mr-Haversham-to-return-to-stage-for-fourth-run",
-      "published_date": "2026-08-17T18:24:23Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529201/Despite-al-Jolani-s-appeasement-Israel-strikes-Syrian-airfield",
+      "published_date": "2026-08-18T17:13:43Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Uzbekistan discuss expanding joint artistic cooperation",
+      "title": "Trump’s threat to bomb Oman triggers backlash across Arab world and US",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529139/Iran-Uzbekistan-discuss-expanding-joint-artistic-cooperation",
-      "published_date": "2026-08-17T18:23:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529204/Trump-s-threat-to-bomb-Oman-triggers-backlash-across-Arab-world",
+      "published_date": "2026-08-18T17:13:25Z",
+      "category": "Military"
     },
     {
-      "title": "Iran rules out talks on extension of Islamabad MoU",
+      "title": "Trump’s collapsing popularity exposes strategic failure in the war against Iran",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529159/Iran-rules-out-talks-on-extension-of-Islamabad-MoU",
-      "published_date": "2026-08-17T18:03:17Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529187/Trump-s-collapsing-popularity-exposes-strategic-failure-in-the",
+      "published_date": "2026-08-18T17:10:45Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi meets new Thai ambassador, UNDP representative in Iran",
+      "title": "Erbil false-flag attack: Foreign sabotage against Iran-Iraq unity",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529185/Erbil-false-flag-attack-Foreign-sabotage-against-Iran-Iraq-unity",
+      "published_date": "2026-08-18T17:07:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "A few fistfuls of dollars for GIs",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529203/A-few-fistfuls-of-dollars-for-GIs",
+      "published_date": "2026-08-18T16:59:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shifted the debate from its nuclear program to the Strait of Hormuz: Indian Analyst",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529198/Iran-shifted-the-debate-from-its-nuclear-program-to-the-Strait",
+      "published_date": "2026-08-18T16:51:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Bulk carrier targeted in Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247074/Bulk-carrier-targeted-in-Strait-of-Hormuz",
+      "published_date": "2026-08-18T16:06:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Number of martyrs in recent US, Israel war against Iran reach 3,168",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238297/Araghchi-meets-new-Thai-ambassador-UNDP-representative-in-Iran",
-      "published_date": "2026-08-17T16:51:20Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86239151/Number-of-martyrs-in-recent-US-Israel-war-against-Iran-reach",
+      "published_date": "2026-08-18T13:08:32Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi receives Uzbekistan’s first deputy foreign minister in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238294/Araghchi-receives-Uzbekistan-s-first-deputy-foreign-minister",
-      "published_date": "2026-08-17T16:50:16Z",
-      "category": "Diplomacy"
+      "title": "DOE proposes BRICS environmental network to address ecological damage",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529177/Iran-proposes-BRICS-environmental-network-to-address-ecological",
+      "published_date": "2026-08-18T12:12:08Z",
+      "category": "Military"
     },
     {
       "title": "Iran’s Sistan and Baluchestan Province prepares to inaugurate major infrastructure projects",
@@ -193,95 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US destroyer left without power for 4 days in S China Sea",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247061/US-destroyer-left-without-power-for-4-days-in-S-China-Sea",
-      "published_date": "2026-08-18T07:14:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly 70 Russian residents killed in Ukraine attacks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247058/Nearly-70-Russian-residents-killed-in-Ukraine-attacks",
-      "published_date": "2026-08-18T05:50:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli artillery and air attacks hit southern Lebanese towns",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247056/Israeli-artillery-and-air-attacks-hit-southern-Lebanese-towns",
-      "published_date": "2026-08-18T04:52:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Four air strikes hit military airport in Syria’s Idlib",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247055/Four-air-strikes-hit-military-airport-in-Syria-s-Idlib",
-      "published_date": "2026-08-18T04:48:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Vessel struck by projectile while transiting Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247053/Vessel-struck-by-projectile-while-transiting-Strait-of-Hormuz",
-      "published_date": "2026-08-18T03:53:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian: Solidarity, hope, patience key to Iran’s resilience against foreign threats",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238428/Pezeshkian-Solidarity-hope-patience-key-to-Iran-s-resilience",
-      "published_date": "2026-08-17T23:05:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Araghchi dismisses drone attack on Barzani’s office as false-flag operation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238387/Araghchi-dismisses-drone-attack-on-Barzani-s-office-as-false-flag",
-      "published_date": "2026-08-17T19:51:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC deputy chief: Iran has downed over 200 enemy aircraft since war began",
+      "title": "South Pars first refinery ready for sustainable gas production",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529152/IRGC-deputy-chief-Iran-has-downed-over-200-enemy-aircraft-since",
-      "published_date": "2026-08-17T18:29:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Exclusive | Foreign Ministry Spokesperson calls drone attack on Iraqi Kurdistan PM’s office ‘highly suspicious’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238349/Exclusive-Foreign-Ministry-Spokesperson-calls-drone-attack",
-      "published_date": "2026-08-17T18:24:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump seeking scapegoats after failed military gamble on Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529153/Trump-seeking-scapegoats-after-failed-military-gamble-on-Iran",
-      "published_date": "2026-08-17T18:17:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Army spokesman warns US against ‘miscalculation’ as MoU expires",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529154/Iranian-Army-spokesman-warns-US-against-miscalculation-as-MoU",
-      "published_date": "2026-08-17T18:16:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "Legal status of Lebanese Hezbollah resistance movement under international law",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529161/Legal-status-of-Lebanese-Hezbollah-resistance-movement-under",
-      "published_date": "2026-08-17T18:11:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran economy minister dismisses U.S. \"unprecedented\" threat as policy frustration sign",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529160/Iran-economy-minister-dismisses-U-S-unprecedented-threat-as",
-      "published_date": "2026-08-17T18:09:26Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/529193/South-Pars-first-refinery-ready-for-sustainable-gas-production",
+      "published_date": "2026-08-18T15:11:22Z",
+      "category": "Energy"
     },
     {
       "title": "US strategic oil reserve drops to lowest level since 1982",
@@ -361,6 +368,69 @@
       "category": "Energy"
     },
     {
+      "title": "Sarah’s war against the rest of civilization",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529199/Sarah-s-war-against-the-rest-of-civilization",
+      "published_date": "2026-08-18T17:14:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "40th-day memorial ceremony for martyred Leader held at Tehran’s Imam Khomeini Mosalla",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529196/40th-day-memorial-ceremony-for-martyred-Leader-held-at-Tehran-s",
+      "published_date": "2026-08-18T17:10:05Z",
+      "category": "Economy"
+    },
+    {
+      "title": "New US bone spur",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529186/New-US-bone-spur",
+      "published_date": "2026-08-18T17:06:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ardabil ranks first in Iran for foreign tourism development for second consecutive year",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529194/Ardabil-ranks-first-in-Iran-for-foreign-tourism-development-for",
+      "published_date": "2026-08-18T15:53:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Non-oil export stands at $15b in near 5 months",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529195/Non-oil-export-stands-at-15b-in-near-5-months",
+      "published_date": "2026-08-18T15:20:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran, Belarus to expand agricultural cooperation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529192/Iran-Belarus-to-expand-agricultural-cooperation",
+      "published_date": "2026-08-18T15:05:21Z",
+      "category": "Economy"
+    },
+    {
+      "title": "From south to north: How Iran is redefining trade routes in crisis times",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529190/From-south-to-north-How-Iran-is-redefining-trade-routes-in-crisis",
+      "published_date": "2026-08-18T15:00:43Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cultural heritage is Iran’s strategic asset, official says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529189/Cultural-heritage-is-Iran-s-strategic-asset-official-says",
+      "published_date": "2026-08-18T14:56:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Western anti-Iran actions repeat historical mistakes, says Iranian Embassy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239121/Western-anti-Iran-actions-repeat-historical-mistakes-says-Iranian",
+      "published_date": "2026-08-18T12:58:29Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran’s Rimdan Free Zone targets $8 billion in annual trade: Official",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86238921/Iran-s-Rimdan-Free-Zone-targets-8-billion-in-annual-trade-Official",
@@ -438,206 +508,143 @@
       "category": "Economy"
     },
     {
-      "title": "Iran, Iraq discuss expanding strategic economic cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86237206/Iran-Iraq-discuss-expanding-strategic-economic-cooperation",
-      "published_date": "2026-08-16T16:05:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "ICCIMA head announces improvement in economic activities after war shock",
+      "title": "15400",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529117/ICCIMA-head-announces-improvement-in-economic-activities-after",
-      "published_date": "2026-08-16T14:55:35Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/529207/15400",
+      "published_date": "2026-08-18T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "CBI chief pays visit to Iraq to broaden trade cooperation",
+      "title": "US won't able to force Iran make concessions under pressure",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247007/CBI-chief-pays-visit-to-Iraq-to-broaden-trade-cooperation",
-      "published_date": "2026-08-16T14:20:00Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/news/247078/US-won-t-able-to-force-Iran-make-concessions-under-pressure",
+      "published_date": "2026-08-18T19:36:18Z",
+      "category": "Local Events"
     },
     {
-      "title": "Official: 6,500 tons of aquatic products exported from Bushehr Province",
+      "title": "Ghalibaf: Squeezing Iran won’t work for US",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86236849/Official-6-500-tons-of-aquatic-products-exported-from-Bushehr",
-      "published_date": "2026-08-16T10:26:37Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86239386/Ghalibaf-Squeezing-Iran-won-t-work-for-US",
+      "published_date": "2026-08-18T19:21:01Z",
+      "category": "Local Events"
     },
     {
-      "title": "East Azarbaijan prepares for post-war tourism market with major investment: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86236793/East-Azarbaijan-prepares-for-post-war-tourism-market-with-major",
-      "published_date": "2026-08-16T09:32:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "From Waste Management to Material Cycle Management: Mobarakeh Steel’s Path in the Circular Economy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529090/From-Waste-Management-to-Material-Cycle-Management-Mobarakeh",
-      "published_date": "2026-08-15T15:51:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran, Brazil stress joint roadmap for economic cooperation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529078/Iran-Brazil-stress-joint-roadmap-for-economic-cooperation",
-      "published_date": "2026-08-15T12:36:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Iran’s West Azarbaijan poised for industrial expansion with dozens of projects: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86235671/Iran-s-West-Azarbaijan-poised-for-industrial-expansion-with-dozens",
-      "published_date": "2026-08-15T07:24:47Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vessel reportedly struck in Strait of Hormuz",
+      "title": "Commemorating 40th day of martyred Leader’s funeral",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246967/Vessel-reportedly-struck-in-Strait-of-Hormuz",
-      "published_date": "2026-08-15T06:25:33Z",
-      "category": "Economy"
+      "url": "https://en.mehrnews.com/photo/247077/Commemorating-40th-day-of-martyred-Leader-s-funeral",
+      "published_date": "2026-08-18T18:04:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Christopher Beckwith’s “Empires of the Silk Road” published in Persian",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529180/Christopher-Beckwith-s-Empires-of-the-Silk-Road-published-in",
+      "published_date": "2026-08-18T17:17:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian radio drama adapts Stephen King’s “Misery”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529071/Iranian-radio-drama-adapts-Stephen-King-s-Misery",
+      "published_date": "2026-08-18T17:17:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15th International 100-Second Film Festival to organize specialized workshops in 9 countries",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529183/15th-International-100-Second-Film-Festival-to-organize-specialized",
+      "published_date": "2026-08-18T17:16:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran will stand firm on its rights in managing Strait of Hormuz: VP",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529206/Iran-will-stand-firm-on-its-rights-in-managing-Strait-of-Hormuz",
+      "published_date": "2026-08-18T17:04:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qalibaf: Hormuz to remain closed until US fulfills MoU commitments",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529205/Qalibaf-Hormuz-to-remain-closed-until-US-fulfills-MoU-commitments",
+      "published_date": "2026-08-18T17:02:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Archaeologists resume excavations at Qal-e Kord Cave, a key Paleolithic site",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529197/Archaeologists-resume-excavations-at-Qal-e-Kord-Cave-a-key-Paleolithic",
+      "published_date": "2026-08-18T15:56:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Persian Gulf post-Hormuz: Is regional security order changing?",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86239224/Persian-Gulf-post-Hormuz-Is-regional-security-order-changing",
+      "published_date": "2026-08-18T15:02:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LightHouse S02 E02",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529191/LightHouse-S02-E02",
+      "published_date": "2026-08-18T14:57:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran to face Algeria at 2026 FIVB U17 World C'ship opener",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247073/Iran-to-face-Algeria-at-2026-FIVB-U17-World-Championship",
+      "published_date": "2026-08-18T13:10:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran warns Trump over claims on Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247072/Iran-warns-Trump-over-claims-on-Strait-of-Hormuz",
+      "published_date": "2026-08-18T13:02:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hadi al-Amiri calls for calm in Iraqi collecting arms policy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247071/Hadi-al-Amiri-calls-for-calm-in-Iraqi-collecting-arms-policy",
+      "published_date": "2026-08-18T12:28:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s security policy: Mohsen Rezaei to build on his predecessors’ approach",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529184/Iran-s-security-policy-Mohsen-Rezaei-to-build-on-his-predecessors",
+      "published_date": "2026-08-18T12:26:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran wins medal, honorable mentions at Intl. Geography Olympiad",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529182/Iran-wins-medal-honorable-mentions-at-Intl-Geography-Olympiad",
+      "published_date": "2026-08-18T12:16:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian, Indonesian universities ink MOU to boost scientific ties",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529179/Iranian-Indonesian-universities-ink-MOU-to-boost-scientific",
+      "published_date": "2026-08-18T12:14:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senior PMF intelligence official Abbas al-Yaqoubi detained",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247070/Senior-PMF-intelligence-official-Abbas-al-Yaqoubi-detained",
+      "published_date": "2026-08-18T12:06:51Z",
+      "category": "Local Events"
     },
     {
       "title": "Defense Ministry vows to continue martyred Leader’s path to strengthen national defense",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86239067/Defense-Ministry-vows-to-continue-martyred-Leader-s-path-to-strengthen",
       "published_date": "2026-08-18T11:29:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Agriculture Minister: Strategic reserves up since war began",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238903/Agriculture-Minister-Strategic-reserves-up-since-war-began",
-      "published_date": "2026-08-18T11:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Photos: Iran women’s rowing championship held in Urmia",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86238865/In-Photos-Iran-women-s-rowing-championship-held-in-Urmia",
-      "published_date": "2026-08-18T10:55:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran owes its defense industry's progress to martyred Leader",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247068/Iran-owes-its-defense-industry-s-progress-to-martyred-Leader",
-      "published_date": "2026-08-18T09:26:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Final Farewell to Leader: Unity, Mourning, and Power on Display",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529174/Final-Farewell-to-Leader-Unity-Mourning-and-Power-on-Display",
-      "published_date": "2026-08-18T09:13:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gol Gohar discover rivals at AFC Champions League Two 2026/27",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529173/Gol-Gohar-discover-rivals-at-AFC-Champions-League-Two-2026-27",
-      "published_date": "2026-08-18T09:12:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hormuz Strait not to be reopened before oil sanctions lifted",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247067/Hormuz-not-to-be-reopened-before-oil-sanctions-lifted",
-      "published_date": "2026-08-18T09:04:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bam Khatoon start AFC Women’s Champions League 2026/27 on high",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529172/Bam-Khatoon-start-AFC-Women-s-Champions-League-2026-27-on-high",
-      "published_date": "2026-08-18T08:42:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza municipalities call for urgent fuel entry",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247066/Gaza-municipalities-call-for-urgent-fuel-entry",
-      "published_date": "2026-08-18T08:39:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran provides AI training to 4 million students",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238742/Iran-provides-AI-training-to-4-million-students",
-      "published_date": "2026-08-18T08:20:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kurdish VP says Iran won’t allow conspiracies to drive wedge with Iraqi Kurdistan",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238709/Kurdish-VP-says-Iran-won-t-allow-conspiracies-to-drive-wedge",
-      "published_date": "2026-08-18T08:04:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unity, solidarity key to Iran’s resistance against threats",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247062/Unity-solidarity-key-to-Iran-s-resistance-against-threats",
-      "published_date": "2026-08-18T07:40:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Demolishing a Palestinian home in al-Khalil",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247060/VIDEO-Demolishing-a-Palestinian-home-in-al-Khalil",
-      "published_date": "2026-08-18T07:03:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "18th National Handicrafts Exhibition opens in Iran’s Hamedan",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238577/18th-National-Handicrafts-Exhibition-opens-in-Iran-s-Hamedan",
-      "published_date": "2026-08-18T06:58:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Iran’s road minister holds presser",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86238511/In-photos-Iran-s-road-minister-holds-presser",
-      "published_date": "2026-08-18T06:51:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Gilan showcases cultural, culinary potential at Armenian festival",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238573/Iran-s-Gilan-showcases-cultural-culinary-potential-at-Armenian",
-      "published_date": "2026-08-18T06:18:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf will travel to Iraq",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86238544/Ghalibaf-will-travel-to-Iraq",
-      "published_date": "2026-08-18T06:12:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Hamas representative’s presser in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86238525/In-photos-Hamas-representative-s-presser-in-Tehran",
-      "published_date": "2026-08-18T05:53:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six Iranian universities in Shanghai ranking 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529171/Six-Iranian-universities-in-Shanghai-ranking-2026",
-      "published_date": "2026-08-18T05:48:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 2,400 school building projects implemented in a year",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529169/Over-2-400-school-building-projects-implemented-in-a-year",
-      "published_date": "2026-08-18T05:47:21Z",
       "category": "Local Events"
     }
   ]
