@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-20T11:34:55Z",
+  "generated_at": "2026-08-20T23:16:01Z",
   "total_stories": 93,
   "stories": [
+    {
+      "title": "Iran condemns new US sanctions as ‘economic terrorism’ and ‘crimes against humanity’",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86241010/Iran-condemns-new-US-sanctions-as-economic-terrorism-and-crimes",
+      "published_date": "2026-08-20T16:45:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iraq remains committed to security agreement with Iran: Security adviser",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86240955/Iraq-remains-committed-to-security-agreement-with-Iran-Security",
+      "published_date": "2026-08-20T14:42:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Claims of Iran’s defeat caused by enemies' miscalculations",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247125/Claims-of-Iran-s-defeat-caused-by-enemies-miscalculations",
+      "published_date": "2026-08-20T13:52:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "China pushes back against Trump’s economic D-Day against Iran",
       "source": "Mehr News Agency",
@@ -123,25 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ghalibaf urges stronger Iran-Iraq economic partnership during Baghdad talks",
+      "title": "Yemen reports drone attack on Aramco refinery in Saudi Arabia",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86240230/Ghalibaf-urges-stronger-Iran-Iraq-economic-partnership-during",
-      "published_date": "2026-08-19T15:19:42Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86241130/Yemen-reports-drone-attack-on-Aramco-refinery-in-Saudi-Arabia",
+      "published_date": "2026-08-20T20:24:21Z",
+      "category": "Military"
     },
     {
-      "title": "FM Araghchi hails Iran-Iraq coordination in facilitating Arbaeen pilgrimage",
+      "title": "Iran warns US space ambitions risk fueling arms race",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86240251/FM-Araghchi-hails-Iran-Iraq-coordination-in-facilitating-Arbaeen",
-      "published_date": "2026-08-19T15:15:26Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86240999/Iran-warns-US-space-ambitions-risk-fueling-arms-race",
+      "published_date": "2026-08-20T15:45:39Z",
+      "category": "Military"
     },
     {
-      "title": "Ghalibaf meets with Iraqi PM in Baghdad for high-profile talk",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247106/Ghalibaf-meets-Iraqi-PM-in-Baghdad-for-talks",
-      "published_date": "2026-08-19T13:54:55Z",
-      "category": "Diplomacy"
+      "title": "Iran to revamp defense industry based on recent war experience: Defense Ministry",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86240976/Iran-to-revamp-defense-industry-based-on-recent-war-experience",
+      "published_date": "2026-08-20T15:41:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "VP Aref hails Iran’s scientific achievements, scientists’ role in defense",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86240915/VP-Aref-hails-Iran-s-scientific-achievements-scientists-role",
+      "published_date": "2026-08-20T13:28:10Z",
+      "category": "Military"
     },
     {
       "title": "Iran’s deputy FM: US military aggression failed, next defeat is ‘economic war’",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Iran, EAG, Uzbekistan forge ahead on financial intelligence cooperation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529227/Iran-EAG-Uzbekistan-forge-ahead-on-financial-intelligence-cooperation",
-      "published_date": "2026-08-19T14:27:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Annexation is out of question; Israeli collapse is certain",
+      "title": "US-bound oil tanker targeted in cyberattack",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247108/Annexation-is-out-of-question-Israeli-collapse-is-certain",
-      "published_date": "2026-08-19T14:25:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zionist regime’s drone attack kills 6 Palestinians in Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247104/Zionist-regime-s-drone-attack-kills-6-Palestinians-in-Gaza",
-      "published_date": "2026-08-19T13:34:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran, Jakarta emphasize enhancing environmental coop.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247098/Tehran-Jakarta-emphasize-enhancing-environmental-coop",
-      "published_date": "2026-08-19T08:58:27Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/247123/US-bound-oil-tanker-targeted-in-Cyberattack",
+      "published_date": "2026-08-20T12:30:05Z",
+      "category": "Energy"
     },
     {
       "title": "Chinese tanker reverses course in Hormuz after Iran warning",
@@ -365,13 +372,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/246949/Oil-tanker-targeted-near-Strait-of-Hormuz",
       "published_date": "2026-08-14T09:22:25Z",
-      "category": "Energy"
-    },
-    {
-      "title": "No vessel can safely transit Hormuz without Iran supervision",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/246941/No-vessel-can-safely-transit-Hormuz-without-Iran-supervision",
-      "published_date": "2026-08-13T13:17:49Z",
       "category": "Energy"
     },
     {
@@ -515,6 +515,27 @@
       "category": "Economy"
     },
     {
+      "title": "Iran and Iran did not let Western powers dictate their fate: Ghalibaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86241028/Iran-and-Iran-did-not-let-Western-powers-dictate-their-fate",
+      "published_date": "2026-08-20T16:47:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Iraq officials emphasize expanding security cooperation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247124/Iran-Iraq-officials-emphasize-expanding-security-cooperation",
+      "published_date": "2026-08-20T13:29:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Leave region before it’s too late”: Iran MP warns foreigners",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247122/Leave-region-before-it-s-too-late-Iran-MP-warns",
+      "published_date": "2026-08-20T11:46:50Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran’s culture minister arrives in India for BRICS tourism summit",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86240780/Iran-s-culture-minister-arrives-in-India-for-BRICS-tourism-summit",
@@ -631,27 +652,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529230/Help-is-coming",
       "published_date": "2026-08-19T14:48:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "People's food security not disrupted even for a single hour in recent imposed wars: minister",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529224/People-s-food-security-not-disrupted-even-for-a-single-hour-in",
-      "published_date": "2026-08-19T14:24:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Strait of Hormuz will remain under Iranian control: Leader’s adviser",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86240195/Strait-of-Hormuz-will-remain-under-Iranian-control-Leader-s",
-      "published_date": "2026-08-19T14:15:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Post-Maduro Venezuela: Washington’s lab for Latin America",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529221/Post-Maduro-Venezuela-Washington-s-lab-for-Latin-America",
-      "published_date": "2026-08-19T14:15:24Z",
       "category": "Local Events"
     }
   ]
