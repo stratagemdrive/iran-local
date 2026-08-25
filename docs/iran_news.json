@@ -1,8 +1,64 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-24T23:14:04Z",
-  "total_stories": 91,
+  "generated_at": "2026-08-25T11:36:05Z",
+  "total_stories": 92,
   "stories": [
+    {
+      "title": "Iranian envoy: Keeping dialogue open, pursuing national interests key diplomatic achievement",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245381/Iranian-envoy-Keeping-dialogue-open-pursuing-national-interests",
+      "published_date": "2026-08-25T09:16:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran calls meetings with Pakistan’s officials positive",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245231/Iran-calls-meetings-with-Pakistan-s-officials-positive",
+      "published_date": "2026-08-25T09:14:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran-Pakistan port roadmap to be compiled in Tehran: PMO",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247225/Iran-Pakistan-port-roadmap-to-be-compiled-in-Tehran-PMO",
+      "published_date": "2026-08-25T08:32:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistani interior minister calls talks with Iranian officials constructive",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245255/Pakistani-interior-minister-calls-talks-with-Iranian-officials",
+      "published_date": "2026-08-25T07:54:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran, Moscow stress scientific cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245087/Tehran-Moscow-stress-scientific-cooperation",
+      "published_date": "2026-08-25T07:47:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "West seeks to create flashpoints along Russia’s borders",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247223/West-seeks-to-create-flashpoints-along-Russia-s-borders",
+      "published_date": "2026-08-25T07:25:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia, France push for diplomatic Iran deal",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247218/Saudi-Arabia-France-push-for-diplomatic-Iran-deal",
+      "published_date": "2026-08-25T05:51:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US must change its approach toward Iran: Pezeshkian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247213/US-must-change-approach-regarding-Iran-Pezeshkian",
+      "published_date": "2026-08-25T03:46:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Rezaei: US has to take practical steps",
       "source": "IRNA",
@@ -88,60 +144,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran will not allow war to end on aggressor’s terms: FM spox",
+      "title": "Any pressure targeting people’s livelihood ‘part of war’",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247229/Any-pressure-targeting-people-s-livelihood-part-of-war",
+      "published_date": "2026-08-25T11:22:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns against hostile elements beyond borders: GF cmdr.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247227/Iran-warns-against-hostile-elements-beyond-borders-GF-cmdr",
+      "published_date": "2026-08-25T10:00:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Number of martyred children in Gaza exceeds 21,500",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244341/Iran-will-not-allow-war-to-end-on-aggressor-s-terms-FM-spox",
-      "published_date": "2026-08-24T09:52:36Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86245139/Number-of-martyred-children-in-Gaza-exceeds-21-500",
+      "published_date": "2026-08-25T08:59:01Z",
+      "category": "Military"
     },
     {
-      "title": "Tehran, Beijing eye strengthening multilateralism, peace",
+      "title": "Trump changed his weapon; will the outcome change too?",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247198/Tehran-Beijing-eye-strengthening-multilateralism-peace",
-      "published_date": "2026-08-24T08:59:08Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247224/Trump-changed-his-weapon-will-the-outcome-change-too",
+      "published_date": "2026-08-25T08:33:40Z",
+      "category": "Military"
     },
     {
-      "title": "Gharibabadi to US Treasury Secretary: Is this a victory or an admission of US defeat?",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244266/Gharibabadi-to-US-Treasury-Secretary-Is-this-a-victory-or-an",
-      "published_date": "2026-08-24T08:46:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran will not let aggressors dictate terms to end war",
+      "title": "Iran Armed Forces hail government's support during wartime",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247195/Iran-not-let-end-of-war-be-based-on-aggressor-s-conditions",
-      "published_date": "2026-08-24T08:01:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Greatest financial offensive admission of defeat, not victory",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247194/Greatest-financial-offensive-admission-of-defeat-not-victory",
-      "published_date": "2026-08-24T07:48:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iraq proposes joint security council with Iran and Saudi Arab",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247191/Iraq-proposes-joint-security-council-with-Iran-and-Saudi-Arab",
-      "published_date": "2026-08-24T06:09:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman FM to visit Tehran for regional consultations",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86243871/Oman-FM-to-visit-Tehran-for-regional-consultations",
-      "published_date": "2026-08-24T05:51:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Omani FM to visit Tehran for talks on Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247189/Omani-FM-to-visit-Tehran-for-talks-on-Strait-of-Hormuz",
-      "published_date": "2026-08-24T04:54:03Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247217/Iran-Armed-forces-hail-government-s-support-during-wartime",
+      "published_date": "2026-08-25T05:10:36Z",
+      "category": "Military"
     },
     {
       "title": "Mokhber calls on US to learn lessons from previous defeats",
@@ -249,39 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Army chief warns Iran will not be testing ground for enemy plots",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244512/Army-chief-warns-Iran-will-not-be-testing-ground-for-enemy-plots",
-      "published_date": "2026-08-24T12:52:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Sunni member of Basij volunteer force martyred in Zahedan",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244519/Sunni-member-of-Basij-volunteer-force-martyred-in-Zahedan",
-      "published_date": "2026-08-24T12:07:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Government has stood by Armed Forces with all its might",
+      "title": "US strategic petroleum reserves fall by 3.7m barrels: report",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247201/Government-has-stood-by-Armed-Forces-with-all-its-might",
-      "published_date": "2026-08-24T11:57:33Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/247221/US-strategic-petroleum-reserves-fall-by-3-7m-barrels-report",
+      "published_date": "2026-08-25T07:12:04Z",
+      "category": "Energy"
     },
     {
-      "title": "National Youth Population Award slated for November",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529367/National-Youth-Population-Award-slated-for-November",
-      "published_date": "2026-08-24T11:15:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Commandar: Government stands fully beside Armed Forces",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244372/Commandar-Government-stands-fully-beside-Armed-Forces",
-      "published_date": "2026-08-24T11:07:06Z",
-      "category": "Military"
+      "title": "Oil tanker reportedly hit by projectile off Oman",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247215/Oil-tanker-reportedly-hit-by-projectile-off-Oman",
+      "published_date": "2026-08-25T04:24:36Z",
+      "category": "Energy"
     },
     {
       "title": "Yemen targets Saudi oil tanker off Yanbu port in Red Sea",
@@ -354,11 +368,18 @@
       "category": "Energy"
     },
     {
-      "title": "US strategic oil reserve drops to lowest level since 1982",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247064/US-strategic-oil-reserve-drops-to-lowest-level-since-1982",
-      "published_date": "2026-08-18T08:30:20Z",
-      "category": "Energy"
+      "title": "Iranian companies join Automobility 2026 as auto parts trade with Russia rises eightfold",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245606/Iranian-companies-join-Automobility-2026-as-auto-parts-trade",
+      "published_date": "2026-08-25T10:44:16Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Pezeshkian administration appointed more women to managerial posts than previous governments: VP",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245080/Pezeshkian-administration-appointed-more-women-to-managerial",
+      "published_date": "2026-08-25T06:11:14Z",
+      "category": "Economy"
     },
     {
       "title": "International competition launched to design Minab school martyrs’ memorial",
@@ -487,18 +508,116 @@
       "category": "Economy"
     },
     {
-      "title": "Ghalibaf responds to Trump’s threats against trade with Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247161/Ghalibaf-responds-to-Trump-s-threats-against-trade-with-Iran",
-      "published_date": "2026-08-22T13:03:15Z",
-      "category": "Economy"
+      "title": "Iran into 2026 FIVB U17 World Championship QFs",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529404/Iran-into-2026-FIVB-U17-World-Championship-QFs",
+      "published_date": "2026-08-25T11:24:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Regional states looking for new security, economic arrangements amid US threats: Ghalibaf",
+      "title": "US to have no place in region's future: Rezaei",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247228/US-to-have-no-place-in-region-s-future-Rezaei",
+      "published_date": "2026-08-25T10:56:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Iraq judicial cooperation deepened across various fields: Ejei",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86242401/Regional-states-looking-for-new-security-economic-arrangements",
-      "published_date": "2026-08-22T12:57:02Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86245610/Iran-Iraq-judicial-cooperation-deepened-across-various-fields",
+      "published_date": "2026-08-25T10:49:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WWII-era Allied occupation remains etched in Iranian memory: Foreign Ministry spokesperson",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245477/WWII-era-Allied-occupation-remains-etched-in-Iranian-memory",
+      "published_date": "2026-08-25T10:02:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian pledges full support for domestic solar panel producers",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245423/Pezeshkian-pledges-full-support-for-domestic-solar-panel-producers",
+      "published_date": "2026-08-25T09:27:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Natl. authority 'deterrent factor against excessive demands'",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247226/Natl-authority-deterrent-factor-against-excessive-demands",
+      "published_date": "2026-08-25T09:24:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sitting volleyball captain Alipourian dropped from Asian Para Games squad",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529403/Sitting-volleyball-captain-Alipourian-dropped-from-Asian-Para",
+      "published_date": "2026-08-25T09:19:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pakistani Army chief’s Tehran talks highly constructive: Pakistan’s Army",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86245312/Pakistani-Army-chief-s-Tehran-talks-highly-constructive-Pakistan-s",
+      "published_date": "2026-08-25T08:49:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran too strong for Iraq at 2026 AVC Women Asian Continental Championship",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529402/Iran-too-strong-for-Iraq-at-2026-AVC-Women-Asian-Continental",
+      "published_date": "2026-08-25T08:33:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Commemoration ceremony for Martyr Seyyedeh Boshra Hosseini Khamenei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86245228/In-photos-Commemoration-ceremony-for-Martyr-Seyyedeh-Boshra",
+      "published_date": "2026-08-25T08:19:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Multiple people killed in Montana shooting: report",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247222/Multiple-people-killed-in-Montana-shooting-report",
+      "published_date": "2026-08-25T07:27:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Yemen celebrates Prophet Muhammad (S) birth anniv.",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247220/VIDEO-Yemen-celebrates-Prophet-Muhammad-S-birth-anniv",
+      "published_date": "2026-08-25T06:50:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unity Week marked in Birjand",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/247219/Unity-Week-marked-in-Birjand",
+      "published_date": "2026-08-25T06:18:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In photos: Zob Ahan, Mes Shahr-e Babak draw in Persian Gulf Pro League",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/photo/86245059/In-photos-Zob-Ahan-Mes-Shahr-e-Babak-draw-in-Persian-Gulf-Pro",
+      "published_date": "2026-08-25T06:09:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamabad, Tehran discuss restoring US-Iran MoU",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247216/Pakistan-and-Iran-discuss-restoring-US-Iran-MoU",
+      "published_date": "2026-08-25T04:31:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strait of Hormuz ship traffic drops to single vessel",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247214/Strait-of-Hormuz-ship-traffic-drops-to-single-vessel",
+      "published_date": "2026-08-25T03:54:44Z",
+      "category": "Local Events"
     },
     {
       "title": "15405",
@@ -526,118 +645,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529378/Homa-Theater-hosting-adaptation-of-Jean-Teul%C3%A9-s-book",
       "published_date": "2026-08-24T17:19:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraq’s uncertain future amid America’s “withdrawal”",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529392/Iraq-s-uncertain-future-amid-America-s-withdrawal",
-      "published_date": "2026-08-24T17:17:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "40th Islamic Unity Conference to be held in Tehran, Qom, Mashhad",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529391/40th-Islamic-Unity-Conference-to-be-held-in-Tehran-Qom-Mashhad",
-      "published_date": "2026-08-24T17:16:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qalibaf tells Asim Munir: US bad faith hinders regional stability",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529396/Qalibaf-tells-Asim-Munir-US-bad-faith-hinders-regional-stability",
-      "published_date": "2026-08-24T17:13:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Iranians highly vigilant to be deceived by enemies",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529400/Pezeshkian-Iranians-too-aware-to-be-deceived-by-enemies",
-      "published_date": "2026-08-24T16:56:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Open letter on Iranian prisoners draws criticism over its framing of war",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529398/Open-letter-on-Iranian-prisoners-draws-criticism-over-its-framing",
-      "published_date": "2026-08-24T16:51:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf: Iran will not yield to pressure; US must honor Islamabad MoU",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244796/Ghalibaf-Iran-will-not-yield-to-pressure-US-must-honor-Islamabad",
-      "published_date": "2026-08-24T16:37:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Official: 63 road projects set to be inaugurated in Tehran Province",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244756/Official-63-road-projects-set-to-be-inaugurated-in-Tehran-Province",
-      "published_date": "2026-08-24T16:17:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI workshop explores technology’s role in tourism development in West Azerbaijan",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529381/AI-workshop-explores-technology-s-role-in-tourism-development",
-      "published_date": "2026-08-24T15:03:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqi students to become ‘tourism ambassadors’ for Kermanshah",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529383/Iraqi-students-to-become-tourism-ambassadors-for-Kermanshah",
-      "published_date": "2026-08-24T15:02:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dome installation begins at Shams Tabrizi mausoleum in Khoy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529385/Dome-installation-begins-at-Shams-Tabrizi-mausoleum-in-Khoy",
-      "published_date": "2026-08-24T15:02:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kerman’s Pateh has potential to become global brand: official",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529387/Kerman-s-Pateh-has-potential-to-become-global-brand-official",
-      "published_date": "2026-08-24T15:01:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran discovers major gas field \"Takhteh\" in Fars province worth $45b",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529382/Iran-discovers-major-gas-field-Takhteh-in-Fars-province-worth",
-      "published_date": "2026-08-24T14:55:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "S. Africa ready to cooperate with Iran in suing Israel regime",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247206/S-Africa-ready-to-cooperate-with-Iran-in-suing-Israel-regime",
-      "published_date": "2026-08-24T14:50:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Press conference of head of HQ to commemorate Unity Week",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/247205/Press-conference-of-head-of-HQ-to-commemorate-Unity-Week",
-      "published_date": "2026-08-24T14:13:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran beaten by China at 2026 AVC Women Asian Continental Championship",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529376/Iran-beaten-by-China-at-2026-AVC-Women-Asian-Continental-Championship",
-      "published_date": "2026-08-24T14:01:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africa says ready to cooperate with Iran in legal pursuit of US-Israeli crimes",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86244626/South-Africa-says-ready-to-cooperate-with-Iran-in-legal-pursuit",
-      "published_date": "2026-08-24T13:03:40Z",
       "category": "Local Events"
     }
   ]
