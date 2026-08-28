@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-28T06:26:33Z",
-  "total_stories": 98,
+  "generated_at": "2026-08-28T21:22:35Z",
+  "total_stories": 99,
   "stories": [
+    {
+      "title": "‘Minab School’ exhibition shows true human rights: Iran FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248687/Minab-School-exhibition-shows-true-human-rights-Iran-FM",
+      "published_date": "2026-08-28T16:16:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ICCIMA head, German ambassador discuss ways to improve Iran-Germany level of relations",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529485/ICCIMA-head-German-ambassador-discuss-ways-to-improve-Iran-Germany",
+      "published_date": "2026-08-28T13:34:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: All states are obliged to refrain from implementing unilateral US sanctions",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248560/Iran-All-states-are-obliged-to-refrain-from-implementing-unilateral",
+      "published_date": "2026-08-28T12:23:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump suffering from ‘schizophrenia’, needs treatment: Iran deputy FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248540/Trump-suffering-from-schizophrenia-needs-treatment-Iran-deputy",
+      "published_date": "2026-08-28T11:44:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Envoy urges UK to condemn US economic terrorism against Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248421/Envoy-urges-UK-to-condemn-US-economic-terrorism-against-Iran",
+      "published_date": "2026-08-28T10:50:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pressure does not work; US must rebuild trust for diplomacy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247284/Pressure-does-not-work-US-must-rebuild-trust-for-diplomacy",
+      "published_date": "2026-08-28T08:38:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Diplomacy can get back on track if US recognizes pressure does not work",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248371/Araghchi-Diplomacy-can-get-back-on-track-if-US-recognizes-pressure",
+      "published_date": "2026-08-28T08:33:28Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran, Oman agree to open temporary shipping corridor through Strait of Hormuz: Top security official",
       "source": "IRNA",
@@ -95,53 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US economic terrorism should be condemned: Araghchi to UN",
+      "title": "New weapons prepared for future battle with US: Iran MoU spox",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247264/US-economic-terrorism-should-be-condemned-Araghchi",
-      "published_date": "2026-08-26T19:30:28Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247289/New-surprises-await-enemy-on-battlefield-Iran-MoU-spox",
+      "published_date": "2026-08-28T13:26:24Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi urges UN to react to unlawful US sanctions",
+      "title": "No regional oil sales unless Iran sells too: Parliament Speaker",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247222/Araghchi-urges-UN-to-react-to-unlawful-US-sanctions",
-      "published_date": "2026-08-26T19:04:29Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86248570/No-regional-oil-sales-unless-Iran-sells-too-Parliament-Speaker",
+      "published_date": "2026-08-28T13:07:51Z",
+      "category": "Military"
     },
     {
-      "title": "Iran says US is angry because it failed to force Tehran to surrender",
+      "title": "No one will sell oil in region where Iran cannot: Ghalibaf",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247287/No-one-will-sell-oil-in-region-where-Iran-cannot-Ghalibaf",
+      "published_date": "2026-08-28T11:49:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "New ‘surprises’ await enemy on battlefield in possible future war: Defense Ministry spokesperson",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247142/Iran-says-US-is-angry-because-it-failed-to-force-Tehran-to-surrender",
-      "published_date": "2026-08-26T18:56:06Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86248357/New-surprises-await-enemy-on-battlefield-in-possible-future",
+      "published_date": "2026-08-28T09:27:38Z",
+      "category": "Military"
     },
     {
-      "title": "Iran urges UN states to reject US sanctions and condemns maritime pressure",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529474/Iran-urges-UN-states-to-reject-US-sanctions-and-condemns-maritime",
-      "published_date": "2026-08-26T17:41:01Z",
-      "category": "Diplomacy"
+      "title": "Exclusive | End to war must serve Iran’s national interests: Deputy Parliament speaker",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248303/Exclusive-End-to-war-must-serve-Iran-s-national-interests",
+      "published_date": "2026-08-28T07:40:56Z",
+      "category": "Military"
     },
     {
-      "title": "Despite war, Iran and Japan have maintained dialogue at all levels, says Japanese ambassador",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529471/Despite-war-Iran-and-Japan-have-maintained-dialogue-at-all-levels",
-      "published_date": "2026-08-26T17:23:00Z",
-      "category": "Diplomacy"
+      "title": "US must end war on Lebanon as one of Iran's conditions",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247282/US-must-end-war-on-Lebanon-as-on-Iran-s-conditions",
+      "published_date": "2026-08-28T06:43:25Z",
+      "category": "Military"
     },
     {
-      "title": "Japan’s Envoy to Iran on Conflict and Diplomacy",
+      "title": "Dabir: Iran to boycott worlds if even one member is denied a U.S. visa",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529470/Japan-s-Envoy-to-Iran-on-Conflict-and-Diplomacy",
-      "published_date": "2026-08-26T16:09:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "How valid are U.S. commitments under Trump?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529464/How-valid-are-U-S-commitments-under-Trump",
-      "published_date": "2026-08-26T15:00:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529454/Dabir-Iran-to-boycott-worlds-if-even-one-member-is-denied-a",
+      "published_date": "2026-08-28T06:32:54Z",
+      "category": "Military"
     },
     {
       "title": "Acting Defense Minister: Iran Changed Balance of Power in Region",
@@ -235,53 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Israel launches organized pogroms against defenseless Palestinian towns",
+      "title": "Iran's oil delivery to customers continues: oil minister",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529466/Israel-launches-organized-pogroms-against-defenseless-Palestinian",
-      "published_date": "2026-08-26T15:07:35Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/529487/Iran-s-oil-delivery-to-customers-continues-oil-minister",
+      "published_date": "2026-08-28T13:38:11Z",
+      "category": "Energy"
     },
     {
-      "title": "Erdogan says Turkey won’t abandon Syria or let Israel draw ‘red lines’",
+      "title": "New hydrocarbon reserves discovery demonstrates unstoppable nature of oil industry’",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529463/Erdogan-says-Turkey-won-t-abandon-Syria-or-let-Israel-draw-red",
-      "published_date": "2026-08-26T14:51:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "War not always the solution, Iran can overcome challenges: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86246899/War-not-always-the-solution-Iran-can-overcome-challenges-Pezeshkian",
-      "published_date": "2026-08-26T14:29:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hostile West-based Farsi-language media in Iran's target list",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247259/Hostile-West-based-Farsi-language-media-in-Iran-s-target-list",
-      "published_date": "2026-08-26T13:57:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Parliament to pursue US war crimes in Lamerd through legal channels: MP",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86246865/Iran-s-Parliament-to-pursue-US-war-crimes-in-Lamerd-through-legal",
-      "published_date": "2026-08-26T12:52:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran military asks Qatar for clear answer on fate of pilots",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247258/Iran-military-asks-Qatar-for-clear-answer-on-fate-of-pilots",
-      "published_date": "2026-08-26T12:32:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s strikes caused billions in damage to US intel. sites",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247257/Iran-s-strikes-caused-billions-in-damage-to-US-intel-sites",
-      "published_date": "2026-08-26T10:14:42Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/529486/New-hydrocarbon-reserves-discovery-demonstrates-unstoppable-nature",
+      "published_date": "2026-08-28T13:36:36Z",
+      "category": "Energy"
     },
     {
       "title": "Kuwaiti tanker targeted in the Strait of Hormuz",
@@ -400,13 +414,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86243382/Iran-announces-discovery-of-major-new-hydrocarbon-reserves",
       "published_date": "2026-08-23T12:34:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bam Khatoon , Al Nassr share spoils at AFC Women’s Champions League",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529259/Bam-Khatoon-Al-Nassr-share-spoils-at-AFC-Women-s-Champions",
-      "published_date": "2026-08-21T12:32:02Z",
       "category": "Energy"
     },
     {
@@ -550,6 +557,104 @@
       "category": "Economy"
     },
     {
+      "title": "President appreciates Leader's message on occasion of Government Week",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248783/President-appreciates-Leader-s-message-on-occasion-of-Government",
+      "published_date": "2026-08-28T19:41:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian to meet Putin on September 1: Russian official",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247291/Pezeshkian-to-meet-Putin-on-September-1-Russian-official",
+      "published_date": "2026-08-28T19:23:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader stresses need for preserving national unity",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247290/Domestic-production-key-to-solving-economic-problems-Leader",
+      "published_date": "2026-08-28T19:01:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader: Key to solving economic issues lies in domestic production, getting rid of dollar",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248750/Leader-Key-to-solving-economic-issues-lies-in-domestic-production",
+      "published_date": "2026-08-28T18:28:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Leader: Any action undermining social cohesion is prohibited",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529491/Iran-s-Leader-Any-action-undermining-social-cohesion-is-prohibited",
+      "published_date": "2026-08-28T17:53:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran defeat Indonesia in 2026 AVC Women Asian Continental Championship",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529490/Iran-defeat-Indonesia-2026-AVC-Women-Asian-Continental-Championship",
+      "published_date": "2026-08-28T17:44:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran to face France in 2026 FIVB U17 World Championship final",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529489/Iran-to-face-France-in-2026-FIVB-U17-World-Championship-final",
+      "published_date": "2026-08-28T17:08:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran lose to New Zealand in FIBA World Cup 2027 Asian qualifier",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529488/Iran-lose-to-New-Zealand-in-FIBA-World-Cup-2027-Asian-qualifier",
+      "published_date": "2026-08-28T16:55:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Operation Economic Outcast” amounts to state terrorism",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247288/Operation-Economic-Outcast-amounts-to-state-terrorism",
+      "published_date": "2026-08-28T11:59:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran sympathizes with Nepal deadly flood and landslide",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247286/Iran-sympathizes-with-Nepal-deadly-flood-and-landslide",
+      "published_date": "2026-08-28T10:32:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Naval blcokade must be lifted before Iran agreement with Oman",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247285/Lifting-naval-blcokade-needed-for-Iran-to-reopen-Hormuz",
+      "published_date": "2026-08-28T09:30:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spectrum: Felony of Failure",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529484/Spectrum-Felony-of-Failure",
+      "published_date": "2026-08-28T09:17:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran sympathizes with flood victims in Nepal",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248392/Iran-sympathizes-with-flood-victims-in-Nepal",
+      "published_date": "2026-08-28T09:08:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "All Iranian nation's legitimate rights must be recognized",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247283/All-Iranian-nation-s-legitimate-rights-must-be-recognized",
+      "published_date": "2026-08-28T07:11:09Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Bessent’s credibility at risk as US empire declines: Ghalibaf",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247280/Bessent-s-credibility-at-risk-as-US-empire-declines-Ghalibaf",
@@ -589,104 +694,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86247948/President-All-legal-rights-of-Iranian-nation-must-be-recognized",
       "published_date": "2026-08-27T15:07:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran expresses sympathy with Nepal over deadly floods, landslide",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247764/Iran-expresses-sympathy-with-Nepal-over-deadly-floods-landslide",
-      "published_date": "2026-08-27T11:43:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Israeli forces shoot Palestinian children in Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247274/VIDEO-Israeli-forces-shoot-Palestinian-children-in-Gaza",
-      "published_date": "2026-08-27T10:30:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Speaker: Iran will defeat enemies in economic war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247702/Speaker-Iran-will-defeat-enemies-in-economic-war",
-      "published_date": "2026-08-27T10:16:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "40th International Islamic Unity Conference opens in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86247685/40th-International-Islamic-Unity-Conference-opens-in-Tehran",
-      "published_date": "2026-08-27T10:04:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How is the flood of information drowning human intellect?",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247273/How-is-the-flood-of-information-drowning-human-intellect",
-      "published_date": "2026-08-27T08:41:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic Unity and Ensuring Regional Security",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247272/Islamic-Unity-and-Ensuring-Regional-Security",
-      "published_date": "2026-08-27T08:29:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian urges Muslim nations' unity despite differences",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247271/Martyred-Leader-terms-Islamic-unity-for-dignity-independence",
-      "published_date": "2026-08-27T07:38:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "40th International Islamic Unity Conference opens in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247498/40th-International-Islamic-Unity-Conference-opens-in-Tehran",
-      "published_date": "2026-08-27T07:06:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US anti-Iran policy has reached pure parody: Foreign Ministry spokesperson",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247461/US-anti-Iran-policy-has-reached-pure-parody-Foreign-Ministry",
-      "published_date": "2026-08-27T06:49:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Exclusive | Politicians praise wartime management by Pezeshkian, Aref as model of national coordination",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247401/Exclusive-Politicians-praise-wartime-management-by-Pezeshkian",
-      "published_date": "2026-08-27T06:23:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Ambassador to Uruguay Meets Canelones Mayor to Discuss Expanding Cooperation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529482/Iran-s-Ambassador-to-Uruguay-Meets-Canelones-Mayor-to-Discuss",
-      "published_date": "2026-08-27T06:23:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran offers condolences to Pakistan over hospital fire",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247269/Iran-offers-condolences-to-Pakistan-over-hospital-fire",
-      "published_date": "2026-08-27T06:04:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Washington’s Iran policy has reached pure parody: FM spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247266/Washington-s-Iran-policy-has-reached-pure-parody-FM-spox",
-      "published_date": "2026-08-27T05:17:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15407",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/529475/15407",
-      "published_date": "2026-08-26T20:31:00Z",
       "category": "Local Events"
     }
   ]
