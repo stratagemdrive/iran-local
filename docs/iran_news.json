@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-27T20:59:09Z",
-  "total_stories": 97,
+  "generated_at": "2026-08-28T06:26:33Z",
+  "total_stories": 98,
   "stories": [
+    {
+      "title": "Iran, Oman agree to open temporary shipping corridor through Strait of Hormuz: Top security official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86248254/Iran-Oman-agree-to-open-temporary-shipping-corridor-through",
+      "published_date": "2026-08-28T06:15:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf, Qatari PM discuss regional developments in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247281/Ghalibaf-Qatari-PM-discuss-regional-developments-in-Tehran",
+      "published_date": "2026-08-28T06:12:30Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi: Situation in region is solely result of US and Israeli military aggression",
       "source": "IRNA",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Negotiations not a sign of retreat, but resistance if national interests are served: Ghalibaf",
+      "title": "Acting Defense Minister: Iran Changed Balance of Power in Region",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86246955/Negotiations-not-a-sign-of-retreat-but-resistance-if-national",
-      "published_date": "2026-08-26T13:51:43Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86248238/Acting-Defense-Minister-Iran-Changed-Balance-of-Power-in-Region",
+      "published_date": "2026-08-28T05:17:39Z",
+      "category": "Military"
     },
     {
-      "title": "Exclusive | Iran-Russia relations gain momentum under President Pezeshkian: Ambassador Jalali",
+      "title": "General Rezaei: Any evil act against Iran will bring affliction on US to be recorded in history",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86246643/Exclusive-Iran-Russia-relations-gain-momentum-under-President",
-      "published_date": "2026-08-26T10:19:06Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86248152/General-Rezaei-Any-evil-act-against-Iran-will-bring-affliction",
+      "published_date": "2026-08-27T21:20:11Z",
+      "category": "Military"
     },
     {
       "title": "Iran maintains control over Strait of Hormuz: IRGC",
@@ -270,18 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "In photos: Reconstruction of Hormozgan’s war-damaged bridges",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86246649/In-photos-Reconstruction-of-Hormozgan-s-war-damaged-bridges",
-      "published_date": "2026-08-26T09:58:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Air Defense Force commander: Iran to expand successful defense systems",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86246639/Air-Defense-Force-commander-Iran-to-expand-successful-defense",
-      "published_date": "2026-08-26T09:52:23Z",
-      "category": "Military"
+      "title": "Kuwaiti tanker targeted in the Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247279/Kuwaiti-tanker-hit-in-the-Strait-of-Hormuz",
+      "published_date": "2026-08-28T05:46:48Z",
+      "category": "Energy"
     },
     {
       "title": "Iran ranks among world’s top five in power plant technology: Energy minister",
@@ -543,6 +550,20 @@
       "category": "Economy"
     },
     {
+      "title": "Bessent’s credibility at risk as US empire declines: Ghalibaf",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247280/Bessent-s-credibility-at-risk-as-US-empire-declines-Ghalibaf",
+      "published_date": "2026-08-28T05:52:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "August 19, 1953: A turning point in Iran’s struggle for sovereignty",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529483/August-19-1953-A-turning-point-in-Iran-s-struggle-for-sovereignty",
+      "published_date": "2026-08-27T21:45:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Ghalibaf sharply reacts to remarks by US Treasury Secretary",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86248089/Ghalibaf-sharply-reacts-to-remarks-by-US-Treasury-Secretary",
@@ -666,20 +687,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/photo/529475/15407",
       "published_date": "2026-08-26T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baqaei: Qatari PM to visit Tehran on Thursday",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247266/Baqaei-Qatari-PM-to-visit-Tehran-on-Thursday",
-      "published_date": "2026-08-26T20:13:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran offers condolences to Pakistan after 14 newborns killed in Islamabad hospital fire",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247242/Iran-offers-condolences-to-Pakistan-after-14-newborns-killed",
-      "published_date": "2026-08-26T19:39:01Z",
       "category": "Local Events"
     }
   ]
