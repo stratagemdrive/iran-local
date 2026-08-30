@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-29T15:35:37Z",
+  "generated_at": "2026-08-30T00:53:24Z",
   "total_stories": 99,
   "stories": [
+    {
+      "title": "Iran, Indonesia FMs discuss ties, region in phone call",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247311/Iran-Indonesia-FMs-discuss-ties-region-in-phone-call",
+      "published_date": "2026-08-29T17:21:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Unity of Islamic world cornerstone of Iran's foreign policy: Araghchi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86249683/Unity-of-Islamic-world-cornerstone-of-Iran-s-foreign-policy",
+      "published_date": "2026-08-29T16:11:07Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "U.S. consumers bearing cost of energy market manuipulation",
       "source": "Mehr News Agency",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Top Iranian, Qatari diplomats hold talks in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247276/Iran-Qatar-top-diplomats-hold-talks-in-Tehran",
-      "published_date": "2026-08-27T12:57:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian, Qatari foreign ministers hold talks in Tehran",
+      "title": "Ghalibaf stresses regional cooperation over reliance on foreign powers",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247750/Iranian-Qatari-foreign-ministers-hold-talks-in-Tehran",
-      "published_date": "2026-08-27T11:37:50Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86249641/Ghalibaf-stresses-regional-cooperation-over-reliance-on-foreign",
+      "published_date": "2026-08-29T16:07:00Z",
+      "category": "Military"
     },
     {
       "title": "Iran to continue building defense capabilities: acting MoD",
@@ -274,13 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86248357/New-surprises-await-enemy-on-battlefield-in-possible-future",
       "published_date": "2026-08-28T09:27:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Exclusive | End to war must serve Iran’s national interests: Deputy Parliament speaker",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248303/Exclusive-End-to-war-must-serve-Iran-s-national-interests",
-      "published_date": "2026-08-28T07:40:56Z",
       "category": "Military"
     },
     {
@@ -557,6 +557,62 @@
       "category": "Economy"
     },
     {
+      "title": "Leader message marking Unity Week will be released on Sunday",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86249859/Leader-message-marking-Unity-Week-will-be-released-on-Sunday",
+      "published_date": "2026-08-29T21:01:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Pezeshkian congratulates Muslims on Prophet Muhammad’s birth anniversary",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86249826/President-Pezeshkian-congratulates-Muslims-on-Prophet-Muhammad-s",
+      "published_date": "2026-08-29T19:20:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf: US Treasury secretary is a big liar",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86249809/Ghalibaf-US-Treasury-secretary-is-a-big-liar",
+      "published_date": "2026-08-29T18:54:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran wins title of FIVB U17 World Championship for 1st time",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247313/Iran-wins-title-of-FIVB-U17-World-Championship-for-1st-time",
+      "published_date": "2026-08-29T18:39:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf calls U.S. Treasury secretary a big liar",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247312/Ghalibaf-calls-U-S-Treasury-secretary-a-big-liar",
+      "published_date": "2026-08-29T18:07:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Imam Khamenei turned Islamic unity into practical movement: Lebanese scholar",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86249691/Imam-Khamenei-turned-Islamic-unity-into-practical-movement-Lebanese",
+      "published_date": "2026-08-29T16:54:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Iraq ramp up work to launch joint free zone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86249606/Iran-Iraq-ramp-up-work-to-launch-joint-free-zone",
+      "published_date": "2026-08-29T16:22:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran crowned champions of 2026 FIVB U17 World Championship",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529493/Iran-crowned-champions-of-2026-FIVB-U17-World-Championship",
+      "published_date": "2026-08-29T16:19:05Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Maintaining unity brought defeat to the enemy: Ghalibaf",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247308/Maintaining-unity-brought-defeat-to-the-enemy-Ghalibaf",
@@ -638,62 +694,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86248920/Leader-s-message-is-roadmap-for-all-officials-Judiciary-chief",
       "published_date": "2026-08-29T06:58:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran will continue path of resistance, avenging martyred Leader: FM Araghchi",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248952/Iran-will-continue-path-of-resistance-avenging-martyred-Leader",
-      "published_date": "2026-08-29T05:59:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf: Leader’s message is a guiding principle for all officials",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248953/Ghalibaf-Leader-s-message-is-a-guiding-principle-for-all-officials",
-      "published_date": "2026-08-29T05:56:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government pledges full support for Leader's path",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247296/Government-pledges-full-support-for-Leader-s-path",
-      "published_date": "2026-08-29T05:41:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian pledges unity after Leader's message",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247294/Pezeshkian-pledges-unity-after-Leader-s-message",
-      "published_date": "2026-08-29T04:58:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unity is key to national security: Rezaei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247293/Unity-is-key-to-national-security-Rezaei",
-      "published_date": "2026-08-29T04:19:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President appreciates Leader's message on occasion of Government Week",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248783/President-appreciates-Leader-s-message-on-occasion-of-Government",
-      "published_date": "2026-08-28T19:41:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian to meet Putin on September 1: Russian official",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247291/Pezeshkian-to-meet-Putin-on-September-1-Russian-official",
-      "published_date": "2026-08-28T19:23:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader stresses need for preserving national unity",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247290/Domestic-production-key-to-solving-economic-problems-Leader",
-      "published_date": "2026-08-28T19:01:47Z",
       "category": "Local Events"
     }
   ]
