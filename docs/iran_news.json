@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-30T15:19:09Z",
+  "generated_at": "2026-08-31T00:59:22Z",
   "total_stories": 98,
   "stories": [
+    {
+      "title": "Minab school tragedy will never be forgotten or forgiven, Iran FM says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529510/Minab-school-tragedy-will-never-be-forgotten-or-forgiven-Iran",
+      "published_date": "2026-08-30T17:54:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The new Syria: From terror lists to Israeli intimidation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529523/The-new-Syria-From-terror-lists-to-Israeli-intimidation",
+      "published_date": "2026-08-30T17:53:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Master Marc Lynch and the decline of empire",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529521/Master-Marc-Lynch-and-the-decline-of-empire",
+      "published_date": "2026-08-30T17:43:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s envoy delivers Araghchi’s written message to Iraqi foreign minister",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86250337/Iran-s-envoy-delivers-Araghchi-s-written-message-to-Iraqi-foreign",
+      "published_date": "2026-08-30T16:52:32Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Pezeshkian to visit Kyrgyzstan on Monday",
       "source": "IRNA",
@@ -116,32 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "ICCIMA head, German ambassador discuss ways to improve Iran-Germany level of relations",
+      "title": "IRGC vows response to US attack on Larak Island",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86250409/IRGC-vows-response-to-US-attack-on-Larak-Island",
+      "published_date": "2026-08-30T20:40:49Z",
+      "category": "Military"
+    },
+    {
+      "title": "Settler rampages, military raids accelerate across West Bank",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529485/ICCIMA-head-German-ambassador-discuss-ways-to-improve-Iran-Germany",
-      "published_date": "2026-08-28T13:34:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529524/Settler-rampages-military-raids-accelerate-across-West-Bank",
+      "published_date": "2026-08-30T17:44:19Z",
+      "category": "Military"
     },
     {
-      "title": "Iran: All states are obliged to refrain from implementing unilateral US sanctions",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248560/Iran-All-states-are-obliged-to-refrain-from-implementing-unilateral",
-      "published_date": "2026-08-28T12:23:58Z",
-      "category": "Diplomacy"
+      "title": "Tanker struck near Oman while transiting Hormuz: UKMTO",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247324/Tanker-struck-near-Oman-while-transiting-Hormuz-UKMTO-The-UK",
+      "published_date": "2026-08-30T17:40:41Z",
+      "category": "Military"
     },
     {
-      "title": "Trump suffering from ‘schizophrenia’, needs treatment: Iran deputy FM",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248540/Trump-suffering-from-schizophrenia-needs-treatment-Iran-deputy",
-      "published_date": "2026-08-28T11:44:24Z",
-      "category": "Diplomacy"
+      "title": "Senator Elizabeth Warren calls Trump ‘the most corrupt president ever in American history’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529497/Senator-Elizabeth-Warren-calls-Trump-the-most-corrupt-president",
+      "published_date": "2026-08-30T17:39:35Z",
+      "category": "Military"
     },
     {
-      "title": "Envoy urges UK to condemn US economic terrorism against Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86248421/Envoy-urges-UK-to-condemn-US-economic-terrorism-against-Iran",
-      "published_date": "2026-08-28T10:50:32Z",
-      "category": "Diplomacy"
+      "title": "MP: Recent war exposed US as 'house of cards superpower'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529528/MP-Recent-war-exposed-US-as-house-of-cards-superpower",
+      "published_date": "2026-08-30T17:08:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rebuilds defense-industrial capacity after recent conflicts:  Defense Ministry",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529526/Iran-rebuilds-defense-industrial-capacity-after-recent-conflicts",
+      "published_date": "2026-08-30T16:56:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s unity led to defeat of US and Israel in three wars: Hezbollah chief",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529527/Iran-s-unity-led-to-defeat-of-US-and-Israel-in-three-wars-Hezbollah",
+      "published_date": "2026-08-30T16:54:06Z",
+      "category": "Military"
     },
     {
       "title": "Naval forces fully prepared to defend Iran: Navy chief",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "At least six Palestinians killed in Israeli attacks on Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247304/At-least-six-Palestinians-killed-in-Israeli-attacks-on-Gaza",
-      "published_date": "2026-08-29T09:56:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Unity remains key to thwarting enemies’ conspiracies: Hezbollah chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86249156/Unity-remains-key-to-thwarting-enemies-conspiracies-Hezbollah",
-      "published_date": "2026-08-29T09:36:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "How Trump’s illusion of short war against Iran collapsed",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247303/How-Trump-s-illusion-of-short-war-against-Iran-collapsed",
-      "published_date": "2026-08-29T09:06:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Enemy achieved none of its goals: Iran army chief",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247302/Enemy-achieved-none-of-its-goals-Iran-army-chief",
-      "published_date": "2026-08-29T08:36:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah chief urges unity against US, Israeli regime",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247298/Hezbollah-chief-urges-unity-against-US-Israeli-regime",
-      "published_date": "2026-08-29T06:54:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "US congresswoman calls for impeachment of Pete Hegseth",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247297/US-congresswoman-calls-for-impeachment-of-Pete-Hegseth",
-      "published_date": "2026-08-29T05:51:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "US weapons drain from Iran conflict sparks worries",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247295/US-weapons-drain-from-Iran-conflict-sparks-worries",
-      "published_date": "2026-08-29T05:35:21Z",
-      "category": "Military"
+      "title": "US-Venezuela oil agreement: A ‘Historic transaction’ or ‘historic robbery’!?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529525/US-Venezuela-oil-agreement-A-Historic-transaction-or-historic",
+      "published_date": "2026-08-30T17:52:34Z",
+      "category": "Energy"
     },
     {
       "title": "Drilling of wells in joint Balal field enters new phase",
@@ -403,11 +410,18 @@
       "category": "Energy"
     },
     {
-      "title": "Chinese ships transit via Iranian side of Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247184/Chinese-ships-transit-via-Iranian-side-of-Strait-of-Hormuz",
-      "published_date": "2026-08-23T18:19:18Z",
-      "category": "Energy"
+      "title": "Xi advances a shared future with China's neighbors",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529529/Xi-advances-a-shared-future-with-China-s-neighbors",
+      "published_date": "2026-08-30T18:10:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Leader: US, Israel 'sworn enemies' of Muslim unity and friendship",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529498/Leader-US-Israel-sworn-enemies-of-Muslim-unity-and-friendship",
+      "published_date": "2026-08-30T17:39:06Z",
+      "category": "Economy"
     },
     {
       "title": "Operational plan to be prepared for building a ‘Stronger Iran’: economy minister",
@@ -536,18 +550,67 @@
       "category": "Economy"
     },
     {
-      "title": "IDRO, SATBA pledge closer ties to boost renewable energy development",
+      "title": "15408",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529386/IDRO-SATBA-pledge-closer-ties-to-boost-renewable-energy-development",
-      "published_date": "2026-08-24T15:00:05Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/529530/15408",
+      "published_date": "2026-08-30T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Iran-Cuba economic ties: Unlocking investment potential amid sanctions, legal reform",
+      "title": "Unseen footage of martyred Leader shows lifelong dedication to Islamic unity",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86250386/Unseen-footage-of-martyred-Leader-shows-lifelong-dedication-to",
+      "published_date": "2026-08-30T18:57:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Tehran mural mocks Trump",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529377/Iran-Cuba-economic-ties-Unlocking-investment-potential-amid",
-      "published_date": "2026-08-24T14:43:15Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/529512/New-Tehran-mural-mocks-Trump",
+      "published_date": "2026-08-30T17:54:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cinema Museum to show restored version of Kiarostami’s “Through the Olive Trees”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529507/Cinema-Museum-to-show-restored-version-of-Kiarostami-s-Through",
+      "published_date": "2026-08-30T17:54:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahrainis rally against detention of religious leaders",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529522/Bahrainis-rally-against-detention-of-religious-leaders",
+      "published_date": "2026-08-30T17:53:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran does not fear Trump’s threats",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529508/Iran-does-not-fear-Trump-s-threats",
+      "published_date": "2026-08-30T17:42:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian officials rally behind Leader's directive for unity and resistance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529509/Iranian-officials-rally-behind-Leader-s-directive-for-unity-and",
+      "published_date": "2026-08-30T17:42:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "40th Islamic Unity Conference wraps up in Mashhad with calls for regional resistance and solidarity",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529520/40th-Islamic-Unity-Conference-wraps-up-in-Mashhad-with-calls",
+      "published_date": "2026-08-30T17:41:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mexican lawmaker pays tribute to Iranian people’s resistance",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86250319/Mexican-lawmaker-pays-tribute-to-Iranian-people-s-resistance",
+      "published_date": "2026-08-30T16:20:23Z",
+      "category": "Local Events"
     },
     {
       "title": "Tehran people celebrate Prophet Muhammad's birth anniversary",
@@ -578,7 +641,7 @@
       "category": "Local Events"
     },
     {
-      "title": "“Ummah of Ahmad” celebration highlights Islamic unity",
+      "title": "The great celebration of the \"Ummah of Ahmad\"",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529517/Ummah-of-Ahmad-celebration-highlights-Islamic-unity",
       "published_date": "2026-08-30T13:31:43Z",
@@ -624,69 +687,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529505/IRCS-ICRC-hold-TOT-workshop-on-psychological-support-for-specialist",
       "published_date": "2026-08-30T11:12:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran shines at International Earth Science Olympiad",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529503/Iran-shines-at-International-Earth-Science-Olympiad",
-      "published_date": "2026-08-30T11:10:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Massive’ explosion in southern Lebanon after Israeli bombing",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247319/Massive-explosion-in-southern-Lebanon-after-Israeli-bombing",
-      "published_date": "2026-08-30T10:36:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Expediency Council chief calls for preserving national unity",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86250160/Expediency-Council-chief-calls-for-preserving-national-unity",
-      "published_date": "2026-08-30T10:20:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran finish fourth in 2026 AVC Women Asian Continental Championship",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529499/Iran-finish-fourth-in-2026-AVC-Women-Asian-Continental-Championship",
-      "published_date": "2026-08-30T09:56:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rezaei’s Strong Message",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529496/Rezaei-s-Strong-Message",
-      "published_date": "2026-08-30T09:23:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian felicitates Muslims on Prophet's birth anniversary",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247317/Pezeshkian-felicitates-Muslims-on-Prophet-s-birth-anniversary",
-      "published_date": "2026-08-30T08:06:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian officials congratulate U-17 boys’ national volleyball team on world championship",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86249952/Iranian-officials-congratulate-U-17-boys-national-volleyball",
-      "published_date": "2026-08-30T07:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Persepolis defeats Malavan in Iran Pro League",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86249998/Persepolis-defeats-Malavan-in-Iran-Pro-League",
-      "published_date": "2026-08-30T06:57:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader urges Muslims to unite against US, Israeli regime",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247316/Leader-issues-message-on-Unity-Week",
-      "published_date": "2026-08-30T06:40:45Z",
       "category": "Local Events"
     }
   ]
