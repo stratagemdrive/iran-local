@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-08-31T17:59:31Z",
+  "generated_at": "2026-09-01T01:31:23Z",
   "total_stories": 97,
   "stories": [
+    {
+      "title": "Araghchi: US must return to its commitments and Islamabad MoU",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86251472/Araghchi-US-must-return-to-its-commitments-and-Islamabad-MoU",
+      "published_date": "2026-08-31T20:59:16Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The looming failure of Operation Economic Outcast",
       "source": "Tehran Times",
@@ -137,11 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran Foreign Ministry issues statement after US aggression",
+      "title": "Minister: Iran is ready to Share cybersecurity expertise with Iraq",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86251480/Minister-Iran-is-ready-to-Share-cybersecurity-expertise-with",
+      "published_date": "2026-08-31T21:14:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC shoots down hostile US MQ-9 drone over Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86251453/IRGC-shoots-down-hostile-US-MQ-9-drone-over-Hormuz",
+      "published_date": "2026-08-31T20:10:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran military vows to target origin of any aggression firmly",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247332/Iran-Foreign-Ministry-issues-statement-after-US-aggression",
-      "published_date": "2026-08-31T06:46:32Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247354/Iran-military-vows-to-target-origin-of-any-aggression-firmly",
+      "published_date": "2026-08-31T19:47:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian armed forces vow not to tolerate aggression from any source",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86251441/Iranian-armed-forces-vow-not-to-tolerate-aggression-from-any",
+      "published_date": "2026-08-31T19:43:07Z",
+      "category": "Military"
     },
     {
       "title": "Iran warns any hostile act will be met with decisive response",
@@ -253,34 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247336/Oil-prices-continue-to-rise-after-US-attack-on-Iran-s-Larak",
       "published_date": "2026-08-31T07:40:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "US attack on Larak to shift power balance against planners",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247334/US-attack-on-Larak-to-shift-power-balance-against-planners",
-      "published_date": "2026-08-31T07:07:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army pounds US air base in UAE with retaliatory drone strikes",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86250662/Iran-Army-pounds-US-air-base-in-UAE-with-retaliatory-drone-strikes",
-      "published_date": "2026-08-31T07:07:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign Ministry condemns US attack on Larak Island, reaffirms Iran’s right to self-defense",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86250650/Foreign-Ministry-condemns-US-attack-on-Larak-Island-reaffirms",
-      "published_date": "2026-08-31T06:58:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC pounds US bases in Jordan in retaliatory missile-drone operation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86250543/IRGC-pounds-US-bases-in-Jordan-in-retaliatory-missile-drone-operation",
-      "published_date": "2026-08-31T06:18:47Z",
       "category": "Military"
     },
     {
@@ -543,6 +543,27 @@
       "category": "Economy"
     },
     {
+      "title": "15409",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/529571/15409",
+      "published_date": "2026-08-31T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran media people reaffirm commitment to Leader’s guidelines",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247353/Iran-media-people-reaffirm-commitment-to-Leader-s-guidelines",
+      "published_date": "2026-08-31T18:47:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader agrees to pardon, reduce sentences of 2,500 convicts",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86251417/Leader-agrees-to-pardon-reduce-sentences-of-2-500-convicts",
+      "published_date": "2026-08-31T18:39:17Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Leader agrees to pardon, reduce sentences of 2,500 convicts",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247352/Leader-agrees-to-pardon-reduce-sentences-of-2-500-convicts",
@@ -659,27 +680,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529556/Leader-Sets-Key-National-Priorities",
       "published_date": "2026-08-31T13:54:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Construction of 75,000 rental housing units forecasted",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529554/Construction-of-75-000-rental-housing-units-forecasted",
-      "published_date": "2026-08-31T12:55:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Islamic Unity’ foundation of countering arrogance, Zionism: Turkish scholar",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86251185/Islamic-Unity-foundation-of-countering-arrogance-Zionism",
-      "published_date": "2026-08-31T12:54:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Tajikistan presidents meet in Bishkek for SCO Summit",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247345/Iran-Tajikistan-presidents-meet-in-Bishkek-on-SCO-Summit",
-      "published_date": "2026-08-31T12:52:23Z",
       "category": "Local Events"
     }
   ]
