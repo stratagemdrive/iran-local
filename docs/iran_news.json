@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-03T00:49:44Z",
-  "total_stories": 95,
+  "generated_at": "2026-09-03T14:58:06Z",
+  "total_stories": 94,
   "stories": [
+    {
+      "title": "Judiciary chief arrives in India for BRICS summit",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254172/Judiciary-chief-arrives-in-India-for-BRICS-summit",
+      "published_date": "2026-09-03T12:12:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tehran criticizes UNICEF silence over crimes against children",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247420/Tehran-criticizes-UNICEF-silence-over-crimes-against-children",
+      "published_date": "2026-09-03T07:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reducing UN mission to prevent war btw superpowers misleading",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247418/Reducing-UN-mission-to-prevent-war-btw-superpowers-misleading",
+      "published_date": "2026-09-03T05:58:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "‘War crime’: Iran sends formal letter to UN over deadly US attack on wedding",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86253837/War-crime-Iran-sends-formal-letter-to-UN-over-deadly-US-attack",
+      "published_date": "2026-09-03T05:56:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Targeting civilians \"clear example of war crimes\"",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247417/Iran-urges-UNSC-to-condemn-deadly-US-attack-on-wedding-party",
+      "published_date": "2026-09-03T05:40:33Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Baqaei: Reducing raison d'être of UN to preventing war between superpowers is dangerous",
       "source": "IRNA",
@@ -109,39 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EU vows to maintain pressure on Iran despite growing criticism of alignment with Washington",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529610/EU-vows-to-maintain-pressure-on-Iran-despite-growing-criticism",
-      "published_date": "2026-09-01T17:36:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran condemns US attack on Larak Island in letter to UN",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529609/Iran-condemns-US-attack-on-Larak-Island-in-letter-to-UN",
-      "published_date": "2026-09-01T17:31:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian urges stronger UN role in addressing international crises",
+      "title": "VP Aref warns of ‘asymmetric’, ‘multilayered’ response to US",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86252485/Pezeshkian-urges-stronger-UN-role-in-addressing-international",
-      "published_date": "2026-09-01T17:01:00Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86254222/VP-Aref-warns-of-asymmetric-multilayered-response-to-US",
+      "published_date": "2026-09-03T14:32:34Z",
+      "category": "Military"
     },
     {
-      "title": "Iran backs initiatives promoting peace, multilateralism, international law: FM spokesperson",
+      "title": "IRGC commander condemns US ‘terror attack’ on wedding ceremony",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86252378/Iran-backs-initiatives-promoting-peace-multilateralism-international",
-      "published_date": "2026-09-01T16:54:49Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86254205/IRGC-commander-condemns-US-terror-attack-on-wedding-ceremony",
+      "published_date": "2026-09-03T13:19:04Z",
+      "category": "Military"
     },
     {
-      "title": "Sanctions on any SCO member, threaten entire bloc: Iran",
+      "title": "US attack against Iranian civilians to not go unpunished",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247424/US-attack-against-Iranian-civilians-to-not-go-unanswered",
+      "published_date": "2026-09-03T13:15:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Wedding strike exposes US savagery: Expediency Council chief",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86252404/Sanctions-on-any-SCO-member-threaten-entire-bloc-Iran",
-      "published_date": "2026-09-01T14:51:36Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86254031/Wedding-strike-exposes-US-savagery-Expediency-Council-chief",
+      "published_date": "2026-09-03T10:16:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "US leaders must answer for war crimes, IRGC says after wedding attack",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86253963/US-leaders-must-answer-for-war-crimes-IRGC-says-after-wedding",
+      "published_date": "2026-09-03T09:07:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s Army to be present with utmost strength when required",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247423/Iran-s-Army-to-be-present-with-utmost-strength-when-required",
+      "published_date": "2026-09-03T08:31:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "US army is grappling with profound crisis",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247419/US-army-is-grappling-with-profound-crisis",
+      "published_date": "2026-09-03T07:50:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "US leaders must answer for dark record of attacks on weddings",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247422/US-leaders-must-answer-for-dark-record-of-attacks-on-weddings",
+      "published_date": "2026-09-03T07:37:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Yemen holds Red Sea drills for possible confrontation with Israel and US: Official",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86253863/Yemen-holds-Red-Sea-drills-for-possible-confrontation-with-Israel",
+      "published_date": "2026-09-03T06:45:11Z",
+      "category": "Military"
     },
     {
       "title": "Rezaei reiterates his warning to US over continued aggression",
@@ -218,69 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86253517/Iranian-Embassy-slams-Western-silence-on-US-attacks",
       "published_date": "2026-09-02T15:29:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "No choice left for Washington but to leave region",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247413/No-choice-left-for-Washington-but-to-leave-region",
-      "published_date": "2026-09-02T15:09:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253521/Iran-condemns-US-strikes-on-civilians-as-war-crimes-reaffirms",
-      "published_date": "2026-09-02T14:24:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s new strategy will shatter enemy’s foundations:  Top security official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253480/Iran-s-new-strategy-will-shatter-enemy-s-foundations-Top-security",
-      "published_date": "2026-09-02T14:05:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Resistance front united against US: Qalibaf",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247412/Resistance-front-united-against-US-Qalibaf",
-      "published_date": "2026-09-02T13:47:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bombing Sirik wedding exposes true face of US war, FM spokesperson says",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253421/Bombing-Sirik-wedding-exposes-true-face-of-US-war-FM-spokesperson",
-      "published_date": "2026-09-02T12:50:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah targets Israeli military patrol with drones in southern Lebanon",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253351/Hezbollah-targets-Israeli-military-patrol-with-drones-in-southern",
-      "published_date": "2026-09-02T12:46:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "US crime at a wedding party in Sirik ‘sign of moral decline’",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247411/US-crime-at-a-wedding-party-in-Sirik-sign-of-moral-decline",
-      "published_date": "2026-09-02T12:16:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mining activity halted near Persepolis following heritage site intervention",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529623/Mining-activity-halted-near-Persepolis-following-heritage-site",
-      "published_date": "2026-09-02T12:02:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen denounces US war crime on a wedding party in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247410/Yemen-denounces-US-war-crime-on-a-wedding-party-in-Iran",
-      "published_date": "2026-09-02T11:21:57Z",
       "category": "Military"
     },
     {
@@ -379,13 +379,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247279/Kuwaiti-tanker-hit-in-the-Strait-of-Hormuz",
       "published_date": "2026-08-28T05:46:48Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran ranks among world’s top five in power plant technology: Energy minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86247694/Iran-ranks-among-world-s-top-five-in-power-plant-technology",
-      "published_date": "2026-08-27T10:21:09Z",
       "category": "Energy"
     },
     {
@@ -529,6 +522,34 @@
       "category": "Economy"
     },
     {
+      "title": "Trump turns Iranian wedding bloody",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody",
+      "published_date": "2026-09-03T14:51:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don’t mistaken Iran history depth for size of childhood yard",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247425/Don-t-blunder-Iran-history-s-depth-for-size-of-childhood-yard",
+      "published_date": "2026-09-03T13:45:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judiciary chief heads to India for BRICS summit",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86253908/Judiciary-chief-heads-to-India-for-BRICS-summit",
+      "published_date": "2026-09-03T07:48:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran's PGSA updates list of violating vessels",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247421/PGSA-updates-list-of-violating-vessels",
+      "published_date": "2026-09-03T07:10:32Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pouladgar urges focus and unity as Iran prepares for Asian Para Games",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529648/Pouladgar-urges-focus-and-unity-as-Iran-prepares-for-Asian-Para",
@@ -638,34 +659,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529618/Sanitation-services-safe-water-restored-in-war-affected-provinces",
       "published_date": "2026-09-02T11:43:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Islamic World Science and Technology Exchange Office unveiled",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529616/Islamic-World-Science-and-Technology-Exchange-Office-unveiled",
-      "published_date": "2026-09-02T11:40:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian parliament deputy speaker condemns US attack on wedding ceremony in Sirik",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253281/Iranian-parliament-deputy-speaker-condemns-US-attack-on-wedding",
-      "published_date": "2026-09-02T11:07:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Para shot putter Alipour targets fifth gold of his sporting career",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529614/Para-shot-putter-Alipour-targets-fifth-gold-of-his-sporting-career",
-      "published_date": "2026-09-02T09:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It’s a great honor to be Iran’s flag-bearer: Atrachali",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529613/It-s-a-great-honor-to-be-Iran-s-flag-bearer-Atrachali",
-      "published_date": "2026-09-02T09:23:44Z",
       "category": "Local Events"
     }
   ]
