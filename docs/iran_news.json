@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-03T14:58:06Z",
+  "generated_at": "2026-09-04T00:31:24Z",
   "total_stories": 94,
   "stories": [
+    {
+      "title": "Envoy to Germany: Aggressors come and go; Iran remains",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254416/Envoy-to-Germany-Aggressors-come-and-go-Iran-remains",
+      "published_date": "2026-09-03T20:53:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baqaei condemns attacks in Niger’s capital",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254283/Baqaei-condemns-attacks-in-Niger-s-capital",
+      "published_date": "2026-09-03T15:38:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US ‘war of choice’ shattered illusion of absolute power: Baqaei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254268/US-war-of-choice-shattered-illusion-of-absolute-power-Baqaei",
+      "published_date": "2026-09-03T15:19:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Judiciary chief arrives in India for BRICS summit",
       "source": "IRNA",
@@ -123,25 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tel Aviv expands occupation of south Lebanon through mass destruction, cluster munitions",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529599/Tel-Aviv-expands-occupation-of-south-Lebanon-through-mass-destruction",
-      "published_date": "2026-09-01T17:45:31Z",
-      "category": "Diplomacy"
+      "title": "Baqaei: Iran's defensive strikes were merely against military targets",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254471/Baqaei-Iran-s-defensive-strikes-were-merely-against-military",
+      "published_date": "2026-09-04T00:15:33Z",
+      "category": "Military"
     },
     {
-      "title": "The agreement emboldens the Zionists",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529603/The-agreement-emboldens-the-Zionists",
-      "published_date": "2026-09-01T17:43:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns Europe: Concessions to US will not pay off",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529607/Iran-warns-Europe-Concessions-to-US-will-not-pay-off",
-      "published_date": "2026-09-01T17:40:03Z",
-      "category": "Diplomacy"
+      "title": "Need to pivot a wedding to a wake? Outsource to the US: Iran’s London Embassy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254317/Need-to-pivot-a-wedding-to-a-wake-Outsource-to-the-US-Iran-s",
+      "published_date": "2026-09-03T16:53:52Z",
+      "category": "Military"
     },
     {
       "title": "VP Aref warns of ‘asymmetric’, ‘multilayered’ response to US",
@@ -267,20 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86253640/Iran-Army-chief-stresses-stronger-defense-readiness-after-the",
       "published_date": "2026-09-02T16:40:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "US war crimes in Sirik part of ongoing pattern of civilian bombings: Baqaei",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253587/US-war-crimes-in-Sirik-part-of-ongoing-pattern-of-civilian-bombings",
-      "published_date": "2026-09-02T15:32:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iranian Embassy slams Western silence on US attacks",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253517/Iranian-Embassy-slams-Western-silence-on-US-attacks",
-      "published_date": "2026-09-02T15:29:51Z",
       "category": "Military"
     },
     {
@@ -522,6 +522,13 @@
       "category": "Economy"
     },
     {
+      "title": "Qalibaf: Bessent on the brink as oil reserves fall and bond yields surge",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86254422/Qalibaf-Bessent-on-the-brink-as-oil-reserves-fall-and-bond-yields",
+      "published_date": "2026-09-03T20:08:29Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Trump turns Iranian wedding bloody",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody",
@@ -652,13 +659,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529621/WFP-releases-July-report-on-Iran",
       "published_date": "2026-09-02T11:45:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sanitation services, safe water restored in war-affected provinces",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529618/Sanitation-services-safe-water-restored-in-war-affected-provinces",
-      "published_date": "2026-09-02T11:43:43Z",
       "category": "Local Events"
     }
   ]
