@@ -1,8 +1,57 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-05T00:29:02Z",
+  "generated_at": "2026-09-05T13:50:28Z",
   "total_stories": 92,
   "stories": [
+    {
+      "title": "Arab League’s FMs to convene to review regional developments",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247456/Arab-League-s-FMs-to-convene-to-review-regional-developments",
+      "published_date": "2026-09-05T11:25:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, Indian judicial officials discuss cooperation on BRICS summit sidelines",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255496/Iranian-Indian-judicial-officials-discuss-cooperation-on-BRICS",
+      "published_date": "2026-09-05T10:30:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "West’s push for IAEA anti-Iran res. snapback illusion failure",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247447/West-s-push-for-IAEA-anti-Iran-res-snapback-illusion-failure",
+      "published_date": "2026-09-05T07:28:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Economic sanctions will also fail",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247446/Economic-sanctions-will-also-fail",
+      "published_date": "2026-09-05T07:12:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New US–E3 push for IAEA anti-Iran resolution a sign of failure of ‘snapback illusion’: Iran Vienna mission",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255121/New-US-E3-push-for-IAEA-anti-Iran-resolution-a-sign-of-failure",
+      "published_date": "2026-09-05T06:38:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran to US public: Don’t become cannon fodder in a war you never chose",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255058/Iran-to-US-public-Don-t-become-cannon-fodder-in-a-war-you-never",
+      "published_date": "2026-09-05T05:47:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US must consider realities on ground in regarding Ukraine war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247441/US-must-consider-realities-on-ground-in-regarding-Ukraine-war",
+      "published_date": "2026-09-05T05:15:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Why did Beijing reject the G20 statement?",
       "source": "Tehran Times",
@@ -95,53 +144,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Baqaei: Reducing raison d'être of UN to preventing war between superpowers is dangerous",
+      "title": "Hamas says US-led Board of Peace is biased against Palestinians",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253766/Baqaei-Reducing-raison-d-%C3%AAtre-of-UN-to-preventing-war-between",
-      "published_date": "2026-09-02T20:29:23Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86255617/Hamas-says-US-led-Board-of-Peace-is-biased-against-Palestinians",
+      "published_date": "2026-09-05T13:43:42Z",
+      "category": "Military"
     },
     {
-      "title": "Turkish ambassador to Iran bids farewell to Foreign Minister Araghchi",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253704/Turkish-ambassador-to-Iran-bids-farewell-to-Foreign-Minister",
-      "published_date": "2026-09-02T18:15:38Z",
-      "category": "Diplomacy"
+      "title": "Greek F-4 crashes during an air show near Athens",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247460/Greek-F-4-crashes-during-an-air-show-near-Athens",
+      "published_date": "2026-09-05T13:03:38Z",
+      "category": "Military"
     },
     {
-      "title": "Israel conducts further attacks in Southern Lebanon despite framework agreement",
+      "title": "Iran stands against an enemy with top military technology: Senior commander",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253690/Israel-conducts-further-attacks-in-Southern-Lebanon-despite-framework",
-      "published_date": "2026-09-02T18:04:06Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86255583/Iran-stands-against-an-enemy-with-top-military-technology-Senior",
+      "published_date": "2026-09-05T12:22:22Z",
+      "category": "Military"
     },
     {
-      "title": "Qalibaf: Iran and the Axis of Resistance share a fundamental path against arrogance",
+      "title": "AGM-154 missile debris recovered at Sirik wedding site",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247458/AGM-154-missile-debris-recovered-at-Sirik-wedding-site",
+      "published_date": "2026-09-05T12:22:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s judiciary chief urges BRICS to slam US-Israeli attacks",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247457/Iran-s-judiciary-chief-urges-BRICS-to-slam-US-Israeli-attacks",
+      "published_date": "2026-09-05T11:49:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Enemies’ failure in achieving goals success for Islamic Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247455/Enemies-failure-in-achieving-goals-success-for-Islamic-Iran",
+      "published_date": "2026-09-05T11:00:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "Radiotherapy remains a cornerstone of cancer treatment",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529646/Qalibaf-Iran-and-the-Axis-of-Resistance-share-a-fundamental",
-      "published_date": "2026-09-02T17:44:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529695/Radiotherapy-remains-a-cornerstone-of-cancer-treatment",
+      "published_date": "2026-09-05T10:53:14Z",
+      "category": "Military"
     },
     {
-      "title": "Pourmohammadi reflected on a crucial meeting with martyred Leader before 12-day war",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529645/Pourmohammadi-reflected-on-a-crucial-meeting-with-martyred-Leader",
-      "published_date": "2026-09-02T17:42:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran reaffirms support for Palestine as Hamas calls for urgent Islamic action",
+      "title": "Sirik wedding attack echoes tragedy of Minab schoolchildren: Iran",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253620/Iran-reaffirms-support-for-Palestine-as-Hamas-calls-for-urgent",
-      "published_date": "2026-09-02T16:37:05Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86255296/Sirik-wedding-attack-echoes-tragedy-of-Minab-schoolchildren",
+      "published_date": "2026-09-05T08:31:35Z",
+      "category": "Military"
     },
     {
-      "title": "Iran’s new consul general in Kazan meets Araghchi to outline agenda",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253627/Iran-s-new-consul-general-in-Kazan-meets-Araghchi-to-outline",
-      "published_date": "2026-09-02T16:06:41Z",
-      "category": "Diplomacy"
+      "title": "US strikes Iranian oil tanker near Kharg Island",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247449/US-strikes-Iranian-oil-tanker-near-Kharg-Island",
+      "published_date": "2026-09-05T08:23:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "VIDEO: Israel targets a house in Al-Ramadiyah Town, s Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247445/VIDEO-Israel-targets-a-house-in-Al-Ramadiyah-Town-s-Lebanon",
+      "published_date": "2026-09-05T06:14:28Z",
+      "category": "Military"
     },
     {
       "title": "Khatami: Iran is facing a hybrid war as economic pressure fails",
@@ -211,76 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247432/Iran-manufactured-deployed-new-air-defense-sys-during-war",
       "published_date": "2026-09-04T12:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran has bypassed US naval blockade: oil minister",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247428/Iran-has-bypassed-US-naval-blockade-oil-minister",
-      "published_date": "2026-09-04T08:09:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli regime intensifies attacks across Gaza Strip",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254511/Israeli-regime-intensifies-attacks-across-Gaza-Strip",
-      "published_date": "2026-09-04T06:27:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Reuters analysis confirms US directly hit wedding in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247427/Reuters-analysis-confirms-US-directly-hit-wedding-in-Iran",
-      "published_date": "2026-09-04T06:21:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ghalibaf warns Bessent over US  oil reserves, bond yields",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247426/Ghalibaf-warns-Bessent-over-US-oil-reserves-bond-yields",
-      "published_date": "2026-09-04T06:02:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "Baqaei: Iran's defensive strikes were merely against military targets",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254471/Baqaei-Iran-s-defensive-strikes-were-merely-against-military",
-      "published_date": "2026-09-04T00:15:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Need to pivot a wedding to a wake? Outsource to the US: Iran’s London Embassy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254317/Need-to-pivot-a-wedding-to-a-wake-Outsource-to-the-US-Iran-s",
-      "published_date": "2026-09-03T16:53:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "VP Aref warns of ‘asymmetric’, ‘multilayered’ response to US",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254222/VP-Aref-warns-of-asymmetric-multilayered-response-to-US",
-      "published_date": "2026-09-03T14:32:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC commander condemns US ‘terror attack’ on wedding ceremony",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254205/IRGC-commander-condemns-US-terror-attack-on-wedding-ceremony",
-      "published_date": "2026-09-03T13:19:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "US attack against Iranian civilians to not go unpunished",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247424/US-attack-against-Iranian-civilians-to-not-go-unanswered",
-      "published_date": "2026-09-03T13:15:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Wedding strike exposes US savagery: Expediency Council chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254031/Wedding-strike-exposes-US-savagery-Expediency-Council-chief",
-      "published_date": "2026-09-03T10:16:21Z",
       "category": "Military"
     },
     {
@@ -366,6 +366,20 @@
       "url": "https://www.tehrantimes.com/news/529494/Drilling-of-wells-in-joint-Balal-field-enters-new-phase",
       "published_date": "2026-08-30T05:54:42Z",
       "category": "Energy"
+    },
+    {
+      "title": "Sanctions or illusion? US claim on Iran’s financial lifeline",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247452/Sanctions-or-illusion-US-claim-on-Iran-s-financial-lifeline",
+      "published_date": "2026-09-05T10:19:34Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran judiciary ready to facilitate legal cases for Iranian, Indian traders",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255103/Iran-judiciary-ready-to-facilitate-legal-cases-for-Iranian-Indian",
+      "published_date": "2026-09-05T06:19:43Z",
+      "category": "Economy"
     },
     {
       "title": "Legal foundations for Iran’s enduring management of the Strait of Hormuz",
@@ -494,157 +508,143 @@
       "category": "Economy"
     },
     {
-      "title": "'De-dollarization' and 'economic integration' on Iran's agenda at SCO summit",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529570/De-dollarization-and-economic-integration-on-Iran-s-agenda",
-      "published_date": "2026-08-31T17:29:07Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Innovative youth population projects to be supported",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529550/Innovative-youth-population-projects-to-be-supported",
-      "published_date": "2026-08-31T10:42:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "15412",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/529686/15412",
-      "published_date": "2026-09-04T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran backs collective security architecture offered by China",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247436/Iran-backs-China-s-security-architecture-for-region",
-      "published_date": "2026-09-04T19:24:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Media report of huge explosions in Jordan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247435/Arab-media-report-huge-eplosion-heard-in-Jordan",
-      "published_date": "2026-09-04T17:40:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben Gvir unveils seven-year blueprint to ethnically cleanse Gaza",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529672/Ben-Gvir-unveils-seven-year-blueprint-to-ethnically-cleanse-Gaza",
-      "published_date": "2026-09-04T16:40:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran participating in 27th Baghdad International Book Fair",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529662/Iran-participating-in-27th-Baghdad-International-Book-Fair",
-      "published_date": "2026-09-04T16:40:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Culture minister visits Minab School exhibition",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529663/Culture-minister-visits-Minab-School-exhibition",
-      "published_date": "2026-09-04T16:39:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ecotourism plans underway in protected areas and wetlands",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529685/Ecotourism-plans-underway-in-protected-areas-and-wetlands",
-      "published_date": "2026-09-04T16:39:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sangak bread added to Iran’s national intangible cultural heritage list",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529683/Sangak-bread-added-to-Iran-s-national-intangible-cultural-heritage",
-      "published_date": "2026-09-04T16:33:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran, Russia Chief Justices meet on sidelines of BRICS summit",
+      "title": "Hezbollah blames Lebanese govt.’s illegal approach for continued US-backed Israeli aggression",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254825/Iran-Russia-Chief-Justices-meet-on-sidelines-of-BRICS-summit",
-      "published_date": "2026-09-04T14:21:29Z",
+      "url": "https://en.irna.ir/news/86255686/Hezbollah-blames-Lebanese-govt-s-illegal-approach-for-continued",
+      "published_date": "2026-09-05T13:30:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Pezeshkian: Environmental protection is a pillar of national and social security",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529669/Pezeshkian-Environmental-protection-is-a-pillar-of-national",
-      "published_date": "2026-09-04T13:30:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICCIMA, IRU examine routes for facilitating money transfer",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529665/ICCIMA-IRU-examine-routes-for-facilitating-money-transfer",
-      "published_date": "2026-09-04T13:16:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran plays host to Royan Intl. Twin Congress",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529661/Tehran-plays-host-to-Royan-Intl-Twin-Congress",
-      "published_date": "2026-09-04T11:25:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 80 earthquakes hit Iran in a week",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529659/Over-80-earthquakes-hit-Iran-in-a-week",
-      "published_date": "2026-09-04T11:21:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ten countries attending INOTEX 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529657/Ten-countries-attending-INOTEX-2026",
-      "published_date": "2026-09-04T11:19:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IRCS keeps supporting Afghan children facing malnutrition",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529655/IRCS-keeps-supporting-Afghan-children-facing-malnutrition",
-      "published_date": "2026-09-04T11:17:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran wins three medals at World Para Taekwondo Grand Prix",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529653/Iran-wins-three-medals-at-World-Para-Taekwondo-Grand-Prix",
-      "published_date": "2026-09-04T11:13:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Education Restrictions Hit Iranian Students",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529652/US-Education-Restrictions-Hit-Iranian-Students",
-      "published_date": "2026-09-04T10:33:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mad king: how Sanders rebuffs Trump over Hormuz renaming",
+      "title": "IRGC  dismantles US-Israeli-backed terrorist cell in SE Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247431/Mad-king-how-Sanders-rebuffs-Trump-over-Hormuz-renaming",
-      "published_date": "2026-09-04T10:22:27Z",
+      "url": "https://en.mehrnews.com/news/247459/IRGC-dismantles-US-Israeli-backed-terrorist-cell-in-SE-Iran",
+      "published_date": "2026-09-05T12:39:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran demonstrated strategic resilience despite US attacks, says Judiciary chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254637/Iran-demonstrated-strategic-resilience-despite-US-attacks-says",
-      "published_date": "2026-09-04T09:44:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran lose to DPR Korea at AFC U20 Asian Cup China 2027 qualifier",
+      "title": "A Wedding Turned to Mourning",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529651/Iran-lose-to-DPR-Korea-at-AFC-U20-Asian-Cup-China-2027-qualifier",
-      "published_date": "2026-09-04T09:25:50Z",
+      "url": "https://www.tehrantimes.com/news/529702/A-Wedding-Turned-to-Mourning",
+      "published_date": "2026-09-05T12:37:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "DOE bans rut tours to help Persian red deer conservation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529701/DOE-bans-rut-tours-to-help-Persian-red-deer-conservation",
+      "published_date": "2026-09-05T12:07:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Iranian universities in Round University Ranking 2026",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529697/More-Iranian-universities-in-Round-University-Ranking-2026",
+      "published_date": "2026-09-05T10:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IRGC says terrorist team disbanded in southeastern Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255525/IRGC-says-terrorist-team-disbanded-in-southeastern-Iran",
+      "published_date": "2026-09-05T10:53:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian university, Russian academy to hold joint educational course",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529693/Iranian-university-Russian-academy-to-hold-joint-educational",
+      "published_date": "2026-09-05T10:51:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guests visit Guangdong ahead of Asia-Pacific Media Forum",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247454/Guests-visit-Guangdong-ahead-of-Asia-Pacific-Media-Forum",
+      "published_date": "2026-09-05T10:49:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asia-Pacific Media Forum to be held in China's Guangdong",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247453/Asia-Pacific-Media-Forum-to-be-held-in-China-s-Guangdong",
+      "published_date": "2026-09-05T10:34:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian fishermen celebrate their bond with Persian Gulf at Nowruz-e Darya local ceremony",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255437/Iranian-fishermen-celebrate-their-bond-with-Persian-Gulf-at-Nowruz-e",
+      "published_date": "2026-09-05T10:06:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nuclear threat narrative has been proven false: Iran VP Aref",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255348/Nuclear-threat-narrative-has-been-proven-false-Iran-VP-Aref",
+      "published_date": "2026-09-05T09:55:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World grasped out nuclear club was nothing more than a lie",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247451/World-grasped-out-nuclear-club-was-nothing-more-than-a-lie",
+      "published_date": "2026-09-05T09:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran drop two places in latest FIBA World Ranking",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529688/Iran-drop-two-places-in-latest-FIBA-World-Ranking",
+      "published_date": "2026-09-05T09:32:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Intl. silence on US attacks against Iran ‘not neutrality’",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247450/Intl-silence-on-US-attacks-against-Iran-not-neutrality",
+      "published_date": "2026-09-05T09:11:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "1 dead, 11 missing after mudslide in eastern China",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247448/1-dead-11-missing-after-mudslide-in-eastern-China",
+      "published_date": "2026-09-05T08:14:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wheelchair basketball’s participation in world championship in doubt",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529687/Wheelchair-basketball-s-participation-in-world-championship-in",
+      "published_date": "2026-09-05T08:14:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justice must never be biased or shaped by political considerations: Iran Judiciary Chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255223/Justice-must-never-be-biased-or-shaped-by-political-considerations",
+      "published_date": "2026-09-05T07:48:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran welcomes China’s call for new regional security architecture",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86255033/Iran-welcomes-China-s-call-for-new-regional-security-architecture",
+      "published_date": "2026-09-05T05:51:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VIDEO: Severe flooding rips through China’s Fujian",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247443/VIDEO-Severe-flooding-rips-through-China-s-Fujian",
+      "published_date": "2026-09-05T05:46:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli military raids West Bank towns at dawn",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247444/Israeli-military-raids-West-Bank-towns-at-dawn",
+      "published_date": "2026-09-05T05:45:02Z",
       "category": "Local Events"
     }
   ]
