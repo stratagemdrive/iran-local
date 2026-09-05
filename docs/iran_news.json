@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-04T14:54:58Z",
-  "total_stories": 91,
+  "generated_at": "2026-09-05T00:29:02Z",
+  "total_stories": 92,
   "stories": [
+    {
+      "title": "Why did Beijing reject the G20 statement?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529670/Why-did-Beijing-reject-the-G20-statement",
+      "published_date": "2026-09-04T16:48:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran uses BRICS judicial diplomacy to deepen ties with China, Russia and Belarus",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529682/Iran-uses-BRICS-judicial-diplomacy-to-deepen-ties-with-China",
+      "published_date": "2026-09-04T16:44:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What has Trump gained following Netanyahu’s lead?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529677/What-has-Trump-gained-following-Netanyahu-s-lead",
+      "published_date": "2026-09-04T16:41:58Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi lambasts Jordanian FM remarks about US aggression",
       "source": "Mehr News Agency",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Exclusive | Iran’s Foreign Ministry official rejects claims China set conditions for ties",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253549/Exclusive-Iran-s-Foreign-Ministry-official-rejects-claims-China",
-      "published_date": "2026-09-02T15:44:46Z",
-      "category": "Diplomacy"
+      "title": "Khatami: Iran is facing a hybrid war as economic pressure fails",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529680/Khatami-Iran-is-facing-a-hybrid-war-as-economic-pressure-fails",
+      "published_date": "2026-09-04T16:47:41Z",
+      "category": "Military"
     },
     {
-      "title": "Iran says international silence on US attacks is ‘not neutrality’",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86253520/Iran-says-international-silence-on-US-attacks-is-not-neutrality",
-      "published_date": "2026-09-02T14:06:28Z",
-      "category": "Diplomacy"
+      "title": "Qatari ITU submission confirms Iran’s retaliatory operations hit only US military assets",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529674/Qatari-ITU-submission-confirms-Iran-s-retaliatory-operations",
+      "published_date": "2026-09-04T16:45:11Z",
+      "category": "Military"
     },
     {
-      "title": "Putin, Pezeshkian discussed nuclear cooperation at Bishkek meeting: Rosatom chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253371/Putin-Pezeshkian-discussed-nuclear-cooperation-at-Bishkek-meeting",
-      "published_date": "2026-09-02T12:44:17Z",
-      "category": "Diplomacy"
+      "title": "Six Iranian Navy personnel martyred in US strikes in southern Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529681/Six-Iranian-Navy-personnel-martyred-in-US-strikes-in-southern",
+      "published_date": "2026-09-04T16:44:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Kuhestak mourns victims of deadly strike on wedding",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529678/Kuhestak-mourns-victims-of-deadly-strike-on-wedding",
+      "published_date": "2026-09-04T16:43:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "Advanced enemy technology failed to shield aircraft from indigenous air defenses",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529679/Advanced-enemy-technology-failed-to-shield-aircraft-from-indigenous",
+      "published_date": "2026-09-04T16:42:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rights organizations demand Congress scrap US-Israel military integration bill",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529673/Rights-organizations-demand-Congress-scrap-US-Israel-military",
+      "published_date": "2026-09-04T16:41:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran-Russia alliance grows despite US pressure",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529671/Iran-Russia-alliance-grows-despite-US-pressure",
+      "published_date": "2026-09-04T16:07:49Z",
+      "category": "Military"
     },
     {
       "title": "Iran Army spox says US failed to achieve war goals",
@@ -235,53 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US leaders must answer for war crimes, IRGC says after wedding attack",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253963/US-leaders-must-answer-for-war-crimes-IRGC-says-after-wedding",
-      "published_date": "2026-09-03T09:07:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s Army to be present with utmost strength when required",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247423/Iran-s-Army-to-be-present-with-utmost-strength-when-required",
-      "published_date": "2026-09-03T08:31:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "US army is grappling with profound crisis",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247419/US-army-is-grappling-with-profound-crisis",
-      "published_date": "2026-09-03T07:50:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "US leaders must answer for dark record of attacks on weddings",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247422/US-leaders-must-answer-for-dark-record-of-attacks-on-weddings",
-      "published_date": "2026-09-03T07:37:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen holds Red Sea drills for possible confrontation with Israel and US: Official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253863/Yemen-holds-Red-Sea-drills-for-possible-confrontation-with-Israel",
-      "published_date": "2026-09-03T06:45:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Rezaei reiterates his warning to US over continued aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247416/Rezaei-reiterates-his-warning-to-US-over-continued-aggression",
-      "published_date": "2026-09-02T19:23:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "UN chief gravely concerned by renewed US-Iran exchange of fire: Spokesperson",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253728/UN-chief-gravely-concerned-by-renewed-US-Iran-exchange-of-fire",
-      "published_date": "2026-09-02T19:06:52Z",
-      "category": "Military"
+      "title": "Flow vs. territory: The real battle for the Strait of Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529676/Flow-vs-territory-The-real-battle-for-the-Strait-of-Hormuz",
+      "published_date": "2026-09-04T16:47:29Z",
+      "category": "Energy"
     },
     {
       "title": "Persepolis, Esteghlal settled for draw: 2026/27 PGPL",
@@ -359,6 +366,20 @@
       "url": "https://www.tehrantimes.com/news/529494/Drilling-of-wells-in-joint-Balal-field-enters-new-phase",
       "published_date": "2026-08-30T05:54:42Z",
       "category": "Energy"
+    },
+    {
+      "title": "Legal foundations for Iran’s enduring management of the Strait of Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529675/Legal-foundations-for-Iran-s-enduring-management-of-the-Strait",
+      "published_date": "2026-09-04T16:42:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Safavid tilework: From architectural ornament to pictorial art",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529684/Safavid-tilework-From-architectural-ornament-to-pictorial-art",
+      "published_date": "2026-09-04T16:37:09Z",
+      "category": "Economy"
     },
     {
       "title": "‘Forex, trade policies must be reviewed in line with current conditions’",
@@ -487,18 +508,60 @@
       "category": "Economy"
     },
     {
-      "title": "Xi advances a shared future with China's neighbors",
+      "title": "15412",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529529/Xi-advances-a-shared-future-with-China-s-neighbors",
-      "published_date": "2026-08-30T18:10:38Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/529686/15412",
+      "published_date": "2026-09-04T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Leader: US, Israel 'sworn enemies' of Muslim unity and friendship",
+      "title": "Iran backs collective security architecture offered by China",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247436/Iran-backs-China-s-security-architecture-for-region",
+      "published_date": "2026-09-04T19:24:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Media report of huge explosions in Jordan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247435/Arab-media-report-huge-eplosion-heard-in-Jordan",
+      "published_date": "2026-09-04T17:40:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ben Gvir unveils seven-year blueprint to ethnically cleanse Gaza",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529498/Leader-US-Israel-sworn-enemies-of-Muslim-unity-and-friendship",
-      "published_date": "2026-08-30T17:39:06Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/529672/Ben-Gvir-unveils-seven-year-blueprint-to-ethnically-cleanse-Gaza",
+      "published_date": "2026-09-04T16:40:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran participating in 27th Baghdad International Book Fair",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529662/Iran-participating-in-27th-Baghdad-International-Book-Fair",
+      "published_date": "2026-09-04T16:40:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Culture minister visits Minab School exhibition",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529663/Culture-minister-visits-Minab-School-exhibition",
+      "published_date": "2026-09-04T16:39:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ecotourism plans underway in protected areas and wetlands",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529685/Ecotourism-plans-underway-in-protected-areas-and-wetlands",
+      "published_date": "2026-09-04T16:39:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sangak bread added to Iran’s national intangible cultural heritage list",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529683/Sangak-bread-added-to-Iran-s-national-intangible-cultural-heritage",
+      "published_date": "2026-09-04T16:33:22Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran, Russia Chief Justices meet on sidelines of BRICS summit",
@@ -582,62 +645,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529651/Iran-lose-to-DPR-Korea-at-AFC-U20-Asian-Cup-China-2027-qualifier",
       "published_date": "2026-09-04T09:25:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Basketball players Jafari and Aliakbari doubt for 2026 Asian Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529650/Basketball-players-Jafari-and-Aliakbari-doubt-for-2026-Asian",
-      "published_date": "2026-09-04T08:51:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Soltaninejad wins gold at 2026 World Nomad Games",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254598/Iran-s-Soltaninejad-wins-gold-at-2026-World-Nomad-Games",
-      "published_date": "2026-09-04T08:27:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran resolved to expand cooperation with China: Ejei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247429/Iran-resolved-to-expand-cooperation-with-China-Ejei",
-      "published_date": "2026-09-04T08:26:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC leaders criticize efforts to erode international legal order",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254547/ICC-leaders-criticize-efforts-to-erode-international-legal-order",
-      "published_date": "2026-09-04T07:22:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qalibaf: Bessent on the brink as oil reserves fall and bond yields surge",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86254422/Qalibaf-Bessent-on-the-brink-as-oil-reserves-fall-and-bond-yields",
-      "published_date": "2026-09-03T20:08:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump turns Iranian wedding bloody",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529649/Trump-turns-Iranian-wedding-bloody",
-      "published_date": "2026-09-03T14:51:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Don’t mistaken Iran history depth for size of childhood yard",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247425/Don-t-blunder-Iran-history-s-depth-for-size-of-childhood-yard",
-      "published_date": "2026-09-03T13:45:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judiciary chief heads to India for BRICS summit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86253908/Judiciary-chief-heads-to-India-for-BRICS-summit",
-      "published_date": "2026-09-03T07:48:59Z",
       "category": "Local Events"
     }
   ]
