@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-06T14:06:18Z",
+  "generated_at": "2026-09-07T00:28:21Z",
   "total_stories": 96,
   "stories": [
+    {
+      "title": "Hormuz Strait fully closed; non-compliant ships to be banned",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247500/Hormuz-Strait-fully-closed-non-compliant-ships-to-be-banned",
+      "published_date": "2026-09-06T19:59:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran FM holds consultations with Turkish, Saudi counterparts",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529764/Iran-FM-holds-consultations-with-Turkish-Saudi-counterparts",
+      "published_date": "2026-09-06T17:29:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A new chapter in judicial diplomacy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529758/A-new-chapter-in-judicial-diplomacy",
+      "published_date": "2026-09-06T17:29:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel proven it complies with no ceasefire agreement",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247496/Israel-proved-it-complies-with-no-ceasefire-agreement",
+      "published_date": "2026-09-06T16:05:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Qatari PM set to visit China",
       "source": "Mehr News Agency",
@@ -116,32 +144,109 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran to US public: Don’t become cannon fodder in a war you never chose",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86255058/Iran-to-US-public-Don-t-become-cannon-fodder-in-a-war-you-never",
-      "published_date": "2026-09-05T05:47:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US must consider realities on ground in regarding Ukraine war",
+      "title": "Three tankers change course in Hormuz after IRGC warning",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247441/US-must-consider-realities-on-ground-in-regarding-Ukraine-war",
-      "published_date": "2026-09-05T05:15:52Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247498/Three-tankers-change-course-in-Hormuz-after-IRGC-warning",
+      "published_date": "2026-09-06T18:22:52Z",
+      "category": "Military"
     },
     {
-      "title": "Why did Beijing reject the G20 statement?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529670/Why-did-Beijing-reject-the-G20-statement",
-      "published_date": "2026-09-04T16:48:04Z",
-      "category": "Diplomacy"
+      "title": "Saudi enemy's \"Wing loong 2\" drone shot down over Taiz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247497/Saudi-enemy-s-Wing-loong-2-drone-shot-down-over-Taiz",
+      "published_date": "2026-09-06T17:52:16Z",
+      "category": "Military"
     },
     {
-      "title": "Iran uses BRICS judicial diplomacy to deepen ties with China, Russia and Belarus",
+      "title": "Shadowy Emirati firm exposed as major oil supplier for Israeli military",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529682/Iran-uses-BRICS-judicial-diplomacy-to-deepen-ties-with-China",
-      "published_date": "2026-09-04T16:44:41Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529760/Shadowy-Emirati-firm-exposed-as-major-oil-supplier-for-Israeli",
+      "published_date": "2026-09-06T17:34:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israeli warplanes slaughter civilians, obliterate hospital in southern Lebanon",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529759/Israeli-warplanes-slaughter-civilians-obliterate-hospital-in",
+      "published_date": "2026-09-06T17:32:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Dennis Ross: Iran’s resilience during US war continues to ‘surprise’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529765/Dennis-Ross-Iran-s-resilience-during-US-war-continues-to-surprise",
+      "published_date": "2026-09-06T17:29:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "US military emulates Israeli 'total war' tactics by deliberately targeting civilians",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529756/US-military-emulates-Israeli-total-war-tactics-by-deliberately",
+      "published_date": "2026-09-06T17:28:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sydney art exhibition highlights Minab tragedy, voices of war, resilience",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529744/Sydney-art-exhibition-highlights-Minab-tragedy-voices-of-war",
+      "published_date": "2026-09-06T17:25:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran’s retaliatory fire sends US warships fleeing, exposes American vulnerability",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529757/Iran-s-retaliatory-fire-sends-US-warships-fleeing-exposes-American",
+      "published_date": "2026-09-06T17:24:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Top Iranian general hails armed forces’ asymmetric response to US, Israel",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529768/Top-Iranian-general-hails-armed-forces-asymmetric-response-to",
+      "published_date": "2026-09-06T16:32:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sayyari: Iran’s deterrence capabilities have significantly increased after recent wars",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529767/Sayyari-Iran-s-deterrence-capabilities-have-significantly-increased",
+      "published_date": "2026-09-06T16:30:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "US attack on wedding in southern Iran kills four, injures nearly 70",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/529763/US-attack-on-wedding-in-southern-Iran-kills-four-injures-nearly",
+      "published_date": "2026-09-06T15:49:06Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mass funeral held for victims of US attack on wedding in Kuhestak",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/529761/Mass-funeral-held-for-victims-of-US-attack-on-wedding-in-Kuhestak",
+      "published_date": "2026-09-06T15:40:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran security forces seize shipment of weapons in NW",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247495/Iran-security-forces-seize-shipment-of-weapons-in-NW",
+      "published_date": "2026-09-06T15:06:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "Why does Trump downplay the war with Iran?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529753/Why-does-Trump-downplay-the-war-with-Iran",
+      "published_date": "2026-09-06T14:20:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "VIDEO: Yemeni forces attack on Saudi-backed mercenaries",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247494/VIDEO-Yemeni-forces-attack-Saudi-backed-mercenaries",
+      "published_date": "2026-09-06T14:09:00Z",
+      "category": "Military"
     },
     {
       "title": "US military cannot call its ‘barbaric crimes’ against civilians a ‘mistake’: Iran’s OIC mission",
@@ -179,109 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US aircraft carriers within Iran's reach",
+      "title": "Ghalibaf mocks $40 oil pbd forecast by US secretary",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247486/US-aircraft-carriers-within-Iran-s-reach",
-      "published_date": "2026-09-06T09:09:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran, Baku stress expansion of infrastructure cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86256212/Tehran-Baku-stress-expansion-of-infrastructure-cooperation",
-      "published_date": "2026-09-06T08:42:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s deterrence power has significantly increased: Sayyari",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247484/Iran-s-deterrence-power-has-significantly-increase-Sayyari",
-      "published_date": "2026-09-06T07:56:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran-China MOU powers Maku Free Zone as new silk road gateway",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529727/Iran-China-MOU-powers-Maku-Free-Zone-as-new-silk-road-gateway",
-      "published_date": "2026-09-06T07:39:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hormuz: The bill for America's strategic miscalculation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247480/Hormuz-The-bill-for-America-s-strategic-miscalculation",
-      "published_date": "2026-09-06T06:22:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86256022/IRGC-attacks-US-unmanned-vessel-seeking-access-to-Strait-of-Hormuz",
-      "published_date": "2026-09-06T06:00:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran strikes back after US targets its tankers",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86256016/Iran-strikes-back-after-US-targets-its-tankers",
-      "published_date": "2026-09-06T06:00:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC targets US aircraft carrier, destroyer in ballistic missile attack",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86255997/IRGC-targets-US-aircraft-carrier-destroyer-in-ballistic-missile",
-      "published_date": "2026-09-06T05:53:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: IRGC Navy releases footage of Strait of Hormuz control",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247473/VIDEO-IRGC-Navy-releases-footage-of-Strait-of-Hormuz-control",
-      "published_date": "2026-09-06T04:25:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "At least 7 Palestinians injured in Israeli attacks on Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247472/At-least-7-Palestinians-injured-in-Israeli-attacks-on-Gaza",
-      "published_date": "2026-09-06T04:13:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC hits US aircraft carrier, destroyer with missiles",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247471/IRGC-hits-US-carrier-destroyer-with-missiles",
-      "published_date": "2026-09-06T04:03:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC attacks US unmanned vessel near Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247469/IRGC-attacks-US-unmanned-vessel-near-Strait-of-Hormuz",
-      "published_date": "2026-09-06T03:41:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Border rail exchanges proceeding uninterruptedly",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529728/Border-rail-exchanges-proceeding-uninterruptedly",
-      "published_date": "2026-09-05T21:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Navy issues stark warning to vessels in Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247468/IRGC-Navy-issues-stark-warning-to-vessels-in-Hormuz",
-      "published_date": "2026-09-05T20:45:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Navy Commander: Do not be deceived by US; Any suspicious move will be targeted",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86255906/IRGC-Navy-Commander-Do-not-be-deceived-by-US-Any-suspicious",
-      "published_date": "2026-09-05T20:39:55Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/247499/Ghalibaf-mocks-40-oil-pbd-forecast-by-US-secretary",
+      "published_date": "2026-09-06T18:29:38Z",
+      "category": "Energy"
     },
     {
       "title": "Pezeshkian orders probe into fatal fuel tanker explosion in western Iran",
@@ -386,13 +393,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529555/Trump-s-Venezuelan-delusion-Same-foolish-blueprint-he-plots",
       "published_date": "2026-08-31T13:00:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "US-Venezuela oil agreement: A ‘Historic transaction’ or ‘historic robbery’!?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529525/US-Venezuela-oil-agreement-A-Historic-transaction-or-historic",
-      "published_date": "2026-08-30T17:52:34Z",
       "category": "Energy"
     },
     {
@@ -536,6 +536,76 @@
       "category": "Economy"
     },
     {
+      "title": "15414",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/529771/15414",
+      "published_date": "2026-09-06T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Are regional countries blindly following the US-Zionist plot?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529762/Are-regional-countries-blindly-following-the-US-Zionist-plot",
+      "published_date": "2026-09-06T17:33:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian writer, poet and artist Javad Mojabi passes away",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529742/Iranian-writer-poet-and-artist-Javad-Mojabi-passes-away",
+      "published_date": "2026-09-06T17:27:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran attends 39th Moscow International Book Fair",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529735/Iran-attends-39th-Moscow-International-Book-Fair",
+      "published_date": "2026-09-06T17:27:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian short film “Warden” wins at 39th Kélibia International Amateur Film Festival",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529732/Iranian-short-film-Warden-wins-at-39th-K%C3%A9libia-International",
+      "published_date": "2026-09-06T17:26:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Shiraz to Zanzibar: A look into centuries-old Persian connection",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529770/From-Shiraz-to-Zanzibar-A-look-into-centuries-old-Persian-connection",
+      "published_date": "2026-09-06T16:40:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Restoration work continues at Sheikh Safi al-Din Ardabili shrine complex",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529769/Restoration-work-continues-at-Sheikh-Safi-al-Din-Ardabili-shrine",
+      "published_date": "2026-09-06T16:36:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qalibaf warns of faster, heavier Iranian response to any new aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529766/Qalibaf-warns-of-faster-heavier-Iranian-response-to-any-new",
+      "published_date": "2026-09-06T16:28:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Laboratorium. Food irradiation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529755/Laboratorium-Food-irradiation",
+      "published_date": "2026-09-06T14:41:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran defeat Vietnam at AFC U20 Asian Cup 2027 qualifier",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529754/Iran-defeat-Vietnam-at-AFC-U20-Asian-Cup-2027-qualifier",
+      "published_date": "2026-09-06T14:24:27Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Opening ceremony of 1st Smart Police High School in Tehran",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/photo/247492/Opening-ceremony-of-1st-Smart-Police-High-School",
@@ -603,76 +673,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529733/Iran-overpower-India-at-2026-AVC-Volleyball-Continental-C-ship",
       "published_date": "2026-09-06T11:43:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran embassy in Beirut clarifies official position on Lebanon developments",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86256484/Iran-embassy-in-Beirut-clarifies-official-position-on-Lebanon",
-      "published_date": "2026-09-06T11:07:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Any aggression on Iran's interests to face painful response",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247488/Any-aggression-on-Iran-s-interests-to-face-painful-response",
-      "published_date": "2026-09-06T10:10:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US attacks against Iranian oil vessels ‘act of desperation’",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247485/US-attacks-against-Iranian-oil-vessels-act-of-desperation",
-      "published_date": "2026-09-06T08:50:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javanmardi among shooting stars to follow in Changwon 2026 Worlds",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529730/Javanmardi-among-shooting-stars-to-follow-in-Changwon-2026-Worlds",
-      "published_date": "2026-09-06T08:49:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran in Pot 1 of AFC Beach Soccer Asian Cup 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529729/Iran-in-Pot-1-of-AFC-Beach-Soccer-Asian-Cup-2026",
-      "published_date": "2026-09-06T08:38:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: 40th day memorial service for late actor Akbar Abdi held in Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86256165/In-photos-40th-day-memorial-service-for-late-actor-Akbar-Abdi",
-      "published_date": "2026-09-06T08:11:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Int’l congresses on stem cells and biomedicine held in Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86256121/In-photos-Int-l-congresses-on-stem-cells-and-biomedicine-held",
-      "published_date": "2026-09-06T07:58:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bust honoring iconic Iranian artist Akbar Abdi unveiled",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86256146/Bust-honoring-iconic-Iranian-artist-Akbar-Abdi-unveiled",
-      "published_date": "2026-09-06T07:38:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: An old woman found alive in Nepal flood after 10 days",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247483/VIDEO-An-old-woman-found-alive-in-Nepal-flood-after-10-days",
-      "published_date": "2026-09-06T07:26:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 dead, 2 injured after small plane crashes in US California",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247481/2-dead-2-injured-after-small-plane-crashes-in-US-California",
-      "published_date": "2026-09-06T07:20:05Z",
       "category": "Local Events"
     }
   ]
