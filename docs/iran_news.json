@@ -1,8 +1,64 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-13T14:54:59Z",
-  "total_stories": 99,
+  "generated_at": "2026-09-14T00:32:17Z",
+  "total_stories": 100,
   "stories": [
+    {
+      "title": "Iran says Strait of Hormuz meeting postponed at request of regional states",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86263200/Iran-says-Strait-of-Hormuz-meeting-postponed-at-request-of-regional",
+      "published_date": "2026-09-13T19:47:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oman says regional meeting on Strait of Hormuz postponed",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86263196/Oman-postpones-regional-meeting-on-Strait-of-Hormuz",
+      "published_date": "2026-09-13T19:39:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian returns to Tehran after trip to India for BRICS summit",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86263186/Pezeshkian-back-in-Tehran-after-trip-to-India-for-BRICS-summit",
+      "published_date": "2026-09-13T19:03:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hollywood-style PR cannot mask Washington’s strategic defeat in Iran skies",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529978/Hollywood-style-PR-cannot-mask-Washington-s-strategic-defeat",
+      "published_date": "2026-09-13T17:19:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns against using civil aviation as a tool of political pressure",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529994/Iran-warns-against-using-civil-aviation-as-a-tool-of-political",
+      "published_date": "2026-09-13T17:18:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian top diplomat's consultations go beyond BRICS",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529992/Iranian-top-diplomat-s-consultations-go-beyond-BRICS",
+      "published_date": "2026-09-13T17:17:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CBI chief travels to Turkey for Muslim top bankers meeting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247714/CBI-chief-travels-to-Turkey-for-Islamic-top-bankers-meeting",
+      "published_date": "2026-09-13T17:05:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Support for multilateralism, expanded trade, fight against unilateralism outcomes of BRICS summit: President",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86263097/Support-for-multilateralism-expanded-trade-fight-against-unilateralism",
+      "published_date": "2026-09-13T16:12:50Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi: Iran-Oman understanding does not mean reopening of Strait of Hormuz",
       "source": "IRNA",
@@ -88,60 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Araghchi, Fidan discuss regional de-escalation",
+      "title": "Yemen reports 58 Saudi attacks in one day; vows response",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247694/Iran-Turkey-FMs-discuss-regional-de-escalation",
-      "published_date": "2026-09-13T04:25:24Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247717/Yemen-reports-58-Saudi-attacks-in-one-day-vows-response",
+      "published_date": "2026-09-13T19:51:39Z",
+      "category": "Military"
     },
     {
-      "title": "Iranian, Iraqi foreign ministers hold telephone conversation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86262190/Iranian-and-Iraqi-foreign-ministers-hold-telephone-conversation",
-      "published_date": "2026-09-12T20:52:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian, Turkish foreign ministers discuss bilateral ties, regional developments over phone",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86262185/Iranian-Turkish-foreign-ministers-discuss-bilateral-ties-regional",
-      "published_date": "2026-09-12T20:30:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aoun’s dilemma: When diplomacy fails to change reality on the ground",
+      "title": "The new strategic power of the Resistance",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529952/Aoun-s-dilemma-When-diplomacy-fails-to-change-reality-on-the",
-      "published_date": "2026-09-12T17:24:26Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529982/The-new-strategic-power-of-the-Resistance",
+      "published_date": "2026-09-13T17:26:08Z",
+      "category": "Military"
     },
     {
-      "title": "Iran consults BRICS members to facilitate accession to NDB",
+      "title": "The arithmetic of US decline",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529958/Iran-consults-BRICS-members-to-facilitate-accession-to-NDB",
-      "published_date": "2026-09-12T17:18:55Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/529989/The-arithmetic-of-US-decline",
+      "published_date": "2026-09-13T17:25:27Z",
+      "category": "Military"
     },
     {
-      "title": "BRICS declaration matches with Iran’s stances: Gharibabadi",
+      "title": "Israel expands southern Syria footprint; tank columns and artillery push past Golan",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529988/Israel-expands-southern-Syria-footprint-tank-columns-and-artillery",
+      "published_date": "2026-09-13T17:25:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ansarallah widens Yemen’s western-coast gains despite Saudi airstrikes",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529986/Ansarallah-widens-Yemen-s-western-coast-gains-despite-Saudi-airstrikes",
+      "published_date": "2026-09-13T17:24:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran ready to confront any new war, defense chief says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529993/Iran-ready-to-confront-any-new-war-defense-chief-says",
+      "published_date": "2026-09-13T17:18:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "US threats not backed by genuine military capability: Iran’s acting defense minister",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86263079/US-threats-not-backed-by-genuine-military-capability-Iran-s",
+      "published_date": "2026-09-13T16:58:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "Routine ops. continue in majority of Iran's land border gates",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247687/BRICS-declaration-matches-with-Iran-s-stances-Gharibabadi",
-      "published_date": "2026-09-12T17:17:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian pursues wider economic ties and financial alternatives on BRICS sidelines",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529954/Pezeshkian-pursues-wider-economic-ties-and-financial-alternatives",
-      "published_date": "2026-09-12T17:03:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "BRICS declaration aligns with Iran’s key positions: Gharibabadi",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86262089/BRICS-declaration-aligns-with-Iran-s-key-positions-Gharibabadi",
-      "published_date": "2026-09-12T16:28:57Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247712/Routine-ops-continue-in-majority-of-Iran-s-land-border-gates",
+      "published_date": "2026-09-13T15:32:54Z",
+      "category": "Military"
     },
     {
       "title": "World must break silence on continued Israeli atrocities in Lebanon: Iran’s rights body",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Yemen Army vows response to Saudi Arabia's 129 airstrikes",
+      "title": "Ghalibaf reacts to record high gas prices in US",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247688/Yemen-Army-vows-response-to-Saudi-129-airstrikes",
-      "published_date": "2026-09-12T18:35:06Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/247716/Ghalibaf-reacts-to-record-high-gas-prices-in-US",
+      "published_date": "2026-09-13T19:42:14Z",
+      "category": "Energy"
     },
     {
-      "title": "Yemen warns Saudi attacks will not go unpunished",
+      "title": "Ghalibaf reacts to record gas prices in US",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86262138/Yemen-warns-Saudi-attacks-will-not-go-unpunished",
-      "published_date": "2026-09-12T18:09:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Pressure” to go on screen at Tehran cultural center",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529930/Pressure-to-go-on-screen-at-Tehran-cultural-center",
-      "published_date": "2026-09-12T17:25:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iraqi Resistance rejects Saudi pipeline accusation as ‘an honor we do not claim’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529950/Iraqi-Resistance-rejects-Saudi-pipeline-accusation-as-an-honor",
-      "published_date": "2026-09-12T17:23:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Xi signals China’s ‘due role’ in advancing West Asia peace via BRICS",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529949/Xi-signals-China-s-due-role-in-advancing-West-Asia-peace-via",
-      "published_date": "2026-09-12T17:20:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Army, IRGC chiefs vow ‘unbreakable unity’ against hostile powers",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529947/Army-IRGC-chiefs-vow-unbreakable-unity-against-hostile-powers",
-      "published_date": "2026-09-12T17:20:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran says IAEA chief’s reports helped pave way for US-Israeli attacks",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529957/Iran-says-IAEA-chief-s-reports-helped-pave-way-for-US-Israeli",
-      "published_date": "2026-09-12T17:15:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "All the Pentagon’s men",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529946/All-the-Pentagon-s-men",
-      "published_date": "2026-09-12T17:07:03Z",
-      "category": "Military"
+      "url": "https://en.irna.ir/news/86263172/Ghalibaf-reacts-to-record-gas-prices-in-US",
+      "published_date": "2026-09-13T18:30:15Z",
+      "category": "Energy"
     },
     {
       "title": "Unprecedented record set in development of thermal power plant infrastructure",
@@ -410,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ghalibaf mocks $40 oil pbd forecast by US secretary",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247499/Ghalibaf-mocks-40-oil-pbd-forecast-by-US-secretary",
-      "published_date": "2026-09-06T18:29:38Z",
-      "category": "Energy"
+      "title": "Pezeshkian urges BRICS to turn economic resilience into practical cooperation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529991/Pezeshkian-urges-BRICS-to-turn-economic-resilience-into-practical",
+      "published_date": "2026-09-13T17:14:54Z",
+      "category": "Economy"
     },
     {
       "title": "Iran’s industrial parks to become smart, specialized ecosystems under new SME strategy",
@@ -550,11 +564,88 @@
       "category": "Economy"
     },
     {
-      "title": "Iran pushes for local currencies, alternative payment systems to counter sanctions in BRICS summit",
+      "title": "15420",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529886/Iran-pushes-for-local-currencies-alternative-payment-systems",
-      "published_date": "2026-09-11T07:03:38Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/529995/15420",
+      "published_date": "2026-09-13T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Harvesting figs in Fars Province",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/247715/Harvesting-figs-in-Fars-Province",
+      "published_date": "2026-09-13T18:07:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is Israel winning?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529983/Is-Israel-winning",
+      "published_date": "2026-09-13T17:24:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran court hears lawsuit by nearly 353,000 Iranians over crimes during 12-day war",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529979/Iran-court-hears-lawsuit-by-nearly-353-000-Iranians-over-crimes",
+      "published_date": "2026-09-13T17:22:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hormuz Strait and Bab al-Mandab: Two strategic chokepoints",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529990/Hormuz-Strait-and-Bab-al-Mandab-Two-strategic-chokepoints",
+      "published_date": "2026-09-13T17:21:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FM Araqchi: Oman understanding not enough to reopen Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529981/FM-Araqchi-Oman-understanding-not-enough-to-reopen-Hormuz",
+      "published_date": "2026-09-13T17:14:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian director to stage reading of Edward Albee’s “A Delicate Balance”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529962/Iranian-director-to-stage-reading-of-Edward-Albee-s-A-Delicate",
+      "published_date": "2026-09-13T17:00:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "International Painting Competition Sorena to focus on Minab martyred children",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529964/International-Painting-Competition-Sorena-to-focus-on-Minab-martyred",
+      "published_date": "2026-09-13T16:43:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hojjatoleslam Qomi visits “Minab School” exhibition, calls for international presentation of artwork",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529961/Hojjatoleslam-Qomi-visits-Minab-School-exhibition-calls-for",
+      "published_date": "2026-09-13T16:42:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Japan wins Iran 3-0 in 2026 AVC Men’s Volleyball C'ship final",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247713/Japan-sweep-Iran-to-win-2026-AVC-Men-s-Volleyball-C-ship",
+      "published_date": "2026-09-13T16:18:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "After 9/11…",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529987/After-9-11",
+      "published_date": "2026-09-13T16:06:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A different way to travel: Azadeh Abedinzadeh explains",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/529976/A-different-way-to-travel-Azadeh-Abedinzadeh-explains",
+      "published_date": "2026-09-13T15:08:44Z",
+      "category": "Local Events"
     },
     {
       "title": "A different way to travel: Azadeh Abedinzadeh explains",
@@ -610,90 +701,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86262723/Iran-savate-team-wins-two-bronze-medals-at-world-championships",
       "published_date": "2026-09-13T10:38:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China to continue advancing Belt and Road Initiative",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247704/China-to-continue-advancing-Belt-and-Road-Initiative",
-      "published_date": "2026-09-13T08:48:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 Asian Games: Iran secure quarterfinal spot",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529960/2026-Asian-Games-Iran-secure-quarterfinal-spot",
-      "published_date": "2026-09-13T08:42:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Projectile hits Iranian commercial vessel in Strait of Hormuz, killing one, injuring four",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86262425/Projectile-hits-Iranian-commercial-vessel-in-Strait-of-Hormuz",
-      "published_date": "2026-09-13T07:05:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Esteghlal defeats Paykan in Iran Pro League",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86262307/In-photos-Esteghlal-defeats-Paykan-in-Iran-Pro-League",
-      "published_date": "2026-09-13T06:37:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Bonab Kebab Festival showcases Iran’s culinary heritage",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86262286/National-Bonab-Kebab-Festival-showcases-Iran-s-culinary-heritage",
-      "published_date": "2026-09-13T06:01:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran to host Andrei Stenin press photo exhibition",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247699/Tehran-to-host-Andrei-Stenin-press-photo-exhibition",
-      "published_date": "2026-09-13T05:56:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vietnam celebrates 81st National Day in Tehran, eyes a new chapter with Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529959/Vietnam-celebrates-81st-National-Day-in-Tehran-eyes-a-new-chapter",
-      "published_date": "2026-09-13T05:51:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran can easily withdraw from NPT, revise nuclear doctrine",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247698/Iran-can-easily-withdraw-from-NPT-revise-nuclear-doctrine",
-      "published_date": "2026-09-13T05:36:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Iran will not bow to pressure or intimidation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86262276/Pezeshkian-Iran-will-not-bow-to-pressure-or-intimidation",
-      "published_date": "2026-09-13T05:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian cargo vessel hit near Qeshm Island, one martyred",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247697/Iranian-cargo-vessel-hit-near-Qeshm-Island-one-martyred",
-      "published_date": "2026-09-13T05:15:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran won't surrender, Pezeshkian reiterates",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247691/Iran-won-t-surrender-Pezeshkian-reiterates",
-      "published_date": "2026-09-13T03:33:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15419",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/529955/15419",
-      "published_date": "2026-09-12T20:31:00Z",
       "category": "Local Events"
     }
   ]
