@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-14T16:56:31Z",
+  "generated_at": "2026-09-15T01:04:12Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Baqaei: Visit of PUK leader to Tehran focuses on consultations on bilateral ties and regional stability",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86264224/Baqaei-Visit-of-PUK-leader-to-Tehran-focuses-on-consultations",
+      "published_date": "2026-09-14T21:39:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From Balfour to Miliband: Has the West begun redefining Israel?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530034/From-Balfour-to-Miliband-Has-the-West-begun-redefining-Israel",
+      "published_date": "2026-09-14T21:08:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How Xi Jinping positioned BRICS against Western sanctions, power politics",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530030/How-Xi-Jinping-positioned-BRICS-against-Western-sanctions-power",
+      "published_date": "2026-09-14T20:54:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Regional Hormuz talks postponed, Iran-Oman understanding finalized",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530021/Regional-Hormuz-talks-postponed-Iran-Oman-understanding-finalized",
+      "published_date": "2026-09-14T20:23:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Grossi’s toxic legacy: Greenlighting aggression, smearing Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530020/Grossi-s-toxic-legacy-Greenlighting-aggression-smearing-Iran",
+      "published_date": "2026-09-14T20:07:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Any assessment of Hormuz crisis ‘incomplete’ without addressing root causes: Iran’s UN envoy",
       "source": "IRNA",
@@ -109,39 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran says Strait of Hormuz meeting postponed at request of regional states",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263200/Iran-says-Strait-of-Hormuz-meeting-postponed-at-request-of-regional",
-      "published_date": "2026-09-13T19:47:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman says regional meeting on Strait of Hormuz postponed",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263196/Oman-postpones-regional-meeting-on-Strait-of-Hormuz",
-      "published_date": "2026-09-13T19:39:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian returns to Tehran after trip to India for BRICS summit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263186/Pezeshkian-back-in-Tehran-after-trip-to-India-for-BRICS-summit",
-      "published_date": "2026-09-13T19:03:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hollywood-style PR cannot mask Washington’s strategic defeat in Iran skies",
+      "title": "9/11 Families United chair calls out Trump over Saudi cover-up, Iran war narrative",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529978/Hollywood-style-PR-cannot-mask-Washington-s-strategic-defeat",
-      "published_date": "2026-09-13T17:19:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/530032/9-11-Families-United-chair-calls-out-Trump-over-Saudi-cover-up",
+      "published_date": "2026-09-14T21:02:51Z",
+      "category": "Military"
     },
     {
-      "title": "Iran warns against using civil aviation as a tool of political pressure",
+      "title": "Iran says it is no longer afraid of confronting US or Israel",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529994/Iran-warns-against-using-civil-aviation-as-a-tool-of-political",
-      "published_date": "2026-09-13T17:18:59Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/530029/Iran-says-it-is-no-longer-afraid-of-confronting-US-or-Israel",
+      "published_date": "2026-09-14T20:48:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran rejects foreign interference, and warns against US unilateralism",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530028/Iran-rejects-foreign-interference-and-warns-against-US-unilateralism",
+      "published_date": "2026-09-14T20:38:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Super-tanker explodes after striking a naval mine; Strait of Hormuz under IRGC Navy control",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86264191/Super-tanker-explodes-after-striking-a-naval-mine-Strait-of",
+      "published_date": "2026-09-14T20:26:49Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC shoots down advanced MQ-1 drone over Strait of Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530019/IRGC-shoots-down-advanced-MQ-1-drone-over-Strait-of-Hormuz",
+      "published_date": "2026-09-14T20:23:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Transformations in Yemen: An earthquake in regional calculations",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530022/Transformations-in-Yemen-An-earthquake-in-regional-calculations",
+      "published_date": "2026-09-14T20:22:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Super oil tanker hits mine in Hormuz, explodes: IRGC",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247752/Super-oil-tanker-hits-mine-in-south-of-Hormuz-Strait-IRGC",
+      "published_date": "2026-09-14T20:06:06Z",
+      "category": "Military"
     },
     {
       "title": "Blocking Iran’s nuclear chief from IAEA conference sets dangerous precedent: AEOI",
@@ -232,55 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247727/Yemeni-Armed-Forces-conduct-fresh-attacks-on-Saudi-targets",
       "published_date": "2026-09-14T05:13:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran far more powerful than was in previous wars",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247726/Iran-far-more-powerful-than-was-in-previous-wars",
-      "published_date": "2026-09-14T05:05:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "VIDEO: Russia hits Ukraine logistics hub in Mykolaiv",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247725/VIDEO-Russia-hits-Ukraine-logistics-hub-in-Mykolaiv",
-      "published_date": "2026-09-14T04:51:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni source says Saudi air defence hit its own mosque",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247724/Yemeni-source-says-Saudi-air-defence-hit-its-own-mosque",
-      "published_date": "2026-09-14T04:41:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Powerful explosions rock southern Saudi Arabia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247721/Power-explosions-rock-southern-Saudi-Arabia",
-      "published_date": "2026-09-14T04:25:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Missiles target separatist positions in Iraq's Kurdistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247719/Missiles-target-separatist-positions-in-Iraq-s-Kurdistan",
-      "published_date": "2026-09-14T04:15:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "China Hosts Global Public Security Conference",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529996/China-Hosts-Global-Public-Security-Conference",
-      "published_date": "2026-09-14T03:41:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen reports 58 Saudi attacks in one day; vows response",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247717/Yemen-reports-58-Saudi-attacks-in-one-day-vows-response",
-      "published_date": "2026-09-13T19:51:39Z",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Nine years after Saudi Ritz-Carlton purge, Rami Naimi remains trapped",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530031/Nine-years-after-Saudi-Ritz-Carlton-purge-Rami-Naimi-remains",
+      "published_date": "2026-09-14T20:58:28Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran, Mexico planning to set up joint cmte. to expand trade",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247733/Iran-Mexico-planning-to-set-up-joint-cmte-to-expand-trade",
@@ -557,11 +564,81 @@
       "category": "Economy"
     },
     {
-      "title": "BRICS offers key platform to counter unilateralism, expand economic cooperation: President Pezeshkian",
+      "title": "2026/27 ACL Elite: Esteghlal  down Al Sadd",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530033/2026-27-ACL-Elite-Esteghlal-down-Al-Sadd",
+      "published_date": "2026-09-14T21:15:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian warns of US efforts to sow division, calls for national unity",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530027/Pezeshkian-warns-of-US-efforts-to-sow-division-calls-for-national",
+      "published_date": "2026-09-14T20:34:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15421",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530026/15421",
+      "published_date": "2026-09-14T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six Iranian films win awards of recognition at Accolade Global Film Competition",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530024/Six-Iranian-films-win-awards-of-recognition-at-Accolade-Global",
+      "published_date": "2026-09-14T20:29:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The Painter of the Wounded Land” exhibition opens in Tehran, honoring Sliman Mansour’s Palestinian",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530002/The-Painter-of-the-Wounded-Land-exhibition-opens-in-Tehran",
+      "published_date": "2026-09-14T20:28:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia raps barring Iran’s nuclear chief from IAEA meeting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247751/Russia-raps-barring-Iran-s-nuclear-chief-from-IAEA-meeting",
+      "published_date": "2026-09-14T19:53:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exhibition of winning works of Andrei Stenin International Press Photo Contest opens at Art Bureau",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530023/Exhibition-of-winning-works-of-Andrei-Stenin-International-Press",
+      "published_date": "2026-09-14T19:34:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sunni cleric assassinated by unidentified gunmen in SW Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247750/Sunni-cleric-assassinated-by-unidentified-gunmen-in-SW-Iran",
+      "published_date": "2026-09-14T19:30:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Islamization of humanities and Imam Sadiq scientefic legacy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247749/Islamization-of-humanities-and-Imam-Sadiq-legacy",
+      "published_date": "2026-09-14T19:19:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shabab Al Ahli edge Tractor at 2026/27 ACL Elite",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530025/Shabab-Al-Ahli-edge-Tractor-at-2026-27-ACL-Elite",
+      "published_date": "2026-09-14T19:17:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli regime sets houses on fire in southern Lebanon",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86260927/BRICS-offers-key-platform-to-counter-unilateralism-expand-economic",
-      "published_date": "2026-09-11T09:27:22Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86264171/Israeli-regime-sets-houses-on-fire-in-southern-Lebanon",
+      "published_date": "2026-09-14T18:29:12Z",
+      "category": "Local Events"
     },
     {
       "title": "Sunni cleric assassinated in southeast Iran",
@@ -624,83 +701,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/247745/VIDEO-2-Yemeni-fighters-take-on-armed-Saudis-mercenaries",
       "published_date": "2026-09-14T12:20:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to face Kyrgyzstan at CAFA U17 Women’s C'ship opener",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247744/Iran-to-face-Kyrgyzstan-at-CAFA-U17-Women-s-C-ship-opener",
-      "published_date": "2026-09-14T12:17:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Economic, social support for women-headed families to be strengthened",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530011/Economic-social-support-for-women-headed-families-to-be-strengthened",
-      "published_date": "2026-09-14T12:15:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Biosphere reserve management regulations under final review",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530008/Biosphere-reserve-management-regulations-under-final-review",
-      "published_date": "2026-09-14T12:10:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian woman shines at BRICS Startup Contest 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530006/Iranian-woman-shines-at-BRICS-Startup-Contest-2026",
-      "published_date": "2026-09-14T12:08:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Red Crescent Society seeks status of missing pilots in Qatar",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263858/Iranian-Red-Crescent-Society-seeks-status-of-missing-pilots-in",
-      "published_date": "2026-09-14T11:48:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Children in Gaza carving out a place amid destruction",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247742/VIDEO-Children-in-Gaza-carving-out-a-place-amid-destruction",
-      "published_date": "2026-09-14T11:04:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Charoq, a traditional footwear in Iran’s Zanjan Province",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263520/Charoq-a-traditional-footwear-in-Iran-s-Zanjan-Province",
-      "published_date": "2026-09-14T09:56:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Piazzа praises Iran volleyball fighting spirit",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530001/Piazz%D0%B0-praises-Iran-volleyball-fighting-spirit",
-      "published_date": "2026-09-14T09:28:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to face Kyrgyzstan at 2026 CAFA U17 Women’s Championship opener",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530000/Iran-to-face-Kyrgyzstan-at-2026-CAFA-U17-Women-s-Championship",
-      "published_date": "2026-09-14T09:12:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Hormozgan: Where the sea, culture and memory live side by side",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263528/Iran-s-Hormozgan-Where-the-sea-culture-and-memory-live-side",
-      "published_date": "2026-09-14T08:48:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electronic visa process begins for Iranian Hajj 2027 pilgrims",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263519/Electronic-visa-process-begins-for-Iranian-Hajj-2027-pilgrims",
-      "published_date": "2026-09-14T08:35:09Z",
       "category": "Local Events"
     }
   ]
