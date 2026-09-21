@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-20T14:40:16Z",
-  "total_stories": 98,
+  "generated_at": "2026-09-21T00:38:23Z",
+  "total_stories": 95,
   "stories": [
+    {
+      "title": "FM Araghchi departs Tehran for New York",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86269449/FM-Araghchi-departs-Tehran-for-New-York",
+      "published_date": "2026-09-20T18:47:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi urges expansion of ties with Iraq, Kazakhstan",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86269382/Araghchi-urges-expansion-of-ties-with-Iraq-Kazakhstan",
+      "published_date": "2026-09-20T16:25:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Parliamentary commission approves mandatory use of full ‘Persian Gulf’ name",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86269356/Parliamentary-commission-approves-mandatory-use-of-full-Persian",
+      "published_date": "2026-09-20T16:20:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pres. Pezeshkian to attend UNGA meeting in NY",
       "source": "Mehr News Agency",
@@ -123,25 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Araghchi: ME security must be shaped by regional countries, not foreigners",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530193/Araghchi-ME-security-must-be-shaped-by-regional-countries-not",
-      "published_date": "2026-09-19T17:29:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EU urges US to reconsider visa denial for Palestinians",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247883/EU-urges-US-to-reconsider-visa-denial-for-Palestinians",
-      "published_date": "2026-09-19T16:45:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Baqaei reprimands White House spokesperson for baseless anti-Iran accusations",
+      "title": "Saudi Arabia has carried out 760 airstrikes on Yemen: Military spokesperson",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86268308/Baqaei-reprimands-White-House-spokesperson-for-baseless-anti-Iran",
-      "published_date": "2026-09-19T16:11:20Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86269442/Saudi-Arabia-has-carried-out-760-airstrikes-on-Yemen-Military",
+      "published_date": "2026-09-20T18:31:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian Army downs advanced US spy drone over Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86269431/Iranian-Army-downs-advanced-US-spy-drone-over-Strait-of-Hormuz",
+      "published_date": "2026-09-20T18:16:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Saddam’s fate awaits Trump and Netanyahu: IRGC commander",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86269342/Saddam-s-fate-awaits-Trump-and-Netanyahu-IRGC-commander",
+      "published_date": "2026-09-20T16:22:18Z",
+      "category": "Military"
     },
     {
       "title": "Saudi warplanes heavily bomb Yemeni radars (+VIDEO)",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Mayor reports damage at Moscow oil refinery",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247890/Mayor-reports-damage-at-Moscow-oil-refinery",
-      "published_date": "2026-09-20T04:22:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Armed Forces spokesperson: Iran still has initiative in Strait of Hormuz despite US claims",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86268447/Armed-Forces-spokesperson-Iran-still-has-initiative-in-Strait",
-      "published_date": "2026-09-19T22:21:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Top security official: Iran more ready than ever",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86268390/Top-security-official-Iran-more-ready-than-before",
-      "published_date": "2026-09-19T18:33:40Z",
-      "category": "Military"
-    },
-    {
       "title": "Iran, China share the spoils: 2026 Asian Games",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530199/Iran-China-share-the-spoils-2026-Asian-Games",
@@ -386,27 +386,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/529999/Salman-field-creates-1-2b-revenue-in-2-years",
       "published_date": "2026-09-14T03:59:13Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ghalibaf reacts to record high gas prices in US",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247716/Ghalibaf-reacts-to-record-high-gas-prices-in-US",
-      "published_date": "2026-09-13T19:42:14Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ghalibaf reacts to record gas prices in US",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86263172/Ghalibaf-reacts-to-record-gas-prices-in-US",
-      "published_date": "2026-09-13T18:30:15Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Unprecedented record set in development of thermal power plant infrastructure",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/529985/Unprecedented-record-set-in-development-of-thermal-power-plant",
-      "published_date": "2026-09-13T14:46:06Z",
       "category": "Energy"
     },
     {
@@ -550,6 +529,13 @@
       "category": "Economy"
     },
     {
+      "title": "Iran wins Asian Games basketball bronze",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86269361/Iran-wins-Asian-Games-basketball-bronze",
+      "published_date": "2026-09-20T16:23:29Z",
+      "category": "Local Events"
+    },
+    {
       "title": "200 nights on the streets",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530228/200-nights-on-the-streets",
@@ -680,13 +666,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86268674/In-photos-Opening-ceremony-of-20th-Asian-Games-Aichi-Nagoya",
       "published_date": "2026-09-20T07:41:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: Opening week of Iranian Women’s Football Pro League",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86268552/In-photos-Opening-week-of-Iranian-Women-s-Football-Pro-League",
-      "published_date": "2026-09-20T06:42:38Z",
       "category": "Local Events"
     }
   ]
