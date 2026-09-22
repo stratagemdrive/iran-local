@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-21T16:58:43Z",
+  "generated_at": "2026-09-22T01:21:57Z",
   "total_stories": 93,
   "stories": [
+    {
+      "title": "Baqaei: US visa ban on Iranian president’s media team is an attempt to hide the truth",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86270589/Baqaei-US-visa-ban-on-Iranian-president-s-media-team-is-an-attempt",
+      "published_date": "2026-09-21T21:30:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interior Minister: Iran-Pakistan borders to operate around clock",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86270584/Interior-Minister-Iran-Pakistan-borders-to-operate-around-clock",
+      "published_date": "2026-09-21T21:15:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Minister Araghchi arrives in New York to attend the UN General Assembly",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86270576/Foreign-Minister-Araghchi-arrives-in-New-York-to-attend-the-UN",
+      "published_date": "2026-09-21T20:28:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The security and economic gamble facing Iraq",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530261/The-security-and-economic-gamble-facing-Iraq",
+      "published_date": "2026-09-21T17:42:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Israel Hayom calls for US-Israel integration to make Washington pay for pressure on Israel",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530266/Araghchi-Israel-Hayom-calls-for-US-Israel-integration-to-make",
+      "published_date": "2026-09-21T17:23:24Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Washington must free itself from shackles of Israeli lobby: FM Araghchi",
       "source": "IRNA",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US imposes unprecedented visa bans, tight restrictions on Iranian delegation ahead of UNGA",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530226/US-imposes-unprecedented-visa-bans-tight-restrictions-on-Iranian",
-      "published_date": "2026-09-20T16:58:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi urges expansion of ties with Iraq, Kazakhstan",
+      "title": "IRGC: Sacred Defense was a strategic school for generating national power and unity",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269382/Araghchi-urges-expansion-of-ties-with-Iraq-Kazakhstan",
-      "published_date": "2026-09-20T16:25:51Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86270592/IRGC-Sacred-Defense-was-a-strategic-school-for-generating-national",
+      "published_date": "2026-09-21T22:01:39Z",
+      "category": "Military"
     },
     {
-      "title": "Parliamentary commission approves mandatory use of full ‘Persian Gulf’ name",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269356/Parliamentary-commission-approves-mandatory-use-of-full-Persian",
-      "published_date": "2026-09-20T16:20:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pres. Pezeshkian to attend UNGA meeting in NY",
+      "title": "Hormuz Strait is definitely in Iran's hands: Sayyari",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247914/Pres-Pezeshkian-to-attend-UNGA-meeting-in-NY",
-      "published_date": "2026-09-20T12:10:06Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/247958/Hormuz-Strait-is-definitely-in-Iran-s-hands-Sayyari",
+      "published_date": "2026-09-21T18:30:55Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Grigor Hakobyan,",
+      "title": "Saudi regime has committed war crimes against Yemen: Houthi",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247957/Saudi-regime-has-committed-war-crimes-against-Yemen-Houthi",
+      "published_date": "2026-09-21T18:12:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ground incursions, incendiary strikes mark dangerous Israeli escalation in south Lebanon",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530212/Armenian-ambassador-stresses-expansion-of-Tehran-Yerevan-rail",
-      "published_date": "2026-09-20T11:18:32Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/530262/Ground-incursions-incendiary-strikes-mark-dangerous-Israeli",
+      "published_date": "2026-09-21T17:44:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "More than 200 days of nightmare for the US and Israel",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530256/More-than-200-days-of-nightmare-for-the-US-and-Israel",
+      "published_date": "2026-09-21T17:41:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran downs another US drone over Strait of Hormuz, brings total American drone losses to 53",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530258/Iran-downs-another-US-drone-over-Strait-of-Hormuz-brings-total",
+      "published_date": "2026-09-21T17:41:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran is prepared for a protracted war: IRGC",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530269/Iran-is-prepared-for-a-protracted-war-IRGC",
+      "published_date": "2026-09-21T17:38:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iranian armed forces vow stronger response to any new aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530267/Iranian-armed-forces-vow-stronger-response-to-any-new-aggression",
+      "published_date": "2026-09-21T17:26:41Z",
+      "category": "Military"
     },
     {
       "title": "Army chief vows decisive response to any aggression",
@@ -225,62 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86269750/In-photos-Iraqi-strikes-on-Iran-s-borders-on-the-brink-of-war",
       "published_date": "2026-09-21T06:50:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army holds cadet graduation ceremony after combat training",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86269698/Iran-Army-holds-cadet-graduation-ceremony-after-combat-training",
-      "published_date": "2026-09-21T06:44:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli forces attack towns in Lebanon’s Tyre",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247940/Israeli-forces-attack-towns-in-Lebanon-s-Tyre",
-      "published_date": "2026-09-21T06:04:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Another US MQ-1 drone downed over Strait of Hormuz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269596/Another-US-MQ-1-drone-downed-over-Strait-of-Hormuz",
-      "published_date": "2026-09-21T05:54:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "US, Western military bases on Saudi soil real danger to Mecca",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247934/US-Western-military-bases-on-Saudi-soil-Real-danger-to-Mecca",
-      "published_date": "2026-09-21T05:01:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran developed new weapons beyond enemy's imagination",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247933/Iran-developed-new-weapons-beyond-enemy-s-imagination",
-      "published_date": "2026-09-21T04:45:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Several killed in Pakistan airstrike on Afghanistan",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247932/Several-killed-in-Pakistan-airstrikes-on-Afghanistan",
-      "published_date": "2026-09-21T04:25:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC downs yet another US MQ-1 drone over Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247930/Iran-downs-yet-another-US-MQ-1-drone-over-Strait-of-Hormuz",
-      "published_date": "2026-09-21T04:12:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "S. Arabia has conducted 760 airstrikes on Yemen: spox",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247926/S-Arabia-has-conducted-760-airstrikes-on-Yemen-spox",
-      "published_date": "2026-09-20T19:06:44Z",
       "category": "Military"
     },
     {
@@ -373,6 +373,13 @@
       "url": "https://en.irna.ir/news/86265443/Iran-equips-Bink-oilfield-s-gas-compressor-station-with-domestically",
       "published_date": "2026-09-16T06:29:27Z",
       "category": "Energy"
+    },
+    {
+      "title": "Iran, Pakistan can meet their needs using regional potentials",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247960/Iran-Pakistan-can-meet-their-needs-using-regional-potentials",
+      "published_date": "2026-09-21T19:37:47Z",
+      "category": "Economy"
     },
     {
       "title": "Iland Mega-Project Faces Prolonged Delivery",
@@ -508,11 +515,74 @@
       "category": "Economy"
     },
     {
-      "title": "Official: Kermanshah borders key to expanding Iran–Iraq trade",
+      "title": "15427",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530268/15427",
+      "published_date": "2026-09-21T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Pezeshkian: Iran and Pakistan can meet their needs by using regional potentials",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86265615/Official-Kermanshah-borders-key-to-expanding-Iran-Iraq-trade",
-      "published_date": "2026-09-16T09:21:31Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86270570/President-Pezeshkian-Iran-and-Pakistan-can-meet-their-needs",
+      "published_date": "2026-09-21T20:11:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian Foreign Ministry: Center linked to French embassy closed after many warnings",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86270561/Iranian-Foreign-Ministry-Center-linked-to-French-embassy-closed",
+      "published_date": "2026-09-21T19:56:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mehr shines in OANA 65th anniversary conference in Moscow",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247959/Mehr-shines-in-OANA-65th-conference-in-Moscow",
+      "published_date": "2026-09-21T18:37:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Impulsive German leader left in a quandary",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530264/Impulsive-German-leader-left-in-a-quandary",
+      "published_date": "2026-09-21T17:44:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ansarallah consolidates Red Sea control as Trump rejects MBS’ desperate appeals",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530263/Ansarallah-consolidates-Red-Sea-control-as-Trump-rejects-MBS",
+      "published_date": "2026-09-21T17:44:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asghar Farhadi’s “Parallel Tales” to be shown, reviewed in Tehran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530265/Asghar-Farhadi-s-Parallel-Tales-to-be-shown-reviewed-in-Tehran",
+      "published_date": "2026-09-21T17:41:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Grand Ayatollah Shobeiri Zanjani passes away at 98; nation mourns prominent jurisprudent",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530257/Grand-Ayatollah-Shobeiri-Zanjani-passes-away-at-98-nation-mourns",
+      "published_date": "2026-09-21T17:39:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Saudi crisis",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530260/The-Saudi-crisis",
+      "published_date": "2026-09-21T17:39:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Center linked to French embassy closed after many warnings",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/247956/Center-linked-to-French-embassy-closed-after-many-warnings",
+      "published_date": "2026-09-21T17:02:31Z",
+      "category": "Local Events"
     },
     {
       "title": "Ansarullah leader says Yemen revolution secured independence and freedom",
@@ -557,7 +627,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Schools reopen amid hope, resilience and a determination to rebuild",
+      "title": "Bells return tomorrow, 277 desks won't",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530250/Schools-reopen-amid-hope-resilience-and-a-determination-to-rebuild",
       "published_date": "2026-09-21T12:50:35Z",
@@ -582,76 +652,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530244/A-Tale-of-Two-Standards-on-Police-Killings",
       "published_date": "2026-09-21T12:22:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistani interior minister in Tehran for talks with Iranian officials",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86270274/Pakistani-interior-minister-in-Tehran-for-talks-with-Iranian",
-      "published_date": "2026-09-21T12:15:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s women’s 3x3 basketball earn two wins at Nagoya",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247950/Iran-s-women-s-3x3-basketball-earn-two-wins-at-Nagoya",
-      "published_date": "2026-09-21T12:13:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s women’s 3x3 basketball earn two wins at Nagoya",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530242/Iran-s-women-s-3x3-basketball-earn-two-wins-at-Nagoya",
-      "published_date": "2026-09-21T11:44:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gaza death toll rises to 73,914",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/247949/Gaza-death-toll-rises-to-73-914",
-      "published_date": "2026-09-21T11:11:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In photos: New school year begins in Iran’s Hamedan",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86270057/In-photos-New-school-year-begins-in-Iran-s-Hamedan",
-      "published_date": "2026-09-21T10:09:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian pays tribute to Minab school martyrs",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269895/Pezeshkian-pays-tribute-to-Minab-school-martyrs",
-      "published_date": "2026-09-21T09:36:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran handball fall short to Bahrain in Nagoya",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530240/Iran-handball-fall-short-to-Bahrain-in-Nagoya",
-      "published_date": "2026-09-21T08:57:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ghalibaf: US fully exposed despite projecting hegemony",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269898/Ghalibaf-US-fully-exposed-despite-projecting-hegemony",
-      "published_date": "2026-09-21T08:37:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran president: Learning, skills can help solve problems",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269824/Iran-president-Learning-skills-can-help-solve-problems",
-      "published_date": "2026-09-21T08:00:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pakistan interior minister departs for Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86269823/Pakistan-interior-minister-departs-for-Iran",
-      "published_date": "2026-09-21T07:48:55Z",
       "category": "Local Events"
     }
   ]
