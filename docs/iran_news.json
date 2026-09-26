@@ -1,8 +1,78 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-25T15:49:58Z",
+  "generated_at": "2026-09-26T01:04:46Z",
   "total_stories": 95,
   "stories": [
+    {
+      "title": "Gharibabadi: Sovereignty and territorial integrity of states are not subject to violation or negotiation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86274384/Gharibabadi-Sovereignty-and-territorial-integrity-of-states",
+      "published_date": "2026-09-25T21:00:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Ministers of Iran and Saudi Arabia meet in New York",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86274377/Foreign-Ministers-of-Iran-and-Saudi-Arabia-meet-in-New-York",
+      "published_date": "2026-09-25T20:29:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Pezeshkian meets UN chief in New York",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86274373/President-Pezeshkian-meets-UN-chief-in-New-York",
+      "published_date": "2026-09-25T20:17:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian culture minister gives new proposals for cultural cooperation to United Cultures meeting",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86274344/Iranian-culture-minister-gives-new-proposals-for-cultural-cooperation",
+      "published_date": "2026-09-25T19:25:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Iran commited to strengthening regional cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86274332/Araghchi-Iran-commited-to-strengthening-regional-cooperation",
+      "published_date": "2026-09-25T19:01:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A War Criminal’s Fiction to Empty Seats",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530404/A-War-Criminal-s-Fiction-to-Empty-Seats",
+      "published_date": "2026-09-25T17:15:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Javan: The need for an Iran-China corridor",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530392/Javan-The-need-for-an-Iran-China-corridor",
+      "published_date": "2026-09-25T16:53:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia cuts diplomatic ties with Iran under ‘influence of US and Zionist regime’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530391/Colombia-cuts-diplomatic-ties-with-Iran-under-influence-of-US",
+      "published_date": "2026-09-25T16:53:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi holds a series of talks in NY on regional security, Hormuz and Iran-EU ties",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530403/Araghchi-holds-a-series-of-talks-in-NY-on-regional-security",
+      "published_date": "2026-09-25T16:48:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian uses UNGA meetings to press for diplomacy, and regional stability",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530401/Pezeshkian-uses-UNGA-meetings-to-press-for-diplomacy-and-regional",
+      "published_date": "2026-09-25T16:35:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Insecurity in Hormuz result of \"US breach of its commitments\"",
       "source": "Mehr News Agency",
@@ -74,74 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Baqaei highlights Martyr Soleimani’s enduring legacy at UNGA",
+      "title": "Baqaei: Europe must be held accountable for its participation in aggression against Iran",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86273964/Baqaei-highlights-Martyr-Soleimani-s-enduring-legacy-at-UNGA",
-      "published_date": "2026-09-25T07:44:46Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86274380/Baqaei-Europe-must-be-held-accountable-for-its-participation",
+      "published_date": "2026-09-25T20:46:50Z",
+      "category": "Military"
     },
     {
-      "title": "Iran stresses need to speed up mutual agreement with Armenia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248061/Iran-stresses-need-to-speed-up-mutual-agreement-with-Armenia",
-      "published_date": "2026-09-25T07:26:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran determined to deepen, expand cooperation with Pakistan: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86273927/Iran-determined-to-deepen-expand-cooperation-with-Pakistan",
-      "published_date": "2026-09-25T07:15:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu faces mass UN walkout as Israel's isolation deepens",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248060/Netanyahu-faces-mass-UN-walkout-as-Israel-s-isolation-deepens",
-      "published_date": "2026-09-25T07:15:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Europe's help in US attacks against Iran not to go unanswered",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248057/Europe-help-in-US-attacks-against-Iran-not-to-go-unanswered",
-      "published_date": "2026-09-25T06:12:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Araghchi meets Russian counterpart in New York",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86273901/FM-Araghchi-meets-Russian-counterpart-in-New-York",
-      "published_date": "2026-09-25T06:07:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian, Egyptian FMs discuss latest regional developments in New York",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86273898/Iranian-Egyptian-FMs-discuss-latest-regional-developments-in",
-      "published_date": "2026-09-25T05:54:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran FM Araghchi meets with counterparts in NY (+PHOTOS)",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248055/Iran-FM-Araghchi-meets-with-counterparts-in-NY-PHOTOS",
-      "published_date": "2026-09-25T05:54:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Japan discuss keeping economic relations strong in difficult times",
+      "title": "Deputy FM: Europe served as ‘infrastructure’ for US aggression against Iran",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530367/Iran-Japan-discuss-keeping-economic-relations-strong-in-difficult",
-      "published_date": "2026-09-25T03:27:31Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/530399/Deputy-FM-Europe-served-as-infrastructure-for-US-aggression",
+      "published_date": "2026-09-25T16:54:02Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi meets British foreign secretary in New York",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86273809/Araghchi-meets-British-foreign-secretary-in-New-York",
-      "published_date": "2026-09-24T22:10:11Z",
-      "category": "Diplomacy"
+      "title": "Security complex anew: Iran's venture into a new architecture",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530402/Security-complex-anew-Iran-s-venture-into-a-new-architecture",
+      "published_date": "2026-09-25T16:38:54Z",
+      "category": "Military"
     },
     {
       "title": "8 sailors assigned to USS Abraham Lincoln attempted suicide, Navy tells Congress",
@@ -260,27 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248037/Saudis-conduct-988-airstrikes-on-Yemen-military-spox",
       "published_date": "2026-09-23T18:02:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Ground Force chief: Iran will not yield an inch to the enemy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530336/IRGC-Ground-Force-chief-Iran-will-not-yield-an-inch-to-the-enemy",
-      "published_date": "2026-09-23T17:55:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Leader’s advisor: Iran fully prepared for defense; US aggression will bring heavy casualties",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530338/Leader-s-advisor-Iran-fully-prepared-for-defense-US-aggression",
-      "published_date": "2026-09-23T17:43:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Major General Mohsen Rezaei: Trump’s UN Speech constitutes ‘defense of a defeated criminal’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530345/Major-General-Mohsen-Rezaei-Trump-s-UN-Speech-constitutes-defense",
-      "published_date": "2026-09-23T17:42:51Z",
       "category": "Military"
     },
     {
@@ -529,6 +529,41 @@
       "category": "Economy"
     },
     {
+      "title": "15430",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530405/15430",
+      "published_date": "2026-09-25T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What’s in Tehran art galleries",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530385/What-s-in-Tehran-art-galleries",
+      "published_date": "2026-09-25T16:56:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arasbaran Cultural Center screens “Wait Until Dark”",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530386/Arasbaran-Cultural-Center-screens-Wait-Until-Dark",
+      "published_date": "2026-09-25T16:56:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Culture Minister goes to Russia to advance joint cultural programs",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530375/Culture-Minister-goes-to-Russia-to-advance-joint-cultural-programs",
+      "published_date": "2026-09-25T16:55:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Xi’s landmark US visit advances China’s vision for Tehran-Washington dialogue and global stability",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530393/Xi-s-landmark-US-visit-advances-China-s-vision-for-Tehran-Washington",
+      "published_date": "2026-09-25T16:54:23Z",
+      "category": "Local Events"
+    },
+    {
       "title": "NAZA, off screen",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530398/NAZA-off-screen",
@@ -631,41 +666,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248064/VIDEO-Pro-Palestinian-protesters-burn-Netanyahu-effigy",
       "published_date": "2026-09-25T08:47:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian duo win silvers in gymnastic: 2026 Asian Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530373/Iranian-duo-win-silvers-in-gymnastic-2026-Asian-Games",
-      "published_date": "2026-09-25T08:34:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran not initiated, to not start war: Pres. Pezeshkian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248062/Iran-to-strongly-respond-to-new-US-attacks-Pezeshkian-warns",
-      "published_date": "2026-09-25T08:03:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Motorcyclists join Sacrifice for Iran Rally in Tehran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248059/VIDEO-Motorcyclists-join-Sacrifice-for-Iran-Rally-in-Tehran",
-      "published_date": "2026-09-25T07:00:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian hails Pakistan efforts to restore peace in region",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248056/Pezeshkian-hails-Pakistan-efforts-to-enhance-peace-in-region",
-      "published_date": "2026-09-25T05:59:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transport minister inaugurates 281km of highways, main roads in Sistan-Baluchestan",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530371/Transport-minister-inaugurates-281km-of-highways-main-roads",
-      "published_date": "2026-09-25T03:54:42Z",
       "category": "Local Events"
     }
   ]
