@@ -1,8 +1,92 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-27T15:37:27Z",
+  "generated_at": "2026-09-28T01:17:04Z",
   "total_stories": 90,
   "stories": [
+    {
+      "title": "Araghchi says he and President Pezeshkian came to New York to forge peace",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276558/Araghchi-says-he-and-President-Pezeshkian-came-to-New-York-to",
+      "published_date": "2026-09-27T20:34:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New round of US talks not on agenda of Iran delegation in NYC",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248133/No-plan-for-Iran-delegation-to-hold-talks-with-US-in-New-York",
+      "published_date": "2026-09-27T20:10:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No plan for Iran delegation to hold talks with US in New York: Source",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276544/No-plan-for-Iran-delegation-to-hold-talks-with-US-in-New-York",
+      "published_date": "2026-09-27T19:34:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi marks Nasrallah’s martyrdom anniversary, says killing leaders cannot ease ideals",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276533/Araghchi-marks-Nasrallah-s-martyrdom-anniversary-says-killing",
+      "published_date": "2026-09-27T19:03:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran ready for war and diplomacy at same time: FM",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248130/Iran-ready-for-war-and-diplmacy-at-same-time-FM",
+      "published_date": "2026-09-27T17:49:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What the new Moroccan–Israeli relationship means",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530487/What-the-new-Moroccan-Israeli-relationship-means",
+      "published_date": "2026-09-27T17:22:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The lesson America learned from the New York speech",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530482/The-lesson-America-learned-from-the-New-York-speech",
+      "published_date": "2026-09-27T17:22:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran urges UN to examine European role in US military operations against Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530492/Iran-urges-UN-to-examine-European-role-in-US-military-operations",
+      "published_date": "2026-09-27T17:09:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Iran will stand firm against any aggression, even a 'Doomsday War'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530491/Araghchi-Iran-will-stand-firm-against-any-aggression-even-a",
+      "published_date": "2026-09-27T17:03:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran hails Martyr Nasrallah as unique model of courage, foresight in confronting occupation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276423/Iran-hails-Martyr-Nasrallah-as-unique-model-of-courage-foresight",
+      "published_date": "2026-09-27T16:27:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Parliamentary commission completes review of Hormuz Strait security bill",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276399/Parliamentary-commission-completes-review-of-Hormuz-Strait-security",
+      "published_date": "2026-09-27T16:04:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reopening of Strait of Hormuz depends on US fulfillment of Iran’s conditions: Araghchi",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276411/Reopening-of-Strait-of-Hormuz-depends-on-US-fulfillment-of-Iran-s",
+      "published_date": "2026-09-27T15:45:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Two mass shootings in South Africa leave 27 dead",
       "source": "Mehr News Agency",
@@ -60,91 +144,70 @@
       "category": "Diplomacy"
     },
     {
-      "title": "In photos: President Pezeshkian returns home from New York",
+      "title": "Hezbollah marks second anniversary of Sayyed Nasrallah’s martyrdom with vows of continued resistance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530489/Hezbollah-marks-second-anniversary-of-Sayyed-Nasrallah-s-martyrdom",
+      "published_date": "2026-09-27T17:24:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi warplanes bomb Yemeni marketplace, killing and wounding civilians",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530488/Saudi-warplanes-bomb-Yemeni-marketplace-killing-and-wounding",
+      "published_date": "2026-09-27T17:21:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Army: Iran will deliver a more crushing response to renewed US aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530479/Army-Iran-will-deliver-a-more-crushing-response-to-renewed-US",
+      "published_date": "2026-09-27T17:20:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Army chief: Driving US and Israel out of West Asia prerequisite for lasting security",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530481/Army-chief-Driving-US-and-Israel-out-of-West-Asia-prerequisite",
+      "published_date": "2026-09-27T17:20:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Another catch in Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530480/Another-catch-in-Hormuz",
+      "published_date": "2026-09-27T17:05:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sheikh Qassem says Palestine remains Hezbollah’s compass, vows to continue resistance",
       "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86275678/In-photos-President-Pezeshkian-returns-home-from-New-York",
-      "published_date": "2026-09-27T05:48:05Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86276447/Sheikh-Qassem-says-Palestine-remains-Hezbollah-s-compass-vows",
+      "published_date": "2026-09-27T16:51:12Z",
+      "category": "Military"
     },
     {
-      "title": "Araghchi meets UN humanitarian affairs chief in New York",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275667/Araghchi-meets-UN-humanitarian-affairs-chief-in-New-York",
-      "published_date": "2026-09-27T05:45:32Z",
-      "category": "Diplomacy"
+      "title": "Iran will respond to any aggression with new weapons",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530490/Iran-will-respond-to-any-aggression-with-new-weapons",
+      "published_date": "2026-09-27T16:50:35Z",
+      "category": "Military"
     },
     {
-      "title": "Iran FM Araghchi meets with UN official Fletcher in New York",
+      "title": "5 arrested near British air base used by US over alleged bomb plot",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530486/5-arrested-near-British-air-base-used-by-US-over-alleged-bomb",
+      "published_date": "2026-09-27T16:07:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "Oil industry plays key role in national power equation",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248104/Araghchi-meets-with-UN-official-Fletcher-in-New-York",
-      "published_date": "2026-09-27T05:38:15Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248129/Oil-industry-plays-key-role-in-national-power-equation",
+      "published_date": "2026-09-27T15:39:53Z",
+      "category": "Military"
     },
     {
-      "title": "Iranian, Philippine foreign ministers meet on UNGA sidelines",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275637/Iranian-Philippine-foreign-ministers-meet-on-UNGA-sidelines",
-      "published_date": "2026-09-27T05:26:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran says Hormuz reopening hinges on conditions, diplomacy remains open",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275624/Iran-says-Hormuz-reopening-hinges-on-conditions-diplomacy-remains",
-      "published_date": "2026-09-27T05:25:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New York talks focused on Hormuz reopening terms",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248103/New-York-talks-focused-on-Hormuz-reopening-terms",
-      "published_date": "2026-09-27T05:14:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israeli regime nuclear arsenal cannot be ignored: Gharibabadi",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248102/Israeli-regime-nuclear-arsenal-cannot-be-ignored-Gharibabadi",
-      "published_date": "2026-09-27T04:52:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran blasts NATO support for US military aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248099/Tehran-blasts-NATO-support-for-US-military-aggression",
-      "published_date": "2026-09-27T03:51:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian says he highlighted crimes of US and Israeli regime at UN",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275492/Pezeshkian-says-he-highlighted-crimes-of-US-and-Israeli-regime",
-      "published_date": "2026-09-26T19:52:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lavrov blasts assassination of Iran Leader as ‘unacceptable'",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248097/Lavrov-blasts-assassination-of-Iran-Leader-as-unacceptable",
-      "published_date": "2026-09-26T19:42:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi meets Malaysia, Cambodia, Algeria FMs in New York",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248096/Araghchi-meets-Malaysia-Cambodia-Algeria-in-New-York",
-      "published_date": "2026-09-26T19:09:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Pezeshkian arrives in Tehran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275473/President-Pezeshkian-arrives-in-Tehran",
-      "published_date": "2026-09-26T19:08:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Palestine, liberation of our land our priority\": Qassem",
+      "title": "Iran protected world from falling: Hezbollah chief",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248127/Palestine-liberation-of-our-land-our-priority-Qassem",
       "published_date": "2026-09-27T15:25:33Z",
@@ -221,69 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "War not over, enemy must be ready to get heavy blow from Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248114/War-no-over-enemy-must-be-ready-to-receive-Iran-s-heavy-blow",
-      "published_date": "2026-09-27T08:10:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to respond to any aggression with new military technologies: Armed Forces",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275787/Iran-to-respond-to-any-aggression-with-new-military-technologies",
-      "published_date": "2026-09-27T07:08:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israel launches air, ground attacks on southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248107/Israel-launches-air-ground-attacks-on-southern-Lebanon",
-      "published_date": "2026-09-27T06:05:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hamas reveals plans against Israel schemes for Al-Aqsa Mosque",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248105/Hamas-reveals-plans-against-Israel-schemes-for-Al-Aqsa-Mosque",
-      "published_date": "2026-09-27T05:46:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "PGSA warns ships using invalid Hormuz routes",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248100/PGSA-warns-ships-using-invalid-Hormuz-routes",
-      "published_date": "2026-09-27T04:10:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen releases latest statement on no. of Saudi aristrikes",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248095/Yemen-releases-latest-statement-on-no-of-Saudi-aristrikes",
-      "published_date": "2026-09-26T17:36:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Memories of My Father” offers intimate portrait of Martyr Sayyed Hassan Nasrallah",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530420/Memories-of-My-Father-offers-intimate-portrait-of-Martyr-Sayyed",
-      "published_date": "2026-09-26T17:16:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "US intelligence says Saudi Arabia has not abandoned its nuclear weapons ambitions",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530444/US-intelligence-says-Saudi-Arabia-has-not-abandoned-its-nuclear",
-      "published_date": "2026-09-26T17:15:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "A voice that martyrdom cannot silence: Sayyed Nasrallah’s legacy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530443/A-voice-that-martyrdom-cannot-silence-Sayyed-Nasrallah-s-legacy",
-      "published_date": "2026-09-26T17:15:23Z",
-      "category": "Military"
-    },
-    {
       "title": "Leader’s aide highlights strategic role of Iranian oil industry in nation’s power equation",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86276371/Leader-s-aide-highlights-strategic-role-of-Iranian-oil-industry",
@@ -352,6 +352,20 @@
       "url": "https://www.tehrantimes.com/news/530239/Integrated-production-services-contract-signed-for-operation",
       "published_date": "2026-09-21T05:37:52Z",
       "category": "Energy"
+    },
+    {
+      "title": "Ghalibaf mocks US claim Iran doesn’t control Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248131/Ghalibaf-mocks-US-claim-Iran-doesn-t-control-Strait-of-Hormuz",
+      "published_date": "2026-09-27T19:09:55Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ghalibaf mocks US claim Iran doesn’t control Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276483/Ghalibaf-mocks-US-claim-Iran-doesn-t-control-Strait-of-Hormuz",
+      "published_date": "2026-09-27T17:26:41Z",
+      "category": "Economy"
     },
     {
       "title": "Pezeshkian opens 246 tourism projects worth 350 trillion rials",
@@ -480,18 +494,67 @@
       "category": "Economy"
     },
     {
-      "title": "Iran expands rail routes to China, targets higher-value exports: TPO",
+      "title": "15432",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530298/Iran-expands-rail-routes-to-China-targets-higher-value-exports",
-      "published_date": "2026-09-22T15:45:39Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/530494/15432",
+      "published_date": "2026-09-27T20:31:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Five-party MOU unveiled on business-environment reform, customs levy dispute",
+      "title": "Iran urges for intl. action to prosecute Nasrallah assassins",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248132/Iran-urges-for-intl-action-to-prosecute-Nasrallah-assassins",
+      "published_date": "2026-09-27T19:31:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kiarostami’s “Where Is the Friend's House?” goes on screen at Athens open-air cinemas",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530294/Five-party-MOU-unveiled-on-business-environment-reform-customs",
-      "published_date": "2026-09-22T13:56:57Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/530463/Kiarostami-s-Where-Is-the-Friend-s-House-goes-on-screen-at",
+      "published_date": "2026-09-27T17:25:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran literary event explores books on Lebanon, resistance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530462/Tehran-literary-event-explores-books-on-Lebanon-resistance",
+      "published_date": "2026-09-27T17:24:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian, Russian culture ministers meet in St. Petersburg, promise new era in cultural relations",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530464/Iranian-Russian-culture-ministers-meet-in-St-Petersburg-promise",
+      "published_date": "2026-09-27T17:24:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran fires on vessels traversing unauthorized routes in Strait of Hormuz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530484/Iran-fires-on-vessels-traversing-unauthorized-routes-in-Strait",
+      "published_date": "2026-09-27T17:17:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian: Iran,US have reached a framework for possible negotiations",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530493/Pezeshkian-Iran-US-have-reached-on-a-framework-for-possible",
+      "published_date": "2026-09-27T17:15:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump is first and foremost a 'fabulist'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530485/Trump-is-first-and-foremost-a-fabulist",
+      "published_date": "2026-09-27T15:52:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran thwarted enemy’s naval blockade calculations, says Judiciary chief",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86276342/Iran-thwarted-enemy-s-naval-blockade-calculations-says-Judiciary",
+      "published_date": "2026-09-27T15:42:11Z",
+      "category": "Local Events"
     },
     {
       "title": "Iranian runner Zahra Zarei aims to compete at Olympics",
@@ -568,69 +631,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248120/St-Petersburg-univ-seeking-to-set-up-Persian-Dep",
       "published_date": "2026-09-27T11:01:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran Province to hold rallies marking Nasrallah’s martyrdom anniversary",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86276152/Tehran-Province-to-hold-rallies-marking-Nasrallah-s-martyrdom",
-      "published_date": "2026-09-27T10:48:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Karimi snatches historic bronze at 2026 Asian Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530465/Iran-s-Karimi-snatches-historic-bronze-at-2026-Asian-Games",
-      "published_date": "2026-09-27T10:20:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump and the chain of setbacks in Iran, China and Russia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248116/Trump-and-the-chain-of-setbacks-in-Iran-China-and-Russia",
-      "published_date": "2026-09-27T09:02:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asian Games officials were unfair to Mohitizadeh, says official",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530460/Asian-Games-officials-were-unfair-to-Mohitizadeh-says-Official",
-      "published_date": "2026-09-27T08:35:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran volleyball defeated Kyrgyzstan in 2026 Asian Games",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248115/Iran-volleyball-defeated-Kyrgyzstan-in-2026-Asian-Games",
-      "published_date": "2026-09-27T08:34:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran volleyball beat Kyrgyzstan in 2026 Asian Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530459/Iran-volleyball-beat-Kyrgyzstan-in-2026-Asian-Games",
-      "published_date": "2026-09-27T08:09:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "St. Petersburg university seeks to establish Persian language department",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86275855/St-Petersburg-university-seeks-to-establish-Persian-language",
-      "published_date": "2026-09-27T07:57:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Israeli settlers forcing Palestinian shops to close",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248113/VIDEO-Israeli-settlers-forcing-Palestinian-shops-to-close",
-      "published_date": "2026-09-27T07:55:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vietnam’s 81st National Day Celebrated in Tehran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530458/Vietnam-s-81st-National-Day-Celebrated-in-Tehran",
-      "published_date": "2026-09-27T07:27:39Z",
       "category": "Local Events"
     }
   ]
