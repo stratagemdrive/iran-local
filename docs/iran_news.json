@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-09-28T18:34:43Z",
+  "generated_at": "2026-09-29T02:23:37Z",
   "total_stories": 88,
   "stories": [
+    {
+      "title": "Araghchi: International community must hold US and Israeli regime accountable for their illegal actions.l",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86277628/Araghchi-International-community-must-hold-US-and-Israeli-regime",
+      "published_date": "2026-09-28T20:39:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi meets UN chief in New York",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86277616/Araghchi-meets-UN-chief-in-New-York",
+      "published_date": "2026-09-28T19:59:08Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "South Lebanon faces aggressive Israeli offensive as US ‘diplomacy’ provides cover",
       "source": "Tehran Times",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "New round of US talks not on agenda of Iran delegation in NYC",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248133/No-plan-for-Iran-delegation-to-hold-talks-with-US-in-New-York",
-      "published_date": "2026-09-27T20:10:32Z",
-      "category": "Diplomacy"
+      "title": "Top commander: Iran and resistance fighters will deliver devastating response to any threat",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86277611/Top-commander-Iran-and-resistance-fighters-will-deliver-devastating",
+      "published_date": "2026-09-28T19:47:00Z",
+      "category": "Military"
     },
     {
-      "title": "No plan for Iran delegation to hold talks with US in New York: Source",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86276544/No-plan-for-Iran-delegation-to-hold-talks-with-US-in-New-York",
-      "published_date": "2026-09-27T19:34:56Z",
-      "category": "Diplomacy"
+      "title": "Saudi jets strike school, residential villages in Yemen",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248159/Saudi-jets-strike-school-residential-villages-in-Yemen",
+      "published_date": "2026-09-28T18:45:41Z",
+      "category": "Military"
     },
     {
       "title": "Iran, resistance to give devastating response to any threats",
@@ -267,20 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248140/Israeli-strikes-pound-south-Lebanon-overnight",
       "published_date": "2026-09-28T05:35:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Resistance path continues in pinnacle of glory, honor: IRGC",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248139/Resistance-path-continues-in-pinnacle-of-glory-honor-IRGC",
-      "published_date": "2026-09-28T05:23:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices climb after Trump rejects Iran’s peace proposal",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248138/Oil-prices-climb-after-Trump-rejects-Iran-s-peace-proposal",
-      "published_date": "2026-09-28T05:13:55Z",
       "category": "Military"
     },
     {
@@ -480,6 +480,27 @@
       "category": "Economy"
     },
     {
+      "title": "FM Araghchi to meet Qatari mediators in New York  Monday",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248161/FM-Araghchi-to-meet-Qatari-mediators-in-New-York",
+      "published_date": "2026-09-28T21:09:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15433",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530532/15433",
+      "published_date": "2026-09-28T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Janfada drill in Tehran's Imam Hossein Square",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/248160/Janfada-drill-in-Tehran-s-Imam-Hossein-Square",
+      "published_date": "2026-09-28T18:59:14Z",
+      "category": "Local Events"
+    },
+    {
       "title": "National Children’s Week to focus on rights, future of Iranian children",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530516/National-Children-s-Week-to-focus-on-rights-future-of-Iranian",
@@ -596,27 +617,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248153/Iran-s-Alipour-strikes-gold-in-weightlifting-at-Nagoya-2026",
       "published_date": "2026-09-28T12:33:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader: Iran won’t return to era that enemy longs for",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86277306/Leader-Iran-won-t-return-to-era-that-enemy-longs-for",
-      "published_date": "2026-09-28T12:04:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran hosts workshop on motorcycle helmet safety",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530513/Tehran-hosts-workshop-on-motorcycle-helmet-safety",
-      "published_date": "2026-09-28T11:41:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 80 earthquakes hit Iran in a week",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530511/Over-80-earthquakes-hit-Iran-in-a-week",
-      "published_date": "2026-09-28T11:37:22Z",
       "category": "Local Events"
     }
   ]
