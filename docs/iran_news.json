@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-01T17:21:20Z",
-  "total_stories": 91,
+  "generated_at": "2026-10-02T01:53:17Z",
+  "total_stories": 90,
   "stories": [
+    {
+      "title": "Foreign Ministry condemns inhumane measures by US disrupting Iranian air transport",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280545/Foreign-Ministry-condemns-inhumane-measures-by-US-disrupting",
+      "published_date": "2026-10-01T20:47:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Khatibzadeh: Iran seeks a tangible guarantee from US to end the war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280523/Khatibzadeh-Iran-seeks-a-tangible-guarantee-from-the-US-to-end",
+      "published_date": "2026-10-01T19:36:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns against abuse of security council by US and its allies",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280512/Iran-warns-against-abuse-of-security-council-by-US-and-its-allies",
+      "published_date": "2026-10-01T19:05:18Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Gharibabadi stresses US responsibility for nuclear test victims",
       "source": "IRNA",
@@ -120,27 +141,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86279701/Hamas-Israel-s-attacks-are-genocide-blatant-ceasefire-breach",
       "published_date": "2026-09-30T16:22:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Russia offer solutions to accelerate economic cooperation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530611/Iran-Russia-offer-solutions-to-accelerate-economic-cooperation",
-      "published_date": "2026-09-30T15:47:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Top security official warns regional countries against baseless claims on Iran’s islands",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279658/Top-security-official-warns-regional-countries-against-baseless",
-      "published_date": "2026-09-30T15:23:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian, Russian deputy FMs discuss bilateral ties, regional situation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279656/Iranian-Russian-deputy-FMs-discuss-bilateral-ties-regional",
-      "published_date": "2026-09-30T15:21:21Z",
       "category": "Diplomacy"
     },
     {
@@ -351,13 +351,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530369/Iran-adds-new-rigs-to-drilling-fleet-as-South-Pars-output-rises",
       "published_date": "2026-09-25T03:41:58Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ghalibaf takes swipe at US economic woes as Treasury yields hit 10-year highs",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86273736/Ghalibaf-takes-swipe-at-US-economic-woes-as-Treasury-yields-hit",
-      "published_date": "2026-09-24T18:37:12Z",
       "category": "Energy"
     },
     {
