@@ -1,8 +1,64 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-02T01:53:17Z",
-  "total_stories": 90,
+  "generated_at": "2026-10-02T16:36:16Z",
+  "total_stories": 91,
   "stories": [
+    {
+      "title": "Pakistan PM offers condolences to Iran FM over sister’s demise",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86281087/Pakistan-PM-offers-condolences-to-Iran-FM-over-sister-s-demise",
+      "published_date": "2026-10-02T16:01:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rezaei: Fantasies of ‘worst president’ in US history do not shape reality, Iran does",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86281056/Rezaei-Fantasies-of-worst-president-in-US-history-do-not-shape",
+      "published_date": "2026-10-02T15:17:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Armenia stress removing border obstacles, increasing transit capacity",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530648/Iran-Armenia-stress-removing-border-obstacles-increasing-transit",
+      "published_date": "2026-10-02T14:37:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran-EAEU trade on an upward trend: TPO head",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530647/Iran-EAEU-trade-on-an-upward-trend-TPO-head",
+      "published_date": "2026-10-02T14:32:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Iraq stress broader transport ties",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530645/Iran-Iraq-stress-broader-transport-ties",
+      "published_date": "2026-10-02T14:24:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: Silence on US, Israeli crimes complicity in violence",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86281012/Iran-Silence-on-US-Israeli-crimes-complicity-in-violence",
+      "published_date": "2026-10-02T14:11:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran strongly criticizes Canada over treatment of Indigenous children",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280966/Iran-strongly-criticizes-Canada-over-treatment-of-Indigenous",
+      "published_date": "2026-10-02T12:46:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qatar, Egypt, Iraqi Kurdistan Region offer condolences to Iranian FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280770/Qatar-Egypt-Iraqi-Kurdistan-Region-offer-condolences-to-Iranian",
+      "published_date": "2026-10-02T09:17:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Foreign Ministry condemns inhumane measures by US disrupting Iranian air transport",
       "source": "IRNA",
@@ -88,60 +144,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN chief calls for global shift away from nuclear weapons",
+      "title": "Era of cost-free threats over: IRGC",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248233/UN-chief-calls-for-global-shift-away-from-nuclear-weapons",
-      "published_date": "2026-10-01T09:54:43Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248254/Era-of-cost-free-threats-over-IRGC",
+      "published_date": "2026-10-02T15:59:38Z",
+      "category": "Military"
     },
     {
-      "title": "Oil prices hold steady amid US-Iran talks",
+      "title": "Saudi-backed commander killed in Ta’izz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248228/Oil-prices-hold-steady-amid-US-Iran-talks",
-      "published_date": "2026-10-01T06:42:07Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248253/Saudi-backed-commander-killed-in-Ta-izz",
+      "published_date": "2026-10-02T15:51:18Z",
+      "category": "Military"
     },
     {
-      "title": "Iran rejects reports on timing of delegation’s departure from New York",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279984/Iran-rejects-reports-on-timing-of-delegation-s-departure-from",
-      "published_date": "2026-10-01T06:40:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran FM dismisses UK PM’s allegations over RAF Fairford incident",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279956/Iran-FM-dismisses-UK-PM-s-allegations-over-RAF-Fairford-incident",
-      "published_date": "2026-10-01T05:31:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Russia discuss information security and AI cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279868/Iran-Russia-discuss-information-security-and-AI",
-      "published_date": "2026-09-30T21:17:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Senior Iranian, Russian diplomats discuss ties, region",
+      "title": "Trump can win against Iran only in his dreams: Rezaei",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248221/Iranian-Russian-deputy-FMs-discuss-bilateral-ties-region",
-      "published_date": "2026-09-30T17:48:09Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248252/Trump-can-win-against-Iran-only-in-his-imagination-Rezaei",
+      "published_date": "2026-10-02T15:43:14Z",
+      "category": "Military"
     },
     {
-      "title": "Malaysian chargé d’Affaires visits Mehr Media Group",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/530614/Malaysian-charg%C3%A9-d-Affaires-visits-Mehr-Media-Group",
-      "published_date": "2026-09-30T16:47:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hamas: Israel’s attacks are genocide, blatant ceasefire breach",
+      "title": "IRGC warns of ‘painful, devastating response’ to any aggression, threat",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279701/Hamas-Israel-s-attacks-are-genocide-blatant-ceasefire-breach",
-      "published_date": "2026-09-30T16:22:12Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86281010/IRGC-warns-of-painful-devastating-response-to-any-aggression",
+      "published_date": "2026-10-02T14:02:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "2026 UNGA, US pullout from Iraq herald major global changes",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248247/US-withdrawal-from-Afghanistan-Iraq-heralds-major-changes",
+      "published_date": "2026-10-02T12:28:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi warplanes strike areas in northern Yemen: report",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248246/Saudi-warplanes-strike-areas-in-northern-Yemen-report",
+      "published_date": "2026-10-02T11:53:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "US expelled from Iraq, suffered humiliating defeat against Iran: IRGC Quds commander",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280814/US-expelled-from-Iraq-suffered-humiliating-defeat-against-Iran",
+      "published_date": "2026-10-02T10:27:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi warplanes strike areas in northern Yemen: Report",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86280748/Saudi-warplanes-strike-areas-in-northern-Yemen-Report",
+      "published_date": "2026-10-02T08:11:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "US expelled from Iraq, suffered humiliating defeat: Qaani",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248239/US-expelled-from-Iraq-suffered-humiliating-defeat-Qaani",
+      "published_date": "2026-10-02T05:50:17Z",
+      "category": "Military"
     },
     {
       "title": "US to see Iran's power in battlefield: Defense chief",
@@ -221,67 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Iran urges UNESCO cooperation to restore cultural heritage damaged in war",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279757/Iran-urges-UNESCO-cooperation-to-restore-cultural-heritage-damaged",
-      "published_date": "2026-09-30T17:06:44Z",
-      "category": "Military"
+      "title": "Yet another tanker hit in Hormuz Strait; Ambrey",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248250/Yet-another-tanker-hit-in-Hormuz-Strait-Ambrey",
+      "published_date": "2026-10-02T14:47:46Z",
+      "category": "Energy"
     },
     {
-      "title": "The UNGA riddle: America's dilemma over Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530593/The-UNGA-riddle-America-s-dilemma-over-Iran",
-      "published_date": "2026-09-30T17:05:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pezeshkian: US, Israel resort to sowing internal division after military failure",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530598/Pezeshkian-US-Israel-resort-to-sowing-internal-division-after",
-      "published_date": "2026-09-30T17:04:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns regional states against hosting Israeli officials after Netanyahu’s UAE visit",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530591/Iran-warns-regional-states-against-hosting-Israeli-officials",
-      "published_date": "2026-09-30T17:04:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran submits Babak Khajehpasha’s “Land of Angels” to 99th Academy Awards",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530607/Iran-submits-Babak-Khajehpasha-s-Land-of-Angels-to-99th-Academy",
-      "published_date": "2026-09-30T17:03:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump’s surrender fantasy: The knot in talks",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530612/Trump-s-surrender-fantasy-The-knot-in-talks",
-      "published_date": "2026-09-30T17:01:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Maritime power as pillar of Iran's shipping security and economic resilience",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530618/Maritime-power-as-pillar-of-Iran-s-shipping-security-and-economic",
-      "published_date": "2026-09-30T16:57:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ansarallah’s gains could reverberate beyond Saudi Arabia",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530610/Ansarallah-s-gains-could-reverberate-beyond-Saudi-Arabia",
-      "published_date": "2026-09-30T15:36:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "U.S. Policies Harming Both Iranians and Americans",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530600/U-S-Policies-Harming-Both-Iranians-and-Americans",
-      "published_date": "2026-09-30T12:30:14Z",
-      "category": "Military"
+      "title": "3 UAE-owned tankers hit after breaching Hormuz rules",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248240/3-UAE-owned-tankers-hit-after-breaching-Hormuz-rules",
+      "published_date": "2026-10-02T05:56:19Z",
+      "category": "Energy"
     },
     {
       "title": "Roadmap for developing Iran-Azerbaijan oil, gas cooperation reviewed",
@@ -347,11 +361,18 @@
       "category": "Energy"
     },
     {
-      "title": "New rigs added to drilling fleet as South Pars output rises",
+      "title": "Iran ready to present investment projects to Turkmenistan, regional partners",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530369/Iran-adds-new-rigs-to-drilling-fleet-as-South-Pars-output-rises",
-      "published_date": "2026-09-25T03:41:58Z",
-      "category": "Energy"
+      "url": "https://www.tehrantimes.com/news/530646/Iran-ready-to-present-investment-projects-to-Turkmenistan-regional",
+      "published_date": "2026-10-02T14:27:18Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Washington Takes Aim at Iran’s Industrial Lifelines",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530631/Washington-Takes-Aim-at-Iran-s-Industrial-Lifelines",
+      "published_date": "2026-10-02T10:33:38Z",
+      "category": "Economy"
     },
     {
       "title": "Leader sends message to 33rd National Prayer Conference",
@@ -480,157 +501,143 @@
       "category": "Economy"
     },
     {
-      "title": "Ghalibaf mocks US claim Iran doesn’t control Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248131/Ghalibaf-mocks-US-claim-Iran-doesn-t-control-Strait-of-Hormuz",
-      "published_date": "2026-09-27T19:09:55Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ghalibaf mocks US claim Iran doesn’t control Strait of Hormuz",
+      "title": "Pezeshkian praises Iranian girls’ three gold medals at Asian Games",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86276483/Ghalibaf-mocks-US-claim-Iran-doesn-t-control-Strait-of-Hormuz",
-      "published_date": "2026-09-27T17:26:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Abdevali gains Iran’s 12th gold medal in 2026 Asian Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530622/Abdevali-gains-Iran-s-12th-gold-medal-in-2026-Asian-Games",
-      "published_date": "2026-10-01T13:55:10Z",
+      "url": "https://en.irna.ir/news/86281075/Pezeshkian-praises-Iranian-girls-three-gold-medals-at-Asian",
+      "published_date": "2026-10-02T15:40:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran’s Alipour wins silver at Nagoya climbing",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530621/Iran-s-Alipour-wins-silver-at-Nagoya-climbing",
-      "published_date": "2026-10-01T13:45:34Z",
+      "title": "Iran’s Zare claims gold in 2026 Asian Games",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248249/Iran-s-Zare-claims-gold-in-2026-Asian-Games",
+      "published_date": "2026-10-02T14:04:48Z",
       "category": "Local Events"
     },
     {
-      "title": "IRGC dismantles terrorist team in southeast Iran",
+      "title": "Taekwondoka Moradi wins Iran’s 15th gold in Asian games",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248248/Taekwondoka-Moradi-wins-Iran-s-15th-gold-in-Asian-games",
+      "published_date": "2026-10-02T14:01:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran slams French police violence against protesters",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280140/IRGC-dismantles-terrorist-team-in-southeast-Iran",
-      "published_date": "2026-10-01T09:49:37Z",
+      "url": "https://en.irna.ir/news/86280951/Iran-slams-French-police-violence-against-protesters",
+      "published_date": "2026-10-02T11:56:43Z",
       "category": "Local Events"
     },
     {
-      "title": "Israeli artillery hits areas near Syria’s Quneitra",
+      "title": "COFO28: Iran outlines measures and programs in forestry sector",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530638/COFO28-Iran-outlines-measures-and-programs-in-forestry-sector",
+      "published_date": "2026-10-02T11:44:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Woman taekwondo athlete Moradi wins Iran’s 15th gold: 2026 Nagoya",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530636/Woman-taekwondo-athlete-Moradi-wins-Iran-s-15th-gold-2026-Nagoya",
+      "published_date": "2026-10-02T11:25:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s Zare claims gold in 2026 Asian Games",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530635/Iran-s-Zare-claims-gold-in-2026-Asian-Games",
+      "published_date": "2026-10-02T11:09:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran vs Guinea-Bissau friendly cancelled",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530634/Iran-vs-Guinea-Bissau-friendly-cancelled",
+      "published_date": "2026-10-02T10:38:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olive harvest begins in Tarom, Iran’s major production hub",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530633/Olive-harvest-begins-in-Tarom-Iran-s-major-production-hub",
+      "published_date": "2026-10-02T10:35:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO representative highlights need for integrated, person-centered care",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530630/WHO-representative-highlights-need-for-integrated-person-centered",
+      "published_date": "2026-10-02T10:34:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Zionists killed, injured in plane carsh in Haifa",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248229/Israeli-artillery-hits-areas-near-Syria-s-Quneitra",
-      "published_date": "2026-10-01T07:16:29Z",
+      "url": "https://en.mehrnews.com/news/248245/Two-Zionists-killed-injured-in-plane-carsh-in-Haifa",
+      "published_date": "2026-10-02T10:33:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Leader says prayer is Iran's source of strength",
+      "title": "Police seize over 250 tons of narcotics since March",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530628/Police-seize-over-250-tons-of-narcotics-since-March",
+      "published_date": "2026-10-02T10:32:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tehran to host 2nd national ‘youth, innovation, health technology festival’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530626/Tehran-to-host-2nd-national-youth-innovation-health-technology",
+      "published_date": "2026-10-02T10:30:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian wrestler Nokhodi seizes gold in Nagoya",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530624/Iranian-wrestler-Nokhodi-seizes-gold-in-Nagoya",
+      "published_date": "2026-10-02T10:25:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran volleyball team adavances to 2026 Asian Games final",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248226/Leader-says-prayer-is-Iran-s-source-of-strength",
-      "published_date": "2026-10-01T05:50:37Z",
+      "url": "https://en.mehrnews.com/news/248244/Iran-volleyball-team-adavances-to-2026-Asian-Games-final",
+      "published_date": "2026-10-02T08:55:17Z",
       "category": "Local Events"
     },
     {
-      "title": "15435",
+      "title": "Iran volleyball reach 2026 Asian Games final",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/530617/15435",
-      "published_date": "2026-09-30T20:31:00Z",
+      "url": "https://www.tehrantimes.com/news/530623/Iran-volleyball-reach-2026-Asian-Games-final",
+      "published_date": "2026-10-02T08:31:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Pro-Islamic Establishment rallies in Rasht",
+      "title": "Iran urges Iraq to make apropraite decision on US flight bans",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248225/Pro-Islamic-Establishment-ralies-in-Rasht",
-      "published_date": "2026-09-30T20:26:38Z",
+      "url": "https://en.mehrnews.com/news/248243/Iran-urges-Iraq-to-take-decision-on-US-flight-restrictions",
+      "published_date": "2026-10-02T07:31:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Massive explosion reported in Syria's Damascus",
+      "title": "Abdevali bags Iran’s 12th gold medal in 2026 Asian Games",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248224/Massive-explosion-reported-in-Syria-s-Damascus",
-      "published_date": "2026-09-30T19:51:16Z",
+      "url": "https://en.mehrnews.com/news/248242/Abdevali-bags-Iran-s-12th-gold-medal-in-2026-Asian-Games",
+      "published_date": "2026-10-02T07:08:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Iran set to face Guinea-Bissau in friendly",
+      "title": "World ‘amazed’ by Iranian nation’s ‘courage, resilience",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248223/Iran-set-to-face-Guinea-Bissau-in-friendly",
-      "published_date": "2026-09-30T19:30:02Z",
+      "url": "https://en.mehrnews.com/news/248241/World-amazed-by-Iranian-nation-s-courage-resilience",
+      "published_date": "2026-10-02T06:01:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Kamel Daoud’s “Houris” published in Persian",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530608/Kamel-Daoud-s-Houris-published-in-Persian",
-      "published_date": "2026-09-30T17:03:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Babak Karimi receives best actor award at Italian festival",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530578/Babak-Karimi-receives-best-actor-award-at-Italian-festival",
-      "published_date": "2026-09-30T17:03:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Shaffer’s “Black Comedy” on stage at Homa Theater",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530609/Peter-Shaffer-s-Black-Comedy-on-stage-at-Homa-Theater",
-      "published_date": "2026-09-30T17:03:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran seeks peace while defending its rights, security and interests: MoD spox",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530616/Iran-seeks-peace-while-defending-its-rights-security-and-interests",
-      "published_date": "2026-09-30T16:53:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran set to face Guinea-Bissau in friendly",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530606/Iran-set-to-face-Guinea-Bissau-in-friendly",
-      "published_date": "2026-09-30T14:04:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "20 historical bazaars undergoing revitalization across Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530605/20-historical-bazaars-undergoing-revitalization-across-Iran",
-      "published_date": "2026-09-30T13:29:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "S. Korean ambassador highlights Iran’s ecotourism potential",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530603/S-Korean-ambassador-highlights-Iran-s-ecotourism-potential",
-      "published_date": "2026-09-30T13:29:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iraqis celebrate the exit of US occupation forces after 23 years",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530602/US-forces-leave-Iraq-23-years-after-invasion",
-      "published_date": "2026-09-30T13:17:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian Greco-Roman wrestler wins gold at 2026 Asian Games",
+      "title": "Iran urges Iraq to take appropriate decision on US flight restrictions",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279473/Iranian-Greco-Roman-wrestler-wins-gold-at-2026-Asian-Games",
-      "published_date": "2026-09-30T12:56:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Greco-Roman wrestler Mirzazadeh takes gold in Nagoya",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248217/Greco-Roman-wrestler-Mirzazadeh-takes-gold-in-Nagoya",
-      "published_date": "2026-09-30T12:37:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chinese embassy in Tehran hosts reception marking 77th National Day",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530601/Chinese-embassy-in-Tehran-hosts-reception-marking-77th-National",
-      "published_date": "2026-09-30T12:29:54Z",
+      "url": "https://en.irna.ir/news/86280636/Iran-urges-Iraq-to-take-appropriate-decision-on-US-flight-restrictions",
+      "published_date": "2026-10-02T05:52:31Z",
       "category": "Local Events"
     }
   ]
