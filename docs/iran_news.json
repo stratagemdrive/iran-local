@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-02T16:36:16Z",
-  "total_stories": 91,
+  "generated_at": "2026-10-03T01:32:23Z",
+  "total_stories": 92,
   "stories": [
+    {
+      "title": "Japanese ambassador bids farewell to Iranians through music",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530640/Japanese-ambassador-bids-farewell-to-Iranians-through-music",
+      "published_date": "2026-10-02T17:37:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian envoy, Iraqi top politician discuss mutual ties, US sanctions",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86281116/Iranian-envoy-Iraqi-top-politician-discuss-mutual-ties-US-sanctions",
+      "published_date": "2026-10-02T17:36:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Southern Lebanese: Israel is ‘razing our lives before our eyes'",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530652/Southern-Lebanese-Israel-is-razing-our-lives-before-our-eyes",
+      "published_date": "2026-10-02T17:35:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On the occasion of the Cultural Days of the Islamic Republic of Iran in Russia",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530639/Culture-the-common-language-of-the-Iranian-and-Russian-peoples",
+      "published_date": "2026-10-02T17:34:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Khatibzadeh: Iran seeks concrete US guarantees to end war",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530658/Iran-seeks-concrete-US-guarantees-to-end-war-Khatibzadeh-says",
+      "published_date": "2026-10-02T17:14:34Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pakistan PM offers condolences to Iran FM over sister’s demise",
       "source": "IRNA",
@@ -109,39 +144,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pezeshkian stresses economic diplomacy, dialogue, national unity",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280378/Pezeshkian-stresses-economic-diplomacy-dialogue-national-unity",
-      "published_date": "2026-10-01T14:25:13Z",
-      "category": "Diplomacy"
+      "title": "Iran, UNESCO discuss stronger intl. cooperation to protect World Heritage sites",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530662/Iran-UNESCO-discuss-stronger-intl-cooperation-to-protect-World",
+      "published_date": "2026-10-02T21:26:36Z",
+      "category": "Military"
     },
     {
-      "title": "Diesel prices in Europe hit record high",
+      "title": "Era of cost-free threats against Iran is over: IRGC",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530661/Era-of-cost-free-threats-against-Iran-is-over-IRGC",
+      "published_date": "2026-10-02T17:45:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran condemns Trump’s dismissal of human cost of US-Israeli aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530660/Iran-condemns-Trump-s-dismissal-of-human-cost-of-US-Israeli-aggression",
+      "published_date": "2026-10-02T17:41:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Arab monarchies’ capital flows through Kushner firm to wage genocidal wars",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530651/Arab-monarchies-capital-flows-through-Kushner-firm-to-wage-genocidal",
+      "published_date": "2026-10-02T17:37:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump talking his own imagination about Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530655/Trump-talking-his-own-imagination-about-Iran",
+      "published_date": "2026-10-02T17:36:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Time magazine exposes recklessness at the heart of Trump’s warmongering",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530656/Time-magazine-exposes-recklessness-at-the-heart-of-Trump-s-warmongering",
+      "published_date": "2026-10-02T17:36:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "US withdrawal from Iraq marks new Phase for Resistance Front: Qaani",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530659/US-withdrawal-from-Iraq-marks-new-Phase-for-Resistance-Front",
+      "published_date": "2026-10-02T17:30:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "The beginning of America’s end in the region",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530641/The-beginning-of-America-s-end-in-the-region",
+      "published_date": "2026-10-02T17:22:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian Investigative Committee: Ukrainian officials involved in attacks on Iranian, Russian ships",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530642/Russian-Investigative-Committee-Ukrainian-officials-involved",
+      "published_date": "2026-10-02T17:21:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "How Iran surprised the world?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530650/How-Iran-surprised-the-world",
+      "published_date": "2026-10-02T17:20:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to use technological surprises against enemy in future",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248236/Diesel-prices-in-Europe-hit-record-high",
-      "published_date": "2026-10-01T13:11:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Russia call for expanded judicial cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280297/Iran-Russia-call-for-expanded-judicial-cooperation",
-      "published_date": "2026-10-01T12:26:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Japan FMs discuss Tehran–Washington diplomatic process",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280272/Iran-Japan-FMs-discuss-Tehran-Washington-diplomatic-process",
-      "published_date": "2026-10-01T11:54:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran, Japan FMs hold phone talks on regional developments",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248235/Iran-Japan-FMs-hold-phone-talks-on-regional-developments",
-      "published_date": "2026-10-01T11:31:22Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248255/Iran-to-use-technological-surprises-against-enemy-in-future",
+      "published_date": "2026-10-02T17:09:17Z",
+      "category": "Military"
     },
     {
       "title": "Era of cost-free threats over: IRGC",
@@ -207,81 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "US to see Iran's power in battlefield: Defense chief",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248238/US-to-see-Iran-s-power-in-battlefield-Defense-chief",
-      "published_date": "2026-10-01T16:55:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Acting defense minister dismisses US claims on Iran’s defense capabilities",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280415/Acting-defense-minister-dismisses-US-claims-on-Iran-s-defense",
-      "published_date": "2026-10-01T15:29:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran captures second US underwater drone",
+      "title": "PGSA: Three Emirati tankers hit in Hormuz were on non-compliance list",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530620/Iran-captures-second-US-underwater-drone",
-      "published_date": "2026-10-01T11:53:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Israel’s genocidal war on Gaza rises to 74,04",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248234/Death-toll-from-Israel-s-genocidal-war-on-Gaza-rises-to-74-04",
-      "published_date": "2026-10-01T10:35:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "US cannot stop Iran’s oil exports: Deputy speaker",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280185/US-cannot-stop-Iran-s-oil-exports-Deputy-speaker",
-      "published_date": "2026-10-01T10:28:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "US expulsion from Iraq paves way to free West Asia from ‘Great Satan’: IRGC",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280089/US-expulsion-from-Iraq-paves-way-to-free-West-Asia-from-Great",
-      "published_date": "2026-10-01T09:02:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq's territory not to be used to threaten neighbours",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248232/Iraq-s-territory-not-to-be-used-to-threaten-neighbours",
-      "published_date": "2026-10-01T08:31:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC issues statement after US forces withdrawal from Iraq",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248231/IRGC-issues-statement-after-US-forces-withdrawal-from-Iraq",
-      "published_date": "2026-10-01T07:46:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Six terrorists killed in IRGC operation in SE Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248230/Six-terrorists-killed-in-IRGC-operation-in-SE-Iran",
-      "published_date": "2026-10-01T07:24:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Saudi warplanes pound Yemen in 51 new strikes",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248227/Saudi-warplanes-pound-Yemen-in-51-new-strikes",
-      "published_date": "2026-10-01T05:57:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "In a letter, IRGC asks Americans to break with US aggression",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530619/In-a-letter-IRGC-asks-Americans-to-break-with-US-aggression",
-      "published_date": "2026-09-30T22:42:05Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/530654/PGSA-Three-Emirati-tankers-hit-in-Hormuz-were-on-non-compliance",
+      "published_date": "2026-10-02T17:23:32Z",
+      "category": "Energy"
     },
     {
       "title": "Yet another tanker hit in Hormuz Strait; Ambrey",
@@ -501,6 +508,48 @@
       "category": "Economy"
     },
     {
+      "title": "Rais-Ali Delvari Museum reopens after major redesign in southern Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530663/Rais-Ali-Delvari-Museum-reopens-after-major-redesign-in-southern",
+      "published_date": "2026-10-02T21:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15436",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530657/15436",
+      "published_date": "2026-10-02T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iraq and Iran agree on 40 daily flights by Iranian airlines to and from Najaf",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86281141/Iraq-and-Iran-agree-on-40-daily-flights-by-Iranian-airlines-to",
+      "published_date": "2026-10-02T18:33:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian Embassy unveils Gandhi statue on 157th birth anniversary, affirms enduring Iran-India ties",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530649/Indian-Embassy-unveils-Gandhi-statue-on-157th-birth-anniversary",
+      "published_date": "2026-10-02T17:21:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran urges Iraq to resist US ‘economic terrorism’, resume air links",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530643/Iran-urges-Iraq-to-resist-US-economic-terrorism-resume-air",
+      "published_date": "2026-10-02T17:21:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader: Prayer serves as inexhaustible reserve in confronting ‘worldly devils’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530644/Leader-Prayer-serves-as-inexhaustible-reserve-in-confronting",
+      "published_date": "2026-10-02T17:15:45Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pezeshkian praises Iranian girls’ three gold medals at Asian Games",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86281075/Pezeshkian-praises-Iranian-girls-three-gold-medals-at-Asian",
@@ -596,48 +645,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530624/Iranian-wrestler-Nokhodi-seizes-gold-in-Nagoya",
       "published_date": "2026-10-02T10:25:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran volleyball team adavances to 2026 Asian Games final",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248244/Iran-volleyball-team-adavances-to-2026-Asian-Games-final",
-      "published_date": "2026-10-02T08:55:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran volleyball reach 2026 Asian Games final",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530623/Iran-volleyball-reach-2026-Asian-Games-final",
-      "published_date": "2026-10-02T08:31:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran urges Iraq to make apropraite decision on US flight bans",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248243/Iran-urges-Iraq-to-take-decision-on-US-flight-restrictions",
-      "published_date": "2026-10-02T07:31:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abdevali bags Iran’s 12th gold medal in 2026 Asian Games",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248242/Abdevali-bags-Iran-s-12th-gold-medal-in-2026-Asian-Games",
-      "published_date": "2026-10-02T07:08:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World ‘amazed’ by Iranian nation’s ‘courage, resilience",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248241/World-amazed-by-Iranian-nation-s-courage-resilience",
-      "published_date": "2026-10-02T06:01:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran urges Iraq to take appropriate decision on US flight restrictions",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86280636/Iran-urges-Iraq-to-take-appropriate-decision-on-US-flight-restrictions",
-      "published_date": "2026-10-02T05:52:31Z",
       "category": "Local Events"
     }
   ]
