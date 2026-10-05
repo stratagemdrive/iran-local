@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-04T15:45:05Z",
-  "total_stories": 96,
+  "generated_at": "2026-10-05T01:24:13Z",
+  "total_stories": 97,
   "stories": [
+    {
+      "title": "Iran rejects Axios report on expulsion of diplomats from US",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530748/Iran-rejects-Axios-report-on-expulsion-of-diplomats-from-US",
+      "published_date": "2026-10-04T16:24:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran refutes ‘Big Lies’ on nuclear program, drug production",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530739/Iran-refutes-Big-Lies-on-nuclear-program-drug-production",
+      "published_date": "2026-10-04T16:24:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says to deliver additional points on US counter-proposal",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530738/Iran-says-to-deliver-additional-points-on-US-counter-proposal",
+      "published_date": "2026-10-04T16:19:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran’s control over Strait of Hormuz unchangeable policy: Lawmaker",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86283124/Iran-s-control-over-Strait-of-Hormuz-unchangeable-policy-Lawmaker",
+      "published_date": "2026-10-04T16:09:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran vows stronger response to military attack",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530747/Iran-vows-stronger-response-to-military-attack",
+      "published_date": "2026-10-04T16:01:41Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "US response to Iran’s 7-day proposal being reviewed: Deputy FM",
       "source": "IRNA",
@@ -109,39 +144,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Azerbaijan FMs discuss ties, latest reg. developments",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248266/Iran-Azerbaijan-FMs-discuss-ties-latest-reg-developments",
-      "published_date": "2026-10-03T09:06:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia dismisses US’s call for Iran to abandon nuke program",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248265/Russia-dismisses-US-s-call-for-Iran-to-abandon-nuke-program",
-      "published_date": "2026-10-03T08:52:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian envoy in Mexico receives Global Leader of Change award",
+      "title": "No US vessels in Persian Gulf, Hormuz, or northern Indian Ocean: IRGC adviser",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86281631/Iranian-envoy-in-Mexico-receives-Global-Leader-of-Change-award",
-      "published_date": "2026-10-03T08:40:21Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86283268/No-US-vessels-in-Persian-Gulf-Hormuz-or-northern-Indian-Ocean",
+      "published_date": "2026-10-04T19:53:28Z",
+      "category": "Military"
     },
     {
-      "title": "Iran criticizes Canada over treatment of indigenous children",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248264/Iran-his-back-at-Canada-over-treatment-of-indigenous-children",
-      "published_date": "2026-10-03T07:47:39Z",
-      "category": "Diplomacy"
+      "title": "Ansarallah extends gains in Yemen's Taiz",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530750/Ansarallah-extend-gains-in-Yemen-s-Taiz",
+      "published_date": "2026-10-04T17:05:38Z",
+      "category": "Military"
     },
     {
-      "title": "Iran ready for long-term partnership with Eurasian Economic Union: VP Aref",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86281356/Iran-ready-for-long-term-partnership-with-Eurasian-Economic-Union",
-      "published_date": "2026-10-03T07:22:22Z",
-      "category": "Diplomacy"
+      "title": "Israel blows up schools, flattens villages in southern Lebanon",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530744/Israel-blows-up-schools-flattens-villages-in-southern-Lebanon",
+      "published_date": "2026-10-04T16:21:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Qalibaf: Iran ready to spring new surprises on adversaries",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530745/Qalibaf-Iran-ready-to-spring-new-surprises-on-adversaries",
+      "published_date": "2026-10-04T16:19:01Z",
+      "category": "Military"
     },
     {
       "title": "IRGC chief praises Iran’s astronomy team’s world title",
@@ -256,32 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Enemy's economic war goals failed: President Pezeshkian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248282/Enemy-s-economic-war-goals-failed-President-Pezeshkian",
-      "published_date": "2026-10-04T03:15:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Velayati warns UAE not to try to challenge Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248280/Velayati-warns-UAE-not-to-try-to-challenge-Iran",
-      "published_date": "2026-10-03T18:59:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Velayati warns UAE: Half-century-old state better off not challenging Iran",
+      "title": "Iran’s oil minister resigns, president names caretaker",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86282122/Velayati-warns-UAE-Half-century-old-state-better-off-not-challenging",
-      "published_date": "2026-10-03T16:53:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ethiopian forces advance in Tigray as rebels retreat",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530702/Ethiopian-forces-advance-in-Tigray-as-rebels-retreat",
-      "published_date": "2026-10-03T16:47:24Z",
-      "category": "Military"
+      "url": "https://en.irna.ir/news/86283228/Iran-s-oil-minister-resigns-president-names-caretaker",
+      "published_date": "2026-10-04T17:57:59Z",
+      "category": "Energy"
     },
     {
       "title": "OPEC+ reportedly to keep November oil output targets steady",
@@ -396,6 +403,34 @@
       "category": "Energy"
     },
     {
+      "title": "Iran hails departure of US forces from Iraq",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530741/Iran-hails-departure-of-US-forces-from-Iraq",
+      "published_date": "2026-10-04T16:23:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Medvedev vows Russia will never sacrifice strategic partnership with Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530743/Medvedev-vows-Russia-will-never-sacrifice-strategic-partnership",
+      "published_date": "2026-10-04T16:23:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "India’s new ambassador pledges to unlock ‘huge potential’ in Iran trade ties",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530733/India-s-new-ambassador-pledges-to-unlock-huge-potential-in",
+      "published_date": "2026-10-04T16:19:56Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Keyhan: Strait of Hormuz exposes America's economic problems",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530749/Keyhan-Strait-of-Hormuz-exposes-America-s-economic-problems",
+      "published_date": "2026-10-04T16:17:43Z",
+      "category": "Economy"
+    },
+    {
       "title": "Iran, Belarus stress strengthening monetary, banking cooperation",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86282503/Iran-Belarus-stress-strengthening-monetary-banking-cooperation",
@@ -508,32 +543,95 @@
       "category": "Economy"
     },
     {
-      "title": "Pezeshkian: Sustainable Persian Gulf security depends on regional responsibility",
+      "title": "15438",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530751/15438",
+      "published_date": "2026-10-04T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ghalibaf: International Olympiad title shows Iran’s youth can overcome sanctions",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86279374/Pezeshkian-Sustainable-Persian-Gulf-security-depends-on-regional",
-      "published_date": "2026-09-30T10:36:28Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86283263/Ghalibaf-International-Olympiad-title-shows-Iran-s-youth-can",
+      "published_date": "2026-10-04T19:22:34Z",
+      "category": "Local Events"
     },
     {
-      "title": "Latest US campaign targeting Iran economy, trade failed",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248204/Latest-US-campaign-targeting-Iran-economy-trade-failed",
-      "published_date": "2026-09-30T06:44:48Z",
-      "category": "Economy"
+      "title": "Judiciary chief congratulates astronomy Olympiad team on third straight title",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86283246/Judiciary-chief-congratulates-astronomy-Olympiad-team-on-third",
+      "published_date": "2026-10-04T18:58:23Z",
+      "category": "Local Events"
     },
     {
-      "title": "Child tourism can become a new value chain in Iran’s travel industry",
+      "title": "Pezeshkian hails Iran’s 52-medal haul at Asian Games in Nagoya",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86283225/Pezeshkian-hails-Iran-s-52-medal-haul-at-Asian-Games-in-Nagoya",
+      "published_date": "2026-10-04T17:43:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian congratulates astronomy Olympiad team on world title",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86283173/Pezeshkian-congratulates-astronomy-Olympiad-team-on-world-title",
+      "published_date": "2026-10-04T16:36:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Isfahan children’s film festival opens with tribute to young martyrs",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530568/Child-tourism-can-become-a-new-value-chain-in-Iran-s-travel-industry",
-      "published_date": "2026-09-29T14:47:26Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/530720/Isfahan-children-s-film-festival-opens-with-tribute-to-young",
+      "published_date": "2026-10-04T16:26:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "Uzbekistan’s $1.4b food market awaits Iran",
+      "title": "Saeidi Brothers release reimagined folk single “Sar-e Dast-e Yarom”",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530557/Uzbekistan-s-1-4b-food-market-awaits-Iran",
-      "published_date": "2026-09-29T12:21:51Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/530718/Saeidi-Brothers-release-reimagined-folk-single-Sar-e-Dast-e",
+      "published_date": "2026-10-04T16:26:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s “The Long Winter” wins award at Eurasia documentary festival",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530719/Iran-s-The-Long-Winter-wins-award-at-Eurasia-documentary-festival",
+      "published_date": "2026-10-04T16:25:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran marks historic milestones in space industry, expands indigenous satellite capabilities",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530740/Iran-marks-historic-milestones-in-space-industry-expands-indigenous",
+      "published_date": "2026-10-04T16:25:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "American Marine arrested over brutal murder of Japanese woman in Okinawa",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530742/American-Marine-arrested-over-brutal-murder-of-Japanese-woman",
+      "published_date": "2026-10-04T16:22:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "VP Aref praises Iran's team for winning international astronomy and astrophysics Olympiad",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86283157/VP-Aref-praises-Iran-s-team-for-winning-international-astronomy",
+      "published_date": "2026-10-04T16:07:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran has the attractions, the challenge is turning them into tourism: Javad Gharaei",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530736/Iran-has-the-attractions-the-challenge-is-turning-them-into",
+      "published_date": "2026-10-04T16:04:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Green Party recognizes Zionism as a form of racism",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530746/Green-Party-recognizes-Zionism-as-a-form-of-racism",
+      "published_date": "2026-10-04T16:01:32Z",
+      "category": "Local Events"
     },
     {
       "title": "What next after Iraq’s sovereignty day?",
@@ -582,97 +680,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86282976/Iran-achieves-several-historic-milestones-in-space-industry",
       "published_date": "2026-10-04T12:26:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran secures third consecutive world title with five golds at IOAA 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530728/Iran-secures-third-consecutive-world-title-with-five-golds-at",
-      "published_date": "2026-10-04T12:00:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Homegrown robots to enhance IRCS rescue operations in crises",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530726/Homegrown-robots-to-enhance-IRCS-rescue-operations-in-crises",
-      "published_date": "2026-10-04T11:56:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran to host 7th Iran Smart City Exhibition and Conference",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530724/Tehran-to-host-7th-Iran-Smart-City-Exhibition-and-Conference",
-      "published_date": "2026-10-04T11:53:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran urges UNESCO to help restore scientific infrastructure damaged in war",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530722/Iran-urges-UNESCO-to-help-restore-scientific-infrastructure-damaged",
-      "published_date": "2026-10-04T11:51:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sayyadmanesh ruled out for four weeks with hamstring injury",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530717/Sayyadmanesh-ruled-out-for-four-weeks-with-hamstring-injury",
-      "published_date": "2026-10-04T11:28:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's team wins Intl. Olympiad on Astronomy, Astrophysics",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248304/Iran-s-team-wins-Intl-Olympiad-on-Astronomy-Astrophysics",
-      "published_date": "2026-10-04T11:26:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Khoshnoodzadeh named Iran’s flag bearer at Asian Games closing ceremony",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530716/Khoshnoodzadeh-named-Iran-s-flag-bearer-at-Asian-Games-closing",
-      "published_date": "2026-10-04T11:16:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Perugia announce signing of Iran star Matin Hosseini",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530715/Perugia-announce-signing-of-Iran-star-Matin-Hosseini",
-      "published_date": "2026-10-04T10:56:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's new Pars-2 satellite ready to launch",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248302/Iran-s-new-Pars-2-satellite-ready-to-launch",
-      "published_date": "2026-10-04T09:58:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran sitting volleyball target fifth straight gold in Nagoya: Bigdeli",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530714/Iran-sitting-volleyball-target-fifth-straight-gold-in-Nagoya",
-      "published_date": "2026-10-04T09:38:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to deliver additional points on US counter-proposal: Foreign Ministry",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86282713/Iran-to-deliver-additional-points-on-US-counter-proposal-Foreign",
-      "published_date": "2026-10-04T09:28:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Cultural Iran” book collection inspires new fusion of music, calligraphy and film",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530692/Cultural-Iran-book-collection-inspires-new-fusion-of-music",
-      "published_date": "2026-10-04T08:23:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hormuz Strait to remain closed until Iran’s seven conditions are met: Ghalibaf",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86282520/Hormuz-Strait-to-remain-closed-until-Iran-s-seven-conditions",
-      "published_date": "2026-10-04T08:08:33Z",
       "category": "Local Events"
     }
   ]
