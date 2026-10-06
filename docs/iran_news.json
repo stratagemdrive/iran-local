@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-05T19:52:48Z",
+  "generated_at": "2026-10-06T02:35:44Z",
   "total_stories": 98,
   "stories": [
+    {
+      "title": "Baqaei: European countries that placed their facilities at disposal of aggressor must be held accountable",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86284341/Baqaei-European-countries-that-placed-their-facilities-at-disposal",
+      "published_date": "2026-10-05T21:40:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "US cannot be trusted in talks: Pezeshkian",
       "source": "Mehr News Agency",
@@ -134,13 +141,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86283525/In-photos-Araghchi-hosts-foreign-envoys-heads-of-diplomatic",
       "published_date": "2026-10-05T06:59:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran rejects Axios report on expulsion of diplomats from US",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530748/Iran-rejects-Axios-report-on-expulsion-of-diplomats-from-US",
-      "published_date": "2026-10-04T16:24:50Z",
       "category": "Diplomacy"
     },
     {
@@ -550,6 +550,20 @@
       "category": "Economy"
     },
     {
+      "title": "Pezeshkian stresses deepening ties between Tehran and Dushanbe",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86284346/Pezeshkian-congratulates-President-Rahmon-on-his-birthday-emphasizes",
+      "published_date": "2026-10-05T22:04:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15439",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/530794/15439",
+      "published_date": "2026-10-05T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Caucasus must not be scene for rivalry among foreign powers",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248348/Caucasus-must-not-be-scene-for-rivalry-among-foreign-powers",
@@ -673,20 +687,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248342/Two-men-executed-in-Iran-over-role-in-killing-police-officers",
       "published_date": "2026-10-05T13:05:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zionist regime assassinates 6 more Palestinians in Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248341/Zionist-regime-assassinates-6-more-Palestinians-in-Gaza",
-      "published_date": "2026-10-05T12:47:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran Explained",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/subject/530768/Iran-Explained",
-      "published_date": "2026-10-05T12:41:44Z",
       "category": "Local Events"
     }
   ]
