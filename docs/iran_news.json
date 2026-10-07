@@ -1,8 +1,36 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-06T17:11:07Z",
-  "total_stories": 99,
+  "generated_at": "2026-10-07T01:55:34Z",
+  "total_stories": 97,
   "stories": [
+    {
+      "title": "Araghchi stresses continuation of dialogue and cooperation with neighbors",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86285443/Araghchi-stresses-continuation-of-dialogue-and-cooperation-with",
+      "published_date": "2026-10-06T21:52:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New German ambassador to Iran meets Baqaei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86285441/New-German-ambassador-to-Iran-meets-Baqaei",
+      "published_date": "2026-10-06T21:43:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran summons French envoy over police crackdown on protesters",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248382/Iran-summons-French-envoy-over-police-crackdown-on-protesters",
+      "published_date": "2026-10-06T19:42:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pezeshkian to meet Putin in Turkmenistan",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86285375/Pezeshkian-to-meet-Putin-in-Turkmenistan",
+      "published_date": "2026-10-06T18:13:05Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pezeshkian calls for broader engagement with EU, Asia",
       "source": "Tehran Times",
@@ -116,32 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UN chief visits Pakistan for talks expected to touch on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248355/UN-chief-visits-Pakistan-for-talks-expected-to-touch-on-Iran",
-      "published_date": "2026-10-06T04:30:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns Bahrain over airspace use in US war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248352/Iran-warns-Bahrain-over-airspace-use-in-US-war",
-      "published_date": "2026-10-06T03:37:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "European states must be accountable for backing US aggression",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248350/European-states-must-be-accountable-for-backing-US-aggression",
-      "published_date": "2026-10-06T03:30:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Baqaei: European countries that placed their facilities at disposal of aggressor must be held accountable",
+      "title": "IRGC: Al-Aqsa Storm was beginning of end for Zionism",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86284341/Baqaei-European-countries-that-placed-their-facilities-at-disposal",
-      "published_date": "2026-10-05T21:40:21Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86285411/IRGC-Al-Aqsa-Storm-was-beginning-of-end-for-Zionism",
+      "published_date": "2026-10-06T20:10:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "Janfada military training in Tehran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/248383/Janfada-military-training",
+      "published_date": "2026-10-06T20:02:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ayatollah Khamenei’s martyrdom to remain symbol of anti-Zionist resistance: Nakhalah",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86285357/Ayatollah-Khamenei-s-martyrdom-to-remain-symbol-of-anti-Zionist",
+      "published_date": "2026-10-06T18:00:45Z",
+      "category": "Military"
     },
     {
       "title": "CIA’s Red Cell warns Israel sits one spark away from collapse",
@@ -260,27 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86284670/Iran-s-homegrown-defense-industry-proved-its-worth-in-recent",
       "published_date": "2026-10-06T07:38:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Army to introduce new war equipment in proper time",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248362/Iran-Army-to-introduce-new-war-equipment-in-proper-time",
-      "published_date": "2026-10-06T06:49:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran warns Bahrain, regional states against attacks from their territory",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86284434/Iran-warns-Bahrain-regional-states-against-hosting-attacks",
-      "published_date": "2026-10-06T06:09:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli artillery and drone attacks hit southern Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248358/Israeli-artillery-and-drone-attacks-hit-southern-Lebanon",
-      "published_date": "2026-10-06T05:32:01Z",
       "category": "Military"
     },
     {
@@ -403,18 +403,11 @@
       "category": "Energy"
     },
     {
-      "title": "What do gas prices in America reveal?",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530547/What-do-gas-prices-in-America-reveal",
-      "published_date": "2026-09-29T18:57:34Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia could build new nuclear plants in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248193/Russia-could-build-new-nuclear-plants-in-Iran",
-      "published_date": "2026-09-29T17:15:55Z",
-      "category": "Energy"
+      "title": "Ghalibaf: Specter of fear awaits US economy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86285435/Ghalibaf-Specter-of-terror-awaits-US-economy",
+      "published_date": "2026-10-06T21:27:57Z",
+      "category": "Economy"
     },
     {
       "title": "Reopening channels to bypass sanctions through Russian banking system",
@@ -550,11 +543,32 @@
       "category": "Economy"
     },
     {
-      "title": "Iran ready to present investment projects to Turkmenistan, regional partners",
+      "title": "15440",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530646/Iran-ready-to-present-investment-projects-to-Turkmenistan-regional",
-      "published_date": "2026-10-02T14:27:18Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/530834/Newspaper-Issue-15440-8-pages",
+      "published_date": "2026-10-06T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Strait of Hormuz: A Valuable Card or a Burnt One?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/530837/Strait-of-Hormuz-A-Valuable-Card-or-a-Burnt-One",
+      "published_date": "2026-10-06T19:40:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Momeni says carried president's message to Qatari Emir",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248381/Momeni-said-carried-president-s-message-to-Qatari-Emir",
+      "published_date": "2026-10-06T18:02:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian to meet Putin in Turkmenistan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248380/Pezeshkian-to-meet-Putin-in-Turkmenistan",
+      "published_date": "2026-10-06T17:52:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Trump can’t stop demonizing Iran",
@@ -666,34 +680,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86285073/IRGC-fully-dismantles-a-terrorist-team-in-southeastern-Iran",
       "published_date": "2026-10-06T11:36:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran has always been pursuing peace with other countries",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248371/Iran-has-always-been-pursuing-peace-with-other-countries",
-      "published_date": "2026-10-06T11:35:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Minister: US crimes in Lamerd, Minab prove Iranian nation was oppressed",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86284918/Minister-US-crimes-in-Lamerd-Minab-proves-Iranian-nation-was",
-      "published_date": "2026-10-06T11:00:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FAO boosts Iran’s capacity to protect date palms from pests and diseases",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530805/FAO-boosts-Iran-s-capacity-to-protect-date-palms-from-pests-and",
-      "published_date": "2026-10-06T10:33:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Art of Sport. Equestrian sport and drumming",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530802/The-Art-of-Sport-Equestrian-sport-and-drumming",
-      "published_date": "2026-10-06T09:53:23Z",
       "category": "Local Events"
     }
   ]
