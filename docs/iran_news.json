@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-08T17:49:54Z",
-  "total_stories": 99,
+  "generated_at": "2026-10-09T02:39:41Z",
+  "total_stories": 100,
   "stories": [
+    {
+      "title": "Baqaei reacts to Marco Rubio’s attempt to distort history",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86287224/Baqaei-reacts-to-Marco-Rubio-s-attempt-to-distort-history",
+      "published_date": "2026-10-08T18:21:37Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Pezeshkian arrives in Turkmenistan",
       "source": "IRNA",
@@ -137,11 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gharibabadi meets Indian, Japanese, Spanish envoys in Tehran",
+      "title": "Leader says police key pillar of Iran security",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248395/Gharibabadi-meets-Indian-Japanese-Spanish-envoys-in-Tehran",
-      "published_date": "2026-10-07T07:24:22Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248428/Leader-says-police-key-pillar-of-Iran-security",
+      "published_date": "2026-10-08T18:27:53Z",
+      "category": "Military"
     },
     {
       "title": "IRGC chief calls Hormuz security ‘a red line,’ warns enemies against interference",
@@ -277,11 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Gen. Abdollahi: Al-Aqsa storm operation exceeded Zionist regime’s expectations",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530867/Gen-Abdollahi-Al-Aqsa-storm-operation-exceeded-Zionist-regime-s",
-      "published_date": "2026-10-07T17:39:26Z",
-      "category": "Military"
+      "title": "Oil prices climb past $101 a barrel",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248422/Oil-prices-climb-past-101-a-barrel",
+      "published_date": "2026-10-08T18:21:52Z",
+      "category": "Energy"
     },
     {
       "title": "Iran not to hand over uranium or abandon enrichment",
@@ -557,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "Pezeshkian meets Putin in Turkmenistan",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86287262/Pezeshkian-meets-Putin-in-Turkmenistan",
+      "published_date": "2026-10-08T18:37:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader: Signs of police force’s significant impact in recent conflicts have become more evident",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86287230/Leader-Signs-of-police-force-s-significant-impact-in-recent",
+      "published_date": "2026-10-08T18:13:01Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iranians not afraid of threats, will defeat enemy’s economic war: President",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86287009/Iranians-not-afraid-of-threats-will-defeat-enemy-s-economic",
@@ -680,20 +701,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530864/Mottaki-Retribution-verdicts-against-those-responsible-for-Iran",
       "published_date": "2026-10-07T17:46:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Isabella chose to disrupt Bessent’s hearing over Iran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530863/Why-Isabella-chose-to-disrupt-Bessent-s-hearing-over-Iran",
-      "published_date": "2026-10-07T15:54:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When shadows become bridges: Malaysian Wayang Kulit lights up Tehran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530860/When-shadows-become-bridges-Malaysian-Wayang-Kulit-lights-up",
-      "published_date": "2026-10-07T15:25:11Z",
       "category": "Local Events"
     }
   ]
