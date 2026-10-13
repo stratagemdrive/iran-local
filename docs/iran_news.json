@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-12T20:14:07Z",
+  "generated_at": "2026-10-13T03:19:00Z",
   "total_stories": 100,
   "stories": [
     {
@@ -284,6 +284,13 @@
       "category": "Military"
     },
     {
+      "title": "‘Using petrochemical capacities to strengthen national economy required’",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531021/Using-petrochemical-capacities-to-strengthen-national-economy",
+      "published_date": "2026-10-12T20:51:39Z",
+      "category": "Energy"
+    },
+    {
       "title": "Third oil tanker catches fire after hitting sea mine in Strait of Hormuz: Statement",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86290100/Third-oil-tanker-catches-fire-after-hitting-sea-mine-in-Strait",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Crude prices rise sharply again, Brent nears $110 per barrel",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248360/Crude-prices-rise-sharply-again-Brent-nears-110-per-barrel",
-      "published_date": "2026-10-06T05:56:16Z",
-      "category": "Energy"
+      "title": "Exports continue through alternative routes: TPO head",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531020/Exports-continue-through-alternative-routes-TPO-head",
+      "published_date": "2026-10-12T20:48:17Z",
+      "category": "Economy"
     },
     {
       "title": "Jajarm offers budget-friendly rural escape, but rail links need improvement",
@@ -557,11 +564,32 @@
       "category": "Economy"
     },
     {
-      "title": "Specter of horror awaits US economy: Iran’s parl. speaker",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248391/Specter-of-horror-awaits-US-economy-Iran-s-parl-speaker",
-      "published_date": "2026-10-07T05:18:26Z",
-      "category": "Economy"
+      "title": "Housing Foundation announces allocation of 70,000 rural land plots to applicants",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531022/Housing-Foundation-announces-allocation-of-70-000-rural-land",
+      "published_date": "2026-10-12T20:54:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Esteghlal beat Al Gharafa in 2026/27 ACL Elite",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531019/Esteghlal-beat-Al-Gharafa-in-2026-27-ACL-Elite",
+      "published_date": "2026-10-12T20:38:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15445",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/531015/15445",
+      "published_date": "2026-10-12T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tractor and Al Shamal played out goalless draw",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531018/Tractor-and-Al-Shamal-played-out-goalless-draw",
+      "published_date": "2026-10-12T20:27:05Z",
+      "category": "Local Events"
     },
     {
       "title": "Student marriages in Tehran University of Medical Sciences",
@@ -673,34 +701,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531004/Dozens-of-possible-dinosaur-footprints-emerge-in-Iran-researcher",
       "published_date": "2026-10-12T14:12:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Faraji and Yari named Iran’s flag-bearers: 2026 YOC",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530990/Faraji-and-Yari-named-Iran-s-flag-bearers-2026-YOC",
-      "published_date": "2026-10-12T13:28:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel is committing genocide in Gaza with US ‘complicity’: Pezeshkian",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86290626/Israel-is-committing-genocide-in-Gaza-with-US-complicity-Pezeshkian",
-      "published_date": "2026-10-12T12:15:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN official: Environmental protection must be integral to post-war recovery",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530998/UN-official-Environmental-protection-must-be-integral-to-post-war",
-      "published_date": "2026-10-12T11:41:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to expand nuclear technology applications in healthcare",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/530994/Iran-to-expand-nuclear-technology-applications-in-healthcare",
-      "published_date": "2026-10-12T11:34:49Z",
       "category": "Local Events"
     }
   ]
