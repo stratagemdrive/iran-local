@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-15T15:34:26Z",
-  "total_stories": 98,
+  "generated_at": "2026-10-16T00:53:41Z",
+  "total_stories": 97,
   "stories": [
+    {
+      "title": "Baqaei: British government cannot conceal its destructive role in insecurity in West Asia by deflecting blame",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86293793/Baqaei-British-government-cannot-conceal-its-destructive-role",
+      "published_date": "2026-10-15T19:10:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baqaei extends condolences over death of Pakistani students and teachers",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86293759/Baqaei-extends-condolences-over-death-of-Pakistani-students-and",
+      "published_date": "2026-10-15T18:00:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran calls for Israeli regime’s expulsion from CICA",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86293728/Iran-calls-for-Israeli-regime-s-expulsion-from-CICA",
+      "published_date": "2026-10-15T16:29:30Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi stresses Iran–Yemen historical ties",
       "source": "IRNA",
@@ -123,25 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gharibabadi heads to Baku for CICA summit",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86292873/Gharibabadi-heads-to-Baku-for-CICA-summit",
-      "published_date": "2026-10-14T12:33:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian expert: Pezeshkian’s CIS proposal deals blow to anti-Iran campaign",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86292721/Russian-expert-Pezeshkian-s-CIS-proposal-deals-blow-to-anti-Iran",
-      "published_date": "2026-10-14T12:31:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran, Doha explore partnership opportunities in ICT sector",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531075/Tehran-Doha-explore-partnership-opportunities-in-ICT-sector",
-      "published_date": "2026-10-14T12:11:39Z",
-      "category": "Diplomacy"
+      "title": "Yemen warns Saudi airspace, airports unsafe",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248609/Yemen-warns-Saudi-airspace-airports-unsafe",
+      "published_date": "2026-10-15T16:10:15Z",
+      "category": "Military"
     },
     {
       "title": "Iran calls for stronger regional transport and rail cooperation",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Janfada parade in Ardabil",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/248595/Janfada-parade-in-Ardabil",
-      "published_date": "2026-10-14T15:08:08Z",
-      "category": "Military"
-    },
-    {
       "title": "Pezeshkian congratulates Iran’s U23 Greco-Roman wrestling team on world title",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86293637/Pezeshkian-congratulates-Iran-s-U23-Greco-Roman-wrestling-team",
@@ -400,13 +400,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/530888/We-will-not-allow-illusions-of-Iran-s-enemies-to-become-reality",
       "published_date": "2026-10-09T13:38:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Oil prices climb past $101 a barrel",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248422/Oil-prices-climb-past-101-a-barrel",
-      "published_date": "2026-10-08T18:21:52Z",
       "category": "Energy"
     },
     {
@@ -550,6 +543,13 @@
       "category": "Economy"
     },
     {
+      "title": "Iranian ambassador meets with Tajikistan’s minister of transport; emphasizes expansion of cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86293781/Iranian-ambassador-meets-with-Tajikistan-s-minister-of-transport",
+      "published_date": "2026-10-15T18:27:15Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Army Navy spots burning oil tanker in restricted area of Strait of Hormuz",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86293701/Army-Navy-spots-burning-oil-tanker-in-restricted-area-of-Strait",
@@ -680,13 +680,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531092/Families-of-Iran-s-terror-victims-call-on-Pakistan-to-act-against",
       "published_date": "2026-10-14T17:02:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran Auto Plaza seeks to turn the automotive world into a destination",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531089/Tehran-Auto-Plaza-seeks-to-turn-the-automotive-world-into-a-destination",
-      "published_date": "2026-10-14T16:05:21Z",
       "category": "Local Events"
     }
   ]
