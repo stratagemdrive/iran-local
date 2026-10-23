@@ -1,8 +1,50 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-23T01:05:22Z",
+  "generated_at": "2026-10-23T15:43:18Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Pakistan says in close contact with Iran, US; urges restraint from both sides",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86301122/Pakistan-says-in-close-contact-with-Iran-US-urges-restraint",
+      "published_date": "2026-10-23T14:45:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran demands end to selective IAEA statute implementation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86301031/Iran-demands-end-to-selective-IAEA-statute-implementation",
+      "published_date": "2026-10-23T12:11:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran warns aggressors against underestimating its strength",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300887/Iran-warns-aggressors-against-underestimating-its-strength",
+      "published_date": "2026-10-23T08:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi says US spent $11 billion on missile defense for Israel",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300832/Araghchi-says-US-spent-11-billion-on-missile-defense-for-Israel",
+      "published_date": "2026-10-23T07:18:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi slams Macron’s flip-flop on Iran nuclear program",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248825/Araghchi-slams-Macron-s-flip-flop-on-Iran-nuclear-program",
+      "published_date": "2026-10-23T06:06:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says term ‘Iran conflict’ obscures US, Israeli responsibility for war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300785/Iran-says-term-Iran-conflict-obscures-US-Israeli-responsibility",
+      "published_date": "2026-10-23T05:57:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iranian, Senegalese FMs discuss bilateral ties over phone",
       "source": "IRNA",
@@ -102,46 +144,88 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gharibabadi: Both Iran and China stress need to expand cooperation within Global South",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86299906/Gharibabadi-Both-Iran-and-China-stress-need-to-expand-cooperation",
-      "published_date": "2026-10-21T20:22:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi: If US prefers war over diplomacy, it will certainly suffer an even greater strategic defeat",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86299863/Araghchi-If-US-prefers-war-over-diplomacy-it-will-certainly",
-      "published_date": "2026-10-21T18:44:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran ready to give diplomacy another chance if US is honest",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248809/Iran-ready-to-give-diplomacy-another-chance-if-US-is-honest",
-      "published_date": "2026-10-21T18:30:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US imposes new sanctions on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248808/US-imposes-new-sanctions-on-Iran",
-      "published_date": "2026-10-21T18:12:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pakistan’s cultural heritage takes center stage at Tehran exhibition",
+      "title": "Six killed in attack at church in Jordan",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531341/Pakistan-s-cultural-heritage-takes-center-stage-at-Tehran-exhibition",
-      "published_date": "2026-10-21T17:18:30Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/531409/Six-killed-in-attack-at-church-in-Jordan",
+      "published_date": "2026-10-23T15:33:34Z",
+      "category": "Military"
     },
     {
-      "title": "Greece’s alliances with UAE and Israel fail eastern Libya–Turkey test",
+      "title": "King Fahd Airport, Defense Ministry attacked as US tells diplomats to leave Saudi Arabia",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531346/Greece-s-alliances-with-UAE-and-Israel-fail-eastern-Libya-Turkey",
-      "published_date": "2026-10-21T17:16:35Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/531406/King-Fahd-Airport-Defense-Ministry-attacked-as-US-tells-diplomats",
+      "published_date": "2026-10-23T15:11:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran slams IAEA for silence towards attacks on its sites",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248836/Iran-slams-IAEA-for-silence-towards-attacks-on-its-sites",
+      "published_date": "2026-10-23T13:50:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Enemy seeks to disrupt armed forces’ cohesion: Iranian commander",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86301057/Enemy-seeks-to-disrupt-armed-forces-cohesion-Iranian-commander",
+      "published_date": "2026-10-23T13:21:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "“No Kings” in America—Just Billionaires Wearing Crowns of Democracy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531402/No-Kings-in-America-Just-Billionaires-Wearing-Crowns-of-Democracy",
+      "published_date": "2026-10-23T11:47:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi airstrikes target Yemen’s capital, Sanaa",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86301006/Saudi-airstrikes-target-Yemen-s-capital-Sanaa",
+      "published_date": "2026-10-23T11:34:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "US has suffered strategic defeats in war with Iran",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248833/US-has-suffered-strategic-defeats-in-war-with-Iran",
+      "published_date": "2026-10-23T11:31:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "National event aims to raise public awareness of digital media",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531398/National-event-aims-to-raise-public-awareness-of-digital-media",
+      "published_date": "2026-10-23T10:59:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "6 Israeli soldiers wounded in Palestinian op. in West Bank",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248832/6-Israeli-soldiers-wounded-in-Palestinian-op-in-West-Bank",
+      "published_date": "2026-10-23T09:58:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "US forces deployed 600–700 km away from Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248831/US-forces-deployed-600-700-km-away-from-Strait-of-Hormuz",
+      "published_date": "2026-10-23T09:31:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "No leaders in history have been more criminal than US ones",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248826/No-leaders-in-history-have-been-more-criminal-than-US-ones",
+      "published_date": "2026-10-23T06:11:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ghalibaf reiterates warning to US about heavy costs of war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248823/Ghalibaf-reiterates-warning-to-US-about-heavy-costs-of-war",
+      "published_date": "2026-10-23T05:45:17Z",
+      "category": "Military"
     },
     {
       "title": "Army Spokesperson: US is most criminal country from  times to present",
@@ -200,88 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "U.S. strategic failure against Iran",
+      "title": "Oil prices exceed $114 a barrel amid escalated war on Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248817/U-S-strategic-failure-against-Iran",
-      "published_date": "2026-10-22T09:02:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC Navy says four oil-carrying ships hit in Persian Gulf",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86300121/IRGC-Navy-says-four-oil-carrying-ships-hit-in-Persian-Gulf",
-      "published_date": "2026-10-22T07:44:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Oil prices gain more than $1 after Yemen strikes on KSA",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248813/Oil-prices-gain-more-than-1-after-Yemen-strikes-on-KSA",
-      "published_date": "2026-10-22T06:34:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli attacks injure five Palestinians in southern Gaza",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248812/Israeli-attacks-injure-five-Palestinians-in-southern-Gaza",
-      "published_date": "2026-10-22T06:06:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "4 vessels hit by IRGC, 3 others hit mine in Strait of Hormuz",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248811/4-vessels-hit-by-IRGC-3-others-hit-mine-in-Strait-of-Hormuz",
-      "published_date": "2026-10-22T05:32:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Vigilance coupled with avoidance of provocative actions",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531363/Vigilance-coupled-with-avoidance-of-provocative-actions",
-      "published_date": "2026-10-21T17:25:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Parliament Speaker Qalibaf meets Leader of the Islamic Revolution",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531356/Parliament-Speaker-Qalibaf-meets-Leader-of-the-Islamic-Revolution",
-      "published_date": "2026-10-21T17:17:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Turkey, Qatar, Pakistan, and Indonesia sign defense pact",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531362/Turkey-Qatar-Pakistan-and-Indonesia-sign-defense-pact",
-      "published_date": "2026-10-21T17:13:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Defense Without Limits",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531361/Defense-Without-Limits",
-      "published_date": "2026-10-21T17:10:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian Resistance Committees commander killed in Israeli attack on Khan Younis",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86299749/Palestinian-Resistance-Committees-commander-killed-in-Israeli",
-      "published_date": "2026-10-21T15:56:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni army targets Saudi military equipment at Al-Rayyan airport",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86299719/Yemeni-army-targets-Saudi-military-equipment-at-Al-Rayyan-airport",
-      "published_date": "2026-10-21T14:59:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "A new security doctrine for Israel",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531353/A-new-security-doctrine-for-Israel",
-      "published_date": "2026-10-21T14:41:02Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/248827/Oil-prices-exceed-114-a-barrel-amid-escalated-war-on-Iran",
+      "published_date": "2026-10-23T06:17:44Z",
+      "category": "Energy"
     },
     {
       "title": "Iran cabinet reviews rebuilding of refineries, oil, gas sites",
@@ -417,11 +424,25 @@
       "category": "Energy"
     },
     {
-      "title": "Oil supertanker catches fire after striking mine in Strait of Hormuz: IRGC Navy",
+      "title": "Iran foreign exchange reserves to last beyond Trump's term",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248834/Iran-foreign-exchange-reserves-to-last-beyond-Trump-s-term",
+      "published_date": "2026-10-23T13:25:14Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran says inflationary pressures eased in three months to September",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86294516/Oil-supertanker-catches-fire-after-striking-mine-in-Strait-of",
-      "published_date": "2026-10-17T05:22:30Z",
-      "category": "Energy"
+      "url": "https://en.irna.ir/news/86300977/Iran-says-inflationary-pressures-eased-in-three-months-to-September",
+      "published_date": "2026-10-23T10:32:45Z",
+      "category": "Economy"
+    },
+    {
+      "title": "TCCIMA energy committee chairman raises 6 demands to facilitate exports",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531384/TCCIMA-energy-committee-chairman-raises-6-demands-to-facilitate",
+      "published_date": "2026-10-23T07:58:08Z",
+      "category": "Economy"
     },
     {
       "title": "Iran facilitates transit of Afghanistan’s cotton to Turkey",
@@ -543,164 +564,143 @@
       "category": "Economy"
     },
     {
-      "title": "Vietnam embassy, Iran–Vietnam chamber of commerce chart a path for bilateral trade, investment co-op",
+      "title": "Racism erupts in Israeli election campaign after broadcaster calls Eisenkot a ‘monkey’",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531164/Vietnam-embassy-Iran-Vietnam-chamber-of-commerce-chart-a-path",
-      "published_date": "2026-10-17T16:10:56Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/531407/Racism-erupts-in-Israeli-election-campaign-after-broadcaster",
+      "published_date": "2026-10-23T15:18:52Z",
+      "category": "Local Events"
     },
     {
-      "title": "Beijing’s mediating power in international crises",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531123/Beijing-s-mediating-power-in-international-crises",
-      "published_date": "2026-10-16T17:04:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The end of Saudi Arabia’s Yemen 'containment strategy'",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531125/The-end-of-Saudi-Arabia-s-Yemen-containment-strategy",
-      "published_date": "2026-10-16T17:02:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ghalibaf warns US officials on 10 bitter consequences of war with Iran",
+      "title": "World ParaVolley chief hails Iranian men’s and women’s teams",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86300623/Ghalibaf-warns-US-officials-on-10-bitter-consequences-of-war",
-      "published_date": "2026-10-22T18:12:37Z",
+      "url": "https://en.irna.ir/news/86301129/World-ParaVolley-chief-hails-Iranian-men-s-and-women-s-teams",
+      "published_date": "2026-10-23T15:01:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Science minister invites young women from Azerbaijan Republic to study at Iranian universities",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86300577/Science-minister-invites-young-women-from-Azerbaijan-Republic",
-      "published_date": "2026-10-22T17:01:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Eslami wins bronze in 1500m: 2026 Nagoya",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531378/Iran-s-Eslami-wins-bronze-in-1500m-2026-Nagoya",
-      "published_date": "2026-10-22T14:37:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rozbahani makes history with powerlifting silver at Nagoya 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531377/Rozbahani-makes-history-with-powerlifting-silver-at-Nagoya-2026",
-      "published_date": "2026-10-22T10:25:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran para swimmers win gold, silver at Nagoya 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531376/Iran-para-swimmers-win-gold-silver-at-Nagoya-2026s",
-      "published_date": "2026-10-22T09:40:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s para powerlifter Aminzadeh collects gold in Nagoya",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531375/Iran-s-para-powerlifter-Aminzadeh-collects-gold-in-Nagoya",
-      "published_date": "2026-10-22T08:48:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Safarzadeh takes gold in women’s 400m at Asian Para Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531374/Safarzadeh-takes-gold-in-women-s-400m-at-Asian-Para-Games",
-      "published_date": "2026-10-22T08:42:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Para swimmer Izadyar takes bronze in 400m freestyle: 2026 Nagoya",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531373/Para-swimmer-Izadyar-takes-bronze-in-400m-freestyle-2026-Nagoya",
-      "published_date": "2026-10-22T08:22:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Golmohammadi appointed Iran’s U23 football team head coach",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531372/Golmohammadi-appointed-Iran-s-U23-football-team-head-coach",
-      "published_date": "2026-10-22T08:09:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s women’s sitting volleyball into 2026 Asian Para Games final",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531371/Iran-s-women-s-sitting-volleyball-into-2026-Asian-Para-Games",
-      "published_date": "2026-10-22T07:41:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shahi shoots bronze in 50m Pistol at Nagoya 2026",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531370/Shahi-shoots-bronze-in-50m-Pistol-at-Nagoya-2026",
-      "published_date": "2026-10-22T07:33:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s men’s sitting volleyball reach 2026 Asian Para Games final",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531369/Iran-s-men-s-sitting-volleyball-reach-2026-Asian-Para-Games-final",
-      "published_date": "2026-10-22T07:08:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afrooz breaks world record at 2026 Asian Para Games",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531368/Afrooz-breaks-world-record-at-2026-Asian-Para-Games",
-      "published_date": "2026-10-22T06:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "15453",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/531364/15453",
-      "published_date": "2026-10-21T20:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosions heard in Sirik in south Iran",
+      "title": "Senior cleric lauds nation for preserving national unity",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248810/Explosions-heard-in-Sirik-in-south-Iran",
-      "published_date": "2026-10-21T19:31:08Z",
+      "url": "https://en.mehrnews.com/news/248835/Senior-cleric-lauds-nation-for-preserving-national-unity",
+      "published_date": "2026-10-23T13:36:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Tashkent’s new landmark celebrates the legacy of Islamic civilization",
+      "title": "Men’s wheelchair basketball bag silver at 2026 Nagoya",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/photo/531365/Tashkent-s-new-landmark-celebrates-the-legacy-of-Islamic-civilization",
-      "published_date": "2026-10-21T17:32:00Z",
+      "url": "https://www.tehrantimes.com/news/531401/Men-s-wheelchair-basketball-bag-silver-at-2026-Nagoya",
+      "published_date": "2026-10-23T11:38:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Exquisite handwritten Quran unveiled at the TMOCA",
+      "title": "Women’s sitting volleyball runners-up at 2026 Nagoya",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531343/Exquisite-handwritten-Quran-unveiled-at-the-TMOCA",
-      "published_date": "2026-10-21T17:19:29Z",
+      "url": "https://www.tehrantimes.com/news/531400/Women-s-sitting-volleyball-runners-up-at-2026-Nagoya",
+      "published_date": "2026-10-23T11:37:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Brazilian adaptation of ‘Taste of Cherry’ to be released in 2027",
+      "title": "Iran’s Beit Sayah takes gold in 2026 Asian Para Games javelin",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531342/Brazilian-adaptation-of-Taste-of-Cherry-to-be-released-in-2027",
-      "published_date": "2026-10-21T17:19:05Z",
+      "url": "https://www.tehrantimes.com/news/531399/Iran-s-Beit-Sayah-takes-gold-in-2026-Asian-Para-Games-javelin",
+      "published_date": "2026-10-23T11:12:45Z",
       "category": "Local Events"
     },
     {
-      "title": "The emperor has no clothes: Trump’s parade of power and the naked American empire",
+      "title": "Health Insurance Week to highlight 'health along path of life'",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531349/The-emperor-has-no-clothes-Trump-s-parade-of-power-and-the-naked",
-      "published_date": "2026-10-21T17:17:35Z",
+      "url": "https://www.tehrantimes.com/news/531396/Health-Insurance-Week-to-highlight-health-along-path-of-life",
+      "published_date": "2026-10-23T10:56:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Why is Europe on fire this October?",
+      "title": "Iran opens university doors to Azerbaijani girls facing hijab restrictions",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531347/Why-is-Europe-on-fire-this-October",
-      "published_date": "2026-10-21T17:15:18Z",
+      "url": "https://www.tehrantimes.com/news/531393/Iran-opens-university-doors-to-Azerbaijani-girls-facing-hijab",
+      "published_date": "2026-10-23T10:53:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Free dental services offered during national oral health week",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531391/Health-ministry-offers-dental-services-during-national-oral-health",
+      "published_date": "2026-10-23T10:52:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian runner Zare snatches gold at 2026 Asian Para Games",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531389/Iranian-runner-Zare-snatches-gold-at-2026-Asian-Para-Games",
+      "published_date": "2026-10-23T10:44:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian para swimmers win gold, bronze: 2026 Nagoya",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531388/Iranian-para-swimmers-win-gold-bronze-2026-Nagoya",
+      "published_date": "2026-10-23T10:17:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran sitting volleyball crowned in Asian games in Japan",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248830/Iran-sitting-volleyball-crowned-in-Asian-games-in-Nagoya",
+      "published_date": "2026-10-23T08:57:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dry tea production increases 23%",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531387/Dry-tea-production-increases-23",
+      "published_date": "2026-10-23T08:13:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New horizons of economic co-op being formed between Mazandaran, Uzbekistan: Uzbek envoy",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531386/New-horizons-of-economic-co-op-being-formed-between-Mazandaran",
+      "published_date": "2026-10-23T08:07:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Tajikistan private sector ties strengthened with tripartite chamber memorandum",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531385/Iran-Tajikistan-private-sector-ties-strengthened-with-tripartite",
+      "published_date": "2026-10-23T08:00:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran crown fifth consecutive Asian Para Games sitting volleyball title",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531383/Iran-crown-fifth-consecutive-Asian-Para-Games-sitting-volleyball",
+      "published_date": "2026-10-23T07:49:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shot putters Salehi, Hadidi win gold, silver at 2026 Nagoya",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248829/Shot-putters-Salehi-Hadidi-win-gold-silver-at-2026-Nagoya",
+      "published_date": "2026-10-23T07:44:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian shot putters Salehi, Hadidi claim gold, silver at 2026 Nagoya",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531382/Iranian-shot-putters-Salehi-Hadidi-claim-gold-silver-at-2026",
+      "published_date": "2026-10-23T07:15:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian discus throwers sweep podium at 2026 Asian Para Games",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531381/Iranian-discus-throwers-sweep-podium-at-2026-Asian-Para-Games",
+      "published_date": "2026-10-23T07:12:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran blind football win bronze at 2026 Asian Para Games",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531380/Iran-blind-football-win-bronze-at-2026-Asian-Para-Games",
+      "published_date": "2026-10-23T07:10:33Z",
       "category": "Local Events"
     }
   ]
