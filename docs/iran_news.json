@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-22T15:52:02Z",
+  "generated_at": "2026-10-23T01:05:22Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Iranian, Senegalese FMs discuss bilateral ties over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300703/Iranian-Senegalese-FMs-discuss-bilateral-ties-over-phone",
+      "published_date": "2026-10-22T21:32:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi reacts to Macron’s contradictions regarding Iran’s nuclear activities",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300699/Araghchi-reacts-to-Macron-s-contradictions-regarding-Iran-s-nuclear",
+      "published_date": "2026-10-22T21:18:42Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran not seeking war, but fully prepared to defend itself: envoy",
       "source": "IRNA",
@@ -130,18 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran condemns US measures against Cuba as ‘criminal and illegal’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531359/Iran-condemns-US-measures-against-Cuba-as-criminal-and-illegal",
-      "published_date": "2026-10-21T16:37:55Z",
-      "category": "Diplomacy"
+      "title": "Army Spokesperson: US is most criminal country from  times to present",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300671/Army-Spokesperson-US-is-most-criminal-country-from-times-to",
+      "published_date": "2026-10-22T20:23:16Z",
+      "category": "Military"
     },
     {
-      "title": "Ghalibaf meets Leader of Islamic Revolution to discuss key national issues",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86299793/Ghalibaf-meets-Leader-of-Islamic-Revolution-to-discuss-key-national",
-      "published_date": "2026-10-21T16:34:51Z",
-      "category": "Diplomacy"
+      "title": "Iran better placed for asymmetric war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248822/Iran-better-placed-for-asymmetric-war",
+      "published_date": "2026-10-22T16:12:21Z",
+      "category": "Military"
     },
     {
       "title": "Yemen: Riyadh should positively respond to Al-Azhar’s call to end war",
@@ -267,20 +281,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531353/A-new-security-doctrine-for-Israel",
       "published_date": "2026-10-21T14:41:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran armed forces fully prepared to crush any aggression: IRGC deputy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86299630/Iran-armed-forces-fully-prepared-to-crush-any-aggression-IRGC",
-      "published_date": "2026-10-21T13:49:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Strikes Gold in Nagoya as Rivals Watch the Medals Pile Up",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531345/Iran-Strikes-Gold-in-Nagoya-as-Rivals-Watch-the-Medals-Pile-Up",
-      "published_date": "2026-10-21T13:47:48Z",
       "category": "Military"
     },
     {
@@ -424,6 +424,13 @@
       "category": "Energy"
     },
     {
+      "title": "Iran facilitates transit of Afghanistan’s cotton to Turkey",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300522/Iran-facilitates-transit-of-Afghanistan-s-cotton-to-Turkey",
+      "published_date": "2026-10-22T16:23:15Z",
+      "category": "Economy"
+    },
+    {
       "title": "The Hidden Economy of Iran’s VOD Market",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531355/The-Hidden-Economy-of-Iran-s-VOD-Market",
@@ -557,11 +564,18 @@
       "category": "Economy"
     },
     {
-      "title": "Economy minister urges faster resolution of IsDB-backed projects",
+      "title": "Ghalibaf warns US officials on 10 bitter consequences of war with Iran",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86294290/Economy-minister-urges-faster-resolution-of-IsDB-backed-projects",
-      "published_date": "2026-10-16T15:39:35Z",
-      "category": "Economy"
+      "url": "https://en.irna.ir/news/86300623/Ghalibaf-warns-US-officials-on-10-bitter-consequences-of-war",
+      "published_date": "2026-10-22T18:12:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Science minister invites young women from Azerbaijan Republic to study at Iranian universities",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86300577/Science-minister-invites-young-women-from-Azerbaijan-Republic",
+      "published_date": "2026-10-22T17:01:56Z",
+      "category": "Local Events"
     },
     {
       "title": "Iran’s Eslami wins bronze in 1500m: 2026 Nagoya",
@@ -687,20 +701,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531347/Why-is-Europe-on-fire-this-October",
       "published_date": "2026-10-21T17:15:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baqaei: US seeks to blame Iran for insecurity caused by its own aggression",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531360/Baqaei-US-seeks-to-blame-Iran-for-insecurity-caused-by-its-own",
-      "published_date": "2026-10-21T16:55:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pezeshkian: Iran will not bow to US pressure, but does not seek war",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531358/Pezeshkian-Iran-will-not-bow-to-US-pressure-but-does-not-seek",
-      "published_date": "2026-10-21T16:35:18Z",
       "category": "Local Events"
     }
   ]
