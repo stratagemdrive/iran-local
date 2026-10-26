@@ -1,8 +1,43 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-25T14:56:24Z",
+  "generated_at": "2026-10-26T00:50:39Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Nothing will be the same as it was before 40-day war: Araghchi",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531502/Nothing-will-be-the-same-as-it-was-before-40-day-war-Araghchi",
+      "published_date": "2026-10-25T21:14:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran prepared for any scenario, will not succumb to threat",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248911/Iran-prepared-for-any-scenario-will-not-succumb-to-threat",
+      "published_date": "2026-10-25T19:05:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Caretaker oil minister heads to Moscow for GECF meeting",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248909/Caretaker-oil-minister-heads-to-Moscow-for-GECF-meeting",
+      "published_date": "2026-10-25T18:09:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran is prepared for any scenario, will not succumb to US threats: Baqaei",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86303173/Iran-is-prepared-for-any-scenario-will-not-succumb-to-US-threats",
+      "published_date": "2026-10-25T17:04:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ghalibaf derides pro-Israel Emirati diplomat’s bid for top UN job",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86303099/Ghalibaf-derides-pro-Israel-Emirati-diplomat-s-bid-for-top-UN",
+      "published_date": "2026-10-25T15:40:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran-Pakistan border trade serves interests of both brotherly nations: Ambassador",
       "source": "IRNA",
@@ -109,39 +144,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran slams US-Israeli attacks on peaceful nuclear facilities, condemns double standards",
+      "title": "Iran fully united, on highest alert amid US-Israeli threats: official",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531449/Iran-slams-US-Israeli-attacks-on-peaceful-nuclear-facilities",
-      "published_date": "2026-10-24T19:01:24Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/531505/Iran-fully-united-on-highest-alert-amid-US-Israeli-threats",
+      "published_date": "2026-10-25T21:28:07Z",
+      "category": "Military"
     },
     {
-      "title": "Reuters: US sought to activate Starlink in Iran after strikes",
+      "title": "Turkey warns Washington against renewed strikes on Iran",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531459/Reuters-US-sought-to-activate-Starlink-in-Iran-after-strikes",
-      "published_date": "2026-10-24T19:00:50Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/531503/Turkey-warns-Washington-against-renewed-strikes-on-Iran",
+      "published_date": "2026-10-25T21:18:29Z",
+      "category": "Military"
     },
     {
-      "title": "Russian embassy denies reports of staff leaving Iran’s Bushehr nuclear power plant",
+      "title": "Tehran has \"veto power\" over Strait of Hormuz: Obama",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531458/Russian-embassy-denies-reports-of-staff-leaving-Iran-s-Bushehr",
-      "published_date": "2026-10-24T18:59:16Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/531501/Tehran-has-veto-power-over-Strait-of-Hormuz-Obama",
+      "published_date": "2026-10-25T21:08:21Z",
+      "category": "Military"
     },
     {
-      "title": "Further escalation between US and Iran would have no winners, says French FM",
+      "title": "Iran slams Germany, EU for ‘contradictory’ positions on US-Israeli aggression",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531461/Further-escalation-between-US-and-Iran-would-have-no-winners",
-      "published_date": "2026-10-24T18:57:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.tehrantimes.com/news/531500/Iran-slams-Germany-EU-for-contradictory-positions-on-US-Israeli",
+      "published_date": "2026-10-25T21:04:33Z",
+      "category": "Military"
     },
     {
-      "title": "Sanaa: Massacre of Yemeni people will not deter them from reclaiming their rights",
+      "title": "Yemen’s armed forces strike Saudi targets in retaliation for Sana'a massacres",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86302174/Sanaa-Massacre-of-Yemeni-people-will-not-deter-them-from-reclaiming",
-      "published_date": "2026-10-24T18:00:37Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86303232/Yemen-s-armed-forces-strike-Saudi-targets-in-retaliation-for",
+      "published_date": "2026-10-25T19:18:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Saudi Arabia turns to US AI system as Yemeni pressure mounts",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531496/Saudi-Arabia-turns-to-US-AI-system-as-Yemeni-pressure-mounts",
+      "published_date": "2026-10-25T17:00:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel seizes civilian houses in al-Khalil, establishes frontline military posts",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531495/Israel-seizes-civilian-houses-in-al-Khalil-establishes-frontline",
+      "published_date": "2026-10-25T16:59:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mass rally against Netanyahu government just ahead of elections",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531493/Mass-rally-against-Netanyahu-government-just-ahead-of-elections",
+      "published_date": "2026-10-25T16:34:55Z",
+      "category": "Military"
     },
     {
       "title": "Armed Forces bravery in upholding Hormuz symbol of Iran power",
@@ -228,60 +284,18 @@
       "category": "Military"
     },
     {
-      "title": "Athens stage performance honors Minab school victims",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531442/Athens-stage-performance-honors-Minab-school-victims",
-      "published_date": "2026-10-24T19:03:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC: US war on Iran is a battle over identity and civilization",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531451/IRGC-US-war-on-Iran-is-a-battle-over-identity-and-civilization",
-      "published_date": "2026-10-24T19:00:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Twelve countries condemn any attack or threat against nuclear facilities",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531460/Twelve-countries-condemn-any-attack-or-threat-against-nuclear",
-      "published_date": "2026-10-24T18:58:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Normalization of attacks on nuclear sites unacceptable",
+      "title": "Oil prices could rise to $150 a barrel if war on Iran resumes",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248864/Normalization-of-attacks-on-nuclear-sites-unacceptable",
-      "published_date": "2026-10-24T17:56:00Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/248912/Oil-prices-could-rise-to-150-a-barrel-if-war-on-Iran-resumes",
+      "published_date": "2026-10-25T20:00:43Z",
+      "category": "Energy"
     },
     {
-      "title": "Senior adviser to IRGC chief: Netanyahu has strengthened Iran and Palestinian cause",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531455/Senior-adviser-to-IRGC-chief-Netanyahu-has-strengthened-Iran",
-      "published_date": "2026-10-24T17:51:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "No Persian Gulf for old carriers",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531466/No-Persian-Gulf-for-old-carriers",
-      "published_date": "2026-10-24T17:47:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "IRGC warns ‘apocalyptic war’ will reverberate beyond Iran",
+      "title": "Iran, Russia gas agreement near finalization: Acting oil min.",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248863/IRGC-warns-apocalyptic-war-will-reverberate-beyond-Iran",
-      "published_date": "2026-10-24T17:41:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iraq resistance vows to side with Iran in case of renewed war",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248862/Iraq-resistance-vows-to-side-with-Iran-in-case-of-renewed-war",
-      "published_date": "2026-10-24T17:03:45Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/248910/Iran-Russia-gas-agreement-near-finalization-Acting-oil-min",
+      "published_date": "2026-10-25T18:28:38Z",
+      "category": "Energy"
     },
     {
       "title": "Iran to add 3,800 MW of thermal power capacity to national grid",
@@ -407,20 +421,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248711/Leader-congrats-Iran-s-freestyle-team-for-winning-world-title",
       "published_date": "2026-10-19T08:36:44Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran’s U23 Freestyle Team wins world title of C’ships in US",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248710/Iran-s-U23-Freestyle-Team-wins-title-of-C-ships-in-Las-Vegas",
-      "published_date": "2026-10-19T07:32:51Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran wins U23 world wrestling title in US",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86296662/Iran-wins-U23-world-wrestling-title-in-US",
-      "published_date": "2026-10-19T05:59:16Z",
       "category": "Energy"
     },
     {
@@ -564,6 +564,90 @@
       "category": "Economy"
     },
     {
+      "title": "Iranian doc ‘Ameneh’s Golden Blood’ screened simultaneously in Toronto, Tehran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531484/Iranian-doc-Ameneh-s-Golden-Blood-screened-simultaneously-in",
+      "published_date": "2026-10-25T21:32:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Yellow Letters’ goes on screen at Tehran cultural center",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531485/Yellow-Letters-goes-on-screen-at-Tehran-cultural-center",
+      "published_date": "2026-10-25T21:32:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran participating in 69th Belgrade International Book Fair",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531477/Iran-participating-in-69th-Belgrade-International-Book-Fair",
+      "published_date": "2026-10-25T21:31:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian MP warns Israeli-occupied territories could become uninhabitable in under an hour",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531506/Iranian-MP-warns-Israeli-occupied-territories-could-become-uninhabitable",
+      "published_date": "2026-10-25T21:30:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qalibaf to skip BRICS parliamentary forum in India",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531504/Qalibaf-to-skip-BRICS-parliamentary-forum-in-India",
+      "published_date": "2026-10-25T21:24:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Rings of Revenge’: Tehran Women Rise for Vengeance",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531499/Rings-of-Revenge-Tehran-Women-Rise-for-Vengeance",
+      "published_date": "2026-10-25T20:51:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15456",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/531498/15456",
+      "published_date": "2026-10-25T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran Greco-Roman wrestlers win four medals on opening day of world championships",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86303189/Iran-Greco-Roman-wrestlers-win-four-medals-on-opening-day-of",
+      "published_date": "2026-10-25T17:19:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France meets second weekend of mass protests with 70,000 police, arrests 1,314",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531497/France-meets-second-weekend-of-mass-protests-with-70-000-police",
+      "published_date": "2026-10-25T16:59:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli elections: What can Palestinians expect?",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531494/Israeli-elections-What-can-Palestinians-expect",
+      "published_date": "2026-10-25T16:58:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s wrestler Farrokhi wins gold at 2026 World C'ships",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248908/Iran-s-wrestler-Farrokhi-wins-gold-at-2026-World-C-ships",
+      "published_date": "2026-10-25T16:21:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ahmadi Vafa bags silver at 2026 World Wrestling Championships",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531492/Ahmadi-Vafa-bags-silver-at-2026-World-Wrestling-Championships",
+      "published_date": "2026-10-25T15:10:47Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran’s Greco-Roman wrestler Farrokhi claims gold at 2026 World Championships",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531491/Iran-s-Greco-Roman-wrestler-Farrokhi-claims-gold-at-2026-World",
@@ -617,90 +701,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531487/Jameh-Mosque-of-Fahraj-A-timeless-architectural-treasure-near",
       "published_date": "2026-10-25T12:42:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Restoration of Sassanid reliefs at Naqsh-e Rostam nears completion after three decades",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531486/Restoration-of-Sassanid-reliefs-at-Naqsh-e-Rostam-nears-completion",
-      "published_date": "2026-10-25T12:38:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aref asks Azeri girls facing bans to continue studies in Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248903/Aref-asks-Azeri-girls-facing-bans-to-continue-studies-in-Iran",
-      "published_date": "2026-10-25T12:37:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murderer Netanyahu will lose Israel’s election!: TGB",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248900/Murderer-Netanyahu-will-lose-Israel-s-election-TGB",
-      "published_date": "2026-10-25T11:54:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran, Bangkok underline enhancing co-op in ICT",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531483/Tehran-Bangkok-underline-enhancing-co-op-in-ICT",
-      "published_date": "2026-10-25T11:51:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Next year’s budget bill to be submitted to parliament in a month",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531474/Next-year-s-budget-bill-to-be-submitted-to-parliament-in-a-month",
-      "published_date": "2026-10-25T11:29:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran learn fate at 2026 Asian Women’s Handball Championship",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531476/Iran-learn-fate-at-2026-Asian-Women-s-Handball-Championship",
-      "published_date": "2026-10-25T11:17:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran holds conference to advance justice for EB patients",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86302879/Iran-holds-conference-to-advance-justice-for-EB-patients",
-      "published_date": "2026-10-25T11:06:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obama: Iran now has veto power over Strait of Hormuz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86302810/Obama-Iran-now-has-veto-power-over-Strait-of-Hormuz",
-      "published_date": "2026-10-25T09:50:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian people not to give in to US threats or pressures",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248899/Iranian-people-not-to-give-in-to-US-threats-or-pressures",
-      "published_date": "2026-10-25T09:13:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "President Pezeshkian: Women key to Iran’s progress, sustainable development",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86302598/President-Pezeshkian-Women-key-to-Iran-s-progress-sustainable",
-      "published_date": "2026-10-25T08:22:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China hosts forum to pool wisdom for better future",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248898/China-hosts-forum-to-pool-wisdom-for-better-future",
-      "published_date": "2026-10-25T07:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global Governance Forum Participants visit Chinese city",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248892/Global-Governance-Forum-Participants-visit-Chinese-city",
-      "published_date": "2026-10-25T07:32:49Z",
       "category": "Local Events"
     }
   ]
