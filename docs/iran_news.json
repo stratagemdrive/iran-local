@@ -1,8 +1,78 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-27T16:23:56Z",
+  "generated_at": "2026-10-28T01:54:24Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Acting oil minister in Moscow: trilateral energy co-op, Iran–Russia gas swap via Azerbaijan",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531587/Acting-oil-minister-in-Moscow-trilateral-energy-co-op-Iran-Russia",
+      "published_date": "2026-10-27T22:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi congratulates Lula da Silva on his victory in Brazilian election",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305385/Araghchi-congratulates-Lula-da-Silva-on-his-victory-in-Brazilian",
+      "published_date": "2026-10-27T21:18:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "President Pezeshkian departs Moscow for Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305375/President-Pezeshkian-departs-Moscow-for-Tehran",
+      "published_date": "2026-10-27T20:23:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian, Russian presidents pledge to expand bilateral ties, advance joint projects",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305374/Iranian-Russian-presidents-pledge-to-expand-bilateral-ties",
+      "published_date": "2026-10-27T20:11:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian Ambassador’s response to US representative: Speak based on facts, not fabricated accusations",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305366/Iranian-Ambassador-s-response-to-US-representative-Speak-based",
+      "published_date": "2026-10-27T19:55:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran to UNSC: Israel possesses nuclear weapons, yet you are concerned about absence of inspectors in Iran!",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305296/Iran-to-UNSC-Israel-possesses-nuclear-weapons-yet-you-are-concerned",
+      "published_date": "2026-10-27T17:23:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Russia presidents hold meeting in Moscow",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248972/Iran-Russia-presidents-hold-meeting-in-Moscow",
+      "published_date": "2026-10-27T16:49:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maintain control of Hormuz, Leader insists in meeting with security chief",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531583/Maintain-control-of-Hormuz",
+      "published_date": "2026-10-27T16:40:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi holds separate calls with Egyptian, Jordanian and Turkmen counterparts",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531579/Araghchi-holds-separate-calls-with-Egyptian-Jordanian-and-Turkmen",
+      "published_date": "2026-10-27T16:38:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China to send special envoy to Middle East amid fears of conflict spillover",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531578/China-to-send-special-envoy-to-Middle-East-amid-fears-of-conflict",
+      "published_date": "2026-10-27T16:35:21Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Putin praises Iran martyred Leader’s role in founding ‘GECF’",
       "source": "IRNA",
@@ -74,74 +144,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran, Jordan FMs discuss ties, reg. developments by phone",
+      "title": "IRGC dismantles two terrorist teams in southeast Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305261/IRGC-dismantles-two-terrorist-teams-in-southeast-Iran",
+      "published_date": "2026-10-27T17:46:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC dispmantles two terror teams in southeast Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248961/Iran-Jordan-FMs-discuss-ties-reg-developments-by-phone",
-      "published_date": "2026-10-27T10:14:53Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/248970/IRGC-dispmantles-two-terror-teams-in-southeast-Iran",
+      "published_date": "2026-10-27T16:38:47Z",
+      "category": "Military"
     },
     {
-      "title": "President Pezeshkian, Qatari Emir meet in Moscow, emphasize expanding energy cooperation",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304898/President-Pezeshkian-Qatari-Emir-meet-in-Moscow-emphasize-expanding",
-      "published_date": "2026-10-27T10:02:14Z",
-      "category": "Diplomacy"
+      "title": "Oman: No lasting Persian Gulf security without Iran’s participation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531577/Oman-No-lasting-Persian-Gulf-security-without-Iran-s-participation",
+      "published_date": "2026-10-27T16:32:06Z",
+      "category": "Military"
     },
     {
-      "title": "Qatar emir meets Iran president, energy ties in focus",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248960/Qatar-emir-meets-Iran-president-energy-ties-in-focus",
-      "published_date": "2026-10-27T09:43:46Z",
-      "category": "Diplomacy"
+      "title": "Bagheri: Tehran quadrilateral meeting reflects Iran’s defense capabilities",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531576/Bagheri-Tehran-quadrilateral-meeting-reflects-Iran-s-defense",
+      "published_date": "2026-10-27T16:29:12Z",
+      "category": "Military"
     },
     {
-      "title": "Iran seeks peace but will not mistake diplomacy for surrender: Lawmaker",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304849/Iran-seeks-peace-but-will-not-mistake-diplomacy-for-surrender",
-      "published_date": "2026-10-27T09:42:50Z",
-      "category": "Diplomacy"
+      "title": "Forced retreat of neighbors",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531575/Forced-retreat-of-neighbors",
+      "published_date": "2026-10-27T16:27:24Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Egypt FMs discuss latest regional developments in call",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248959/Iran-Egypt-FMs-discuss-latest-regional-developments-in-call",
-      "published_date": "2026-10-27T09:10:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian’s GECF summit participation to boost Iran’s role in forum: envoy",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304791/Pezeshkian-s-GECF-summit-participation-to-boost-Iran-s-role-in",
-      "published_date": "2026-10-27T08:56:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "West Asia security should come from within region: Iran top security official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304551/West-Asia-security-should-come-from-within-region-Iran-top-security",
-      "published_date": "2026-10-27T07:12:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran quadrilateral meeting reflects Iran’s resistance, military prowess: Security official",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304478/Tehran-quadrilateral-meeting-reflects-Iran-s-resistance-military",
-      "published_date": "2026-10-27T05:45:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "In photos: Quadrilateral meeting of Iran, Pakistan, Turkey, Saudi Arabia",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86304406/In-photos-Quadrilateral-meeting-of-Iran-Pakistan-Turkey-Saudi",
-      "published_date": "2026-10-27T05:32:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oman says Persian Gulf security framework cannot exclude Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304438/Oman-says-Persian-Gulf-security-framework-cannot-exclude-Iran",
-      "published_date": "2026-10-27T05:23:44Z",
-      "category": "Diplomacy"
+      "title": "Pezeshkian calls for stronger gas cooperation, condemns US sanctions and military aggression",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531582/Pezeshkian-calls-for-stronger-gas-cooperation-condemns-US-sanctions",
+      "published_date": "2026-10-27T16:24:38Z",
+      "category": "Military"
     },
     {
       "title": "Iran to boost deterrence with domestic capabilities: Commander",
@@ -242,46 +284,11 @@
       "category": "Military"
     },
     {
-      "title": "Spectrum: Rules for Thee, Not for Me",
+      "title": "Iran calls on gas exporters to strengthen cooperation, safeguard energy security",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531530/Spectrum-Rules-for-Thee-Not-for-Me",
-      "published_date": "2026-10-26T13:06:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran nation is father, mother of bombs: Army cmdr. warns US",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248933/Iran-nation-is-father-mother-of-bombs-Army-cmdr-warns-US",
-      "published_date": "2026-10-26T11:55:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Energy markets unlikely to return to pre-war levels in 2027",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248925/Energy-markets-unlikely-to-return-to-pre-war-levels-in-2027",
-      "published_date": "2026-10-26T06:59:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Multiple explosions reported in Yemen’s Sana’a",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248921/Multiple-explosions-reported-in-Yemen-s-Sana-a",
-      "published_date": "2026-10-26T05:18:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tehran to host Saudi, Turkish, Pakistani officials",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248920/Tehran-to-host-Saudi-Turkish-Pakistani-officials",
-      "published_date": "2026-10-26T04:47:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "At least 40 civilians killed in terrorists’ attack in Nigeria",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248918/At-least-40-civilians-killed-in-terrorists-attack-in-Nigeria",
-      "published_date": "2026-10-26T04:22:45Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/531586/Iran-calls-on-gas-exporters-to-strengthen-cooperation-safeguard",
+      "published_date": "2026-10-27T22:16:35Z",
+      "category": "Energy"
     },
     {
       "title": "US, Zionist aggression endangers security of global energy",
@@ -417,11 +424,11 @@
       "category": "Energy"
     },
     {
-      "title": "Oil prices exceed $114 a barrel amid escalated war on Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248827/Oil-prices-exceed-114-a-barrel-amid-escalated-war-on-Iran",
-      "published_date": "2026-10-23T06:17:44Z",
-      "category": "Energy"
+      "title": "Liquidity growth slowed, monthly inflation on a downward trend: economy minister",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531585/Liquidity-growth-slowed-monthly-inflation-on-a-downward-trend",
+      "published_date": "2026-10-27T22:13:15Z",
+      "category": "Economy"
     },
     {
       "title": "Pezeshkian says US military intervention in Persian Gulf disrupts global energy markets",
@@ -557,11 +564,53 @@
       "category": "Economy"
     },
     {
-      "title": "The Hidden Economy of Iran’s VOD Market",
+      "title": "Pezeshkian: Gas Exporting Countries Forum summit was constructive and fruitful",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305393/Pezeshkian-Gas-Exporting-Countries-Forum-summit-was-constructive",
+      "published_date": "2026-10-27T21:51:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15458",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531355/The-Hidden-Economy-of-Iran-s-VOD-Market",
-      "published_date": "2026-10-21T16:08:42Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/photo/531584/15458",
+      "published_date": "2026-10-27T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader’s message to elites, driving force behind Iran’s progress: Adviser",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305329/Leader-s-message-to-elites-driving-force-behind-Iran-s-progress",
+      "published_date": "2026-10-27T18:21:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Top Iranian academic institution vows to play role in scientific breakthroughs",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86305323/Top-Iranian-academic-institution-vows-to-play-role-in-scientific",
+      "published_date": "2026-10-27T18:15:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oil tanker on fire after hitting mines in Hormuz: Iran Army",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248973/Oil-tanker-on-fire-after-hitting-mines-in-Hormuz-Iran-Army",
+      "published_date": "2026-10-27T17:26:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran, Tajikistan to expand cultural cooperation",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/248971/Iran-Tajikistan-to-expand-cultural-cooperation",
+      "published_date": "2026-10-27T16:45:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran opposes nuclear technology monopoly, calls for equal access to advanced technologies",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531580/Iran-opposes-nuclear-technology-monopoly-calls-for-equal-access",
+      "published_date": "2026-10-27T16:26:35Z",
+      "category": "Local Events"
     },
     {
       "title": "Israeli voters chose between ‘rabid yellow dogs and ravenous jackals’",
@@ -652,55 +701,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86304877/Senior-MP-American-formula-won-t-bring-regional-security",
       "published_date": "2026-10-27T10:16:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asian Indoor and Martial Arts Games in Saudi Arabia postponed",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531526/Asian-Indoor-and-Martial-Arts-Games-in-Saudi-Arabia-postponed",
-      "published_date": "2026-10-27T10:11:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "MNA hosts a panel discussion on US mid-term elections",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/248958/MNA-hosts-a-panel-discussion-on-US-mid-term-elections",
-      "published_date": "2026-10-27T09:01:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran seeks lasting peace, protection of national interests: Gov’t spox",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304712/Iran-seeks-lasting-peace-protection-of-national-interests-Gov-t",
-      "published_date": "2026-10-27T08:07:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran to pursue peace with dignity, not back down from rights",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248957/Iran-to-pursue-peace-with-dignity-not-back-down-from-rights",
-      "published_date": "2026-10-27T07:41:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian province offers investment opportunities in blueberry farming for export",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86304618/Iranian-province-offers-investment-opportunities-in-blueberry",
-      "published_date": "2026-10-27T07:12:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran remains proud, steadfast with its talented youth",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248955/Iran-remains-proud-steadfast-with-its-talented-youth",
-      "published_date": "2026-10-27T06:31:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Memorial ceremony for martyr Ali Larijani",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86304497/Memorial-ceremony-for-martyr-Ali-Larijani",
-      "published_date": "2026-10-27T06:17:56Z",
       "category": "Local Events"
     }
   ]
