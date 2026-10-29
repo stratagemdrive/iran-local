@@ -1,8 +1,50 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-28T17:06:12Z",
+  "generated_at": "2026-10-29T02:01:01Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Iran to maintain close contact with mediators for diplomacy",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249011/Iran-to-maintain-close-contact-with-mediators-for-diplomacy",
+      "published_date": "2026-10-28T19:24:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Each of the three options facing US in confrontation with Iran carries strategic losses",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531623/Each-of-the-three-options-facing-US-in-confrontation-with-Iran",
+      "published_date": "2026-10-28T19:23:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New Iranian ambassador to Greece meets FM Araghchi ahead of mission",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86306433/Iran-new-ambassador-to-Greece-meets-FM-Araghchi-ahead-of-mission",
+      "published_date": "2026-10-28T19:11:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi: Iran continues to maintain close and ongoing contact with intermediaries to allow space for diplomacy",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86306427/Araghchi-Iran-continues-to-maintain-close-and-ongoing-contact",
+      "published_date": "2026-10-28T19:01:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi briefs cabinet on Tehran security summit, warns of risks to global energy markets",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531617/Araghchi-briefs-cabinet-on-Tehran-security-summit-warns-of-risks",
+      "published_date": "2026-10-28T18:43:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US envoy should speak based on facts, not fabricated accusations, Iran says",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531615/US-envoy-should-speak-based-on-facts-not-fabricated-accusations",
+      "published_date": "2026-10-28T18:36:20Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "FM Araghchi briefs cabinet on four-way security summit in Tehran",
       "source": "IRNA",
@@ -102,46 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Latin America has vast potentials to expand coop. with Iran",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248987/Latin-America-has-vast-potentials-to-expand-coop-with-Iran",
-      "published_date": "2026-10-28T05:33:50Z",
-      "category": "Diplomacy"
+      "title": "Israeli firm turned Starlink traffic into espionage tool across 105 countries",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531624/Israeli-firm-turned-Starlink-traffic-into-espionage-tool-across",
+      "published_date": "2026-10-28T19:31:40Z",
+      "category": "Military"
     },
     {
-      "title": "Tehran quadrilateral meeting paved way for regional dialogue",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248986/Tehran-quadrilateral-meeting-paved-way-for-regional-dialogue",
-      "published_date": "2026-10-28T05:30:55Z",
-      "category": "Diplomacy"
+      "title": "US-Iran war bill reaches $47.1 billion",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531620/US-Iran-war-bill-reaches-47-1-billion",
+      "published_date": "2026-10-28T19:06:56Z",
+      "category": "Military"
     },
     {
-      "title": "Iraq seeks joint meeting between Arab states, Iran",
+      "title": "US isolated more than ever after launching war on Iran",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248981/Iraq-seeks-joint-meeting-between-Arab-states-Iran",
-      "published_date": "2026-10-28T04:44:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia trip constructive, fruitful: Pezeshkian",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248979/Russia-trip-constructive-fruitful-Pezeshkian",
-      "published_date": "2026-10-28T04:13:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "End to US, Israel mischief crucial for regional security",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248978/End-to-US-Israel-mischief-crucial-for-regional-security",
-      "published_date": "2026-10-28T04:09:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's UN envoy counters US claims with martyrs' photos",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248976/Iran-s-UN-envoy-counters-US-claims-with-martyrs-photos",
-      "published_date": "2026-10-28T03:58:49Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/249009/US-isolated-more-than-ever-after-launching-war-on-Iran",
+      "published_date": "2026-10-28T17:58:59Z",
+      "category": "Military"
     },
     {
       "title": "Regional Security Without the US: Iran Takes the Lead",
@@ -263,25 +284,25 @@
       "category": "Military"
     },
     {
-      "title": "Israeli and US elections could hasten the end of Iran war",
+      "title": "Iran, Russia move toward joint construction of small modular nuclear reactors",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531573/Israeli-and-US-elections-could-hasten-the-end-of-Iran-war",
-      "published_date": "2026-10-27T15:07:05Z",
-      "category": "Military"
+      "url": "https://www.tehrantimes.com/news/531618/Iran-s-nuclear-industry-reaches-full-maturity-AEOI-spokesman",
+      "published_date": "2026-10-28T18:58:29Z",
+      "category": "Energy"
     },
     {
-      "title": "Air defense chief vists units stationed in south Iran",
+      "title": "Iran is pursuing energy diplomacy dynamically: minister",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248967/Air-defense-chief-vists-units-stationed-in-south-Iran",
-      "published_date": "2026-10-27T13:22:10Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/249010/Iran-is-pursuing-energy-diplomacy-dynamically-minister",
+      "published_date": "2026-10-28T18:34:40Z",
+      "category": "Energy"
     },
     {
-      "title": "Border restriction harm Iraq national interests: Iraqi MP",
+      "title": "508 Russian nuclear exprts to come to Iran: Rosatom CEO",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248965/Border-restriction-harm-Iraq-national-interests-Iraqi-MP",
-      "published_date": "2026-10-27T12:11:32Z",
-      "category": "Military"
+      "url": "https://en.mehrnews.com/news/249008/508-Russians-nuclear-exprts-to-come-to-Iran-Rosatom-CEO",
+      "published_date": "2026-10-28T17:31:56Z",
+      "category": "Energy"
     },
     {
       "title": "Exclusive | Iran is pursuing energy diplomacy dynamically, resolutely: Minister",
@@ -400,27 +421,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/248912/Oil-prices-could-rise-to-150-a-barrel-if-war-on-Iran-resumes",
       "published_date": "2026-10-25T20:00:43Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran, Russia gas agreement near finalization: Acting oil min.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248910/Iran-Russia-gas-agreement-near-finalization-Acting-oil-min",
-      "published_date": "2026-10-25T18:28:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran to add 3,800 MW of thermal power capacity to national grid",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531470/Iran-to-add-3-800-MW-of-thermal-power-capacity-to-national-grid",
-      "published_date": "2026-10-25T11:29:29Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy Ministry implements 60 measures to secure electricity supplies during winter",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531471/Energy-Ministry-implements-60-measures-to-secure-electricity",
-      "published_date": "2026-10-25T11:29:17Z",
       "category": "Energy"
     },
     {
@@ -564,6 +564,83 @@
       "category": "Economy"
     },
     {
+      "title": "15459",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/531612/15459",
+      "published_date": "2026-10-28T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain high-speed train crash kills 68",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531625/Spain-high-speed-train-crash-kills-68",
+      "published_date": "2026-10-28T19:40:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula’s victory once again showed Latin America is not US backyard",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531622/Lula-s-victory-once-again-showed-Latin-America-is-not-US-backyard",
+      "published_date": "2026-10-28T19:17:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s embassy in Kuwait rejects allegations linking Iranian national to assassination plot",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531621/Iran-s-embassy-in-Kuwait-rejects-allegations-linking-Iranian",
+      "published_date": "2026-10-28T19:11:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Knesset stalemate plunges Israel into political paralysis",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531619/Knesset-stalemate-plunges-Israel-into-political-paralysis",
+      "published_date": "2026-10-28T19:05:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian pledges to end ‘neither war nor peace’ situation",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531616/Pezeshkian-pledges-to-end-neither-war-nor-peace-situation",
+      "published_date": "2026-10-28T18:39:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Putin to Pezeshkian: Russia honoring all commitments in joint projects with Iran",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531614/Putin-to-Pezeshkian-Russia-honoring-all-commitments-in-joint",
+      "published_date": "2026-10-28T18:31:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leader to students: Arm yourselves with knowledge and faith to build Islamic-Iranian Civilization",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531613/Leader-to-students-Arm-yourselves-with-knowledge-and-faith-to",
+      "published_date": "2026-10-28T18:27:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TMoCA exhibition to explore how ‘Iran’ is presented and conceptualized in artworks",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531605/TMoCA-exhibition-to-explore-how-Iran-is-presented-and-conceptualized",
+      "published_date": "2026-10-28T18:22:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hoorakhsh Studios to produce “Shahnameh” animated series",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531606/Hoorakhsh-Studios-to-produce-Shahnameh-animated-series",
+      "published_date": "2026-10-28T18:22:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Narration of Resistance’ Caravan highlights Sistan-Baluchestan’s cultural riches",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531600/Narration-of-Resistance-Caravan-highlights-Sistan-Baluchestan-s",
+      "published_date": "2026-10-28T18:21:19Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran embassy in Kuwait rejects allegations",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249007/Iran-embassy-in-Kuwait-rejects-allegations",
@@ -624,83 +701,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531602/Health-ministry-WHO-hold-TOT-workshop-on-generating-reliable",
       "published_date": "2026-10-28T11:49:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran embassy in Kuwait rejects allegation linking Iranian national to assassination plot",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86306018/Iran-embassy-in-Kuwait-rejects-allegation-linking-Iranian-national",
-      "published_date": "2026-10-28T11:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two high-speed trains collide in Spain",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248999/Two-high-speed-trains-collide-in-Spain",
-      "published_date": "2026-10-28T10:58:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran ranks among world’s top 5 countries in eye stem cell",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248998/Iran-ranks-among-world-s-top-5-countries-in-eye-stem-cell",
-      "published_date": "2026-10-28T10:24:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "4 in 10 Americans say personal finances worsening: Survey",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248997/4-in-10-Americans-say-personal-finances-worsening-Survey",
-      "published_date": "2026-10-28T09:52:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Veteran football stars face Sistan and Baluchestan team in friendly match",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86305928/Veteran-football-stars-face-Sistan-and-Baluchestan-team-in-friendly",
-      "published_date": "2026-10-28T09:33:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s Greco-Roman wrestler Esmaeili wins gold at World Championships",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531597/Iran-s-Greco-Roman-wrestler-Esmaeili-wins-gold-at-World-Championships",
-      "published_date": "2026-10-28T09:31:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli artillery fire hits southern Lebanon towns",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/248996/Israeli-artillery-fire-hits-southern-Lebanon-towns",
-      "published_date": "2026-10-28T08:58:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dadgar elected president of Iran’s Shooting Federation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531596/Dadgar-elected-president-of-Iran-s-Shooting-Federation",
-      "published_date": "2026-10-28T08:49:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yazd hosting 5th Int’l Congress of Iranian Society of Surgical Oncology",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86305817/Yazd-hosting-5th-Int-l-Congress-of-Iranian-Society-of-Surgical",
-      "published_date": "2026-10-28T08:29:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shabab Al Ahli more clinical in decisive moments: Bakhtiarizadeh",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531595/Shabab-Al-Ahli-more-clinical-in-decisive-moments-Bakhtiarizadeh",
-      "published_date": "2026-10-28T07:55:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘The Story of the Panda Bears’ to be staged in Tehran",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531565/The-Story-of-the-Panda-Bears-to-be-staged-in-Tehran",
-      "published_date": "2026-10-28T07:26:56Z",
       "category": "Local Events"
     }
   ]
