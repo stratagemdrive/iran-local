@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-10-29T17:23:40Z",
+  "generated_at": "2026-10-30T02:16:26Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Ghalibaf: US carrot-and-stick approach will not work against Iran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86307146/Ghalibaf-US-carrot-and-stick-approach-will-not-work-against",
+      "published_date": "2026-10-29T19:33:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baqaei condemns territorial claims by UAE and Canada regarding three Iranian islands",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86307100/Baqaei-condemns-territorial-claims-by-UAE-and-Canada-regarding",
+      "published_date": "2026-10-29T17:56:06Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran’s strength lies in steadfastness, resilience of people: Baqaei",
       "source": "IRNA",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Tehran meeting offers opportunity to advance regional peace, security: Foreign Minister Araghchi",
+      "title": "It is Mohsen Rezaei’s moment",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86305695/Tehran-meeting-offers-opportunity-to-advance-regional-peace",
-      "published_date": "2026-10-28T07:46:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Envoy: Sanctions constitute act of aggression under international law",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86305634/Envoy-Sanctions-constitute-act-of-aggression-under-international",
-      "published_date": "2026-10-28T07:10:52Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86307058/It-is-Mohsen-Rezaei-s-moment",
+      "published_date": "2026-10-29T18:08:08Z",
+      "category": "Military"
     },
     {
       "title": "Pezeshkian calls for regional cooperation, slams double standards on human rights",
@@ -274,13 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249000/Evacuate-Aden-Airport-immediately-Yemen-s-Armed-Forces-spox",
       "published_date": "2026-10-28T11:40:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "National call launched to advance Persian medicine, herbal research",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531599/National-call-launched-to-advance-Persian-medicine-herbal-research",
-      "published_date": "2026-10-28T11:29:33Z",
       "category": "Military"
     },
     {
@@ -564,6 +564,20 @@
       "category": "Economy"
     },
     {
+      "title": "Senior security source: Iran has not responded to letter by US vice-president",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86307156/Senior-security-source-Iran-has-not-responded-to-letter-by-US",
+      "published_date": "2026-10-29T20:37:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran wins Asian Judo Cup with eight medals",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86307142/Iran-wins-Asian-Judo-Cup-with-eight-medals",
+      "published_date": "2026-10-29T19:15:04Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Iran wins Asian Judo Cup with eight medals",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249021/Iran-wins-Asian-Judo-Cup-with-eight-medals",
@@ -687,20 +701,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531611/Farhangsara-ye-Khorasan-a-cultural-hub-rooted-in-Tehran-s-history",
       "published_date": "2026-10-28T14:36:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Night of Iran’ highlights need for better global understanding of Iranian civilization",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531608/Night-of-Iran-highlights-need-for-better-global-understanding",
-      "published_date": "2026-10-28T14:26:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran among 5 countries in eye stem cell transplantation",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249004/Iran-among-5-countries-in-eye-stem-cell-transplantation",
-      "published_date": "2026-10-28T12:52:26Z",
       "category": "Local Events"
     }
   ]
