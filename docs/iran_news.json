@@ -1,8 +1,29 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-02T20:44:28Z",
+  "generated_at": "2026-11-03T03:48:14Z",
   "total_stories": 100,
   "stories": [
+    {
+      "title": "Students renew their pledge to Leader near martyred Leader’s martyrdom site",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86310677/Students-renew-their-pledge-Leader-near-martyred-Leader-s-martyrdom",
+      "published_date": "2026-11-02T22:14:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bagheri: Iran and China share similar views on many international and regional issues",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86310672/Bagheri-Iran-and-China-share-similar-views-on-many-international",
+      "published_date": "2026-11-02T22:04:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran will not compromise its national security, sovereignty, Official says",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86310662/Iran-will-not-compromise-its-national-security-sovereignty",
+      "published_date": "2026-11-02T21:27:09Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi returns home after talks with Turkmen officials",
       "source": "Mehr News Agency",
@@ -123,25 +144,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran seeks regional partnerships to bolster food security: Deputy foreign minister",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86310135/Iran-seeks-regional-partnerships-to-bolster-food-security-Deputy",
-      "published_date": "2026-11-02T11:33:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tehran, Ashgabat emphasize strengthening all-out relations",
+      "title": "IRGC downs 55th US MQ-9 over Strait of Hormuz",
       "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249101/Tehran-Ashgabat-emphasize-strengthening-all-out-relations",
-      "published_date": "2026-11-02T09:46:04Z",
-      "category": "Diplomacy"
+      "url": "https://en.mehrnews.com/news/249120/IRGC-downs-55th-US-MQ-9-over-Strait-of-Hormuz",
+      "published_date": "2026-11-03T03:45:10Z",
+      "category": "Military"
     },
     {
-      "title": "Iran, Turkmenistan seek to expand transit, regional cooperation",
+      "title": "Oil prices rise after report of US aggression",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249119/Oil-prices-rise-after-report-of-US-aggression",
+      "published_date": "2026-11-03T03:40:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran captures two US MQM-170 drones over Qeshm Island",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249118/Iran-captures-two-US-MQM-170-drones-over-Qeshm-Island",
+      "published_date": "2026-11-03T03:34:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says downed two US drones near Strait of Hormuz",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249116/IRGC-says-downed-two-US-drones-near-Strait-of-Hormuz",
+      "published_date": "2026-11-02T21:53:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC Navy captures third and fourth US drones intact over Qeshm island",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86310021/Iran-Turkmenistan-seek-to-expand-transit-regional-cooperation",
-      "published_date": "2026-11-02T09:34:54Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86310669/IRGC-Navy-captures-third-and-fourth-US-drones-intact-over-Qeshm",
+      "published_date": "2026-11-02T21:48:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran shoots American MQ9 drone down over Strait of Hormuz",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86310664/Iran-shoots-American-MQ9-drone-down-over-Strait-of-Hormuz",
+      "published_date": "2026-11-02T21:37:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC foils terrorist plot against security forces in Sistan and Baluchestan",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86310660/IRGC-foils-terrorist-plot-against-security-forces-in-Sistan-and",
+      "published_date": "2026-11-02T21:16:11Z",
+      "category": "Military"
     },
     {
       "title": "Iran armed forces are fully prepared to counter threats",
@@ -232,55 +281,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86310129/Former-football-player-Hamid-Alidoosti-passes-away",
       "published_date": "2026-11-02T10:49:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Senior MP warns US with devastating response if attacked",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249097/Senior-MP-warns-US-with-devastating-response-if-attacked",
-      "published_date": "2026-11-02T06:47:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Blasts, missile attacks shake southern Saudi Arabia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249095/Blasts-missile-attacks-shake-southern-Saudi-Arabia",
-      "published_date": "2026-11-02T06:29:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two offending oil tankers catch fire after hitting mine in unauthorized Hormuz route: Iran",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86309717/Two-offending-oil-tankers-catch-fire-after-hitting-mine-in-unauthorized",
-      "published_date": "2026-11-02T05:38:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "They sank!: IRGC spox to delusions of terrorist CENTCOM cmdr.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249092/They-sank-IRGC-spox-warns-violating-vessels-in-Hormuz",
-      "published_date": "2026-11-02T05:34:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two unknown projectiles struck tanker off Saudi Arabia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249089/Two-unknown-projectiles-struck-tanker-off-Saudi-Arabia",
-      "published_date": "2026-11-02T03:46:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemen army hits Saudi-backed forces in Lahj",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249088/Yemen-army-hits-Saudi-backed-forces-in-Lahj",
-      "published_date": "2026-11-02T03:40:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two non-compliant oil tankers detonate, burn in Hormuz Strait",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249085/Two-violating-oil-tankers-explode-in-Hormuz-Strait",
-      "published_date": "2026-11-01T21:33:50Z",
       "category": "Military"
     },
     {
@@ -564,6 +564,13 @@
       "category": "Economy"
     },
     {
+      "title": "Explosions heard on Qeshm Island, Bandar Lengeh",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249117/Explosions-heard-on-Qeshm-Island-Bandar-Lengeh",
+      "published_date": "2026-11-02T22:05:49Z",
+      "category": "Local Events"
+    },
+    {
       "title": "15463",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/photo/531757/15463",
@@ -694,13 +701,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249105/Protestors-loot-shops-in-Germany-s-Frankfurt",
       "published_date": "2026-11-02T12:32:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "International Conference on “Halal Food” & “Health”",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/249103/International-Conference-on-Halal-Food-Health",
-      "published_date": "2026-11-02T12:05:52Z",
       "category": "Local Events"
     }
   ]
