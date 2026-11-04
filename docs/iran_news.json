@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-03T18:21:29Z",
-  "total_stories": 100,
+  "generated_at": "2026-11-04T02:50:00Z",
+  "total_stories": 99,
   "stories": [
+    {
+      "title": "President Pezeshkian urges ambassadors to prioritize diplomacy, implementation of agreements",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86311732/President-Pezeshkian-urges-ambassadors-to-prioritize-diplomacy",
+      "published_date": "2026-11-03T19:31:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran, Nigeria have ample potential to expand bilateral ties: President Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86311703/Iran-Nigeria-have-ample-potential-to-expand-bilateral-ties",
+      "published_date": "2026-11-03T18:28:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pezeshkian: Iran welcomes expansion of ties with Cyprus in all fields",
       "source": "IRNA",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Qatari delegation in Tehran for mediation talks",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249123/Qatari-delegation-in-Tehran-for-mediation-talks",
-      "published_date": "2026-11-03T04:06:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Neighbors are Iran's priority, Araghchi says",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249121/Neighbors-are-Iran-s-priority-Araghchi-says",
-      "published_date": "2026-11-03T03:57:28Z",
-      "category": "Diplomacy"
+      "title": "IRGC vows effective, unlimited’ response to any aggression",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86311744/IRGC-vows-effective-unlimited-response-to-any-aggression",
+      "published_date": "2026-11-03T19:51:20Z",
+      "category": "Military"
     },
     {
       "title": "US has failed to achieve its goals against Iran: VP",
@@ -277,13 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "US has failed to achieve any of its goals against Iran: First VP",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86311205/US-has-failed-to-achieve-any-of-its-goals-against-Iran-First",
-      "published_date": "2026-11-03T10:33:18Z",
-      "category": "Military"
-    },
-    {
       "title": "Venezuela; Return of colonialism with Trump's signature",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249126/Venezuela-Return-of-colonialism-with-Trump-s-signature",
@@ -414,13 +414,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531593/Iran-Qatar-discuss-expansion-of-energy-cooperation",
       "published_date": "2026-10-28T06:27:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran calls on gas exporters to strengthen cooperation, safeguard energy security",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531586/Iran-calls-on-gas-exporters-to-strengthen-cooperation-safeguard",
-      "published_date": "2026-10-27T22:16:35Z",
       "category": "Energy"
     },
     {
@@ -564,6 +557,41 @@
       "category": "Economy"
     },
     {
+      "title": "Iran won't bow to coercion or accept imposed demands",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249149/Iran-won-t-bow-to-coercion-or-accept-imposed-demands",
+      "published_date": "2026-11-03T21:19:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15464",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/531797/15464",
+      "published_date": "2026-11-03T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian, Egyptian FMs discuss de-escalation of tensions",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249148/Iranian-Egyptian-FMs-discuss-de-escalation-of-tensions",
+      "published_date": "2026-11-03T20:29:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iranian, Egyptian FMs discuss de-escalation of tensions and latest regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86311750/Iranian-Egyptian-FMs-discuss-de-escalation-of-tensions-and-latest",
+      "published_date": "2026-11-03T20:03:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran’s people seek peace but will not bow to coercion: President Pezeshkian",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86311728/Iran-s-people-seek-peace-but-will-not-bow-to-coercion-President",
+      "published_date": "2026-11-03T19:22:08Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Pezeshkian: Unity among Muslim countries guarantees regional security, stability",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86311666/Pezeshkian-Unity-among-Muslim-countries-guarantees-regional",
@@ -666,41 +694,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86311421/Man-Utd-vs-Roma-Predicted-lineups-team-news-and-Champions",
       "published_date": "2026-11-03T12:25:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian judoka wins silver at 2026 Youth Olympic Games",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249139/Iranian-judoka-wins-silver-at-2026-Youth-Olympic-Games",
-      "published_date": "2026-11-03T12:12:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Iranian football captain Hassan Habibi passes away",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249138/Former-Iranian-football-captain-Hassan-Habibi-passes-away",
-      "published_date": "2026-11-03T12:01:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tehran, Baghdad consider ways to deepen academic, scientific co-op",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531783/Tehran-Baghdad-consider-ways-to-deepen-academic-scientific",
-      "published_date": "2026-11-03T11:41:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran explores opportunities to enhance sci-tech ties with Japan",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531781/Iran-explores-opportunities-to-enhance-sci-tech-ties-with-Japan",
-      "published_date": "2026-11-03T11:38:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Biosphere reserves showcase harmony between humans and nature",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531779/Biosphere-reserves-showcase-harmony-between-humans-and-nature",
-      "published_date": "2026-11-03T11:35:12Z",
       "category": "Local Events"
     }
   ]
