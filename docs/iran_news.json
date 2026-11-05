@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-04T18:34:34Z",
-  "total_stories": 91,
+  "generated_at": "2026-11-05T02:59:19Z",
+  "total_stories": 89,
   "stories": [
+    {
+      "title": "Iran sharply reacts to remarks by German FM",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86312964/Iran-sharply-reacts-to-remarks-by-German-FM",
+      "published_date": "2026-11-04T22:19:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan’s FM and Iranian ambassador discuss expansion of ties and regional developments",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86312930/Pakistan-s-FM-and-Iranian-ambassador-discuss-expansion-of-ties",
+      "published_date": "2026-11-04T20:19:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Top security official: Anyone who confronts Iran, will have to pay price for it",
       "source": "IRNA",
@@ -130,18 +144,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran rejects diplomacy that is based on coersion, blackmail",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249144/Iran-rejects-diplomacy-that-is-based-on-imposition-blackmail",
-      "published_date": "2026-11-03T14:52:06Z",
-      "category": "Diplomacy"
+      "title": "General Ghaani: US faces united front in Hormuz, Bab al-Mandab",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86312949/General-Ghaani-US-faces-united-front-in-Hormuz-Bab-al-Mandab",
+      "published_date": "2026-11-04T20:54:22Z",
+      "category": "Military"
     },
     {
-      "title": "Iran will never accept diplomacy based on coercion, blackmail, says foreign ministry spokesperson",
+      "title": "US faces united front in Hormuz, Bab al-Mandab: Gen. Ghaani",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249177/US-faces-united-front-in-Hormuz-Bab-al-Mandab-IRGC-general",
+      "published_date": "2026-11-04T20:38:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC downs 15th advanced US MQ-1 drone over Qeshm Island",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86311501/Iran-will-never-accept-diplomacy-based-on-coercion-blackmail",
-      "published_date": "2026-11-03T14:18:37Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86312921/IRGC-downs-15th-advanced-US-MQ-1-drone-over-Qeshm-Island",
+      "published_date": "2026-11-04T19:56:22Z",
+      "category": "Military"
     },
     {
       "title": "Americans punish Trump over the war on Iran",
@@ -263,27 +284,6 @@
       "category": "Military"
     },
     {
-      "title": "Ghalibaf: Americans said ‘No to War,’ and Iran endorses their message",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86312538/Ghalibaf-Americans-said-No-to-War-and-Iran-endorses-their",
-      "published_date": "2026-11-04T11:11:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran emerges as world’s fourth-largest power: Military chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/photo/86312269/Iran-emerges-as-world-s-fourth-largest-power-Military-chief",
-      "published_date": "2026-11-04T09:11:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran seeks to end domination imposed 37 yrs ago via 1953 coup",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249160/Iran-seeks-to-end-domination-imposed-37-yrs-ago-via-1953-coup",
-      "published_date": "2026-11-04T08:58:07Z",
-      "category": "Military"
-    },
-    {
       "title": "Oil ministry, private sector meet to tackle winter gas supply, energy challenges",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531833/Oil-ministry-private-sector-meet-to-tackle-winter-gas-supply",
@@ -344,20 +344,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249018/Three-violating-oil-tankers-explode-in-Strait-of-Hormuz",
       "published_date": "2026-10-29T11:03:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran, Russia move toward joint construction of small modular nuclear reactors",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531618/Iran-s-nuclear-industry-reaches-full-maturity-AEOI-spokesman",
-      "published_date": "2026-10-28T18:58:29Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Iran is pursuing energy diplomacy dynamically: minister",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249010/Iran-is-pursuing-energy-diplomacy-dynamically-minister",
-      "published_date": "2026-10-28T18:34:40Z",
       "category": "Energy"
     },
     {
@@ -501,6 +487,20 @@
       "category": "Economy"
     },
     {
+      "title": "\"We Will Kill Trump\" gathering in Tehran's Enqelab Square",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/photo/249178/We-Will-Kill-Trump-gathering-in-Tehran-s-Enqelab-Square",
+      "published_date": "2026-11-04T21:25:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15465",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/531849/15465",
+      "published_date": "2026-11-04T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "American youth rejected Trump’s warmongering at polls",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249176/American-youth-rejected-Trump-s-warmongering-policies",
@@ -624,20 +624,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86312673/Iran-protests-IMO-s-biased-reports-on-shipping-security",
       "published_date": "2026-11-04T14:38:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian resistance inspires freedom-loving nations worldwide: Defense Ministry",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86312700/Iranian-resistance-inspires-freedom-loving-nations-worldwide",
-      "published_date": "2026-11-04T14:35:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran returns 151 historical artifacts from China",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531831/Iran-returns-151-historical-artifacts-from-China",
-      "published_date": "2026-11-04T14:16:56Z",
       "category": "Local Events"
     }
   ]
