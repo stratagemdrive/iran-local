@@ -1,8 +1,22 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-05T18:40:28Z",
+  "generated_at": "2026-11-06T02:58:23Z",
   "total_stories": 89,
   "stories": [
+    {
+      "title": "Korean embassy in Iran bridges cultures through Korea–Iran art exhibition during Korea Week 2026",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/531851/Korean-embassy-in-Iran-bridges-cultures-through-Korea-Iran-art",
+      "published_date": "2026-11-05T23:46:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iranian and Emirati FMs discuss bilateral ties, regional developments over phone",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86313650/Iranian-and-Emirati-FMs-discuss-bilateral-ties-regional-developments",
+      "published_date": "2026-11-05T20:03:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Araghchi discusses by phone with his Pakistani counterpart regional developments, diplomatic initiatives",
       "source": "IRNA",
@@ -130,18 +144,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran does not seek nuclear weapons: Diplomat",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249150/Iran-does-not-seek-nuclear-weapons-Diplomat",
-      "published_date": "2026-11-04T03:40:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President Pezeshkian urges ambassadors to prioritize diplomacy, implementation of agreements",
+      "title": "Iran downs fifth and sixth MQM-170 US drones over Qeshm Island",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86311732/President-Pezeshkian-urges-ambassadors-to-prioritize-diplomacy",
-      "published_date": "2026-11-03T19:31:44Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86313659/Iran-downs-fifth-and-sixth-MQM-170-US-drones-over-Qeshm-Island",
+      "published_date": "2026-11-05T20:22:02Z",
+      "category": "Military"
     },
     {
       "title": "Iran engaged in a full-scale economic war: President",
@@ -274,13 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249170/Resistance-commanders-operationalize-borderless-confrontation",
       "published_date": "2026-11-04T14:10:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Yemeni military announces 3 ops. deep inside Saudi Arabia",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249169/Yemeni-military-announces-3-ops-deep-inside-Saudi-Arabia",
-      "published_date": "2026-11-04T14:04:13Z",
       "category": "Military"
     },
     {
