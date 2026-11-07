@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-06T17:54:27Z",
+  "generated_at": "2026-11-07T02:28:12Z",
   "total_stories": 88,
   "stories": [
     {
@@ -144,6 +144,20 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US forces retreated 1,000 km from Iran’s borders",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249199/US-forces-retreated-1-000-km-from-Iran-s-borders",
+      "published_date": "2026-11-06T18:08:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC says it shot down US MQ-1 drone over Qeshm island",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249198/IRGC-says-it-shot-down-US-MQ-1-drone-over-Qeshm-island",
+      "published_date": "2026-11-06T17:59:41Z",
+      "category": "Military"
+    },
+    {
       "title": "France sees biggest day of protests in years",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531885/France-sees-biggest-day-of-protests-in-years",
@@ -267,20 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249187/Another-violating-oil-tanker-catches-fire-in-Strait-of-Hormuz",
       "published_date": "2026-11-05T10:41:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran mission in Vienna criticizes Grossi's double standard",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249180/Iran-mission-in-Vienna-criticizes-Grossi-s-double-standard",
-      "published_date": "2026-11-05T07:54:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "US lawmaker vows to force Hegseth impeachment vote",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249183/US-lawmaker-vows-to-force-Hegseth-impeachment-vote",
-      "published_date": "2026-11-05T06:31:29Z",
       "category": "Military"
     },
     {
@@ -480,6 +480,13 @@
       "category": "Economy"
     },
     {
+      "title": "15466",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/531876/15466",
+      "published_date": "2026-11-06T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Netanyahu accused of attempting ‘coup’ after election defeat",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/531888/Netanyahu-accused-of-attempting-coup-after-election-defeat",
@@ -610,13 +617,6 @@
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86313820/Republicans-defeat-reflects-Trump-s-lack-of-foresight-says",
       "published_date": "2026-11-06T08:22:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Threatening nuclear sites sign of US desperation: AEOI chief",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249191/Threatening-nuclear-sites-sign-of-US-desperation-AEOI-chief",
-      "published_date": "2026-11-06T07:25:53Z",
       "category": "Local Events"
     }
   ]
