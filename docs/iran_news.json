@@ -1,8 +1,50 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-10T18:35:24Z",
+  "generated_at": "2026-11-11T02:21:42Z",
   "total_stories": 88,
   "stories": [
+    {
+      "title": "Araghchi in a letter to Guterres, UNSC president, and Grossi: Condemn US’s repulsive statement",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318470/Araghchi-in-a-letter-to-Guterres-UNSC-president-and-Grossi",
+      "published_date": "2026-11-10T21:33:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US claims of Qatar talks pure lie, meant to lower oil prices, Iran’s security chief says",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318454/US-claims-of-Qatar-talks-pure-lie-meant-to-lower-oil-prices",
+      "published_date": "2026-11-10T20:18:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky calls Abu Dhabi trilateral talks 'constructive'",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249313/Zelensky-calls-Abu-Dhabi-trilateral-talks-constructive",
+      "published_date": "2026-11-10T20:02:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gharibabadi and Russian ambassador discuss US unilateral actions in Caspian Sea",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318417/Gharibabadi-and-Russian-ambassador-discuss-US-unilateral-actions",
+      "published_date": "2026-11-10T19:29:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rezaei rejects Washington's claim of talks with Iran as lies",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249312/Rezaei-rejects-Washington-s-claim-of-talks-with-Iran-as-lies",
+      "published_date": "2026-11-10T19:00:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Araghchi reacts to the French government’s ridiculous claim",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318401/Araghchi-reacts-to-the-French-government-s-ridiculous-claim",
+      "published_date": "2026-11-10T18:39:59Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran rejects French allegations over cyberattacks as baseless",
       "source": "Mehr News Agency",
@@ -18,7 +60,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Araghchi: No plans for meeting between Vance and Iran’s security chief",
+      "title": "No plans for meeting between Vance and Iran’s security chief, Araghchi says",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532023/Araghchi-No-plans-for-meeting-between-Vance-and-Iran-s-security",
       "published_date": "2026-11-10T15:03:30Z",
@@ -102,49 +144,42 @@
       "category": "Diplomacy"
     },
     {
-      "title": "U.S. must accept Iran's seven conditions: Rezaei",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249283/U-S-must-accept-Iran-s-seven-conditions-Rezaei",
-      "published_date": "2026-11-10T03:34:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran denies meeting btw Gen. Rezaei and Vance in Doha",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249282/Iran-denies-meeting-btw-Gen-Rezaei-and-Vance-in-Doha",
-      "published_date": "2026-11-09T19:19:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chinese envoy meets senior Iranian officials to discuss bilateral ties, regional developments",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531995/Chinese-envoy-meets-senior-Iranian-officials-to-discuss-bilateral",
-      "published_date": "2026-11-09T17:22:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Araghchi: Americans are tired of Israel dragging the US into ‘forever wars’",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531991/Araghchi-Americans-are-tired-of-Israel-dragging-the-US-into",
-      "published_date": "2026-11-09T17:07:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pezeshkian: Leader has ordered end to ‘neither war nor peace’ situation",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531990/Pezeshkian-Leader-has-ordered-end-to-neither-war-nor-peace",
-      "published_date": "2026-11-09T17:03:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Israel deliberately worsening humanitarian crisis in Gaza: Hamas",
+      "title": "Navy commander: IRGC Aerospace Force stood firm in arenas of science and action",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86317237/Israel-deliberately-worsening-humanitarian-crisis-in-Gaza-Hamas",
-      "published_date": "2026-11-09T16:40:16Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86318482/IRGC-Navy-commander-IRGC-Aerospace-Force-stood-firm-in-arenas",
+      "published_date": "2026-11-10T22:14:58Z",
+      "category": "Military"
     },
     {
-      "title": "Iran to follow environmental damages in war internationally",
+      "title": "Fire on South Pars Phase 14 gas platform contained",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318479/Fire-on-South-Pars-Phase-14-gas-platform-contained",
+      "published_date": "2026-11-10T21:52:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump’s utter nonsense about Persian Gulf Arab states",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/532033/Trump-s-utter-nonsense-about-Persian-Gulf-Arab-states",
+      "published_date": "2026-11-10T20:52:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC Navy reports blast in third tanker in Hormuz Strait",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318445/IRGC-Navy-reports-blast-in-third-tanker-in-Hormuz-Strait",
+      "published_date": "2026-11-10T19:54:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "IRGC Navy reports blast in third tanker in Hormuz Strait",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249311/IRGC-Navy-reports-third-tanker-catches-fire-in-Hormuz",
+      "published_date": "2026-11-10T18:54:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran to sue US  for war-related environmental damages",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249310/Iran-to-follow-environmental-damages-in-war-internationally",
       "published_date": "2026-11-10T18:20:33Z",
@@ -158,7 +193,7 @@
       "category": "Military"
     },
     {
-      "title": "Iran’s new missile city a clear message to enemies: Ghalibaf",
+      "title": "Unveiling missile city sends Iran's clear message to enemies",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249308/Iran-s-new-missile-city-a-clear-message-to-enemies-Ghalibaf",
       "published_date": "2026-11-10T17:20:28Z",
@@ -242,45 +277,10 @@
       "category": "Military"
     },
     {
-      "title": "Two violating oil tankers catch fire in Strait of Hormuz",
+      "title": "Two violating oil tankers set on fire in Strait of Hormuz",
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249305/Two-violating-oil-tankers-catch-fire-in-Strait-of-Hormuz",
       "published_date": "2026-11-10T13:57:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran to have new surprises for enemy in missile field",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249304/Iran-to-have-new-surprises-for-enemy-in-missile-field",
-      "published_date": "2026-11-10T13:50:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran Takes Jan-Fada Volunteer Campaign to Military Bases",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532011/Iran-Takes-Jan-Fada-Volunteer-Campaign-to-Military-Bases",
-      "published_date": "2026-11-10T13:32:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two more offending tankers explode in Strait of Hormuz",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86318130/Two-more-offending-tankers-explode-in-Strait-of-Hormuz",
-      "published_date": "2026-11-10T12:39:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran does not seek war, but fully capable of defending itself: VP Aref",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86318033/Iran-does-not-seek-war-but-fully-capable-of-defending-itself",
-      "published_date": "2026-11-10T11:40:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran’s IRGC Aerospace Force unveils new missile city (+VIDEO)",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249300/Iran-s-IRGC-Aerospace-Force-unveils-new-missile-city",
-      "published_date": "2026-11-10T11:12:29Z",
       "category": "Military"
     },
     {
@@ -357,6 +357,13 @@
       "title": "Iran Chamber chief says joint committee with Uruguay in the works",
       "source": "IRNA",
       "url": "https://en.irna.ir/photo/86318222/Iran-Chamber-chief-says-joint-committee-with-Uruguay-in-the-works",
+      "published_date": "2026-11-10T14:27:31Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Iran Chamber chief says joint committee with Uruguay in the works",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318222/Iran-Chamber-chief-says-joint-committee-with-Uruguay-in-the-works",
       "published_date": "2026-11-10T14:27:31Z",
       "category": "Economy"
     },
@@ -473,11 +480,39 @@
       "category": "Economy"
     },
     {
-      "title": "Mehr Media Group CEO proposes international cooperation on AI in journalism at Beijing summit",
+      "title": "In Gaza, floods finish what the bombs started",
       "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/531900/Mehr-Media-Group-CEO-proposes-international-cooperation-on-AI",
-      "published_date": "2026-11-07T17:53:01Z",
-      "category": "Economy"
+      "url": "https://www.tehrantimes.com/news/532031/In-Gaza-floods-finish-what-the-bombs-started",
+      "published_date": "2026-11-10T20:51:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bahrain arrests 25 more Shia citizens as marches for jailed scholars spread",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/532030/Bahrain-arrests-25-more-Shia-citizens-as-marches-for-jailed-scholars",
+      "published_date": "2026-11-10T20:51:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Massie forces House vote to impeach Hegseth over Iran war, Minab school massacre",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/532032/Massie-forces-House-vote-to-impeach-Hegseth-over-Iran-war-Minab",
+      "published_date": "2026-11-10T20:50:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pezeshkian to depart for Turkey on Wednesday",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86318461/Pezeshkian-to-depart-for-Turkey-on-Wednesday",
+      "published_date": "2026-11-10T20:43:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15470",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/532034/15470",
+      "published_date": "2026-11-10T20:31:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Vietnamese ambassador visits Imam Khomeini International University, meets with intl. students",
@@ -487,7 +522,7 @@
       "category": "Local Events"
     },
     {
-      "title": "VP: Confrontation with adversaries will continue, whether peace is achieved or not",
+      "title": "VP says confrontation with adversaries will continue, whether peace is\nachieved or not",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532024/VP-Confrontation-with-adversaries-will-continue-whether-peace",
       "published_date": "2026-11-10T15:24:41Z",
@@ -515,7 +550,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Pezeshkian: Global justice depends on equitable access to science and technology",
+      "title": "Pezeshkian: Global justice depends on equitable access to science and\ntechnology",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532019/Pezeshkian-Global-justice-depends-on-equitable-access-to-science",
       "published_date": "2026-11-10T14:39:11Z",
@@ -582,41 +617,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/photo/249302/Funeral-ceremony-of-Iran-s-veteran-actor-Kourosh-Zarei",
       "published_date": "2026-11-10T12:22:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran’s veteran actor, theater director Zarei dies at 55",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249301/Iran-s-veteran-actor-theater-director-Zarei-dies-at-55",
-      "published_date": "2026-11-10T12:18:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iranian, Ivorian ministers discuss ways to boost ties in ICT sector",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532006/Iranian-Ivorian-ICT-ministers-discuss-ways-to-boost-ties",
-      "published_date": "2026-11-10T11:45:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "45 Iranian universities included in Leiden Ranking Traditional Edition",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532004/45-Iranian-universities-included-in-Leiden-Ranking-Traditional-Edition",
-      "published_date": "2026-11-10T11:42:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran shakes with over 85 earthquakes in a week",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532002/Iran-shakes-with-over-85-earthquakes-in-a-week",
-      "published_date": "2026-11-10T11:25:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Study highlights challenges, opportunities for Iran’s scientific diplomacy",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532000/Study-highlights-challenges-opportunities-for-Iran-s-scientific",
-      "published_date": "2026-11-10T11:19:36Z",
       "category": "Local Events"
     }
   ]
