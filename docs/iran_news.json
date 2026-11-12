@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-11T18:33:55Z",
+  "generated_at": "2026-11-12T03:29:35Z",
   "total_stories": 89,
   "stories": [
     {
@@ -144,6 +144,27 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iran is not at \"neither war nor peace\", rather it is at war",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249349/Iran-is-not-at-neither-war-nor-peace-rather-it-is-at-war",
+      "published_date": "2026-11-11T20:06:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "The enemy’s plan must be foiled",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/news/532073/The-enemy-s-plan-must-be-foiled",
+      "published_date": "2026-11-11T19:00:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah chief lauds Iran help to resistance in  S. Lebanon",
+      "source": "Mehr News Agency",
+      "url": "https://en.mehrnews.com/news/249348/Hezbollah-chief-lauds-Iran-s-victory-against-aggressors",
+      "published_date": "2026-11-11T18:51:48Z",
+      "category": "Military"
+    },
+    {
       "title": "Student replaces German flag with Palestinian flag outside Bundestag",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532072/German-student-replaces-flag-outside-Bundestag-with-Palestinian",
@@ -260,27 +281,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532048/Will-Washington-Choose-a-Deal-with-Iran-or-More-Hell",
       "published_date": "2026-11-11T11:43:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "When Bombs Aren’t Enough, Floods Finish the Job!",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532035/When-Bombs-Aren-t-Enough-Floods-Finish-the-Job",
-      "published_date": "2026-11-11T10:19:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "SNSC rules out transfer of enriched nuclear material abroad",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86319050/SNSC-rules-out-transfer-of-enriched-nuclear-material-abroad",
-      "published_date": "2026-11-11T10:19:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Any origin of threat against Iran will be targeted by ‘asymmetric’ operations: Military chief",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86318908/Any-origin-of-threat-against-Iran-will-be-targeted-by-asymmetric",
-      "published_date": "2026-11-11T09:04:25Z",
       "category": "Military"
     },
     {
@@ -487,6 +487,27 @@
       "category": "Economy"
     },
     {
+      "title": "Ghalibaf: Ball in US court, Iran determined to end state of no war, no peace",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86319535/Ghalibaf-Ball-in-US-court-Iran-determined-to-end-state-of-no",
+      "published_date": "2026-11-11T20:36:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15471",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/532065/15471",
+      "published_date": "2026-11-11T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baqaei condoles with families of those who lost their lives in the factory explosion in Türkiye",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86319525/Baqaei-condoles-with-families-of-those-who-lost-their-lives-in",
+      "published_date": "2026-11-11T20:05:27Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Has the West launched a new smear campaign against Iran?",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532070/Has-the-West-launched-a-new-smear-campaign-against-Iran",
@@ -603,27 +624,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532052/Iran-Kazakhstan-joint-terminal-to-be-established-at-Shahid-Rajaee",
       "published_date": "2026-11-11T11:55:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PGSA: Iran acts against illegal transit of ships in Persian Gulf",
-      "source": "IRNA",
-      "url": "https://en.irna.ir/news/86319184/PGSA-Iran-acts-against-illegal-transit-of-ships-in-Persian-Gulf",
-      "published_date": "2026-11-11T11:50:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran edge Pakistan at AFC U17 Asian Cup 2027 qualifier",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532046/Iran-edge-Pakistan-at-AFC-U17-Asian-Cup-2027-qualifier",
-      "published_date": "2026-11-11T11:39:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Leader condoles over passing of revolutionary artist, writer",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249335/Leader-condoles-over-passing-of-revolutionary-artist-writer",
-      "published_date": "2026-11-11T11:36:22Z",
       "category": "Local Events"
     }
   ]
