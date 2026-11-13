@@ -1,8 +1,15 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-12T18:48:01Z",
+  "generated_at": "2026-11-13T03:01:58Z",
   "total_stories": 90,
   "stories": [
+    {
+      "title": "Iran, Uzbekistan stress expansion of rail, road, transit cooperation",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86320278/Iran-Uzbekistan-stress-expansion-of-rail-road-transit-cooperation",
+      "published_date": "2026-11-12T21:38:24Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "President Pezeshkian arrives in Tehran after attending UN Climate Change Summit in Turkiye",
       "source": "IRNA",
@@ -137,11 +144,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Aref: ECO Summit of Heads of State to be held in Tehran on Dec. 3–4",
+      "title": "IRGC Ground Force dismantles armed cell of PJAK separatist terrorist group in northwestern Iran",
       "source": "IRNA",
-      "url": "https://en.irna.ir/news/86319045/Aref-ECO-Summit-of-Heads-of-State-to-be-held-in-Tehran-on-Dec",
-      "published_date": "2026-11-11T10:13:31Z",
-      "category": "Diplomacy"
+      "url": "https://en.irna.ir/news/86320281/IRGC-Ground-Force-dismantles-armed-cell-of-PJAK-separatist-terrorist",
+      "published_date": "2026-11-12T21:49:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iran warns foreign governments against involvement in US aggression, economic terrorism",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86320269/Iran-warns-foreign-governments-against-involvement-in-US-aggression",
+      "published_date": "2026-11-12T21:20:51Z",
+      "category": "Military"
     },
     {
       "title": "Security chief: IRGC Aerospace Force ready for creation of new surprises for enemy",
@@ -267,20 +281,6 @@
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532073/The-enemy-s-plan-must-be-foiled",
       "published_date": "2026-11-11T19:00:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah chief lauds Iran help to resistance in  S. Lebanon",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249348/Hezbollah-chief-lauds-Iran-s-victory-against-aggressors",
-      "published_date": "2026-11-11T18:51:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Student replaces German flag with Palestinian flag outside Bundestag",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532072/German-student-replaces-flag-outside-Bundestag-with-Palestinian",
-      "published_date": "2026-11-11T18:04:27Z",
       "category": "Military"
     },
     {
@@ -494,6 +494,20 @@
       "category": "Economy"
     },
     {
+      "title": "Iranian Embassy in London rejects security and espionage allegations against Tehran",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86320289/Iranian-Embassy-in-London-rejects-security-and-espionage-allegations",
+      "published_date": "2026-11-12T22:14:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President Pezeshkian: Iran not responsible for regional situation; Israel pushed Trump into war",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86320258/President-Pezeshkian-Iran-not-responsible-for-regional-situation",
+      "published_date": "2026-11-12T20:38:55Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Two more offending oil tankers catch fire east of Strait of Hormuz: Iran Army",
       "source": "IRNA",
       "url": "https://en.irna.ir/news/86320137/Two-more-offending-oil-tankers-catch-fire-east-of-Strait-of-Hormuz",
@@ -617,20 +631,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249342/Iran-edge-Pakistan-at-AFC-U17-Asian-Cup-2027-qualifier",
       "published_date": "2026-11-11T13:07:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Generational shift is a part of football: Ghalenoei",
-      "source": "Tehran Times",
-      "url": "https://www.tehrantimes.com/news/532053/Generational-shift-is-a-part-of-football-Ghalenoei",
-      "published_date": "2026-11-11T12:21:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "2 bulk carriers faced legal action using forged documents",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249338/2-bulk-carriers-faced-legal-action-using-forged-documents",
-      "published_date": "2026-11-11T12:19:13Z",
       "category": "Local Events"
     }
   ]
