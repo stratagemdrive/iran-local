@@ -1,6 +1,6 @@
 {
   "country": "iran",
-  "generated_at": "2026-11-13T18:29:25Z",
+  "generated_at": "2026-11-14T02:47:13Z",
   "total_stories": 89,
   "stories": [
     {
@@ -144,6 +144,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Iranian Army shoots down US MQ-1 drone off southern coast",
+      "source": "IRNA",
+      "url": "https://en.irna.ir/news/86320807/Iranian-Army-shoots-down-US-MQ-1-drone-off-southern-coast",
+      "published_date": "2026-11-13T19:30:25Z",
+      "category": "Military"
+    },
+    {
       "title": "Four senators threaten government shutdown unless Congress cuts off Iran war money",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532099/Four-senators-threaten-government-shutdown-unless-Congress-cuts",
@@ -274,13 +281,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/photo/249369/Farewell-ceremony-for-unknown-martyrs-at-Tehran-Jomhouri-Sq",
       "published_date": "2026-11-13T08:04:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Farewell ceremony for unknown martyrs at Tehran Enghelab Sq.",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/photo/249368/Farewell-ceremony-for-unknown-martyrs-at-Tehran-Enghelab-Sq",
-      "published_date": "2026-11-13T07:59:53Z",
       "category": "Military"
     },
     {
@@ -487,6 +487,13 @@
       "category": "Economy"
     },
     {
+      "title": "15472",
+      "source": "Tehran Times",
+      "url": "https://www.tehrantimes.com/photo/532106/15472",
+      "published_date": "2026-11-13T20:31:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Gaël Faye’s ‘Small Country’ available in Persian",
       "source": "Tehran Times",
       "url": "https://www.tehrantimes.com/news/532040/Ga%C3%ABl-Faye-s-Small-Country-available-in-Persian",
@@ -617,13 +624,6 @@
       "source": "Mehr News Agency",
       "url": "https://en.mehrnews.com/news/249366/Countries-cooperating-with-US-aggression-on-Iran-accountable",
       "published_date": "2026-11-13T06:41:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reexamining intellectual genealogy, Iran nation steadfastness",
-      "source": "Mehr News Agency",
-      "url": "https://en.mehrnews.com/news/249363/Reexamining-Intellectual-Genealogy-Iran-Nation-Steadfastness",
-      "published_date": "2026-11-13T05:51:48Z",
       "category": "Local Events"
     }
   ]
